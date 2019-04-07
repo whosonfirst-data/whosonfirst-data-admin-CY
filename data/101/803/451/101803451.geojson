@@ -1,0 +1,136 @@
+{
+  "id": 101803451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00004,
+    "geom:area_square_m":400047.717522,
+    "geom:bbox":"33.0910235435,35.0933467177,33.0972166278,35.1091393009",
+    "geom:latitude":35.101627,
+    "geom:longitude":33.094392,
+    "gn:population":687,
+    "iso:country":"CY",
+    "lbl:latitude":35.100964,
+    "lbl:longitude":33.093876,
+    "mps:latitude":35.100964,
+    "mps:longitude":33.093876,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Oro\u00fanta"
+    ],
+    "name:dut_x_preferred":[
+        "Orounta"
+    ],
+    "name:ell_x_preferred":[
+        "Oro\u00fanta"
+    ],
+    "name:ell_x_variant":[
+        "\u039f\u03c1\u03bf\u03cd\u03bd\u03c4\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Orounda"
+    ],
+    "name:eng_x_variant":[
+        "Orounta",
+        "Orunda"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0631\u0648\u0646\u062a\u0627"
+    ],
+    "name:gre_x_preferred":[
+        "\u039f\u03c1\u03bf\u03cd\u03bd\u03c4\u03b1"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0648\u0631\u0648\u0646\u062a\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Orunda"
+    ],
+    "name:spa_x_preferred":[
+        "Orounda"
+    ],
+    "name:swe_x_preferred":[
+        "Oro\u00fanta"
+    ],
+    "name:tur_x_preferred":[
+        "Orounta"
+    ],
+    "name:tur_x_variant":[
+        "Kato Mom"
+    ],
+    "name:unk_x_variant":[
+        "Orunda"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0648\u0631\u0648\u0646\u062a\u0627"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u039b\u03b5\u03c5\u03ba\u03c9\u03c3\u03af\u03b1",
+    "qs:a1_alt":"Lefkosia",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:la":"\u039f\u03c1\u03bf\u03cd\u03bd\u03c4\u03b1",
+    "qs:la_lc":"*CY1327",
+    "qs:level":"locality",
+    "qs:loc":"\u039f\u03c1\u03bf\u03cd\u03bd\u03c4\u03b1",
+    "qs:loc_alt":"Orounta",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":19,
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06ef4b76-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":146250,
+        "gp:id":841559,
+        "qs:id":915600,
+        "qs_pg:id":915600,
+        "wd:id":"Q7103891",
+        "wk:page":"Orounta"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"93cb73c508c5a87b55eb2cfbc84b5683",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":101803451,
+            "region_id":85682397
+        }
+    ],
+    "wof:id":101803451,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527642769,
+    "wof:name":"\u039f\u03c1\u03bf\u03cd\u03bd\u03c4\u03b1",
+    "wof:parent_id":85682397,
+    "wof:placetype":"locality",
+    "wof:population":687,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.09102354354417,
+    35.09334671768255,
+    33.09721662781271,
+    35.10913930093574
+],
+  "geometry": {"coordinates":[[[33.09721662781271,35.1057331221823],[33.09580506054056,35.10140586083912],[33.09685930557458,35.10113591573088],[33.09629472563518,35.09940500073412],[33.09524050211905,35.0996749383994],[33.09411150266351,35.0962130628306],[33.09516568314757,35.09594314004977],[33.0943190039863,35.09334671768255],[33.0932648557735,35.09361662930144],[33.09382927725318,35.09534758754506],[33.09277510107734,35.09561749460408],[33.09333954016319,35.09734845005949],[33.09228533602197,35.09761835255858],[33.09284979271473,35.09934930522655],[33.09179556060496,35.09961920316539],[33.09207779286419,35.10048467938458],[33.09102354354417,35.10075456904241],[33.09187026673209,35.10335099352068],[33.09397882348264,35.10281117987643],[33.09482569928201,35.10540755901297],[33.09377139184897,35.10567748300105],[33.09490065351861,35.10913930093574],[33.09595500399945,35.10886936205969],[33.09567266314173,35.10800391513402],[33.09672699640652,35.10773396797697],[33.09616232252449,35.10600307389785],[33.09721662781271,35.1057331221823]]],"type":"Polygon"}
+}

@@ -1,0 +1,97 @@
+{
+  "id": 1277006203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.16544,35.23034,33.16544,35.23034",
+    "geom:latitude":35.23034,
+    "geom:longitude":33.16544,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Skylloura",
+    "gn:country_code":"CY",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":146075,
+    "gn:latitude":35.23034,
+    "gn:longitude":33.16544,
+    "gn:modification_date":"2015-02-05",
+    "gn:name":"Skyllo\u00fara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Nicosia",
+    "iso:country":"CY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Skyllo\u00fara"
+    ],
+    "name:ell_x_variant":[
+        "\u03a3\u03ba\u03c5\u03bb\u03bb\u03bf\u03cd\u03c1\u03b1"
+    ],
+    "name:tur_x_preferred":[
+        "Y\u0131lmazk\u00f6y"
+    ],
+    "name:und_x_variant":[
+        "Yilmazk\u00f6y",
+        "Skilloura",
+        "\u015eillura",
+        "Skillouras"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85681187,
+        85632375,
+        85682397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":146075,
+        "wk:page":"Skylloura"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"f735c8d6d29be90d9274edbfab2394a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "disputed_id":85632375,
+            "locality_id":1277006203,
+            "region_id":85681187
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632375,
+            "disputed_id":85632375,
+            "locality_id":1277006203,
+            "region_id":85681187
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":1277006203,
+            "region_id":85682397
+        }
+    ],
+    "wof:id":1277006203,
+    "wof:lastmodified":1537619241,
+    "wof:name":"Skylloura",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.16544,
+    35.23034000000001,
+    33.16544,
+    35.23034000000001
+],
+  "geometry": {"coordinates":[33.16544,35.23034000000001],"type":"Point"}
+}

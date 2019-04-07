@@ -1,0 +1,104 @@
+{
+  "id": 1125887611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.58722,35.16806,32.58722,35.16806",
+    "geom:latitude":35.16806,
+    "geom:longitude":32.58722,
+    "gn:gn_country":"CY",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":101,
+    "gn:population":101,
+    "iso:country":"CY",
+    "lbl:latitude":35.16806,
+    "lbl:longitude":32.58722,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Pachyammos"
+    ],
+    "name:ell_x_preferred":[
+        "Pach\u00fdammos"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03b1\u03c7\u03cd\u03b1\u03bc\u03bc\u03bf\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Pachyammos"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a0\u03b1\u03c7\u03cd\u03b1\u03bc\u03bc\u03bf\u03c2"
+    ],
+    "name:pol_x_preferred":[
+        "Pachiamos"
+    ],
+    "name:spa_x_preferred":[
+        "Pachyammos"
+    ],
+    "name:swe_x_preferred":[
+        "Pach\u00fdammos"
+    ],
+    "name:unk_x_variant":[
+        "Pa\u015fiammo"
+    ],
+    "qs_pg:aaroncc":"CY",
+    "qs_pg:gn_country":"CY",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":146244,
+    "qs_pg:gn_pop":101,
+    "qs_pg:name":"Pakhyammos",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":514255,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":146244,
+        "qs_pg:id":514255,
+        "wd:id":"Q7122083"
+    },
+    "wof:country":"CY",
+    "wof:created":1497295158,
+    "wof:geomhash":"fbb4417096a3332ee10515d621141dfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":1125887611,
+            "region_id":85682397
+        }
+    ],
+    "wof:id":1125887611,
+    "wof:lastmodified":1553816603,
+    "wof:name":"Pakhyammos",
+    "wof:parent_id":85682397,
+    "wof:placetype":"locality",
+    "wof:population":101,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.58722,
+    35.16806,
+    32.58722,
+    35.16806
+],
+  "geometry": {"coordinates":[32.58722,35.16806],"type":"Point"}
+}

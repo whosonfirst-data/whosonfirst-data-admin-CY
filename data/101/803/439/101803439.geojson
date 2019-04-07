@@ -1,0 +1,131 @@
+{
+  "id": 101803439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00003,
+    "geom:area_square_m":300046.253988,
+    "geom:bbox":"33.0377876985,34.9303224534,33.044941941,34.937461012",
+    "geom:latitude":34.933892,
+    "geom:longitude":33.041365,
+    "gn:population":134,
+    "iso:country":"CY",
+    "lbl:latitude":34.933892,
+    "lbl:longitude":33.041365,
+    "mps:latitude":34.933892,
+    "mps:longitude":33.041365,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u0531\u056c\u0578\u0576\u0561"
+    ],
+    "name:ceb_x_preferred":[
+        "\u00c1lona"
+    ],
+    "name:dut_x_preferred":[
+        "Alona"
+    ],
+    "name:ell_x_preferred":[
+        "\u0386\u03bb\u03c9\u03bd\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u00c1lona"
+    ],
+    "name:eng_x_preferred":[
+        "Alona"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0648\u0646\u0627\u060c \u0633\u06cc\u067e\u0631\u0627\u0633"
+    ],
+    "name:gre_x_preferred":[
+        "\u0386\u03bb\u03c9\u03bd\u03b1"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u056c\u0578\u0576\u0561"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0644\u0648\u0646\u0627\u060c \u0633\u06cc\u067e\u0631\u0627\u0633"
+    ],
+    "name:pol_x_preferred":[
+        "Alona"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u043e\u043d\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "\u00c1lona"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0644\u0648\u0646\u0627\u060c \u0642\u0628\u0631\u0635"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u039b\u03b5\u03c5\u03ba\u03c9\u03c3\u03af\u03b1",
+    "qs:a1_alt":"Lefkosia",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:la":"\u0386\u03bb\u03c9\u03bd\u03b1",
+    "qs:la_lc":"*CY1302",
+    "qs:level":"locality",
+    "qs:loc":"\u0386\u03bb\u03c9\u03bd\u03b1",
+    "qs:loc_alt":"Alona",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":34.932778,
+    "wd:longitude":33.04,
+    "wd:wordcount":673,
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06eefd2e-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":146826,
+        "gp:id":841117,
+        "qs:id":889828,
+        "qs_pg:id":889828,
+        "wd:id":"Q4734356",
+        "wk:page":"Alona, Cyprus"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"4a08bb7d93de9837d92f66aa3f96c0b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":101803439,
+            "region_id":85682397
+        }
+    ],
+    "wof:id":101803439,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527642763,
+    "wof:name":"\u0386\u03bb\u03c9\u03bd\u03b1",
+    "wof:parent_id":85682397,
+    "wof:placetype":"locality",
+    "wof:population":134,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.03778769848077,
+    34.93032245335894,
+    33.04494194102688,
+    34.93746101196524
+],
+  "geometry": {"coordinates":[[[33.04234626202287,34.93692256726951],[33.04206582914912,34.93605662164049],[33.0431180245875,34.93578738502259],[33.0428375907149,34.93492144053567],[33.04494194102688,34.93438293876108],[33.04382021695574,34.93091916483723],[33.04276808779645,34.93118840692523],[33.04248769173523,34.93032245335894],[33.04038343566327,34.93086089421053],[33.04066381032294,34.93172685516981],[33.03961166200872,34.931996061326],[33.03989203566812,34.93286202342665],[33.03778769848077,34.93340040719954],[33.03890920451477,34.93686425962579],[33.03996141911267,34.9365950589422],[33.04024183057987,34.93746101196524],[33.04234626202287,34.93692256726951]]],"type":"Polygon"}
+}

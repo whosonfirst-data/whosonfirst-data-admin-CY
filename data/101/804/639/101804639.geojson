@@ -1,0 +1,124 @@
+{
+  "id": 101804639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00004,
+    "geom:area_square_m":410074.988115,
+    "geom:bbox":"33.3532490636,34.8168806764,33.3636317215,34.8255294579",
+    "geom:latitude":34.821619,
+    "geom:longitude":33.358125,
+    "gn:population":248,
+    "iso:country":"CY",
+    "lbl:latitude":34.821144,
+    "lbl:longitude":33.356749,
+    "mps:latitude":34.821144,
+    "mps:longitude":33.356749,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0421\u043a\u0430\u0440\u0438\u043d\u0443"
+    ],
+    "name:ceb_x_preferred":[
+        "Skar\u00ednou"
+    ],
+    "name:dut_x_preferred":[
+        "Skarinou"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03ba\u03b1\u03c1\u03af\u03bd\u03bf\u03c5"
+    ],
+    "name:ell_x_variant":[
+        "Skar\u00ednou"
+    ],
+    "name:eng_x_preferred":[
+        "Skarinou"
+    ],
+    "name:eng_x_variant":[
+        "Ortakonak",
+        "Skarino",
+        "Skarinu"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a3\u03ba\u03b1\u03c1\u03af\u03bd\u03bf\u03c5"
+    ],
+    "name:pol_x_preferred":[
+        "Skarinu"
+    ],
+    "name:swe_x_preferred":[
+        "Skar\u00ednou"
+    ],
+    "name:unk_x_variant":[
+        "Ortakonak"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u039b\u03ac\u03c1\u03bd\u03b1\u03ba\u03b1",
+    "qs:a1_alt":"Larnaka",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:la":"\u03a3\u03ba\u03b1\u03c1\u03af\u03bd\u03bf\u03c5",
+    "qs:la_lc":"*CY4308",
+    "qs:level":"locality",
+    "qs:loc":"\u03a3\u03ba\u03b1\u03c1\u03af\u03bd\u03bf\u03c5",
+    "qs:loc_alt":"Skarinou",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":34.821111,
+    "wd:longitude":33.355833,
+    "wd:wordcount":22,
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06ef6444-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":146076,
+        "gp:id":841694,
+        "qs:id":478021,
+        "qs_pg:id":478021,
+        "wd:id":"Q7534010",
+        "wk:page":"Skarinou"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"dae2e4920e24702f61772f7074ddbb1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":101804639,
+            "region_id":85682407
+        }
+    ],
+    "wof:id":101804639,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527642755,
+    "wof:name":"\u03a3\u03ba\u03b1\u03c1\u03af\u03bd\u03bf\u03c5",
+    "wof:parent_id":85682407,
+    "wof:placetype":"locality",
+    "wof:population":248,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.35324906363712,
+    34.81688067640226,
+    33.36363172152807,
+    34.82552945790286
+],
+  "geometry": {"coordinates":[[[33.36363172152807,34.82498373355429],[33.36249788680755,34.82152428194468],[33.35934838354137,34.8223428057758],[33.35821483235316,34.81888326787197],[33.35926463085764,34.81861045345863],[33.35869789276637,34.81688067640226],[33.35554854149007,34.81769906144342],[33.3558318738892,34.81856396246093],[33.35478206669387,34.81883673732904],[33.35506539828424,34.81970163948318],[33.35401557407658,34.81997440614344],[33.35429890485784,34.82083930943412],[33.35324906363712,34.82111206788625],[33.35381573335718,34.82284187414729],[33.35486559575384,34.82256910823378],[33.35514895586982,34.82343400374282],[33.35619882242833,34.82316122215934],[33.35648220291199,34.82402611134341],[33.3575320736316,34.82375331408969],[33.35781547448357,34.82461819694834],[33.35991521781636,34.8240725591611],[33.36019864962503,34.82493743196221],[33.36124852223685,34.82466459142825],[33.36153197441536,34.82552945790286],[33.36363172152807,34.82498373355429]]],"type":"Polygon"}
+}

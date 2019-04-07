@@ -1,0 +1,99 @@
+{
+  "id": 101803477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000041,
+    "geom:area_square_m":410041.359556,
+    "geom:bbox":"32.6767740141,35.1503746763,32.6921691584,35.156831162",
+    "geom:latitude":35.154023,
+    "geom:longitude":32.684013,
+    "gn:population":31,
+    "iso:country":"CY",
+    "lbl:latitude":35.153201,
+    "lbl:longitude":32.68413,
+    "mps:latitude":35.153201,
+    "mps:longitude":32.68413,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "P\u00e1no P\u00fdrgos"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03ac\u03bd\u03c9 \u03a0\u03cd\u03c1\u03b3\u03bf\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Pano Pyrgos"
+    ],
+    "name:eng_x_variant":[
+        "Pyrgos Pano"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u039b\u03b5\u03c5\u03ba\u03c9\u03c3\u03af\u03b1",
+    "qs:a1_alt":"Lefkosia",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:id":0,
+    "qs:la":"\u03a0\u03ac\u03bd\u03c9 \u03a0\u03cd\u03c1\u03b3\u03bf\u03c2",
+    "qs:la_lc":"*CY1456",
+    "qs:level":"locality",
+    "qs:loc":"\u03a0\u03ac\u03bd\u03c9 \u03a0\u03cd\u03c1\u03b3\u03bf\u03c2",
+    "qs:loc_alt":"Pano Pyrgos",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":137,
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06ef5152-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":18252,
+        "gp:id":841587,
+        "qs:id":998338,
+        "qs_pg:id":998338,
+        "wd:id":"Q4363305"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"3cba9a161c2a99dde42221a941667d58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":101803477,
+            "region_id":85682397
+        }
+    ],
+    "wof:id":101803477,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527642762,
+    "wof:name":"\u03a0\u03ac\u03bd\u03c9 \u03a0\u03cd\u03c1\u03b3\u03bf\u03c2",
+    "wof:parent_id":85682397,
+    "wof:placetype":"locality",
+    "wof:population":31,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.67677401411811,
+    35.15037467633442,
+    32.69216915836518,
+    35.15683116196789
+],
+  "geometry": {"coordinates":[[[32.67760686811368,35.15683116196789],[32.68288735141192,35.15550527192869],[32.68316504306506,35.15637225882591],[32.68422113149421,35.15610704103756],[32.68394342896977,35.15524005780708],[32.68816767551965,35.15417908094463],[32.68872317718495,35.15591301555918],[32.6897792446419,35.15564773391526],[32.69005702081927,35.15651469379105],[32.69216915836518,35.15598408705523],[32.69161357218047,35.15425017946563],[32.68950147811461,35.15478077153017],[32.68894597400754,35.15304683923182],[32.68788993916058,35.15331210987353],[32.68761221244966,35.15244513629312],[32.68655618210414,35.15271039123058],[32.68600077936401,35.15097642920864],[32.68494476439025,35.15124166477545],[32.68466708835945,35.15037467633442],[32.681499037847,35.15117029981405],[32.68233199704747,35.15377129060857],[32.67916379140155,35.15456683874811],[32.67888616130347,35.1536998333267],[32.67677401411811,35.15423013123217],[32.67760686811368,35.15683116196789]]],"type":"Polygon"}
+}

@@ -1,0 +1,126 @@
+{
+  "id": 101803201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000032,
+    "geom:area_square_m":320025.588982,
+    "geom:bbox":"33.823609145,35.2641974938,33.8306977392,35.2727661612",
+    "geom:latitude":35.268668,
+    "geom:longitude":33.827039,
+    "iso:country":"CY",
+    "lbl:latitude":35.269285,
+    "lbl:longitude":33.826394,
+    "mps:latitude":35.269285,
+    "mps:longitude":33.826394,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "L\u00e1pathos"
+    ],
+    "name:ell_x_variant":[
+        "\u039b\u03ac\u03c0\u03b1\u03b8\u03bf\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Lapatos"
+    ],
+    "name:und_x_colloquial":[
+        "Bokazici",
+        "Lapatoz"
+    ],
+    "name:und_x_preferred":[
+        "Lapathos"
+    ],
+    "name:und_x_variant":[
+        "Bok\u0327azi\u00e7i",
+        "L\u00e2patoz"
+    ],
+    "name:unk_x_variant":[
+        "Bo\u011fazi\u00e7i"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u0391\u03bc\u03bc\u03cc\u03c7\u03c9\u03c3\u03c4\u03bf\u03c2",
+    "qs:a1_alt":"Ammochostos",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:la":"\u039b\u03ac\u03c0\u03b1\u03b8\u03bf\u03c2",
+    "qs:la_lc":"*CY3135",
+    "qs:level":"locality",
+    "qs:loc":"\u039b\u03ac\u03c0\u03b1\u03b8\u03bf\u03c2",
+    "qs:loc_alt":"Lapathos",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682389,
+        85632375,
+        85681187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06ef3578-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":146405,
+        "gp:id":841436,
+        "qs:id":940314,
+        "wd:id":"Q1805740",
+        "wk:page":"Lapathos"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"87281bc0e54279f455fb4d1eeea3f490",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "disputed_id":85632375,
+            "locality_id":101803201,
+            "region_id":85682389
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632375,
+            "disputed_id":85632375,
+            "locality_id":101803201,
+            "region_id":85682389
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "disputed_id":85632375,
+            "locality_id":101803201,
+            "region_id":85681187
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632375,
+            "disputed_id":85632375,
+            "locality_id":101803201,
+            "region_id":85681187
+        }
+    ],
+    "wof:id":101803201,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1501212522,
+    "wof:name":"\u039b\u03ac\u03c0\u03b1\u03b8\u03bf\u03c2",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.82360914502863,
+    35.26419749381273,
+    33.83069773921528,
+    35.27276616120866
+],
+  "geometry": {"coordinates":[[[33.82852694617452,35.27220924286678],[33.82823450924951,35.27134701565399],[33.82928899301385,35.27106854235586],[33.82841171096595,35.26848185641006],[33.82946615604845,35.26820338266629],[33.8291737382749,35.26734115258159],[33.83022816600885,35.26706267070176],[33.82964333949309,35.26533821030023],[33.83069773921528,35.26505972412997],[33.8304053304733,35.26419749381273],[33.8282965456728,35.26475444648321],[33.8285889330877,35.26561668448988],[33.82437124063892,35.2667304614406],[33.82466359551256,35.26759271218515],[33.82360914502863,35.2678711303144],[33.82507101784893,35.27218236365809],[33.82612552166688,35.27190392630524],[33.82641793725765,35.27276616120866],[33.82852694617452,35.27220924286678]]],"type":"Polygon"}
+}

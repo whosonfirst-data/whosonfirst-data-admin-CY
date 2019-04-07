@@ -1,0 +1,88 @@
+{
+  "id": 101803503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000047,
+    "geom:area_square_m":470041.370811,
+    "geom:bbox":"33.1598192375,35.2272953919,33.1698090834,35.2358398834",
+    "geom:latitude":35.231151,
+    "geom:longitude":33.164705,
+    "geonames:id":"146075,146750",
+    "iso:country":"CY",
+    "lbl:latitude":35.230601,
+    "lbl:longitude":33.164629,
+    "mps:latitude":35.230601,
+    "mps:longitude":33.164629,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u039b\u03b5\u03c5\u03ba\u03c9\u03c3\u03af\u03b1",
+    "qs:a1_alt":"Lefkosia",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:la":"\u03a3\u03ba\u03c5\u03bb\u03bb\u03bf\u03cd\u03c1\u03b1",
+    "qs:la_lc":"*CY1247",
+    "qs:level":"locality",
+    "qs:loc":"\u03a3\u03ba\u03c5\u03bb\u03bb\u03bf\u03cd\u03c1\u03b1",
+    "qs:loc_alt":"Skylloura",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682397,
+        85681187,
+        85632375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "qs:id":9
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"779a395f4f2d63292167be18e6fb6716",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":101803503,
+            "region_id":85682397
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "disputed_id":85632375,
+            "locality_id":101803503,
+            "region_id":85681187
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632375,
+            "disputed_id":85632375,
+            "locality_id":101803503,
+            "region_id":85681187
+        }
+    ],
+    "wof:id":101803503,
+    "wof:lastmodified":1500025672,
+    "wof:name":"\u03a3\u03ba\u03c5\u03bb\u03bb\u03bf\u03cd\u03c1\u03b1",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.15981923754919,
+    35.22729539193347,
+    33.16980908336075,
+    35.23583988336128
+],
+  "geometry": {"coordinates":[[[33.16221498671092,35.23443337350835],[33.16538248765971,35.23362098952867],[33.1656666008281,35.23448595143685],[33.16672243225537,35.23421512899239],[33.16615419417849,35.23248521010407],[33.16932158460099,35.23167269312626],[33.16875332116962,35.22994278645803],[33.16980908336075,35.22967193091824],[33.16924083776883,35.22794202148799],[33.16818509717075,35.22821286953757],[33.16790099995728,35.22734790723257],[33.16473377149487,35.22816036803539],[33.16444971652737,35.22729539193347],[33.16339397148522,35.22756618441952],[33.16367801565548,35.22843116426566],[33.16156648445138,35.22897272066979],[33.16213455916682,35.2307026876519],[33.16107876220423,35.23097345531374],[33.16136280354669,35.23183843870584],[33.16030698927602,35.23210919809247],[33.1608750799291,35.23383916467861],[33.15981923754919,35.23410991953432],[33.16038734602677,35.23583988336128],[33.16249906747942,35.2352983466514],[33.16221498671092,35.23443337350835]]],"type":"Polygon"}
+}

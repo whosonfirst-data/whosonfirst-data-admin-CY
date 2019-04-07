@@ -1,0 +1,104 @@
+{
+  "id": 1125820091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.908615,35.156407,33.908615,35.156407",
+    "geom:latitude":35.156407,
+    "geom:longitude":33.908615,
+    "gn:gn_country":"CY",
+    "iso:country":"CY",
+    "lbl:latitude":35.156407,
+    "lbl:longitude":33.908615,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"CY",
+    "qs_pg:gn_country":"CY",
+    "qs_pg:name":"Tuzla",
+    "qs_pg:name_adm0":"Cyprus",
+    "qs_pg:name_adm1":"Famagusta District",
+    "qs_pg:photos":542,
+    "qs_pg:photos_1k":110,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":542,
+    "qs_pg:photos_sr":7,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1085901,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":26812346,
+    "qs_pg:woe_id":841271,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":26812346,
+    "woe:name_adm0":"Cyprus",
+    "woe:name_adm1":"Famagusta District",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682389,
+        85632375,
+        85681187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":841271,
+        "qs_pg:id":1085901
+    },
+    "wof:country":"CY",
+    "wof:created":1497292007,
+    "wof:geomhash":"fdefb417841b7953117d90cffe876112",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "disputed_id":85632375,
+            "locality_id":1125820091,
+            "region_id":85682389
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632375,
+            "disputed_id":85632375,
+            "locality_id":1125820091,
+            "region_id":85682389
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "disputed_id":85632375,
+            "locality_id":1125820091,
+            "region_id":85681187
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632375,
+            "disputed_id":85632375,
+            "locality_id":1125820091,
+            "region_id":85681187
+        }
+    ],
+    "wof:id":1125820091,
+    "wof:lastmodified":1509394035,
+    "wof:name":"Tuzla",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.908615,
+    35.156407,
+    33.908615,
+    35.156407
+],
+  "geometry": {"coordinates":[33.908615,35.156407],"type":"Point"}
+}

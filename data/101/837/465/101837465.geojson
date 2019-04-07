@@ -1,0 +1,123 @@
+{
+  "id": 101837465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000028,
+    "geom:area_square_m":287877.919427,
+    "geom:bbox":"32.9977912131,34.7616552785,33.0078612184,34.7671223123",
+    "geom:latitude":34.764325,
+    "geom:longitude":33.003445,
+    "gn:population":196,
+    "iso:country":"CY",
+    "lbl:latitude":34.764867,
+    "lbl:longitude":33.003817,
+    "mps:latitude":34.764867,
+    "mps:longitude":33.003817,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0421\u043f\u0438\u0442\u0430\u043b\u0438"
+    ],
+    "name:ceb_x_preferred":[
+        "Spit\u00e1li"
+    ],
+    "name:dut_x_preferred":[
+        "Spitali"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03c0\u03b9\u03c4\u03ac\u03bb\u03b9 \u039b\u03b5\u03bc\u03b5\u03c3\u03bf\u03cd"
+    ],
+    "name:ell_x_variant":[
+        "Spit\u00e1li",
+        "\u03a3\u03c0\u03b9\u03c4\u03ac\u03bb\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Spitali"
+    ],
+    "name:fre_x_preferred":[
+        "Spit\u00e1li"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a3\u03c0\u03b9\u03c4\u03ac\u03bb\u03b9"
+    ],
+    "name:pol_x_preferred":[
+        "Spitali"
+    ],
+    "name:swe_x_preferred":[
+        "Spit\u00e1li"
+    ],
+    "name:unk_x_variant":[
+        "\u0130spitali"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u039b\u03b5\u03bc\u03b5\u03c3\u03cc\u03c2",
+    "qs:a1_alt":"Lemesos",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:la":"\u03a0\u03b1\u03c1\u03b1\u03bc\u03cd\u03b8\u03b1",
+    "qs:la_lc":"*CY5101",
+    "qs:level":"locality",
+    "qs:loc":"\u03a3\u03c0\u03b9\u03c4\u03ac\u03bb\u03b9",
+    "qs:loc_alt":"Spitali",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":34.761667,
+    "wd:longitude":32.996944,
+    "wd:wordcount":20,
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06ef6660-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":146064,
+        "gp:id":841704,
+        "qs:id":1273526,
+        "qs_pg:id":1273526,
+        "wd:id":"Q7578281",
+        "wk:page":"Spitali"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"83c28c4bfb3add015435e305e5e96d28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":101837465,
+            "region_id":85682411
+        }
+    ],
+    "wof:id":101837465,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527715304,
+    "wof:name":"\u03a3\u03c0\u03b9\u03c4\u03ac\u03bb\u03b9",
+    "wof:parent_id":85682411,
+    "wof:placetype":"locality",
+    "wof:population":196,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.99779121311741,
+    34.76165527853686,
+    33.00786121842543,
+    34.76712231233728
+],
+  "geometry": {"coordinates":[[[[32.99892216167819,34.76236856412874],[32.99816819376076,34.76443685184773],[33.00121732520552,34.76365674410954],[33.00233213074245,34.76712231233728],[33.00653239061216,34.76604748791601],[33.00681115863023,34.76691385888796],[33.00786121842543,34.76664511922701],[33.00646742142249,34.76231325719192],[33.00331738266323,34.76311938519785],[33.00303868406553,34.76225299410282],[33.00198866913826,34.76252167586051],[33.00170999080643,34.76165527853686],[32.99892216167819,34.76236856412874]]],[[[32.99811011867115,34.76459616365895],[32.99779121311741,34.7654709866124],[32.99834584661551,34.76532909974605],[32.99811011867115,34.76459616365895]]]],"type":"MultiPolygon"}
+}

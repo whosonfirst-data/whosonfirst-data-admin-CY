@@ -1,0 +1,148 @@
+{
+  "id": 101803281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000035,
+    "geom:area_square_m":350022.735013,
+    "geom:bbox":"33.9250003161,35.3242429459,33.9323850618,35.3336763495",
+    "geom:latitude":35.329107,
+    "geom:longitude":33.928971,
+    "iso:country":"CY",
+    "lbl:latitude":35.330358,
+    "lbl:longitude":33.928355,
+    "mps:latitude":35.330358,
+    "mps:longitude":33.928355,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Beyk\u00f6y"
+    ],
+    "name:ell_x_preferred":[
+        "\u00c1gios II\u00edas"
+    ],
+    "name:ell_x_variant":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u0397\u03bb\u03af\u03b1\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Ayilia"
+    ],
+    "name:eng_x_variant":[
+        "Agios Ilias",
+        "Ay Ilia",
+        "Ayilya",
+        "Saint Elias",
+        "St Elias",
+        "St. Elias",
+        "Beyk\u00f6y"
+    ],
+    "name:gre_x_preferred":[
+        "\u039c\u03c0\u03ad\u03b7 \u039a\u03b9\u03bf\u03b3\u03b9\u03bf\u03cd"
+    ],
+    "name:pol_x_preferred":[
+        "Beikii"
+    ],
+    "name:und_x_colloquial":[
+        "Beykoey",
+        "Beykoy",
+        "Yarkoey",
+        "Yarkoy"
+    ],
+    "name:und_x_preferred":[
+        "Beyk\u00f6y"
+    ],
+    "name:und_x_variant":[
+        "Ayios Elias",
+        "Yark\u00f6y"
+    ],
+    "name:unk_x_variant":[
+        "Saint Elias"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0626\u06cc\u06a9\u06cc\u0648\u06cc"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u0391\u03bc\u03bc\u03cc\u03c7\u03c9\u03c3\u03c4\u03bf\u03c2",
+    "qs:a1_alt":"Ammochostos",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:la":"\u0386\u03b3\u03b9\u03bf\u03c2 \u0397\u03bb\u03af\u03b1\u03c2",
+    "qs:la_lc":"*CY3322",
+    "qs:level":"locality",
+    "qs:loc":"\u0386\u03b3\u03b9\u03bf\u03c2 \u0397\u03bb\u03af\u03b1\u03c2",
+    "qs:loc_alt":"Agios Ilias",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682389,
+        85632375,
+        85681187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06ef0b48-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":146731,
+        "gp:id":841196,
+        "qs:id":9,
+        "wd:id":"Q4899877"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"f5a03414f461e3cff35b5c82ec6e44c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "disputed_id":85632375,
+            "locality_id":101803281,
+            "region_id":85682389
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632375,
+            "disputed_id":85632375,
+            "locality_id":101803281,
+            "region_id":85682389
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "disputed_id":85632375,
+            "locality_id":101803281,
+            "region_id":85681187
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632375,
+            "disputed_id":85632375,
+            "locality_id":101803281,
+            "region_id":85681187
+        }
+    ],
+    "wof:id":101803281,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1513944669,
+    "wof:name":"\u0386\u03b3\u03b9\u03bf\u03c2 \u0397\u03bb\u03af\u03b1\u03c2",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.92500031612815,
+    35.32424294588657,
+    33.93238506184139,
+    35.33367634952253
+],
+  "geometry": {"coordinates":[[[33.93238506184139,35.32741012210204],[33.93150273375664,35.32482498710675],[33.93044782226445,35.3251046667213],[33.93015374392871,35.32424294588657],[33.92804392209433,35.32480226143332],[33.92922021118818,35.32824915978762],[33.92500031612815,35.32936770892076],[33.92647069319128,35.33367634952253],[33.92858076086492,35.3331170602662],[33.92828664375185,35.33225534518044],[33.9303966631706,35.33169601571626],[33.93010253490274,35.33083430571162],[33.93221250606905,35.33027493604118],[33.93133011835187,35.32768981331463],[33.93238506184139,35.32741012210204]]],"type":"Polygon"}
+}

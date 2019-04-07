@@ -1,0 +1,119 @@
+{
+  "id": 101876315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000061,
+    "geom:area_square_m":621703.277333,
+    "geom:bbox":"32.882317259,35.0682312689,32.8953347329,35.0781654708",
+    "geom:latitude":35.073958,
+    "geom:longitude":32.888127,
+    "gn:population":216,
+    "iso:country":"CY",
+    "lbl:latitude":35.073737,
+    "lbl:longitude":32.887486,
+    "mps:latitude":35.073737,
+    "mps:longitude":32.887486,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Lino\u00fa"
+    ],
+    "name:dut_x_preferred":[
+        "Linou"
+    ],
+    "name:ell_x_preferred":[
+        "Lino\u00fa"
+    ],
+    "name:ell_x_variant":[
+        "\u039b\u03b7\u03bd\u03bf\u03cd"
+    ],
+    "name:eng_x_preferred":[
+        "Linou"
+    ],
+    "name:gre_x_preferred":[
+        "\u039b\u03b9\u03bd\u03bf\u03cd"
+    ],
+    "name:pol_x_preferred":[
+        "Linu"
+    ],
+    "name:spa_x_preferred":[
+        "Linou"
+    ],
+    "name:swe_x_preferred":[
+        "Lino\u00fa"
+    ],
+    "name:tur_x_preferred":[
+        "L\u0131nou"
+    ],
+    "name:unk_x_variant":[
+        "Linu"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u039b\u03b5\u03c5\u03ba\u03c9\u03c3\u03af\u03b1",
+    "qs:a1_alt":"Lefkosia",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u039b\u03b7\u03bd\u03bf\u03cd",
+    "qs:loc_alt":"Linou",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point disambiguated",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":311,
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06ef394c-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":146376,
+        "gp:id":841458,
+        "qs:id":940318,
+        "qs_pg:id":940318,
+        "wd:id":"Q6554762",
+        "wk:page":"Linou"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"d8b844cddbd4864c64697b4cff56da5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":101876315,
+            "region_id":85682397
+        }
+    ],
+    "wof:id":101876315,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527714913,
+    "wof:name":"\u039b\u03b7\u03bd\u03bf\u03cd",
+    "wof:parent_id":85682397,
+    "wof:placetype":"locality",
+    "wof:population":216,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.8823172589797,
+    35.06823126890725,
+    32.89533473286679,
+    35.0781654707506
+],
+  "geometry": {"coordinates":[[[32.88642452905952,35.06823126890725],[32.8823172589797,35.07515503103531],[32.88239930341783,35.07538199697173],[32.88248733711593,35.07560670766156],[32.8825812981693,35.07582900508974],[32.88268112050514,35.0760487329382],[32.88268106731715,35.07604878781541],[32.89533473286679,35.0781654707506],[32.89457959875887,35.0758265242402],[32.89352514541019,35.07609412439945],[32.89324549197295,35.07522782574921],[32.89219104302288,35.07549541020836],[32.89107256941548,35.07203017550438],[32.89001815724208,35.07229773319699],[32.88917943621703,35.06969876949125],[32.88812505002636,35.06996630410794],[32.88756597273044,35.06823364159027],[32.8865116017314,35.06850115682067],[32.88642452905952,35.06823126890725]]],"type":"Polygon"}
+}

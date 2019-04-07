@@ -1,0 +1,94 @@
+{
+  "id": 1260196801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.15,35.44167,34.15,35.44167",
+    "geom:latitude":35.44167,
+    "geom:longitude":34.15,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ayia",
+    "gn:cc2":"CY",
+    "gn:country_code":"CY",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":414298,
+    "gn:latitude":35.44167,
+    "gn:longitude":34.15,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ayia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Famagusta",
+    "iso:country":"CY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dilekkaya",
+        "Ayia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85681187,
+        85632375,
+        85682389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":414298
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"9f938dc7c1d954630f8c43d222a744ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "disputed_id":85632375,
+            "locality_id":1260196801,
+            "region_id":85681187
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632375,
+            "disputed_id":85632375,
+            "locality_id":1260196801,
+            "region_id":85681187
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "disputed_id":85632375,
+            "locality_id":1260196801,
+            "region_id":85682389
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632375,
+            "disputed_id":85632375,
+            "locality_id":1260196801,
+            "region_id":85682389
+        }
+    ],
+    "wof:id":1260196801,
+    "wof:lastmodified":1537619250,
+    "wof:name":"Ayia",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.15,
+    35.44167,
+    34.15,
+    35.44167
+],
+  "geometry": {"coordinates":[34.15,35.44167],"type":"Point"}
+}

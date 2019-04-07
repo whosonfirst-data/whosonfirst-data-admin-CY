@@ -1,0 +1,140 @@
+{
+  "id": 101803207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00003,
+    "geom:area_square_m":300034.264111,
+    "geom:bbox":"33.7455619766,35.1061258088,33.7540908095,35.1118576861",
+    "geom:latitude":35.109007,
+    "geom:longitude":33.749955,
+    "iso:country":"CY",
+    "lbl:latitude":35.109289,
+    "lbl:longitude":33.749955,
+    "mps:latitude":35.109289,
+    "mps:longitude":33.749955,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041a\u0443\u043a\u043b\u0438\u044f"
+    ],
+    "name:dut_x_preferred":[
+        "Kouklia"
+    ],
+    "name:ell_x_preferred":[
+        "Ko\u00faklia"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03bf\u03cd\u03ba\u03bb\u03b9\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Kukla"
+    ],
+    "name:pol_x_preferred":[
+        "Kuklia"
+    ],
+    "name:und_x_colloquial":[
+        "Koeklue",
+        "Koeprue",
+        "Koepruelue",
+        "Koklu",
+        "Kopru",
+        "Koprulu"
+    ],
+    "name:und_x_preferred":[
+        "Kouklia"
+    ],
+    "name:und_x_variant":[
+        "K\u00f6kl\u00fc",
+        "K\u00f6pr\u00fc",
+        "K\u00f6pr\u00fcl\u00fc"
+    ],
+    "name:unk_x_variant":[
+        "K\u00f6kl\u00fc"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u0391\u03bc\u03bc\u03cc\u03c7\u03c9\u03c3\u03c4\u03bf\u03c2",
+    "qs:a1_alt":"Ammochostos",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:la":"\u039a\u03bf\u03cd\u03ba\u03bb\u03b9\u03b1 (\u0391\u03bc\u03bc\u03bf\u03c7\u03ce\u03c3\u03c4\u03bf\u03c5)",
+    "qs:la_lc":"*CY3200",
+    "qs:level":"locality",
+    "qs:loc":"\u039a\u03bf\u03cd\u03ba\u03bb\u03b9\u03b1",
+    "qs:loc_alt":"Kouklia",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85681187,
+        85632375,
+        85682389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06ef3212-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":146433,
+        "gp:id":841418,
+        "qs:id":915592,
+        "wd:id":"Q6434534",
+        "wk:page":"Kouklia, Famagusta"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"e2c25589b7768032c9fba0618cd9d9cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "disputed_id":85632375,
+            "locality_id":101803207,
+            "region_id":85681187
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632375,
+            "disputed_id":85632375,
+            "locality_id":101803207,
+            "region_id":85681187
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "disputed_id":85632375,
+            "locality_id":101803207,
+            "region_id":85682389
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632375,
+            "disputed_id":85632375,
+            "locality_id":101803207,
+            "region_id":85682389
+        }
+    ],
+    "wof:id":101803207,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1513944715,
+    "wof:name":"\u039a\u03bf\u03cd\u03ba\u03bb\u03b9\u03b1",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.74556197656085,
+    35.10612580876779,
+    33.75409080952676,
+    35.11185768611085
+],
+  "geometry": {"coordinates":[[[33.74911825349352,35.11185768611085],[33.75332856046168,35.11074771711003],[33.75303825993706,35.10988491187089],[33.75409080952676,35.10960739353777],[33.75321993629495,35.10701897346445],[33.751114894203,35.10757397526561],[33.75082464442181,35.10671115567044],[33.74977212407327,35.10698863481446],[33.74948189493921,35.10612580876779],[33.7473768556406,35.10668072354287],[33.7476670635408,35.10754355722293],[33.74556197656085,35.10809843179146],[33.74614237997775,35.10982410651582],[33.74719494801013,35.1095466675784],[33.74777541278399,35.11127232413349],[33.74882799544145,35.11099486560158],[33.74911825349352,35.11185768611085]]],"type":"Polygon"}
+}

@@ -1,0 +1,104 @@
+{
+  "id": 1125820621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.52306,35.13306,32.52306,35.13306",
+    "geom:latitude":35.13306,
+    "geom:longitude":32.52306,
+    "gn:gn_country":"CY",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":6,
+    "gn:population":6,
+    "iso:country":"CY",
+    "lbl:latitude":35.13306,
+    "lbl:longitude":32.52306,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arm_x_preferred":[
+        "\u0546\u0575\u0561 \u0534\u056b\u0574\u0561\u057f\u0561"
+    ],
+    "name:bul_x_preferred":[
+        "\u041d\u0435\u0430 \u0414\u0438\u043c\u0430\u0442\u0430"
+    ],
+    "name:dut_x_preferred":[
+        "Nea Dimmata"
+    ],
+    "name:ell_x_preferred":[
+        "N\u00e9a D\u00edmmata"
+    ],
+    "name:ell_x_variant":[
+        "\u039d\u03ad\u03b1 \u0394\u03ae\u03bc\u03bc\u03b1\u03c4\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Nea Dimmata"
+    ],
+    "name:gre_x_preferred":[
+        "\u039d\u03ad\u03b1 \u0394\u03ae\u03bc\u03bc\u03b1\u03c4\u03b1"
+    ],
+    "name:pol_x_preferred":[
+        "Nea Dimata"
+    ],
+    "name:unk_x_variant":[
+        "Nea Dimmatya"
+    ],
+    "qs_pg:aaroncc":"CY",
+    "qs_pg:gn_country":"CY",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":18479,
+    "qs_pg:gn_pop":6,
+    "qs_pg:name":"Nea Dhimmata",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":79554,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":18479,
+        "qs_pg:id":79554,
+        "wd:id":"Q6983929"
+    },
+    "wof:country":"CY",
+    "wof:created":1497292032,
+    "wof:geomhash":"a68920804bb1a73a882969f72003817e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":1125820621,
+            "region_id":85682401
+        }
+    ],
+    "wof:id":1125820621,
+    "wof:lastmodified":1513944666,
+    "wof:name":"Nea Dhimmata",
+    "wof:parent_id":85682401,
+    "wof:placetype":"locality",
+    "wof:population":6,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.52306,
+    35.13306,
+    32.52306,
+    35.13306
+],
+  "geometry": {"coordinates":[32.52306,35.13306],"type":"Point"}
+}

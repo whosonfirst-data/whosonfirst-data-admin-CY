@@ -1,0 +1,80 @@
+{
+  "id": 1293521161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.025,34.71667,33.025,34.71667",
+    "geom:latitude":34.71667,
+    "geom:longitude":33.025,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"10346941",
+    "gn:asciiname":"Agia Fylaxis",
+    "gn:country_code":"CY",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":146747,
+    "gn:latitude":34.71667,
+    "gn:longitude":33.025,
+    "gn:modification_date":"2018-07-11",
+    "gn:name":"Agia Fylaxis",
+    "gn:population":0,
+    "gn:timezone":"Asia/Nicosia",
+    "iso:country":"CY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u0391\u03b3\u03af\u03b1 \u03a6\u03cd\u03bb\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03b3\u03af\u03b1 \u03a6\u03cd\u03bb\u03b1\u03be\u03b7\u03c2"
+    ],
+    "name:und_x_variant":[
+        "Saint Phyla",
+        "Aya Filya",
+        "Ayia Fila",
+        "Ayafila",
+        "Ayia Phyla",
+        "Agia Fylaxis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":146747
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"537792660ed584c7e3c65a6fafc50d63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":1293521161,
+            "region_id":85682411
+        }
+    ],
+    "wof:id":1293521161,
+    "wof:lastmodified":1537619249,
+    "wof:name":"Agia Fylaxis",
+    "wof:parent_id":85682411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.025,
+    34.71667,
+    33.025,
+    34.71667
+],
+  "geometry": {"coordinates":[33.025,34.71667],"type":"Point"}
+}

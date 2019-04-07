@@ -1,0 +1,116 @@
+{
+  "id": 101803565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000072,
+    "geom:area_square_m":730091.142279,
+    "geom:bbox":"33.5143949861,35.0435583167,33.5260677848,35.0590681423",
+    "geom:latitude":35.051448,
+    "geom:longitude":33.520709,
+    "iso:country":"CY",
+    "lbl:latitude":35.056309,
+    "lbl:longitude":33.522168,
+    "mps:latitude":35.056309,
+    "mps:longitude":33.522168,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041f\u0435\u0442\u0440\u043e\u0444\u0430\u043d\u0438"
+    ],
+    "name:dut_x_preferred":[
+        "Petrofani"
+    ],
+    "name:ell_x_preferred":[
+        "Petrof\u00e1ni"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03b5\u03c4\u03c1\u03bf\u03c6\u03ac\u03bd\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Petrophani"
+    ],
+    "name:eng_x_variant":[
+        "Petrofan",
+        "Petrofani"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a0\u03b5\u03c4\u03c1\u03bf\u03c6\u03ac\u03bd\u03b9"
+    ],
+    "name:pol_x_preferred":[
+        "Petrofani"
+    ],
+    "name:und_x_colloquial":[
+        "Bodurakac",
+        "Esendak"
+    ],
+    "name:und_x_variant":[
+        "Bodurak\u0327a\u00e7",
+        "Esendak\u0327"
+    ],
+    "name:unk_x_variant":[
+        "Bodura\u011fa\u00e7"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u039b\u03ac\u03c1\u03bd\u03b1\u03ba\u03b1",
+    "qs:a1_alt":"Larnaka",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:la":"\u03a0\u03b5\u03c4\u03c1\u03bf\u03c6\u03ac\u03bd\u03b9",
+    "qs:la_lc":"*CY4201",
+    "qs:level":"locality",
+    "qs:loc":"\u03a0\u03b5\u03c4\u03c1\u03bf\u03c6\u03ac\u03bd\u03b9",
+    "qs:loc_alt":"Petrofani",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":57,
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06ef56a2-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":146176,
+        "gp:id":841615,
+        "qs:id":405585,
+        "wd:id":"Q7178911",
+        "wk:page":"Petrofani"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"663b1fd6d5f9aaeba6a36e8b5692aff3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":101803565,
+            "region_id":85682407
+        }
+    ],
+    "wof:id":101803565,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527642767,
+    "wof:name":"\u03a0\u03b5\u03c4\u03c1\u03bf\u03c6\u03ac\u03bd\u03b9",
+    "wof:parent_id":85682407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.51439498612433,
+    35.04355831665356,
+    33.52606778482277,
+    35.05906814229922
+],
+  "geometry": {"coordinates":[[[33.52080524569885,35.05906814229922],[33.52606778482277,35.05769393668021],[33.52491921554309,35.05423866104587],[33.52386676338676,35.05451351098623],[33.52357965653022,35.05364968177679],[33.52252720847883,35.05392451597237],[33.5216659793997,35.05133300135651],[33.5227183955152,35.05105817849659],[33.52243132836008,35.05019433885246],[33.5245361196844,35.04964466479259],[33.52396197257235,35.04791699279178],[33.52290960146672,35.04819182824787],[33.5226225534401,35.04732798455615],[33.52157018643948,35.0476028042691],[33.52042213613311,35.04414738830525],[33.51936980516655,35.04442218094295],[33.51908282803686,35.04355831665356],[33.51697816778028,35.04410785848086],[33.51726512362461,35.04497173032428],[33.51621277304957,35.04524648706746],[33.5164997281704,35.04611036007992],[33.51439498612433,35.04665984522455],[33.51496888355024,35.04838759853317],[33.51707366817487,35.04783809828058],[33.51736065305909,35.04870196346883],[33.51841304621075,35.04842719161701],[33.52013522776349,35.05361030531134],[33.51908277073869,35.05388509983004],[33.51965688935638,35.05561279108571],[33.51860440449821,35.05588758119438],[33.51946562492225,35.05847910985256],[33.52051814172376,35.05820430840822],[33.52080524569885,35.05906814229922]]],"type":"Polygon"}
+}

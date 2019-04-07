@@ -1,0 +1,95 @@
+{
+  "id": 1125903053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.2125,34.99167,33.2125,34.99167",
+    "geom:latitude":34.99167,
+    "geom:longitude":33.2125,
+    "gn:gn_country":"CY",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"CY",
+    "lbl:latitude":34.99167,
+    "lbl:longitude":33.2125,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "Fil\u00e1ni"
+    ],
+    "name:ell_x_variant":[
+        "\u03a6\u03b9\u03bb\u03ac\u03bd\u03b9"
+    ],
+    "name:unk_x_variant":[
+        "Pil\u00e2ni"
+    ],
+    "qs_pg:aaroncc":"CY",
+    "qs_pg:gn_country":"CY",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":146166,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Philani",
+    "qs_pg:name_adm0":"Cyprus",
+    "qs_pg:name_adm1":"Nicosia District",
+    "qs_pg:photos":233,
+    "qs_pg:photos_1k":47,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":233,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":894602,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":26812346,
+    "qs_pg:woe_id":841624,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":26812346,
+    "woe:name_adm0":"Cyprus",
+    "woe:name_adm1":"Nicosia District",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":146166,
+        "gp:id":841624,
+        "qs_pg:id":894602
+    },
+    "wof:country":"CY",
+    "wof:created":1497295884,
+    "wof:geomhash":"8978f8e7f6eae169d24fbd77808efe3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":1125903053,
+            "region_id":85682397
+        }
+    ],
+    "wof:id":1125903053,
+    "wof:lastmodified":1509399565,
+    "wof:name":"Philani",
+    "wof:parent_id":85682397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.2125,
+    34.99167,
+    33.2125,
+    34.99167
+],
+  "geometry": {"coordinates":[33.2125,34.99167],"type":"Point"}
+}

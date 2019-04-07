@@ -1,0 +1,89 @@
+{
+  "id": 1243080397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.31415,35.32433,33.31415,35.32433",
+    "geom:latitude":35.32433,
+    "geom:longitude":33.31415,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Girne Kepuveia",
+    "gn:country_code":"CY",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10375629,
+    "gn:latitude":35.32433,
+    "gn:longitude":33.31415,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Girne Kepuveia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Famagusta",
+    "iso:country":"CY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85681187,
+        85632375,
+        85682393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10375629
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"82d160ce4da5f8510f5a3510693f4079",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "disputed_id":85632375,
+            "locality_id":1243080397,
+            "region_id":85681187
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632375,
+            "disputed_id":85632375,
+            "locality_id":1243080397,
+            "region_id":85681187
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "disputed_id":85632375,
+            "locality_id":1243080397,
+            "region_id":85682393
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632375,
+            "disputed_id":85632375,
+            "locality_id":1243080397,
+            "region_id":85682393
+        }
+    ],
+    "wof:id":1243080397,
+    "wof:lastmodified":1536835073,
+    "wof:name":"Girne Kepuveia",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.31415,
+    35.32433,
+    33.31415,
+    35.32433
+],
+  "geometry": {"coordinates":[33.31415,35.32433],"type":"Point"}
+}

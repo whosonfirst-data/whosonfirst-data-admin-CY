@@ -1,0 +1,132 @@
+{
+  "id": 101803405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000035,
+    "geom:area_square_m":350048.060522,
+    "geom:bbox":"33.1164791658,34.9921581462,33.1302399862,34.99843199",
+    "geom:latitude":34.995853,
+    "geom:longitude":33.121923,
+    "iso:country":"CY",
+    "lbl:latitude":34.995902,
+    "lbl:longitude":33.120203,
+    "mps:latitude":34.995902,
+    "mps:longitude":33.120203,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u0531\u0575\u0578\u057d \u0537\u057a\u056b\u0586\u0561\u0576\u056b\u0578\u057d"
+    ],
+    "name:dut_x_preferred":[
+        "Agios Epifanios"
+    ],
+    "name:ell_x_preferred":[
+        "\u00c1gios Epif\u00e1nios"
+    ],
+    "name:ell_x_variant":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u0395\u03c0\u03b9\u03c6\u03ac\u03bd\u03b9\u03bf\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Ayios Epiphanios"
+    ],
+    "name:eng_x_variant":[
+        "Aybifan",
+        "Ayios Epiphanios Soleas",
+        "Saint Epiphanios",
+        "St Epiphanios",
+        "St. Epiphanios",
+        "Agios Epifanios"
+    ],
+    "name:gre_x_preferred":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u0395\u03c0\u03b9\u03c6\u03ac\u03bd\u03b5\u03b9\u03bf\u03c2"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u06af\u06cc\u0648\u0627\u0633 \u0627\u067e\u06cc\u0641\u0627\u0646\u0648\u0627\u0633"
+    ],
+    "name:pol_x_preferred":[
+        "Ajos Epifanios"
+    ],
+    "name:por_x_preferred":[
+        "Agios Epifanios"
+    ],
+    "name:spa_x_preferred":[
+        "Agios Epifanios Oreinis"
+    ],
+    "name:swe_x_preferred":[
+        "\u00c1gios Epif\u00e1nios"
+    ],
+    "name:und_x_colloquial":[
+        "Esendak"
+    ],
+    "name:und_x_variant":[
+        "Esendak\u0327"
+    ],
+    "name:unk_x_variant":[
+        "Saint Epiphanios"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u06af\u06cc\u0648\u0627\u0633 \u0627\u067e\u06cc\u0641\u0627\u0646\u06cc\u0648\u0633"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u039b\u03b5\u03c5\u03ba\u03c9\u03c3\u03af\u03b1",
+    "qs:a1_alt":"Lefkosia",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:la":"\u0386\u03b3\u03b9\u03bf\u03c2 \u0395\u03c0\u03b9\u03c6\u03ac\u03bd\u03b9\u03bf\u03c2 (\u039f\u03c1\u03b5\u03b9\u03bd\u03ae\u03c2)",
+    "qs:la_lc":"*CY1206",
+    "qs:level":"locality",
+    "qs:loc":"\u0386\u03b3\u03b9\u03bf\u03c2 \u0395\u03c0\u03b9\u03c6\u03ac\u03bd\u03b9\u03bf\u03c2",
+    "qs:loc_alt":"Agios Epifanios",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06ef0bde-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":146729,
+        "gp:id":841199,
+        "qs:id":8,
+        "wd:id":"Q4692623",
+        "wk:page":"Agios Epifanios"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"32b299ccbc84bb299cb2c58331586a10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":101803405,
+            "region_id":85682397
+        }
+    ],
+    "wof:id":101803405,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1553815513,
+    "wof:name":"\u0386\u03b3\u03b9\u03bf\u03c2 \u0395\u03c0\u03b9\u03c6\u03ac\u03bd\u03b9\u03bf\u03c2",
+    "wof:parent_id":85682397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.1164791657522,
+    34.99215814617844,
+    33.13023998616421,
+    34.99843198999338
+],
+  "geometry": {"coordinates":[[[33.1170427229801,34.99843198999338],[33.12125396241652,34.99735138174498],[33.12153579850769,34.99821691203636],[33.12679975678657,34.99686586353357],[33.12708165618517,34.99773137268573],[33.13023998616421,34.99692058864531],[33.12967613287128,34.9951895900715],[33.12441232453062,34.99654079973675],[33.12413046606406,34.99567527802731],[33.12202491916707,34.99621567058574],[33.12117946655587,34.99361906778984],[33.12223221108866,34.99334888864593],[33.12195040235088,34.9924833529692],[33.11984492827969,34.9930236918463],[33.11956315071308,34.99215814617844],[33.1174576723671,34.99269842969807],[33.11858475547393,34.99616062670646],[33.1164791657522,34.9967008920072],[33.1170427229801,34.99843198999338]]],"type":"Polygon"}
+}

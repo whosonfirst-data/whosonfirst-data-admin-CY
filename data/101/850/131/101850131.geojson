@@ -1,0 +1,128 @@
+{
+  "id": 101850131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.092926,35.246082,33.092926,35.246082",
+    "geom:latitude":35.246082,
+    "geom:longitude":33.092926,
+    "iso:country":"CY",
+    "lbl:latitude":35.246082,
+    "lbl:longitude":33.092926,
+    "mps:latitude":35.246082,
+    "mps:longitude":33.092926,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Dyo Potamoi"
+    ],
+    "name:ell_x_preferred":[
+        "D\u00fdo Potamo\u00ed"
+    ],
+    "name:ell_x_variant":[
+        "\u0394\u03cd\u03bf \u03a0\u03bf\u03c4\u03b1\u03bc\u03bf\u03af"
+    ],
+    "name:eng_x_preferred":[
+        "Dyo Potamoi"
+    ],
+    "name:eng_x_variant":[
+        "Diyobodamo",
+        "Ikedere"
+    ],
+    "name:gre_x_preferred":[
+        "\u0394\u03cd\u03bf \u03a0\u03bf\u03c4\u03b1\u03bc\u03bf\u03af"
+    ],
+    "name:pol_x_preferred":[
+        "Dio Potami"
+    ],
+    "name:und_x_preferred":[
+        "Dhyo Potami"
+    ],
+    "name:unk_x_variant":[
+        "Diyobodamo"
+    ],
+    "name:urd_x_preferred":[
+        "\u062f\u06cc\u0648 \u067e\u067e\u0648\u062a\u0627\u0645\u0648\u06cc"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u039b\u03b5\u03c5\u03ba\u03c9\u03c3\u03af\u03b1",
+    "qs:a1_alt":"Lefkosia",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0394\u03cd\u03bf \u03a0\u03bf\u03c4\u03b1\u03bc\u03bf\u03af",
+    "qs:loc_alt":"Dyo Potamoi",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682397,
+        85681187,
+        85632375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06ef1642-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":146650,
+        "gp:id":841262,
+        "qs:id":9,
+        "wd:id":"Q5319240",
+        "wk:page":"Dyo Potamoi"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"c4ed6d95a347bf818cd4e48091fed781",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":101850131,
+            "region_id":85682397
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "disputed_id":85632375,
+            "locality_id":101850131,
+            "region_id":85681187
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632375,
+            "disputed_id":85632375,
+            "locality_id":101850131,
+            "region_id":85681187
+        }
+    ],
+    "wof:id":101850131,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1544741274,
+    "wof:name":"\u0394\u03cd\u03bf \u03a0\u03bf\u03c4\u03b1\u03bc\u03bf\u03af",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.092926,
+    35.246082,
+    33.092926,
+    35.246082
+],
+  "geometry": {"coordinates":[33.092926,35.246082],"type":"Point"}
+}

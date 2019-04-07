@@ -1,0 +1,123 @@
+{
+  "id": 101803593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000038,
+    "geom:area_square_m":380045.924563,
+    "geom:bbox":"33.5798623828,35.0746749927,33.5897234889,35.082446878",
+    "geom:latitude":35.078463,
+    "geom:longitude":33.585255,
+    "iso:country":"CY",
+    "lbl:latitude":35.078629,
+    "lbl:longitude":33.585592,
+    "mps:latitude":35.078629,
+    "mps:longitude":33.585592,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u0544\u0565\u056c\u0578\u0582\u057d\u056b\u0561"
+    ],
+    "name:bul_x_preferred":[
+        "\u041c\u0435\u043b\u0443\u0441\u0438\u044f"
+    ],
+    "name:dut_x_preferred":[
+        "Melouseia"
+    ],
+    "name:ell_x_preferred":[
+        "Melo\u00faseia"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03b5\u03bb\u03bf\u03cd\u03c3\u03b5\u03b9\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Melouseia"
+    ],
+    "name:gre_x_preferred":[
+        "\u039c\u03b5\u03bb\u03bf\u03cd\u03c3\u03b5\u03b9\u03b1"
+    ],
+    "name:nno_x_preferred":[
+        "Melo\u00fasia"
+    ],
+    "name:pol_x_preferred":[
+        "Melusia"
+    ],
+    "name:swe_x_preferred":[
+        "Melo\u00faseia"
+    ],
+    "name:unk_x_variant":[
+        "K\u0131r\u0131kkale"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u039b\u03ac\u03c1\u03bd\u03b1\u03ba\u03b1",
+    "qs:a1_alt":"Larnaka",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:la":"\u039c\u03b5\u03bb\u03bf\u03cd\u03c3\u03b5\u03b9\u03b1",
+    "qs:la_lc":"*CY4203",
+    "qs:level":"locality",
+    "qs:loc":"\u039c\u03b5\u03bb\u03bf\u03cd\u03c3\u03b5\u03b9\u03b1",
+    "qs:loc_alt":"Melouseia",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85681187,
+        85632375,
+        85682407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":146312,
+        "qs:id":9,
+        "wd:id":"Q6813570",
+        "wk:page":"Melouseia"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"349d4ce6556bedc63cc71cd09a45390e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "disputed_id":85632375,
+            "locality_id":101803593,
+            "region_id":85681187
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632375,
+            "disputed_id":85632375,
+            "locality_id":101803593,
+            "region_id":85681187
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":101803593,
+            "region_id":85682407
+        }
+    ],
+    "wof:id":101803593,
+    "wof:lastmodified":1553815513,
+    "wof:name":"\u039c\u03b5\u03bb\u03bf\u03cd\u03c3\u03b5\u03b9\u03b1",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.57986238279574,
+    35.07467499269097,
+    33.58972348891535,
+    35.08244687796696
+],
+  "geometry": {"coordinates":[[[33.58867086823403,35.08075658625768],[33.58972348891535,35.08048097587124],[33.58885922949912,35.07789040862536],[33.58780664074254,35.07816600763937],[33.58723053887729,35.07643894214857],[33.58617796483941,35.07671452161611],[33.58560192408811,35.07498743808213],[33.58349679888755,35.07553854596057],[33.58320881472929,35.07467499269097],[33.58110368456414,35.07522604512792],[33.58196760305964,35.0778167198286],[33.57986238279574,35.07836774713877],[33.58015035425433,35.07923130772167],[33.58330820673535,35.07840473743818],[33.58417227664341,35.08099536938818],[33.58522491293962,35.08071981065734],[33.58580103062434,35.08244687796696],[33.58895896398485,35.0816201072322],[33.58867086823403,35.08075658625768]]],"type":"Polygon"}
+}

@@ -1,0 +1,120 @@
+{
+  "id": 101803423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000025,
+    "geom:area_square_m":250033.898384,
+    "geom:bbox":"33.2428467341,35.0397000212,33.2509491219,35.0486711977",
+    "geom:latitude":35.04369,
+    "geom:longitude":33.246732,
+    "gn:population":533,
+    "iso:country":"CY",
+    "lbl:latitude":35.043315,
+    "lbl:longitude":33.246455,
+    "mps:latitude":35.043315,
+    "mps:longitude":33.246455,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Episkopei\u00f3"
+    ],
+    "name:dut_x_preferred":[
+        "Episkopeio"
+    ],
+    "name:ell_x_preferred":[
+        "Episkopei\u00f3"
+    ],
+    "name:ell_x_variant":[
+        "\u0395\u03c0\u03b9\u03c3\u03ba\u03bf\u03c0\u03b5\u03b9\u03cc"
+    ],
+    "name:eng_x_preferred":[
+        "Episkopio"
+    ],
+    "name:eng_x_variant":[
+        "Episkopeio"
+    ],
+    "name:gre_x_preferred":[
+        "\u0395\u03c0\u03b9\u03c3\u03ba\u03bf\u03c0\u03b5\u03b9\u03cc"
+    ],
+    "name:pol_x_preferred":[
+        "Episkopio"
+    ],
+    "name:swe_x_preferred":[
+        "Episkopei\u00f3"
+    ],
+    "name:unk_x_variant":[
+        "Episkopeion"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u067e\u06cc\u0633\u06a9\u0648\u067e\u06cc\u0648"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u039b\u03b5\u03c5\u03ba\u03c9\u03c3\u03af\u03b1",
+    "qs:a1_alt":"Lefkosia",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:la":"\u0395\u03c1\u03b3\u03ac\u03c4\u03b5\u03c2",
+    "qs:la_lc":"*CY1230",
+    "qs:level":"locality",
+    "qs:loc":"\u0395\u03c0\u03b9\u03c3\u03ba\u03bf\u03c0\u03b5\u03b9\u03cc",
+    "qs:loc_alt":"Episkopeio",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":14,
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06ef191c-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":146629,
+        "gp:id":841278,
+        "qs:id":1273415,
+        "qs_pg:id":1273415,
+        "wd:id":"Q5383502",
+        "wk:page":"Episkopeio"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"37a2dc7a48c1b1d1e8d50a87007b8981",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":101803423,
+            "region_id":85682397
+        }
+    ],
+    "wof:id":101803423,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527642762,
+    "wof:name":"\u0395\u03c0\u03b9\u03c3\u03ba\u03bf\u03c0\u03b5\u03b9\u03cc",
+    "wof:parent_id":85682397,
+    "wof:placetype":"locality",
+    "wof:population":533,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.24284673408351,
+    35.03970002120167,
+    33.25094912190161,
+    35.04867119767789
+],
+  "geometry": {"coordinates":[[[33.25094912190161,35.04839950591457],[33.24953038364123,35.04407481697177],[33.24847731171184,35.04434649004338],[33.24734254067562,35.04088667755764],[33.24523646302077,35.04142995785236],[33.24466917921825,35.03970002120167],[33.24361615209051,35.03997163590168],[33.24389977838149,35.04083660925221],[33.24284673408351,35.04110821570686],[33.24369763975193,35.04370313151247],[33.24475071615757,35.04343151384654],[33.24531805709819,35.04516143736225],[33.24637114843978,35.04488980023859],[33.24665484434195,35.04575475439458],[33.24770793991627,35.04548310155036],[33.24799165634101,35.04634804939184],[33.24904475614727,35.04607638082689],[33.24989599645716,35.04867119767789],[33.25094912190161,35.04839950591457]]],"type":"Polygon"}
+}

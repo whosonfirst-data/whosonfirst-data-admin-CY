@@ -1,0 +1,130 @@
+{
+  "id": 101804637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000035,
+    "geom:bbox":"33.3814529501,34.7937161829,33.3872381262,34.8069159939",
+    "geom:latitude":34.799774,
+    "geom:longitude":33.384479,
+    "iso:country":"CY",
+    "lbl:latitude":34.798444,
+    "lbl:longitude":33.383997,
+    "mps:latitude":34.798444,
+    "mps:longitude":33.383997,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0410\u0433\u0438\u043e\u0441 \u0422\u0435\u043e\u0434\u043e\u0440\u043e\u0441"
+    ],
+    "name:ceb_x_preferred":[
+        "\u00c1gios The\u00f3doros"
+    ],
+    "name:ell_x_preferred":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u0398\u03b5\u03cc\u03b4\u03c9\u03c1\u03bf\u03c2 \u03a3\u03ba\u03b1\u03c1\u03af\u03bd\u03bf\u03c5"
+    ],
+    "name:ell_x_variant":[
+        "\u00c1gios The\u00f3doros",
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u0398\u03b5\u03cc\u03b4\u03c9\u03c1\u03bf\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Ayios Theodhoros"
+    ],
+    "name:eng_x_variant":[
+        "Agios Theodoros Skarinou",
+        "Aytotro",
+        "Saint Theodoros",
+        "St Theodoros",
+        "St. Theodoros"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u06af\u06cc\u0648\u0627\u0633 \u062a\u0626\u0648\u062f\u0648\u0631\u0648\u0632\u060c \u0644\u0627\u0631\u0646\u0627\u06a9\u0627"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u0575\u0578\u057d \u0539\u0565\u0578\u0564\u0578\u0580\u0578\u057d"
+    ],
+    "name:pol_x_preferred":[
+        "Ajos Teodoros"
+    ],
+    "name:swe_x_preferred":[
+        "\u00c1gios The\u00f3doros"
+    ],
+    "name:und_x_colloquial":[
+        "Bokazici",
+        "Layios Theodoros"
+    ],
+    "name:und_x_variant":[
+        "Bok\u0327azi\u00e7i",
+        "\u0141\u00e1yios The\u00f3doros"
+    ],
+    "name:unk_x_variant":[
+        "Saint Theodoros"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u06af\u06cc\u0648\u0627\u0633 \u062a\u06be\u06cc\u0648\u0688\u0648\u0631\u0648\u0632\u060c \u0644\u0627\u0631\u0646\u0627\u06a9\u0627"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u039b\u03ac\u03c1\u03bd\u03b1\u03ba\u03b1",
+    "qs:a1_alt":"Larnaka",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:la":"\u0386\u03b3\u03b9\u03bf\u03c2 \u0398\u03b5\u03cc\u03b4\u03c9\u03c1\u03bf\u03c2 (\u039b\u03ac\u03c1\u03bd\u03b1\u03ba\u03b1\u03c2)",
+    "qs:la_lc":"*CY4307",
+    "qs:level":"locality",
+    "qs:loc":"\u0386\u03b3\u03b9\u03bf\u03c2 \u0398\u03b5\u03cc\u03b4\u03c9\u03c1\u03bf\u03c2",
+    "qs:loc_alt":"Agios Theodoros",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":34.799722,
+    "wd:longitude":33.383889,
+    "wd:wordcount":74,
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06ef1098-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":146700,
+        "gp:id":841226,
+        "qs:id":9,
+        "wd:id":"Q4692671",
+        "wk:page":"Agios Theodoros, Larnaca"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"09362d2b91920d3af5a19b9d87ee6ee9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":101804637,
+            "region_id":85682407
+        }
+    ],
+    "wof:id":101804637,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527642755,
+    "wof:name":"\u0386\u03b3\u03b9\u03bf\u03c2 \u0398\u03b5\u03cc\u03b4\u03c9\u03c1\u03bf\u03c2",
+    "wof:parent_id":85682407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.3814529500732,
+    34.79371618294465,
+    33.38723812622629,
+    34.80691599387978
+],
+  "geometry": {"coordinates":[[[33.38723812622629,34.80664286391578],[33.38496943005333,34.79972442554123],[33.38601890466828,34.79945131351064],[33.38545180730648,34.79772168540308],[33.38650125435163,34.79744856890528],[33.38565064995407,34.79485411845684],[33.38670005886229,34.79458100122457],[33.38641653305393,34.79371618294465],[33.38431772995301,34.79426239801211],[33.38460123462096,34.79512722375682],[33.3814529500732,34.79594646806123],[33.38258693968976,34.79940578984957],[33.38153745636885,34.79967886234766],[33.3818209676507,34.80054369003324],[33.38287046154443,34.80027061380264],[33.38485538842116,34.80632430873817],[33.38590494990564,34.8060511944422],[33.38618856059577,34.80691599387978],[33.38723812622629,34.80664286391578]]],"type":"Polygon"}
+}

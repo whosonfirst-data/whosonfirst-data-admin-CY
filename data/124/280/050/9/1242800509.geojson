@@ -1,0 +1,68 @@
+{
+  "id": 1242800509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.94342,34.74672,32.94342,34.74672",
+    "geom:latitude":34.74672,
+    "geom:longitude":32.94342,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Soularavia",
+    "gn:country_code":"CY",
+    "gn:dem":351,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":5808,
+    "gn:latitude":34.74672,
+    "gn:longitude":32.94342,
+    "gn:modification_date":"2014-06-04",
+    "gn:name":"Soularavia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Nicosia",
+    "iso:country":"CY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Soularavia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":5808
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"593f9e556d04018fbeb274aec2eb4967",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":1242800509,
+            "region_id":85682411
+        }
+    ],
+    "wof:id":1242800509,
+    "wof:lastmodified":1537619239,
+    "wof:name":"Soularavia",
+    "wof:parent_id":85682411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.94342,
+    34.74672,
+    32.94342,
+    34.74672
+],
+  "geometry": {"coordinates":[32.94342,34.74672],"type":"Point"}
+}

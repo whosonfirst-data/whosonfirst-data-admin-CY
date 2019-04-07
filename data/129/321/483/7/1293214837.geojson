@@ -1,0 +1,102 @@
+{
+  "id": 1293214837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.60119,35.25472,33.60119,35.25472",
+    "geom:latitude":35.25472,
+    "geom:longitude":33.60119,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kiados",
+    "gn:country_code":"CY",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":146674,
+    "gn:latitude":35.25472,
+    "gn:longitude":33.60119,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Ki\u00e1dos",
+    "gn:population":0,
+    "gn:timezone":"Asia/Famagusta",
+    "iso:country":"CY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Ki\u00e1dos"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03b9\u03ac\u03b4\u03bf\u03c2"
+    ],
+    "name:und_x_variant":[
+        "Serdarl\u0131",
+        "\u00c7atoz",
+        "\u00c7atk\u00f6y",
+        "Chatos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85681187,
+        85632375,
+        85682389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":146674,
+        "wk:page":"Tziaos"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"fed736f51d6ee1d7225fbd4a86c798b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "disputed_id":85632375,
+            "locality_id":1293214837,
+            "region_id":85681187
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632375,
+            "disputed_id":85632375,
+            "locality_id":1293214837,
+            "region_id":85681187
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "disputed_id":85632375,
+            "locality_id":1293214837,
+            "region_id":85682389
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632375,
+            "disputed_id":85632375,
+            "locality_id":1293214837,
+            "region_id":85682389
+        }
+    ],
+    "wof:id":1293214837,
+    "wof:lastmodified":1537619247,
+    "wof:name":"Kiados",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.60119,
+    35.25472,
+    33.60119,
+    35.25472
+],
+  "geometry": {"coordinates":[33.60119,35.25472],"type":"Point"}
+}

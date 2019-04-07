@@ -1,0 +1,95 @@
+{
+  "id": 1293501643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.70832,35.37213,33.70832,35.37213",
+    "geom:latitude":35.37213,
+    "geom:longitude":33.70832,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Cheromylos",
+    "gn:country_code":"CY",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":19887,
+    "gn:latitude":35.37213,
+    "gn:longitude":33.70832,
+    "gn:modification_date":"2015-09-05",
+    "gn:name":"Cheromylos",
+    "gn:population":0,
+    "gn:timezone":"Asia/Famagusta",
+    "iso:country":"CY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Karao\u011flano\u011flu"
+    ],
+    "name:und_x_variant":[
+        "Sheromylos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85681187,
+        85632375,
+        85682389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":19887
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"3a20919c911dd454fca76b5f29bfa458",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "disputed_id":85632375,
+            "locality_id":1293501643,
+            "region_id":85681187
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632375,
+            "disputed_id":85632375,
+            "locality_id":1293501643,
+            "region_id":85681187
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "disputed_id":85632375,
+            "locality_id":1293501643,
+            "region_id":85682389
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632375,
+            "disputed_id":85632375,
+            "locality_id":1293501643,
+            "region_id":85682389
+        }
+    ],
+    "wof:id":1293501643,
+    "wof:lastmodified":1537619240,
+    "wof:name":"Cheromylos",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.70832,
+    35.37213,
+    33.70832,
+    35.37213
+],
+  "geometry": {"coordinates":[33.70832,35.37213],"type":"Point"}
+}

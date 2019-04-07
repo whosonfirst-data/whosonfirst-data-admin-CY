@@ -1,0 +1,123 @@
+{
+  "id": 101804655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000035,
+    "geom:area_square_m":360063.076219,
+    "geom:bbox":"33.0349575464,34.8317921166,33.044483468,34.8393180352",
+    "geom:latitude":34.836017,
+    "geom:longitude":33.039889,
+    "gn:population":408,
+    "iso:country":"CY",
+    "lbl:latitude":34.835844,
+    "lbl:longitude":33.039889,
+    "mps:latitude":34.835844,
+    "mps:longitude":33.039889,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041b\u0443\u0432\u0430\u0440\u0430\u0441"
+    ],
+    "name:ceb_x_preferred":[
+        "Louvar\u00e1s"
+    ],
+    "name:dut_x_preferred":[
+        "Louvaras"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03bf\u03c5\u03b2\u03b1\u03c1\u03ac\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "Louvar\u00e1s"
+    ],
+    "name:eng_x_preferred":[
+        "Louvaras"
+    ],
+    "name:eng_x_variant":[
+        "Louvara"
+    ],
+    "name:gre_x_preferred":[
+        "\u039b\u03bf\u03c5\u03b2\u03b1\u03c1\u03ac\u03c2"
+    ],
+    "name:pol_x_preferred":[
+        "Luwaras"
+    ],
+    "name:swe_x_preferred":[
+        "Louvar\u00e1s"
+    ],
+    "name:unk_x_variant":[
+        "Luvara"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u039b\u03b5\u03bc\u03b5\u03c3\u03cc\u03c2",
+    "qs:a1_alt":"Lemesos",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:id":0,
+    "qs:la":"\u039b\u03bf\u03c5\u03b2\u03b1\u03c1\u03ac\u03c2",
+    "qs:la_lc":"*CY5145",
+    "qs:level":"locality",
+    "qs:loc":"\u039b\u03bf\u03c5\u03b2\u03b1\u03c1\u03ac\u03c2",
+    "qs:loc_alt":"Louvaras",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":34.833333,
+    "wd:longitude":33.05,
+    "wd:wordcount":121,
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06ef3b7c-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":146363,
+        "gp:id":841469,
+        "qs:id":1273465,
+        "qs_pg:id":1273465,
+        "wd:id":"Q6689879",
+        "wk:page":"Louvaras"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"71e2a2a608de62a220578298fd7ee042",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":101804655,
+            "region_id":85682411
+        }
+    ],
+    "wof:id":101804655,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527642754,
+    "wof:name":"\u039b\u03bf\u03c5\u03b2\u03b1\u03c1\u03ac\u03c2",
+    "wof:parent_id":85682411,
+    "wof:placetype":"locality",
+    "wof:population":408,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.03495754641443,
+    34.83179211657824,
+    33.04448346804907,
+    34.83931803515065
+],
+  "geometry": {"coordinates":[[[33.04371230364347,34.83904884368775],[33.04343256833869,34.83818273928318],[33.04448346804907,34.83791353954621],[33.04392400512205,34.83618133043956],[33.04287312673489,34.83645052280184],[33.04203403683709,34.83385217889878],[33.04098318407796,34.83412134823874],[33.04070351743968,34.83325522480266],[33.03965266898695,34.83352437849487],[33.0390933860287,34.83179211657824],[33.03804255254357,34.83206125093693],[33.0383221785296,34.83292738686009],[33.0362204711771,34.83346562706612],[33.03705934315485,34.83606404161077],[33.03495754641443,34.8366022560877],[33.03523716841147,34.83746839652815],[33.03733898647772,34.8369301746788],[33.03761863946704,34.83779630518995],[33.03866954963109,34.83752717263565],[33.03922890593509,34.83925941861395],[33.04238166227219,34.83845192705854],[33.04266138691457,34.83931803515065],[33.04371230364347,34.83904884368775]]],"type":"Polygon"}
+}

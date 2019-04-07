@@ -1,0 +1,140 @@
+{
+  "id": 101803421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000064,
+    "geom:area_square_m":650090.663276,
+    "geom:bbox":"33.2470959833,35.0002107005,33.2596061127,35.0103188581",
+    "geom:latitude":35.005372,
+    "geom:longitude":33.253223,
+    "gn:population":436,
+    "iso:country":"CY",
+    "lbl:latitude":35.005336,
+    "lbl:longitude":33.252796,
+    "mps:latitude":35.005336,
+    "mps:longitude":33.252796,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u053f\u0561\u0574\u057a\u056b\u0561"
+    ],
+    "name:ceb_x_preferred":[
+        "Kampi\u00e1"
+    ],
+    "name:dut_x_preferred":[
+        "Kampia"
+    ],
+    "name:ell_x_preferred":[
+        "Kampi\u00e1"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03b1\u03bc\u03c0\u03b9\u03ac"
+    ],
+    "name:eng_x_preferred":[
+        "Kambia"
+    ],
+    "name:eng_x_variant":[
+        "Gambya",
+        "Kambiya",
+        "Kampia"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0627\u0645\u067e\u06cc\u0627"
+    ],
+    "name:gre_x_preferred":[
+        "\u039a\u03b1\u03bc\u03c0\u03b9\u03ac"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0561\u0574\u057a\u056b\u0561"
+    ],
+    "name:per_x_preferred":[
+        "\u06a9\u0627\u0645\u067e\u06cc\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Kambia"
+    ],
+    "name:spa_x_preferred":[
+        "Kampia"
+    ],
+    "name:swe_x_preferred":[
+        "Kampi\u00e1"
+    ],
+    "name:tur_x_preferred":[
+        "Kamp\u0131a"
+    ],
+    "name:unk_x_variant":[
+        "Kambiya"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0627\u0645\u067e\u06cc\u0627\u060c \u0642\u0628\u0631\u0635"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u039b\u03b5\u03c5\u03ba\u03c9\u03c3\u03af\u03b1",
+    "qs:a1_alt":"Lefkosia",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:la":"\u03a0\u03ad\u03c1\u03b1",
+    "qs:la_lc":"*CY1227",
+    "qs:level":"locality",
+    "qs:loc":"\u039a\u03b1\u03bc\u03c0\u03b9\u03ac",
+    "qs:loc_alt":"Kampia",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":27,
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06ef2056-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":146565,
+        "gp:id":841318,
+        "qs:id":405515,
+        "qs_pg:id":405515,
+        "wd:id":"Q11733931",
+        "wk:page":"Kampia, Cyprus"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"d58475c7f59a755001555399bac08afb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":101803421,
+            "region_id":85682397
+        }
+    ],
+    "wof:id":101803421,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527642767,
+    "wof:name":"\u039a\u03b1\u03bc\u03c0\u03b9\u03ac",
+    "wof:parent_id":85682397,
+    "wof:placetype":"locality",
+    "wof:population":436,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.24709598333339,
+    35.00021070046705,
+    33.25960611270779,
+    35.01031885811449
+],
+  "geometry": {"coordinates":[[[33.25883711487847,35.00977534680618],[33.25855353792525,35.00891038091459],[33.25960611270779,35.00863861103221],[33.25875540865604,35.00604370909377],[33.25770286592842,35.00631546776907],[33.25713580031174,35.00458551277967],[33.25608327249199,35.00485725200883],[33.25551626747767,35.00312727923563],[33.25446375456602,35.00339899901951],[33.25361335264984,35.00080400931887],[33.25256086533102,35.00107570592439],[33.25227742832095,35.00021070046705],[33.25017245567642,35.00075405028446],[33.25045587131831,35.00161906320977],[33.24729833186655,35.00243400932283],[33.24814854145694,35.00502906623746],[33.24709598333339,35.00530070219168],[33.24737939545423,35.00616571974246],[33.24843196426411,35.0058940800543],[33.24871539687695,35.00675909129365],[33.24976796991456,35.00648743589517],[33.25005142302052,35.00735244082279],[33.25110400028518,35.0070807697137],[33.25138747388496,35.00794576832919],[33.25244005537661,35.00767408150932],[33.2527235494706,35.00853907381219],[33.25377613518822,35.00826737128114],[33.25405964977728,35.00913235727131],[33.2551122397208,35.00886063902874],[33.25539577480509,35.0097256187056],[33.25644836897374,35.00945388475134],[33.25673192455491,35.01031885811449],[33.25883711487847,35.00977534680618]]],"type":"Polygon"}
+}

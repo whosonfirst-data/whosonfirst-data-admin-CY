@@ -1,0 +1,122 @@
+{
+  "id": 101756195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000148,
+    "geom:area_square_m":1502662.232702,
+    "geom:bbox":"33.1275243516,34.7139080285,33.1434033117,34.7313862074",
+    "geom:latitude":34.723071,
+    "geom:longitude":33.134902,
+    "gn:population":2204,
+    "iso:country":"CY",
+    "lbl:latitude":34.723676,
+    "lbl:longitude":33.134768,
+    "mps:latitude":34.723676,
+    "mps:longitude":33.134768,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u0531\u0575\u0578\u057d \u054f\u056b\u056d\u0578\u0576\u0561\u057d"
+    ],
+    "name:bul_x_preferred":[
+        "\u0410\u0433\u0438\u043e\u0441 \u0422\u0438\u0445\u043e\u043d\u0430\u0441"
+    ],
+    "name:ceb_x_preferred":[
+        "\u00c1gios T\u00fdchon"
+    ],
+    "name:dut_x_preferred":[
+        "Ayios Tykhonas"
+    ],
+    "name:ell_x_preferred":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u03a4\u03cd\u03c7\u03c9\u03bd\u03b1\u03c2 \u039b\u03b5\u03bc\u03b5\u03c3\u03bf\u03cd"
+    ],
+    "name:ell_x_variant":[
+        "\u00c1gios T\u00fdchon",
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u03a4\u03cd\u03c7\u03c9\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Ayios Tykhonas"
+    ],
+    "name:gre_x_preferred":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u03a4\u03cd\u03c7\u03c9\u03bd\u03b1\u03c2"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u0575\u0578\u057d \u054f\u056b\u056d\u0578\u0576\u0561\u057d"
+    ],
+    "name:nno_x_preferred":[
+        "\u00c1jos T\u00fdkhonas"
+    ],
+    "name:pol_x_preferred":[
+        "Ajos Tichonas"
+    ],
+    "name:swe_x_preferred":[
+        "\u00c1gios T\u00fdchon"
+    ],
+    "name:unk_x_variant":[
+        "Ayithona"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u039b\u03b5\u03bc\u03b5\u03c3\u03cc\u03c2",
+    "qs:a1_alt":"Lemesos",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:la":"\u03a6\u03b1\u03c3\u03bf\u03cd\u03bb\u03b1 (\u039b\u03b5\u03bc\u03b5\u03c3\u03bf\u03cd)",
+    "qs:la_lc":"*CY5103",
+    "qs:level":"locality",
+    "qs:loc":"\u0386\u03b3\u03b9\u03bf\u03c2 \u03a4\u03cd\u03c7\u03c9\u03bd",
+    "qs:loc_alt":"Agios Tychon",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":34.711944,
+    "wd:longitude":33.126944,
+    "wd:wordcount":38,
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":146692,
+        "gp:id":841231,
+        "qs:id":122420,
+        "wd:id":"Q4831310",
+        "wk:page":"Agios Tychonas"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"c8623c9ceca6e39dbc74e38658182930",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":101756195,
+            "region_id":85682411
+        }
+    ],
+    "wof:id":101756195,
+    "wof:lastmodified":1527689357,
+    "wof:name":"\u0386\u03b3\u03b9\u03bf\u03c2 \u03a4\u03cd\u03c7\u03c9\u03bd",
+    "wof:parent_id":85682411,
+    "wof:placetype":"locality",
+    "wof:population":2204,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.12752435163986,
+    34.71390802849709,
+    33.14340331169922,
+    34.73138620740497
+],
+  "geometry": {"coordinates":[[[33.13184508230802,34.71413299127795],[33.12911083534675,34.71676207489452],[33.12927227611095,34.71672051224925],[33.13067177324353,34.72105033920582],[33.12752435163986,34.72186069255486],[33.12864399605081,34.72532455211615],[33.12969318531339,34.72505443151687],[33.1310930111697,34.72938417970033],[33.13004376891627,34.72965431874388],[33.13060374569375,34.73138620740497],[33.13165300914534,34.7311160609828],[33.13137300532628,34.73025012162663],[33.13242225183444,34.72997996695574],[33.13214224707923,34.7291140287187],[33.13528991674406,34.72830350414648],[33.13556995329321,34.72916943131446],[33.13766838920907,34.72862901453135],[33.13822853369027,34.73036084639523],[33.1403269866139,34.72982036710027],[33.14004688834683,34.72895445983477],[33.14214529469291,34.72841394017087],[33.14186518489907,34.72754803771517],[33.14291436795793,34.72727776366816],[33.14235415617622,34.72554595842365],[33.14340331169922,34.72527567982098],[33.14256303473195,34.72267796373893],[33.1394156444772,34.72348873052471],[33.13829553760507,34.72002502880213],[33.13934463165901,34.71975479990186],[33.13906461850286,34.71888887173253],[33.13801553504186,34.71915909694343],[33.13773554214032,34.7182931625137],[33.13668646293013,34.71856337209942],[33.13556663029641,34.71509959391375],[33.13451758711534,34.71536977680898],[33.13423766369704,34.7145038221467],[33.13318862476825,34.71477398941818],[33.13290872160007,34.71390802849709],[33.13185968692386,34.71417818014498],[33.13184508230802,34.71413299127795]]],"type":"Polygon"}
+}

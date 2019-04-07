@@ -1,0 +1,130 @@
+{
+  "id": 101803501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000042,
+    "geom:area_square_m":420038.346058,
+    "geom:bbox":"33.1269753229,35.2225450042,33.1386679094,35.2276818608",
+    "geom:latitude":35.225177,
+    "geom:longitude":33.132906,
+    "iso:country":"CY",
+    "lbl:latitude":35.225065,
+    "lbl:longitude":33.132906,
+    "mps:latitude":35.225065,
+    "mps:longitude":33.132906,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Skylloura"
+    ],
+    "name:ell_x_preferred":[
+        "Ag\u00eda Mar\u00edna"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03b3\u03af\u03b1 \u039c\u03b1\u03c1\u03af\u03bd\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Ayia Marina"
+    ],
+    "name:eng_x_variant":[
+        "Agia Marina Xyliatou",
+        "Ayia Marina Xyliatos",
+        "Ayia Marina Xyliatou",
+        "Skylloura"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a3\u03ba\u03c5\u03bb\u03bb\u03bf\u03cd\u03c1\u03b1"
+    ],
+    "name:pol_x_preferred":[
+        "Skilura"
+    ],
+    "name:por_x_preferred":[
+        "Skylloura"
+    ],
+    "name:spa_x_preferred":[
+        "Skylloura"
+    ],
+    "name:swe_x_preferred":[
+        "Skyllo\u00fara"
+    ],
+    "name:unk_x_variant":[
+        "Skylloura"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u039b\u03b5\u03c5\u03ba\u03c9\u03c3\u03af\u03b1",
+    "qs:a1_alt":"Lefkosia",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:la":"\u0391\u03b3\u03af\u03b1 \u039c\u03b1\u03c1\u03af\u03bd\u03b1 (\u03a3\u03ba\u03c5\u03bb\u03bb\u03bf\u03cd\u03c1\u03b1\u03c2)",
+    "qs:la_lc":"*CY1246",
+    "qs:level":"locality",
+    "qs:loc":"\u0391\u03b3\u03af\u03b1 \u039c\u03b1\u03c1\u03af\u03bd\u03b1",
+    "qs:loc_alt":"Agia Marina",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682397,
+        85681187,
+        85632375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06ef0878-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":146750,
+        "gp:id":841175,
+        "qs:id":9,
+        "wd:id":"Q7537937"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"f1720e08f38133b422e83735adfbed9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":101803501,
+            "region_id":85682397
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "disputed_id":85632375,
+            "locality_id":101803501,
+            "region_id":85681187
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632375,
+            "disputed_id":85632375,
+            "locality_id":101803501,
+            "region_id":85681187
+        }
+    ],
+    "wof:id":101803501,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1553815513,
+    "wof:name":"\u0391\u03b3\u03af\u03b1 \u039c\u03b1\u03c1\u03af\u03bd\u03b1",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.12697532292316,
+    35.22254500418433,
+    33.13866790940779,
+    35.22768186079071
+],
+  "geometry": {"coordinates":[[[33.13367256431019,35.22768186079071],[33.13789583637242,35.22659998851236],[33.1376121184486,35.2257349032858],[33.13866790940779,35.22546440890585],[33.13781678229873,35.22286914908938],[33.13570525868852,35.22341010338869],[33.13542159094254,35.22254500418433],[33.13014272217481,35.22389716088702],[33.12985911828105,35.22303204042697],[33.12774754688525,35.22357281148953],[33.12803112917248,35.22443793942722],[33.12697532292316,35.22470831066653],[33.12782609641852,35.22730369034554],[33.1299377672434,35.22676291341264],[33.1302213997003,35.22762802737708],[33.13338888959822,35.22681676060387],[33.13367256431019,35.22768186079071]]],"type":"Polygon"}
+}

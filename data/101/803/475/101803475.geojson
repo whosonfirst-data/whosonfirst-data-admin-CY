@@ -1,0 +1,129 @@
+{
+  "id": 101803475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000046,
+    "geom:area_square_m":470061.710545,
+    "geom:bbox":"32.724672471,35.0359620666,32.7357163533,35.0455548726",
+    "geom:latitude":35.040616,
+    "geom:longitude":32.730471,
+    "gn:population":445,
+    "iso:country":"CY",
+    "lbl:latitude":35.041001,
+    "lbl:longitude":32.730555,
+    "mps:latitude":35.041001,
+    "mps:longitude":32.730555,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Kampos"
+    ],
+    "name:ceb_x_preferred":[
+        "Kampos"
+    ],
+    "name:dut_x_preferred":[
+        "Kampos"
+    ],
+    "name:eng_x_preferred":[
+        "Kambos"
+    ],
+    "name:eng_x_variant":[
+        "Kampos"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0627\u0645\u067e\u0648\u0633"
+    ],
+    "name:glg_x_preferred":[
+        "Kampos"
+    ],
+    "name:gre_x_preferred":[
+        "\u039a\u03ac\u03bc\u03c0\u03bf\u03c2 \u039b\u03b5\u03c5\u03ba\u03c9\u03c3\u03af\u03b1\u03c2"
+    ],
+    "name:per_x_preferred":[
+        "\u06a9\u0627\u0645\u067e\u0648\u0633"
+    ],
+    "name:pol_x_preferred":[
+        "Kambos"
+    ],
+    "name:spa_x_preferred":[
+        "Kampos"
+    ],
+    "name:swe_x_preferred":[
+        "Kampos"
+    ],
+    "name:unk_x_variant":[
+        "Kampos"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0627\u0645\u067e\u0648\u0633\u060c \u0642\u0628\u0631\u0635"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u039b\u03b5\u03c5\u03ba\u03c9\u03c3\u03af\u03b1",
+    "qs:a1_alt":"Lefkosia",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:la":"\u039a\u03ac\u03bc\u03c0\u03bf\u03c2",
+    "qs:la_lc":"*CY1427",
+    "qs:level":"locality",
+    "qs:loc":"\u039a\u03ac\u03bc\u03c0\u03bf\u03c2",
+    "qs:loc_alt":"Kampos",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":19,
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06ef2088-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":146564,
+        "gp:id":841319,
+        "qs:id":405516,
+        "qs_pg:id":405516,
+        "wd:id":"Q6359346",
+        "wk:page":"Kampos, Cyprus"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"13458296cefba101e83a69aa750faa6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":101803475,
+            "region_id":85682397
+        }
+    ],
+    "wof:id":101803475,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527642768,
+    "wof:name":"\u039a\u03ac\u03bc\u03c0\u03bf\u03c2",
+    "wof:parent_id":85682397,
+    "wof:placetype":"locality",
+    "wof:population":445,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.72467247102804,
+    35.0359620665817,
+    32.73571635325703,
+    35.0455548725912
+],
+  "geometry": {"coordinates":[[[32.72811329571778,35.04389091035137],[32.73127667487142,35.04309384651066],[32.73155413782712,35.04396083108156],[32.73260859567068,35.04369511544024],[32.73233112190064,35.04282813453182],[32.73338556258528,35.04256241053758],[32.73283062229405,35.04082844849552],[32.73493944137715,35.04029697911147],[32.73466196404394,35.03943000164014],[32.73571635325703,35.03916425258819],[32.73543887473761,35.03829727626231],[32.73438449633613,35.03856302165138],[32.73355215095825,35.0359620665817],[32.72933470365842,35.03702488404383],[32.72988950445944,35.03875888590397],[32.72672628751491,35.03955589481404],[32.72783587483042,35.04302391227679],[32.72467247102804,35.04382085698666],[32.72522725753242,35.0455548725912],[32.72839072622924,35.04475790590953],[32.72811329571778,35.04389091035137]]],"type":"Polygon"}
+}

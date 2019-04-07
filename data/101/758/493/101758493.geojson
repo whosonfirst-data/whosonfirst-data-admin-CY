@@ -1,0 +1,138 @@
+{
+  "id": 101758493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000188,
+    "geom:area_square_m":1914131.379397,
+    "geom:bbox":"33.0731091283,34.7080078553,33.0894928639,34.7268618424",
+    "geom:latitude":34.716503,
+    "geom:longitude":33.081324,
+    "iso:country":"CY",
+    "lbl:latitude":34.716654,
+    "lbl:longitude":33.08148,
+    "mps:latitude":34.716654,
+    "mps:longitude":33.08148,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:azb_x_preferred":[
+        "\u06af\u0626\u0631\u0645\u0627\u0633\u0648\u06af\u06cc\u0627"
+    ],
+    "name:bul_x_preferred":[
+        "\u0413\u0435\u0440\u043c\u0430\u0441\u043e\u0433\u0438\u044f"
+    ],
+    "name:ceb_x_preferred":[
+        "Germas\u00f3geia"
+    ],
+    "name:dut_x_preferred":[
+        "Yermasoyia"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03b5\u03c1\u03bc\u03b1\u03c3\u03cc\u03b3\u03b5\u03b9\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "Germas\u00f3geia"
+    ],
+    "name:eng_x_preferred":[
+        "Yermasoyia"
+    ],
+    "name:eng_x_variant":[
+        "Germasogeia"
+    ],
+    "name:fra_x_preferred":[
+        "Yermas\u00f3yia"
+    ],
+    "name:fre_x_preferred":[
+        "Yermas\u00f3yia"
+    ],
+    "name:gre_x_preferred":[
+        "\u0393\u03b5\u03c1\u03bc\u03b1\u03c3\u03cc\u03b3\u03b5\u03b9\u03b1"
+    ],
+    "name:ita_x_preferred":[
+        "Germasogeia"
+    ],
+    "name:lit_x_preferred":[
+        "Jermasoja"
+    ],
+    "name:nno_x_preferred":[
+        "Jermas\u00f3ja"
+    ],
+    "name:nob_x_preferred":[
+        "Germasogia"
+    ],
+    "name:nor_x_preferred":[
+        "Germasogia"
+    ],
+    "name:pol_x_preferred":[
+        "Jermasoja"
+    ],
+    "name:por_x_preferred":[
+        "Germasogeia"
+    ],
+    "name:swe_x_preferred":[
+        "Germas\u00f3geia"
+    ],
+    "name:tur_x_preferred":[
+        "Yermasoya"
+    ],
+    "name:urd_x_preferred":[
+        "\u06cc\u0631\u0645\u0633\u0648\u06cc\u06cc\u0627\u060c \u0642\u0628\u0631\u0635"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u039b\u03b5\u03bc\u03b5\u03c3\u03cc\u03c2",
+    "qs:a1_alt":"Lemesos",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:la":"\u03a6\u03b1\u03c3\u03bf\u03cd\u03bb\u03b1 (\u039b\u03b5\u03bc\u03b5\u03c3\u03bf\u03cd)",
+    "qs:la_lc":"*CY5103",
+    "qs:level":"locality",
+    "qs:loc":"\u0393\u03b5\u03c1\u03bc\u03b1\u03c3\u03cc\u03b3\u03b5\u03b9\u03b1",
+    "qs:loc_alt":"Germasogeia",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":87,
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":145963,
+        "qs:id":5,
+        "wd:id":"Q349340",
+        "wk:page":"Germasogeia"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"4a84ab0f05d000a6483c74b2d0fc739b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":101758493,
+            "region_id":85682411
+        }
+    ],
+    "wof:id":101758493,
+    "wof:lastmodified":1527689311,
+    "wof:name":"\u0393\u03b5\u03c1\u03bc\u03b1\u03c3\u03cc\u03b3\u03b5\u03b9\u03b1",
+    "wof:parent_id":85682411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.0731091283298,
+    34.70800785531628,
+    33.08949286386803,
+    34.72686184236113
+],
+  "geometry": {"coordinates":[[[33.08920019921993,34.71858696945213],[33.08949286386803,34.71663587179802],[33.0884275127359,34.71690969304473],[33.08786875682858,34.7151774224829],[33.08681958535976,34.71544705611711],[33.08598155561265,34.71284861998913],[33.08703069527564,34.71257899739891],[33.08675136070502,34.71171285057318],[33.08780048343914,34.71144321972611],[33.08669266815537,34.70800785531628],[33.07992019102124,34.70927769477885],[33.07547271152407,34.70927769477885],[33.0731091283298,34.7187320275558],[33.07317978040584,34.71895120690425],[33.07632752261566,34.71814273581521],[33.07744460639401,34.72160742864759],[33.07639532289107,34.72187694567231],[33.07723320511673,34.72447544941565],[33.07933182943924,34.72393638134071],[33.07961116401123,34.72480253676486],[33.08170978422999,34.72426341356493],[33.08254790944528,34.72686184236113],[33.08464656798679,34.72632264930792],[33.08436716205694,34.72545651630452],[33.08541647122325,34.72518690554932],[33.08513706433007,34.72432077366329],[33.08618635655847,34.72405115464994],[33.08534816192048,34.72145275464794],[33.08639741600075,34.72118313474073],[33.08611802646863,34.72031699995853],[33.08716726361376,34.72004737179356],[33.08688787311974,34.71918123812799],[33.08920019921993,34.71858696945213]]],"type":"Polygon"}
+}

@@ -1,0 +1,117 @@
+{
+  "id": 101804681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000026,
+    "geom:area_square_m":260046.456225,
+    "geom:bbox":"32.8699297549,34.8135514184,32.8791707571,34.8178854902",
+    "geom:latitude":34.815669,
+    "geom:longitude":32.874487,
+    "gn:population":10,
+    "iso:country":"CY",
+    "lbl:latitude":34.815764,
+    "lbl:longitude":32.874113,
+    "mps:latitude":34.815764,
+    "mps:longitude":32.874113,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041b\u043e\u0444\u0443"
+    ],
+    "name:dut_x_preferred":[
+        "Lofou"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03cc\u03c6\u03bf\u03c5"
+    ],
+    "name:ell_x_variant":[
+        "L\u00f3fou"
+    ],
+    "name:eng_x_preferred":[
+        "Lophos"
+    ],
+    "name:eng_x_variant":[
+        "Lofou"
+    ],
+    "name:gre_x_preferred":[
+        "\u039b\u03cc\u03c6\u03bf\u03c5"
+    ],
+    "name:pol_x_preferred":[
+        "Lofu"
+    ],
+    "name:unk_x_variant":[
+        "Lofos"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u039b\u03b5\u03bc\u03b5\u03c3\u03cc\u03c2",
+    "qs:a1_alt":"Lemesos",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:id":0,
+    "qs:la":"\u039b\u03cc\u03c6\u03bf\u03c5",
+    "qs:la_lc":"*CY5307",
+    "qs:level":"locality",
+    "qs:loc":"\u039b\u03cc\u03c6\u03bf\u03c5",
+    "qs:loc_alt":"Lofou",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":34.815833,
+    "wd:longitude":32.875278,
+    "wd:wordcount":445,
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06ef3ab4-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":146368,
+        "gp:id":841465,
+        "qs:id":1273463,
+        "qs_pg:id":1273463,
+        "wd:id":"Q3557686",
+        "wk:page":"Lofou"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"9ea055466e3a4a81cc5753be44acb7eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":101804681,
+            "region_id":85682411
+        }
+    ],
+    "wof:id":101804681,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527642745,
+    "wof:name":"\u039b\u03cc\u03c6\u03bf\u03c5",
+    "wof:parent_id":85682411,
+    "wof:placetype":"locality",
+    "wof:population":10,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.86992975491967,
+    34.81355141841118,
+    32.87917075705616,
+    34.81788549023884
+],
+  "geometry": {"coordinates":[[[32.8731419350114,34.81788549023884],[32.87734623985608,34.81681651091708],[32.87762382544241,34.81768330302293],[32.87867489656855,34.81741602460892],[32.87811971361742,34.81568244518098],[32.87917075705616,34.81541516212116],[32.87889316929113,34.81454837225994],[32.87784213654015,34.81481565165853],[32.87756456906163,34.81394885559678],[32.87546250600877,34.81448337116672],[32.87518496950423,34.81361656524439],[32.87203185967695,34.81441823785354],[32.87175436483528,34.81355141841118],[32.87070332629946,34.81381861501683],[32.87098081045224,34.81468543811957],[32.86992975491967,34.81495262641647],[32.87048473063362,34.81668627232705],[32.87153580754585,34.81641907670956],[32.87181332048772,34.81728589219722],[32.8728644017819,34.81701868095013],[32.8731419350114,34.81788549023884]]],"type":"Polygon"}
+}

@@ -1,0 +1,100 @@
+{
+  "id": 101837407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000067,
+    "geom:area_square_m":674549.299767,
+    "geom:bbox":"33.1597385418,35.0028699888,33.1703506819,35.0169328372",
+    "geom:latitude":35.010237,
+    "geom:longitude":33.164101,
+    "iso:country":"CY",
+    "lbl:latitude":35.007925,
+    "lbl:longitude":33.164021,
+    "mps:latitude":35.007925,
+    "mps:longitude":33.164021,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041a\u0430\u043b\u043e \u0425\u043e\u0440\u0438\u043e"
+    ],
+    "name:dut_x_preferred":[
+        "Kalo Chorio"
+    ],
+    "name:ell_x_preferred":[
+        "Kal\u00f3n Chori\u00f3n"
+    ],
+    "name:ell_x_variant":[
+        "Kal\u00f3 Chori\u00f3",
+        "\u039a\u03b1\u03bb\u03cc \u03a7\u03c9\u03c1\u03b9\u03cc",
+        "\u039a\u03b1\u03bb\u03cc\u03bd \u03a7\u03c9\u03c1\u03b9\u03cc\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Kalo Chorio"
+    ],
+    "name:gre_x_preferred":[
+        "\u039a\u03b1\u03bb\u03cc \u03a7\u03c9\u03c1\u03b9\u03cc"
+    ],
+    "name:pol_x_preferred":[
+        "Kalo Chorio"
+    ],
+    "name:unk_x_variant":[
+        "Kalokhorio Orinis"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u039b\u03b5\u03c5\u03ba\u03c9\u03c3\u03af\u03b1",
+    "qs:a1_alt":"Lefkosia",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:la":"\u039c\u03b1\u03bb\u03bf\u03cd\u03bd\u03c4\u03b1",
+    "qs:la_lc":"*CY1208",
+    "qs:level":"locality",
+    "qs:loc":"\u039a\u03b1\u03bb\u03cc \u03a7\u03c9\u03c1\u03b9\u03cc",
+    "qs:loc_alt":"Kalo Chorio",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":146572,
+        "gp:id":841310,
+        "qs:id":405511,
+        "wd:id":"Q11733885"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"6d6095d5ac6db7ce6f11d4c6746ab421",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":101837407,
+            "region_id":85682397
+        }
+    ],
+    "wof:id":101837407,
+    "wof:lastmodified":1553815535,
+    "wof:name":"\u039a\u03b1\u03bb\u03cc \u03a7\u03c9\u03c1\u03b9\u03cc",
+    "wof:parent_id":85682397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.15973854175195,
+    35.00286998875868,
+    33.17035068186703,
+    35.01693283721545
+],
+  "geometry": {"coordinates":[[[33.16849868656328,35.01626505404374],[33.17035068186703,35.01381421358855],[33.16895679262745,35.01417264878688],[33.1686742672876,35.01330733306219],[33.16446269479792,35.01439016104626],[33.16361530593662,35.0117941537909],[33.16572104081854,35.01125278610067],[33.16543857600402,35.01038745265896],[33.16859709790543,35.00957532242387],[33.16831461074963,35.0087099975824],[33.16726178726151,35.00898071591996],[33.16584955164967,35.00465403458048],[33.16374399240539,35.00519539808869],[33.16346159601665,35.00433004667377],[33.16240881744244,35.00460070673381],[33.16184407539362,35.00286998875868],[33.15973854175195,35.0034112580496],[33.16171516008245,35.00946877813402],[33.16066230866431,35.0097394208567],[33.1623568699066,35.01493150314059],[33.16130394779975,35.01520215621281],[33.16186885833872,35.01693283721545],[33.16608059379405,35.01585012324506],[33.16636310656702,35.0167154450038],[33.16846895706101,35.01617400867269],[33.16849868656328,35.01626505404374]]],"type":"Polygon"}
+}

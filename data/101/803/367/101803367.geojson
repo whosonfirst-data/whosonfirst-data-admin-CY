@@ -1,0 +1,141 @@
+{
+  "id": 101803367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000064,
+    "geom:area_square_m":650041.646455,
+    "geom:bbox":"33.5771811193,35.3324880015,33.5898541169,35.3427732408",
+    "geom:latitude":35.338175,
+    "geom:longitude":33.583536,
+    "iso:country":"CY",
+    "lbl:latitude":35.337937,
+    "lbl:longitude":33.583968,
+    "mps:latitude":35.337937,
+    "mps:longitude":33.583968,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u0531\u0575\u0578\u057d \u0531\u0574\u057e\u0580\u0578\u057d\u056b\u0578\u057d"
+    ],
+    "name:bul_x_preferred":[
+        "\u0410\u0433\u0438\u043e\u0441 \u0410\u043c\u0432\u0440\u043e\u0441\u0438\u043e\u0441"
+    ],
+    "name:dut_x_preferred":[
+        "Esentepe"
+    ],
+    "name:ell_x_preferred":[
+        "\u00c1gios Amvr\u00f3sios"
+    ],
+    "name:ell_x_variant":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u0391\u03bc\u03b2\u03c1\u03cc\u03c3\u03b9\u03bf\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Agios Amvrosios"
+    ],
+    "name:gre_x_preferred":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u0391\u03bc\u03b2\u03c1\u03cc\u03c3\u03b9\u03bf\u03c2 \u039a\u03b5\u03c1\u03cd\u03bd\u03b5\u03b9\u03b1\u03c2"
+    ],
+    "name:nno_x_preferred":[
+        "\u00c1jos Amvr\u00f3sios"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u06af\u06cc\u0648\u0627\u0633 \u0627\u0645\u0648\u0631\u0648\u0633\u06cc\u0648\u0633\u060c \u06a9\u06cc\u0631\u0646\u06cc\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Ajos Amwrosios"
+    ],
+    "name:swe_x_preferred":[
+        "\u00c1gios Amvr\u00f3sios"
+    ],
+    "name:tur_x_preferred":[
+        "Esentepe"
+    ],
+    "name:unk_x_variant":[
+        "Saint Amvrosios"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u06af\u06cc\u0648\u0627\u0633 \u0627\u0645\u0648\u0631\u0648\u0633\u06cc\u0648\u0633\u060c \u06a9\u06cc\u0631\u0646\u06cc\u0627"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u039a\u03b5\u03c1\u03cd\u03bd\u03b5\u03b9\u03b1",
+    "qs:a1_alt":"Keryneia",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:la":"\u0386\u03b3\u03b9\u03bf\u03c2 \u0391\u03bc\u03b2\u03c1\u03cc\u03c3\u03b9\u03bf\u03c2 (\u039a\u03b5\u03c1\u03cd\u03bd\u03b5\u03b9\u03b1\u03c2)",
+    "qs:la_lc":"*CY2201",
+    "qs:level":"locality",
+    "qs:loc":"\u0386\u03b3\u03b9\u03bf\u03c2 \u0391\u03bc\u03b2\u03c1\u03cc\u03c3\u03b9\u03bf\u03c2",
+    "qs:loc_alt":"Agios Amvrosios",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682393,
+        85632375,
+        85681187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":146738,
+        "gp:id":841188,
+        "qs:id":1349406,
+        "wd:id":"Q3556294",
+        "wk:page":"Agios Amvrosios, Kyrenia"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"1bcefc7cd6701e9c098423598532ddbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "disputed_id":85632375,
+            "locality_id":101803367,
+            "region_id":85682393
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632375,
+            "disputed_id":85632375,
+            "locality_id":101803367,
+            "region_id":85682393
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "disputed_id":85632375,
+            "locality_id":101803367,
+            "region_id":85681187
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632375,
+            "disputed_id":85632375,
+            "locality_id":101803367,
+            "region_id":85681187
+        }
+    ],
+    "wof:id":101803367,
+    "wof:lastmodified":1553815513,
+    "wof:name":"\u0386\u03b3\u03b9\u03bf\u03c2 \u0391\u03bc\u03b2\u03c1\u03cc\u03c3\u03b9\u03bf\u03c2",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.57718111925124,
+    35.33248800153933,
+    33.58985411692794,
+    35.3427732407888
+],
+  "geometry": {"coordinates":[[[33.58121933842006,35.3427732407888],[33.58544382658147,35.34167049241279],[33.58515381351816,35.34080739206087],[33.58726599620786,35.34025595344878],[33.58697597170089,35.33939285812187],[33.58908810629822,35.33884137910724],[33.58879807035009,35.33797828880506],[33.58985411692794,35.33770253510181],[33.5895640802886,35.33683944600665],[33.58850804445859,35.33711519589235],[33.5879280228437,35.33538900223573],[33.58687200186193,35.33566473247811],[33.58658201688507,35.3348016279171],[33.58552600000405,35.33507734233393],[33.58465613764037,35.33248800153933],[33.58254414842577,35.33303937144836],[33.58283407099827,35.33390249528918],[33.58177805567527,35.33417816604708],[33.58206797755253,35.3350412910944],[33.58101194483561,35.33531695365974],[33.58130186601727,35.33618007991356],[33.58024581590536,35.33645573428595],[33.58053573639035,35.3373188617465],[33.5794796688831,35.33759450792581],[33.57976958867118,35.3384576365932],[33.5787135037674,35.33873327457906],[33.57900342285808,35.33959640445329],[33.5779473205572,35.33987203424567],[33.57823723894978,35.34073516532698],[33.57718111925124,35.34101078692538],[33.57747103694516,35.34187391921387],[33.57958329120004,35.3413226563739],[33.57987324045223,35.34218577842023],[33.5809293683609,35.34191012516857],[33.58121933842006,35.3427732407888]]],"type":"Polygon"}
+}

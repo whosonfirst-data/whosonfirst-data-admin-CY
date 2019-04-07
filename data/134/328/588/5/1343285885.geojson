@@ -1,0 +1,93 @@
+{
+  "id": 1343285885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.80789,35.14373,32.80789,35.14373",
+    "geom:latitude":35.14373,
+    "geom:longitude":32.80789,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Potamos tou Kampou",
+    "gn:country_code":"CY",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":16561,
+    "gn:latitude":35.14373,
+    "gn:longitude":32.80789,
+    "gn:modification_date":"2014-01-08",
+    "gn:name":"Potam\u00f3s tou K\u00e1mpou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Nicosia",
+    "iso:country":"CY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Potam\u00f3s tou K\u00e1mpou"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03bf\u03c4\u03b1\u03bc\u03cc\u03c2 \u03c4\u03bf\u03c5 \u039a\u03ac\u03bc\u03c0\u03bf\u03c5"
+    ],
+    "name:und_x_variant":[
+        "Yedidalga",
+        "Potamo tu Kambu",
+        "Potamos tou Kambou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85681187,
+        85632375,
+        85682397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":16561,
+        "wk:page":"Potamos_tou_Kampou"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"89ade85a12dd4042a85e94fd127fb0b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "disputed_id":85632375,
+            "locality_id":1343285885,
+            "region_id":85681187
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632375,
+            "disputed_id":85632375,
+            "locality_id":1343285885,
+            "region_id":85681187
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":1343285885,
+            "region_id":85682397
+        }
+    ],
+    "wof:id":1343285885,
+    "wof:lastmodified":1537619240,
+    "wof:name":"Potamos tou Kampou",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.80789,
+    35.14373,
+    32.80789,
+    35.14373
+],
+  "geometry": {"coordinates":[32.80789,35.14373],"type":"Point"}
+}

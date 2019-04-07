@@ -1,0 +1,95 @@
+{
+  "id": 1125842565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.91667,34.87083,32.91667,34.87083",
+    "geom:latitude":34.87083,
+    "geom:longitude":32.91667,
+    "gn:gn_country":"CY",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"CY",
+    "lbl:latitude":34.87083,
+    "lbl:longitude":32.91667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ell_x_preferred":[
+        "Sa\u00eftt\u00e1s"
+    ],
+    "name:ell_x_variant":[
+        "\u03a3\u03b1\u03ca\u03c4\u03c4\u03ac\u03c2"
+    ],
+    "name:unk_x_variant":[
+        "Sayitta"
+    ],
+    "qs_pg:aaroncc":"CY",
+    "qs_pg:gn_country":"CY",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":146101,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Saitta",
+    "qs_pg:name_adm0":"Cyprus",
+    "qs_pg:name_adm1":"Limassol District",
+    "qs_pg:photos":27,
+    "qs_pg:photos_1k":5,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":27,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":901759,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":26812346,
+    "qs_pg:woe_id":841678,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":26812346,
+    "woe:name_adm0":"Cyprus",
+    "woe:name_adm1":"Limassol District",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":146101,
+        "gp:id":841678,
+        "qs_pg:id":901759
+    },
+    "wof:country":"CY",
+    "wof:created":1497292995,
+    "wof:geomhash":"eee009d52b726c93e2504e8db6738e55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":1125842565,
+            "region_id":85682411
+        }
+    ],
+    "wof:id":1125842565,
+    "wof:lastmodified":1509395372,
+    "wof:name":"Saitta",
+    "wof:parent_id":85682411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.91667,
+    34.87083,
+    32.91667,
+    34.87083
+],
+  "geometry": {"coordinates":[32.91667,34.87083],"type":"Point"}
+}

@@ -1,0 +1,126 @@
+{
+  "id": 101837411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000101,
+    "geom:area_square_m":1024026.055215,
+    "geom:bbox":"33.1684986866,35.0136311555,33.1844180962,35.0293207285",
+    "geom:latitude":35.020663,
+    "geom:longitude":33.17661,
+    "gn:population":1623,
+    "iso:country":"CY",
+    "lbl:latitude":35.019812,
+    "lbl:longitude":33.177393,
+    "mps:latitude":35.019812,
+    "mps:longitude":33.177393,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u053f\u056c\u056b\u0580\u0578\u0582"
+    ],
+    "name:ceb_x_preferred":[
+        "Kl\u00edrou"
+    ],
+    "name:dut_x_preferred":[
+        "Klirou"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03bb\u03ae\u03c1\u03bf\u03c5 \u039b\u03b5\u03c5\u03ba\u03c9\u03c3\u03af\u03b1\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "Kl\u00edrou",
+        "\u039a\u03bb\u03ae\u03c1\u03bf\u03c5"
+    ],
+    "name:eng_x_preferred":[
+        "Klirou"
+    ],
+    "name:gre_x_preferred":[
+        "\u039a\u03bb\u03ae\u03c1\u03bf\u03c5 \u039b\u03b5\u03c5\u03ba\u03c9\u03c3\u03af\u03b1\u03c2"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u056c\u056b\u0580\u0578\u0582"
+    ],
+    "name:pol_x_preferred":[
+        "Kliru"
+    ],
+    "name:swe_x_preferred":[
+        "Klirou"
+    ],
+    "name:tur_x_preferred":[
+        "Kl\u0131rou"
+    ],
+    "name:unk_x_variant":[
+        "Kliru"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u039b\u03b5\u03c5\u03ba\u03c9\u03c3\u03af\u03b1",
+    "qs:a1_alt":"Lefkosia",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:la":"\u039c\u03b1\u03bb\u03bf\u03cd\u03bd\u03c4\u03b1",
+    "qs:la_lc":"*CY1208",
+    "qs:level":"locality",
+    "qs:loc":"\u039a\u03bb\u03ae\u03c1\u03bf\u03c5",
+    "qs:loc_alt":"Klirou",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":35.020278,
+    "wd:longitude":33.1775,
+    "wd:wordcount":688,
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06ef2dda-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":146461,
+        "gp:id":841395,
+        "qs:id":122418,
+        "qs_pg:id":122418,
+        "wd:id":"Q672215",
+        "wk:page":"Klirou"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"0cb25f82e2713eda6fbc599e32c85081",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":101837411,
+            "region_id":85682397
+        }
+    ],
+    "wof:id":101837411,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527715312,
+    "wof:name":"\u039a\u03bb\u03ae\u03c1\u03bf\u03c5",
+    "wof:parent_id":85682397,
+    "wof:placetype":"locality",
+    "wof:population":1623,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.16849868656328,
+    35.01363115545223,
+    33.18441809623732,
+    35.02932072849762
+],
+  "geometry": {"coordinates":[[[33.18010940721416,35.02734886083721],[33.17923130359924,35.02466186262694],[33.18028430256959,35.02439099790587],[33.1800015653132,35.02352574421263],[33.18105454712679,35.02325487123386],[33.18048908055721,35.02152436359216],[33.18259498200882,35.02098259658879],[33.18231224198883,35.02011734636585],[33.18441809623732,35.01957553888286],[33.18413534459103,35.0187102935426],[33.18308243139654,35.01898119954939],[33.18251697887388,35.01725069370821],[33.18146408064445,35.01752158028108],[33.18089868867423,35.01579105671118],[33.17774001954763,35.01660362218314],[33.17745737035591,35.01573834536919],[33.17429867534531,35.01655079182439],[33.1737334705482,35.01482020814302],[33.1716276844827,35.01536176430329],[33.1710625616364,35.01363115545223],[33.17035068186703,35.01381421358855],[33.16849868656328,35.01626505404374],[33.16931661831171,35.01876993620215],[33.17247544210642,35.01795765831753],[33.17304066276444,35.01968824148605],[33.17409361255795,35.01941745077585],[33.17607226800243,35.02547438488727],[33.17396621203437,35.02601600647375],[33.17424889481629,35.02688127995225],[33.17319584645008,35.02715207649442],[33.17390436324877,35.02932072849762],[33.18010940721416,35.02734886083721]]],"type":"Polygon"}
+}

@@ -1,0 +1,120 @@
+{
+  "id": 1125809069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.507957,35.32773,33.507957,35.32773",
+    "geom:latitude":35.32773,
+    "geom:longitude":33.507957,
+    "gn:gn_country":"CY",
+    "iso:country":"CY",
+    "lbl:latitude":35.32773,
+    "lbl:longitude":33.507957,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arm_x_preferred":[
+        "\u0549\u0561\u0580\u056f\u056b\u0561"
+    ],
+    "name:dut_x_preferred":[
+        "Charkeia"
+    ],
+    "name:eng_x_preferred":[
+        "Charkeia"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a7\u03ac\u03c1\u03c4\u03b6\u03b9\u03b1"
+    ],
+    "name:pol_x_preferred":[
+        "Charkia"
+    ],
+    "qs_pg:aaroncc":"CY",
+    "qs_pg:gn_country":"CY",
+    "qs_pg:name":"Charkeia",
+    "qs_pg:name_adm0":"Cyprus",
+    "qs_pg:name_adm1":"Kyrenia District",
+    "qs_pg:photos":76,
+    "qs_pg:photos_1k":15,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":76,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":498322,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":26812346,
+    "qs_pg:woe_id":841373,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":26812346,
+    "woe:name_adm0":"Cyprus",
+    "woe:name_adm1":"Kyrenia District",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682393,
+        85632375,
+        85681187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":841373,
+        "qs_pg:id":498322,
+        "wd:id":"Q5074568"
+    },
+    "wof:country":"CY",
+    "wof:created":1497291582,
+    "wof:geomhash":"85a44aea7233d8e04ae32a14400188a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "disputed_id":85632375,
+            "locality_id":1125809069,
+            "region_id":85682393
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632375,
+            "disputed_id":85632375,
+            "locality_id":1125809069,
+            "region_id":85682393
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "disputed_id":85632375,
+            "locality_id":1125809069,
+            "region_id":85681187
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632375,
+            "disputed_id":85632375,
+            "locality_id":1125809069,
+            "region_id":85681187
+        }
+    ],
+    "wof:id":1125809069,
+    "wof:lastmodified":1513944665,
+    "wof:name":"Charkeia",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.507957,
+    35.32773,
+    33.507957,
+    35.32773
+],
+  "geometry": {"coordinates":[33.507957,35.32773],"type":"Point"}
+}

@@ -1,0 +1,127 @@
+{
+  "id": 101850155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.381256,34.998867,32.381256,34.998867",
+    "geom:latitude":34.998867,
+    "geom:longitude":32.381256,
+    "iso:country":"CY",
+    "lbl:latitude":34.998867,
+    "lbl:longitude":32.381256,
+    "mps:latitude":34.998867,
+    "mps:longitude":32.381256,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u0531\u0576\u0564\u0580\u0578\u056c\u056b\u056f\u0578\u0582"
+    ],
+    "name:bul_x_preferred":[
+        "\u0410\u043d\u0434\u0440\u043e\u043b\u0438\u043a\u0443"
+    ],
+    "name:dut_x_preferred":[
+        "Androlykou"
+    ],
+    "name:ell_x_preferred":[
+        "Androl\u00edkou"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03bd\u03b4\u03c1\u03bf\u03bb\u03af\u03ba\u03bf\u03c5"
+    ],
+    "name:eng_x_preferred":[
+        "Androlikou"
+    ],
+    "name:eng_x_variant":[
+        "Androhkou",
+        "Androlikon",
+        "Antroliku",
+        "Androlykou"
+    ],
+    "name:gre_x_preferred":[
+        "\u0391\u03bd\u03b4\u03c1\u03bf\u03bb\u03cd\u03ba\u03bf\u03c5"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u0576\u0564\u0580\u0578\u056c\u056b\u056f\u0578\u0582"
+    ],
+    "name:pol_x_preferred":[
+        "Androliku"
+    ],
+    "name:und_x_colloquial":[
+        "Guendokdu",
+        "Gundokdu"
+    ],
+    "name:und_x_variant":[
+        "G\u00fcndok\u0327du"
+    ],
+    "name:unk_x_variant":[
+        "Androhkou"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u03a0\u03ac\u03c6\u03bf\u03c2",
+    "qs:a1_alt":"Pafos",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0391\u03bd\u03b4\u03c1\u03bf\u03bb\u03af\u03ba\u03bf\u03c5",
+    "qs:loc_alt":"Androlikou",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":21,
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06eeff68-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":146814,
+        "gp:id":841127,
+        "qs:id":229084,
+        "qs_pg:id":229084,
+        "wd:id":"Q4759475",
+        "wk:page":"Androlykou"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"f5a7d1f3e4c7df8c3e2c0eab3e80671c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":101850155,
+            "region_id":85682401
+        }
+    ],
+    "wof:id":101850155,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1544741285,
+    "wof:name":"\u0391\u03bd\u03b4\u03c1\u03bf\u03bb\u03af\u03ba\u03bf\u03c5",
+    "wof:parent_id":85682401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.381256,
+    34.998867,
+    32.381256,
+    34.998867
+],
+  "geometry": {"coordinates":[32.381256,34.998867],"type":"Point"}
+}

@@ -1,0 +1,120 @@
+{
+  "id": 101803453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000025,
+    "geom:area_square_m":250028.138847,
+    "geom:bbox":"33.0272605374,35.1017869231,33.0335873006,35.1083271183",
+    "geom:latitude":35.105207,
+    "geom:longitude":33.030547,
+    "gn:population":581,
+    "iso:country":"CY",
+    "lbl:latitude":35.10544,
+    "lbl:longitude":33.030803,
+    "mps:latitude":35.10544,
+    "mps:longitude":33.030803,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Pot\u00e1mi"
+    ],
+    "name:dut_x_preferred":[
+        "Potami"
+    ],
+    "name:ell_x_preferred":[
+        "Pot\u00e1mi"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03bf\u03c4\u03ac\u03bc\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Potami"
+    ],
+    "name:eng_x_variant":[
+        "Dereler"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a0\u03bf\u03c4\u03ac\u03bc\u03b9"
+    ],
+    "name:pol_x_preferred":[
+        "Potami"
+    ],
+    "name:swe_x_preferred":[
+        "Pot\u00e1mi"
+    ],
+    "name:tur_x_preferred":[
+        "Potam\u0131"
+    ],
+    "name:unk_x_variant":[
+        "Dereler"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u039b\u03b5\u03c5\u03ba\u03c9\u03c3\u03af\u03b1",
+    "qs:a1_alt":"Lefkosia",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:la":"\u03a0\u03bf\u03c4\u03ac\u03bc\u03b9",
+    "qs:la_lc":"*CY1330",
+    "qs:level":"locality",
+    "qs:loc":"\u03a0\u03bf\u03c4\u03ac\u03bc\u03b9",
+    "qs:loc_alt":"Potami",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":69,
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06ef5ddc-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":146132,
+        "gp:id":841654,
+        "qs:id":255638,
+        "qs_pg:id":255638,
+        "wd:id":"Q7234615",
+        "wk:page":"Potami"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"ea0acde57f8c4a96b6712fb20c2c9818",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":101803453,
+            "region_id":85682397
+        }
+    ],
+    "wof:id":101803453,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527642764,
+    "wof:name":"\u03a0\u03bf\u03c4\u03ac\u03bc\u03b9",
+    "wof:parent_id":85682397,
+    "wof:placetype":"locality",
+    "wof:population":581,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.02726053743936,
+    35.10178692306567,
+    33.03358730056453,
+    35.10832711825338
+],
+  "geometry": {"coordinates":[[[33.03358730056453,35.10324912129784],[33.03330575519635,35.10238341861054],[33.03225132154182,35.10265263201569],[33.03196979670724,35.10178692306567],[33.02986093163554,35.10232530643219],[33.0301424349218,35.1031910228067],[33.02908798195722,35.10346020019233],[33.0293694842278,35.10432591772923],[33.02726053743936,35.10486424390456],[33.02838655791231,35.10832711825338],[33.0326045981551,35.10725035847639],[33.03232303529194,35.10638465856397],[33.03337751848233,35.10611544231483],[33.0325328561355,35.1035183384156],[33.03358730056453,35.10324912129784]]],"type":"Polygon"}
+}

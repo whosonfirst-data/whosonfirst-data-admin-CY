@@ -1,0 +1,144 @@
+{
+  "id": 101803231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000065,
+    "geom:area_square_m":660061.809629,
+    "geom:bbox":"33.777316208,35.23001064,33.787857962,35.2437240954",
+    "geom:latitude":35.23778,
+    "geom:longitude":33.782777,
+    "iso:country":"CY",
+    "lbl:latitude":35.237989,
+    "lbl:longitude":33.782856,
+    "mps:latitude":35.237989,
+    "mps:longitude":33.782856,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041c\u0438\u043b\u0438\u044f"
+    ],
+    "name:dut_x_preferred":[
+        "Milia"
+    ],
+    "name:ell_x_preferred":[
+        "Mili\u00e1"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03b7\u03bb\u03b9\u03ac"
+    ],
+    "name:eng_x_preferred":[
+        "Milya"
+    ],
+    "name:eng_x_variant":[
+        "Milia",
+        "Mylea",
+        "Yildirim"
+    ],
+    "name:gre_x_preferred":[
+        "\u039c\u03b7\u03bb\u03b9\u03ac"
+    ],
+    "name:per_x_preferred":[
+        "\u0645\u0627\u06cc\u0644\u06cc\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Milia"
+    ],
+    "name:spa_x_preferred":[
+        "Milia"
+    ],
+    "name:und_x_preferred":[
+        "Milea"
+    ],
+    "name:unk_x_variant":[
+        "Y\u0131ld\u0131r\u0131m"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u06cc\u0644\u06cc\u0627\u060c \u0641\u0627\u0645\u0627\u06af\u0648\u0633\u062a\u0627"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u0391\u03bc\u03bc\u03cc\u03c7\u03c9\u03c3\u03c4\u03bf\u03c2",
+    "qs:a1_alt":"Ammochostos",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:la":"\u039c\u03b7\u03bb\u03b9\u03ac (\u0391\u03bc\u03bc\u03bf\u03c7\u03ce\u03c3\u03c4\u03bf\u03c5)",
+    "qs:la_lc":"*CY3219",
+    "qs:level":"locality",
+    "qs:loc":"\u039c\u03b7\u03bb\u03b9\u03ac",
+    "qs:loc_alt":"Milia",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85681187,
+        85632375,
+        85682389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06ef43c4-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":146300,
+        "gp:id":841518,
+        "qs:id":1273486,
+        "wd:id":"Q6851821",
+        "wk:page":"Milia, Famagusta"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"18beea1aa8b69d0d6f0453a6f47b1174",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "disputed_id":85632375,
+            "locality_id":101803231,
+            "region_id":85681187
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632375,
+            "disputed_id":85632375,
+            "locality_id":101803231,
+            "region_id":85681187
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "disputed_id":85632375,
+            "locality_id":101803231,
+            "region_id":85682389
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632375,
+            "disputed_id":85632375,
+            "locality_id":101803231,
+            "region_id":85682389
+        }
+    ],
+    "wof:id":101803231,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1553815512,
+    "wof:name":"\u039c\u03b7\u03bb\u03b9\u03ac",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.77731620801956,
+    35.23001063996946,
+    33.78785796201498,
+    35.2437240954107
+],
+  "geometry": {"coordinates":[[[33.78299119644788,35.24289035705556],[33.78269953488706,35.24202789470922],[33.78375375627508,35.24174996179983],[33.78346209414298,35.24088750065357],[33.78451629820228,35.24060955960016],[33.78422463549941,35.23974709965381],[33.78527882223108,35.23946915045667],[33.78498715895785,35.23860669171029],[33.78709549110476,35.23805076504982],[33.78680381659888,35.23718831133891],[33.78785796201498,35.23691033387615],[33.78552484398767,35.23001063996946],[33.78447078385602,35.23028858674957],[33.78476237763164,35.23115106154972],[33.78370830018019,35.23142900018684],[33.78429149668017,35.23315394954847],[33.78323739124647,35.23343188387719],[33.78352899397066,35.23429435843917],[33.78142074179516,35.23485019883066],[33.78171233328584,35.23571267842669],[33.78065818654369,35.23599058448912],[33.78094977746184,35.23685306528415],[33.77884144266625,35.23740884914133],[33.77913302234788,35.23827133497076],[33.77807883429296,35.23854921276478],[33.77837041340069,35.23941169979378],[33.77731620801956,35.23968956944282],[33.7784825826966,35.24313950654698],[33.77953683073974,35.24286162155784],[33.77982846030397,35.2437240954107],[33.78299119644788,35.24289035705556]]],"type":"Polygon"}
+}

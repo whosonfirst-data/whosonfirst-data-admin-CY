@@ -1,0 +1,134 @@
+{
+  "id": 101803427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000105,
+    "geom:area_square_m":1060119.208103,
+    "geom:bbox":"33.2058097217,35.1089533377,33.2193921268,35.1232331891",
+    "geom:latitude":35.115751,
+    "geom:longitude":33.212225,
+    "iso:country":"CY",
+    "lbl:latitude":35.114624,
+    "lbl:longitude":33.212328,
+    "mps:latitude":35.114624,
+    "mps:longitude":33.212328,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u0531\u0575\u056b \u054f\u0580\u056b\u0574\u056b\u057f\u056b\u0561\u057d"
+    ],
+    "name:ceb_x_preferred":[
+        "\u00c1gioi Trimithi\u00e1s"
+    ],
+    "name:dut_x_preferred":[
+        "Ayii Trimithias"
+    ],
+    "name:ell_x_preferred":[
+        "\u0386\u03b3\u03b9\u03bf\u03b9 \u03a4\u03c1\u03b9\u03bc\u03b9\u03b8\u03b9\u03ac\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u00c1gioi Trimithi\u00e1s"
+    ],
+    "name:eng_x_preferred":[
+        "Ayii Trimithias"
+    ],
+    "name:eng_x_variant":[
+        "Agioi Trimithias",
+        "Ayious",
+        "Saint Trimithias",
+        "St Trimithias",
+        "St. Trimithias"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u062c\u06cc\u0648\u06cc \u062a\u0631\u06cc\u0645\u06cc\u062a\u06cc\u0627\u0633"
+    ],
+    "name:gre_x_preferred":[
+        "\u0386\u03b3\u03b9\u03bf\u03b9 \u03a4\u03c1\u03b9\u03bc\u03b9\u03b8\u03b9\u03ac\u03c2"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u0575\u056b \u054f\u0580\u056b\u0574\u056b\u0569\u056b\u0561\u057d"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u062c\u06cc\u0648\u06cc \u062a\u0631\u06cc\u0645\u06cc\u062a\u06cc\u0627\u0633"
+    ],
+    "name:pol_x_preferred":[
+        "Ajii Trimitias"
+    ],
+    "name:por_x_preferred":[
+        "Agioi Trimithias"
+    ],
+    "name:swe_x_preferred":[
+        "\u00c1gioi Trimithi\u00e1s"
+    ],
+    "name:unk_x_variant":[
+        "Ayious"
+    ],
+    "name:urd_x_preferred":[
+        "\u0622\u0626\u06cc\u0648\u06cc \u062a\u0631\u06cc\u0645\u06cc\u062a\u06be\u06cc\u0627\u0633"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u039b\u03b5\u03c5\u03ba\u03c9\u03c3\u03af\u03b1",
+    "qs:a1_alt":"Lefkosia",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:la":"\u03a0\u03b1\u03bb\u03b1\u03b9\u03bf\u03bc\u03ad\u03c4\u03bf\u03c7\u03bf",
+    "qs:la_lc":"*CY1241",
+    "qs:level":"locality",
+    "qs:loc":"\u0391\u03b3\u03af\u03bf\u03b9 \u03a4\u03c1\u03b9\u03bc\u03b9\u03b8\u03b9\u03ac\u03c2",
+    "qs:loc_alt":"Agioi Trimithias",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":35.114722,
+    "wd:longitude":33.21,
+    "wd:wordcount":51,
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06ef09ae-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":146742,
+        "gp:id":841185,
+        "qs:id":405472,
+        "wd:id":"Q9142938",
+        "wk:page":"Agioi Trimithias"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"4d1638280f34bed422d49be8fda2d4ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":101803427,
+            "region_id":85682397
+        }
+    ],
+    "wof:id":101803427,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527642768,
+    "wof:name":"\u0391\u03b3\u03af\u03bf\u03b9 \u03a4\u03c1\u03b9\u03bc\u03b9\u03b8\u03b9\u03ac\u03c2",
+    "wof:parent_id":85682397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.20580972168557,
+    35.10895333770674,
+    33.219392126782,
+    35.12323318908955
+],
+  "geometry": {"coordinates":[[[33.20990449958526,35.12182570513312],[33.2093368803254,35.12009575585012],[33.21039106558715,35.11982449248848],[33.21010725996496,35.11895951773158],[33.21432389318886,35.11787435927124],[33.21545934654364,35.12133418302835],[33.21651353159831,35.1210628484572],[33.21679743026658,35.12192779422799],[33.21890580239466,35.12138508161109],[33.21833797193062,35.11965520246343],[33.219392126782,35.119383835642],[33.21882431418368,35.11765395369122],[33.2167160409528,35.11819666037297],[33.21586446025549,35.11560179571632],[33.21902676372099,35.11478775136652],[33.21845902799657,35.11305785118287],[33.21740495480304,35.11332920381443],[33.21712111242908,35.11246424612477],[33.21606704348778,35.11273558302014],[33.21521560757441,35.1101406833028],[33.21310751466456,35.11068329866578],[33.21253998282828,35.10895333770674],[33.20726974447888,35.11030962879261],[33.20897213580048,35.11549959300015],[33.20580972168557,35.11631329099805],[33.20694471695117,35.11977326060395],[33.20589052297692,35.12004448423261],[33.2064580581133,35.12177446109496],[33.20751227357403,35.12150322998684],[33.20807986952752,35.12323318908955],[33.20913409998974,35.12296193850347],[33.2088502863528,35.12209696397713],[33.20990449958526,35.12182570513312]]],"type":"Polygon"}
+}

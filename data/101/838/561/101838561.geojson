@@ -1,0 +1,163 @@
+{
+  "id": 101838561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000069,
+    "geom:area_square_m":701717.45532,
+    "geom:bbox":"33.8661842278,35.1922423209,33.8799537001,35.2014727082",
+    "geom:latitude":35.197048,
+    "geom:longitude":33.873484,
+    "iso:country":"CY",
+    "lbl:latitude":35.197387,
+    "lbl:longitude":33.875205,
+    "mps:latitude":35.197387,
+    "mps:longitude":33.875205,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u0531\u0575\u0578\u057d \u054d\u0565\u0580\u0563\u056b\u0578\u057d"
+    ],
+    "name:bul_x_preferred":[
+        "\u0410\u0433\u0438\u043e\u0441 \u0421\u0435\u0440\u0433\u0438\u043e\u0441"
+    ],
+    "name:dut_x_preferred":[
+        "Ayios Seryios"
+    ],
+    "name:ell_x_preferred":[
+        "\u00c1gios S\u00e9rgios"
+    ],
+    "name:ell_x_variant":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u03a3\u03ad\u03c1\u03b3\u03b9\u03bf\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Agios Sergios"
+    ],
+    "name:eng_x_variant":[
+        "Ayasergi",
+        "Ayios Seryos",
+        "Aysergi",
+        "Saint Sergios",
+        "St Sergios",
+        "St. Sergios",
+        "Yenibosazici",
+        "Ayios Seryios"
+    ],
+    "name:ger_x_preferred":[
+        "Agios Sergios"
+    ],
+    "name:gre_x_preferred":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u03a3\u03ad\u03c1\u03b3\u03b9\u03bf\u03c2"
+    ],
+    "name:nno_x_preferred":[
+        "\u00c1jos S\u00e9rjos"
+    ],
+    "name:pol_x_preferred":[
+        "Ajos Serjos"
+    ],
+    "name:swe_x_preferred":[
+        "\u00c1gios S\u00e9rgios"
+    ],
+    "name:tur_x_preferred":[
+        "Yenibo\u011fazi\u00e7i"
+    ],
+    "name:und_x_colloquial":[
+        "Layios Sergios",
+        "Yeni Bokazici"
+    ],
+    "name:und_x_preferred":[
+        "\u0141\u00e1yios Sergios"
+    ],
+    "name:und_x_variant":[
+        "Ayios Seryios",
+        "Yeni Bok\u0327azi\u00e7i"
+    ],
+    "name:unk_x_variant":[
+        "Yenibosazici"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u0391\u03bc\u03bc\u03cc\u03c7\u03c9\u03c3\u03c4\u03bf\u03c2",
+    "qs:a1_alt":"Ammochostos",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:la":"\u0386\u03b3\u03b9\u03bf\u03c2 \u03a3\u03ad\u03c1\u03b3\u03b9\u03bf\u03c2",
+    "qs:la_lc":"*CY3121",
+    "qs:level":"locality",
+    "qs:loc":"\u0386\u03b3\u03b9\u03bf\u03c2 \u03a3\u03ad\u03c1\u03b3\u03b9\u03bf\u03c2",
+    "qs:loc_alt":"Agios Sergios",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85681187,
+        85632375,
+        85682389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06ef0f80-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":146703,
+        "gp:id":841220,
+        "qs:id":405491,
+        "wd:id":"Q4831304",
+        "wk:page":"Agios Sergios, Cyprus"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"911b8467adcdcbd494ddd498a690e341",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "disputed_id":85632375,
+            "locality_id":101838561,
+            "region_id":85681187
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632375,
+            "disputed_id":85632375,
+            "locality_id":101838561,
+            "region_id":85681187
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "disputed_id":85632375,
+            "locality_id":101838561,
+            "region_id":85682389
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632375,
+            "disputed_id":85632375,
+            "locality_id":101838561,
+            "region_id":85682389
+        }
+    ],
+    "wof:id":101838561,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1553815536,
+    "wof:name":"\u0386\u03b3\u03b9\u03bf\u03c2 \u03a3\u03ad\u03c1\u03b3\u03b9\u03bf\u03c2",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.86618422776371,
+    35.19224232093421,
+    33.87995370006934,
+    35.20147270822304
+],
+  "geometry": {"coordinates":[[[33.86618422776371,35.19742569088436],[33.86639912328712,35.19830833985407],[33.86977189965091,35.19741546467765],[33.87006427637726,35.19827764603735],[33.87111767014682,35.19799873198195],[33.87170247518196,35.1997230790725],[33.87275588353418,35.19944414536224],[33.87334075026558,35.20116847417546],[33.87544758946149,35.20061055547683],[33.87574005924887,35.20147270822304],[33.87995370006934,35.20035671184507],[33.87878371157638,35.19690814649334],[33.8798370625974,35.19662913286322],[33.87954458013053,35.19576698874994],[33.8784912397341,35.19604599853517],[33.87790632638308,35.19432169467495],[33.87685300056256,35.19460068480532],[33.87656056967683,35.19373852505873],[33.87129389363292,35.19513327700236],[33.87070916843436,35.1934089111279],[33.86860249382732,35.19396671276957],[33.86801785155922,35.19224232093421],[33.86696452550319,35.19252119612008],[33.86725683095858,35.19338339720412],[33.86620348760823,35.19366226426689],[33.86737276799079,35.19711105750724],[33.86618422776371,35.19742569088436]]],"type":"Polygon"}
+}

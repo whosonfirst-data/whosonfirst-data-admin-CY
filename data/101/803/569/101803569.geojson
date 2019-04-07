@@ -1,0 +1,140 @@
+{
+  "id": 101803569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000026,
+    "geom:area_square_m":260041.346652,
+    "geom:bbox":"33.4763088772,34.9404243071,33.4858606918,34.9455681272",
+    "geom:latitude":34.942919,
+    "geom:longitude":33.480805,
+    "gn:population":262,
+    "iso:country":"CY",
+    "lbl:latitude":34.94262,
+    "lbl:longitude":33.481529,
+    "mps:latitude":34.94262,
+    "mps:longitude":33.481529,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u0531\u0575\u056b\u0561 \u0531\u0576\u0576\u0561"
+    ],
+    "name:bul_x_preferred":[
+        "\u0410\u0433\u0438\u044f \u0410\u043d\u043d\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Ag\u00eda \u00c1nna"
+    ],
+    "name:dut_x_preferred":[
+        "Agia Anna"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03b3\u03af\u03b1 \u0386\u03bd\u03bd\u03b1 \u039b\u03ac\u03c1\u03bd\u03b1\u03ba\u03b1\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "Ag\u00eda \u00c1nna",
+        "\u0391\u03b3\u03af\u03b1 \u0386\u03bd\u03bd\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Ayia Anna"
+    ],
+    "name:eng_x_variant":[
+        "Agia Anna",
+        "Akhisar",
+        "Ayanna"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u06af\u06cc\u0627 \u0627\u0646\u0627\u060c \u0633\u06cc\u067e\u0631\u0627\u0633"
+    ],
+    "name:gre_x_preferred":[
+        "\u0391\u03b3\u03af\u03b1 \u0386\u03bd\u03bd\u03b1 \u039b\u03ac\u03c1\u03bd\u03b1\u03ba\u03b1\u03c2"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u0575\u056b\u0561 \u0531\u0576\u0576\u0561"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u06af\u06cc\u0627 \u0627\u0646\u0627\u060c \u0633\u06cc\u067e\u0631\u0627\u0633"
+    ],
+    "name:pol_x_preferred":[
+        "Ajia Anna"
+    ],
+    "name:swe_x_preferred":[
+        "Ag\u00eda \u00c1nna"
+    ],
+    "name:unk_x_variant":[
+        "Akhisar"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u06af\u06cc\u0627 \u0627\u0646\u0627\u060c \u0642\u0628\u0631\u0635"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u039b\u03ac\u03c1\u03bd\u03b1\u03ba\u03b1",
+    "qs:a1_alt":"Larnaka",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:la":"\u0391\u03b3\u03af\u03b1 \u0386\u03bd\u03bd\u03b1",
+    "qs:la_lc":"*CY4211",
+    "qs:level":"locality",
+    "qs:loc":"\u0391\u03b3\u03af\u03b1 \u0386\u03bd\u03bd\u03b1",
+    "qs:loc_alt":"Agia Anna",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":34.941389,
+    "wd:longitude":33.483056,
+    "wd:wordcount":60,
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06ef07b0-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":146756,
+        "gp:id":841171,
+        "qs:id":405465,
+        "qs_pg:id":405465,
+        "wd:id":"Q4692490",
+        "wk:page":"Agia Anna, Cyprus"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"a8310c29a987155117a6089a135d8bb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":101803569,
+            "region_id":85682407
+        }
+    ],
+    "wof:id":101803569,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527642759,
+    "wof:name":"\u0391\u03b3\u03af\u03b1 \u0386\u03bd\u03bd\u03b1",
+    "wof:parent_id":85682407,
+    "wof:placetype":"locality",
+    "wof:population":262,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.47630887724449,
+    34.94042430709152,
+    33.4858606918396,
+    34.94556812718349
+],
+  "geometry": {"coordinates":[[[33.48270738950725,34.94415534600114],[33.4858606918396,34.94333236294204],[33.48557487254106,34.94246819358176],[33.48452378886816,34.94274252945667],[33.48423799004888,34.94187835372804],[33.48318691048928,34.94215267389103],[33.48261536367835,34.94042430709152],[33.47630887724449,34.94206993197832],[33.47716602129196,34.94466254596728],[33.48031938922281,34.94383975345244],[33.48089093159552,34.94556812718349],[33.48299318684877,34.9450195240405],[33.48270738950725,34.94415534600114]]],"type":"Polygon"}
+}

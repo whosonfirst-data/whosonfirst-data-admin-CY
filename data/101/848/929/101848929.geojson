@@ -1,0 +1,122 @@
+{
+  "id": 101848929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.413531,34.813021,32.413531,34.813021",
+    "geom:latitude":34.813021,
+    "geom:longitude":32.413531,
+    "geonames:id":"146390,146639",
+    "iso:country":"CY",
+    "lbl:latitude":34.813021,
+    "lbl:longitude":32.413531,
+    "mps:latitude":34.813021,
+    "mps:longitude":32.413531,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u053c\u0565\u0574\u057a\u0561"
+    ],
+    "name:bul_x_preferred":[
+        "\u041b\u0435\u043c\u0431\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "L\u00e9mpa"
+    ],
+    "name:deu_x_preferred":[
+        "Lemba"
+    ],
+    "name:dut_x_preferred":[
+        "Lempa"
+    ],
+    "name:ell_x_preferred":[
+        "L\u00e9mpa"
+    ],
+    "name:ell_x_variant":[
+        "\u039b\u03ad\u03bc\u03c0\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Lempa"
+    ],
+    "name:ger_x_preferred":[
+        "Lemba"
+    ],
+    "name:gre_x_preferred":[
+        "\u039b\u03ad\u03bc\u03c0\u03b1"
+    ],
+    "name:hye_x_preferred":[
+        "\u053c\u0565\u0574\u057a\u0561"
+    ],
+    "name:pol_x_preferred":[
+        "Lemba"
+    ],
+    "name:swe_x_preferred":[
+        "L\u00e9mpa"
+    ],
+    "name:unk_x_variant":[
+        "\u00c7iral\u0131"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u03a0\u03ac\u03c6\u03bf\u03c2",
+    "qs:a1_alt":"Pafos",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u039b\u03ad\u03bc\u03c0\u03b1",
+    "qs:loc_alt":"Lempa",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":600,
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":146390,
+        "gp:id":841447,
+        "qs:id":4,
+        "qs_pg:id":1273454,
+        "wd:id":"Q6521475"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"ae1e4fd1f1b363afc5e7f2e433c66943",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":101848929,
+            "region_id":85682401
+        }
+    ],
+    "wof:id":101848929,
+    "wof:lastmodified":1544740701,
+    "wof:name":"\u039b\u03ad\u03bc\u03c0\u03b1",
+    "wof:parent_id":85682401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.413531,
+    34.813021,
+    32.413531,
+    34.813021
+],
+  "geometry": {"coordinates":[32.413531,34.813021],"type":"Point"}
+}

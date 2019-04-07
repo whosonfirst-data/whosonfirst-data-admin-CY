@@ -1,0 +1,77 @@
+{
+  "id": 1226574831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.03108,34.85016,33.03108,34.85016",
+    "geom:latitude":34.85016,
+    "geom:longitude":33.03108,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Kalo Chorio",
+    "gn:country_code":"CY",
+    "gn:dem":670,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":146574,
+    "gn:latitude":34.85016,
+    "gn:longitude":33.03108,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Kal\u00f3 Chori\u00f3",
+    "gn:population":0,
+    "gn:timezone":"Asia/Nicosia",
+    "iso:country":"CY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Kal\u00f3 Chori\u00f3"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03b1\u03bb\u03cc \u03a7\u03c9\u03c1\u03b9\u03cc"
+    ],
+    "name:und_x_variant":[
+        "Kalon Chorion",
+        "Kalohorio",
+        "Kalohoryo",
+        "Kalokhorio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":146574
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"24eb40ac85f0ecbade093c9619a74ff7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":1226574831,
+            "region_id":85682411
+        }
+    ],
+    "wof:id":1226574831,
+    "wof:lastmodified":1537619246,
+    "wof:name":"Kalo Chorio",
+    "wof:parent_id":85682411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.03108,
+    34.85016,
+    33.03108,
+    34.85016
+],
+  "geometry": {"coordinates":[33.03108,34.85016],"type":"Point"}
+}

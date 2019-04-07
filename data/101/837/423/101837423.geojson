@@ -1,0 +1,107 @@
+{
+  "id": 101837423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000105,
+    "geom:area_square_m":1060977.167413,
+    "geom:bbox":"33.2591471915,35.0723941106,33.273615109,35.0869872367",
+    "geom:latitude":35.080111,
+    "geom:longitude":33.266199,
+    "gn:population":1983,
+    "iso:country":"CY",
+    "lbl:latitude":35.08021,
+    "lbl:longitude":33.266914,
+    "mps:latitude":35.08021,
+    "mps:longitude":33.266914,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "P\u00e1no Defter\u00e1"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03ac\u03bd\u03c9 \u0394\u03b5\u03c5\u03c4\u03b5\u03c1\u03ac"
+    ],
+    "name:eng_x_preferred":[
+        "Pano Dheftera"
+    ],
+    "name:tur_x_preferred":[
+        "Pano Deftera"
+    ],
+    "name:und_x_colloquial":[
+        "Deftera Pano"
+    ],
+    "name:und_x_variant":[
+        "Defter\u00e1 Pano"
+    ],
+    "name:unk_x_variant":[
+        "Yukar\u0131 Deftera"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u039b\u03b5\u03c5\u03ba\u03c9\u03c3\u03af\u03b1",
+    "qs:a1_alt":"Lefkosia",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:la":"\u03a0\u03ac\u03bd\u03c9 \u0394\u03b5\u03c5\u03c4\u03b5\u03c1\u03ac",
+    "qs:la_lc":"*CY1232",
+    "qs:level":"locality",
+    "qs:loc":"\u03a0\u03ac\u03bd\u03c9 \u0394\u03b5\u03c5\u03c4\u03b5\u03c1\u03ac",
+    "qs:loc_alt":"Pano Deftera",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":87,
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06ef4f86-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":146225,
+        "gp:id":841577,
+        "qs:id":122402,
+        "qs_pg:id":122402,
+        "wd:id":"Q5269500"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"35012597307c7924b920b9b9c551672f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":101837423,
+            "region_id":85682397
+        }
+    ],
+    "wof:id":101837423,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527715302,
+    "wof:name":"\u03a0\u03ac\u03bd\u03c9 \u0394\u03b5\u03c5\u03c4\u03b5\u03c1\u03ac",
+    "wof:parent_id":85682397,
+    "wof:placetype":"locality",
+    "wof:population":1983,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.25914719154309,
+    35.07239411056992,
+    33.27361510900556,
+    35.08698723669414
+],
+  "geometry": {"coordinates":[[[33.27361510900556,35.08007630647637],[33.27284305396859,35.08027562477957],[33.27255878631775,35.07941083266979],[33.27150530807495,35.07968279021378],[33.27065259630569,35.07708838717895],[33.26854568462875,35.0776322438382],[33.26769312568672,35.0750377951324],[33.26453280593006,35.07585345652592],[33.26339632693703,35.07239411056992],[33.26234291689445,35.07266595875512],[33.26231708316305,35.07258729905556],[33.25917354353498,35.07723637153811],[33.25926547664267,35.07721265244618],[33.25983366803155,35.07894234739081],[33.26299414933771,35.07812684334056],[33.26384660662541,35.08072133273777],[33.26173956128935,35.08126503655342],[33.26202371196689,35.08212986868534],[33.26097016885512,35.08240170635509],[33.26125431865586,35.08326653965321],[33.25914719154309,35.08381018651602],[33.25943132975078,35.08467502472433],[33.26364560089439,35.08358766807089],[33.26449820314843,35.08618212230527],[33.26660536409088,35.08563834958301],[33.26688960595595,35.08650315501683],[33.26794318741003,35.08623124692826],[33.26737469209149,35.08450164097275],[33.27053533323249,35.0836858672493],[33.27162062105918,35.08698723669414],[33.27361510900556,35.08007630647637]]],"type":"Polygon"}
+}

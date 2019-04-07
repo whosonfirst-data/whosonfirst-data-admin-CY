@@ -1,0 +1,129 @@
+{
+  "id": 101756197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000214,
+    "geom:area_square_m":2172149.967208,
+    "geom:bbox":"33.0359725,34.691334,33.0589313946,34.7057780388",
+    "geom:latitude":34.699743,
+    "geom:longitude":33.046818,
+    "iso:country":"CY",
+    "lbl:latitude":34.699316,
+    "lbl:longitude":33.046599,
+    "mps:latitude":34.699316,
+    "mps:longitude":33.046599,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:azb_x_preferred":[
+        "\u0645\u0626\u0633\u0627 \u06af\u06cc\u062a\u0648\u0646\u06cc\u0627"
+    ],
+    "name:bul_x_preferred":[
+        "\u041c\u0435\u0441\u0430 \u0413\u0438\u0442\u043e\u043d\u0438\u044f"
+    ],
+    "name:dut_x_preferred":[
+        "Mesa Yitonia"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03ad\u03c3\u03b1 \u0393\u03b5\u03b9\u03c4\u03bf\u03bd\u03b9\u03ac"
+    ],
+    "name:ell_x_variant":[
+        "M\u00e9sa Geitoni\u00e1"
+    ],
+    "name:eng_x_preferred":[
+        "Mesa Yitonia"
+    ],
+    "name:fra_x_preferred":[
+        "M\u00e9sa Yitoni\u00e1"
+    ],
+    "name:fre_x_preferred":[
+        "M\u00e9sa Yitoni\u00e1"
+    ],
+    "name:gre_x_preferred":[
+        "\u039c\u03ad\u03c3\u03b1 \u0393\u03b5\u03b9\u03c4\u03bf\u03bd\u03b9\u03ac"
+    ],
+    "name:ita_x_preferred":[
+        "Mesa Geitonia"
+    ],
+    "name:nno_x_preferred":[
+        "M\u00e9sa Jiton\u00eda"
+    ],
+    "name:nob_x_preferred":[
+        "Mesa Geitonia"
+    ],
+    "name:nor_x_preferred":[
+        "Mesa Geitonia"
+    ],
+    "name:per_x_preferred":[
+        "\u0645\u0633\u0627 \u06af\u06cc\u062a\u0648\u0646\u06cc\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Mesa Jitonia"
+    ],
+    "name:por_x_preferred":[
+        "Mesa Geitonia"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0435\u0441\u0430 \u0413\u0438\u0442\u043e\u043d\u0438\u0458\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Mesayitonya"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u039b\u03b5\u03bc\u03b5\u03c3\u03cc\u03c2",
+    "qs:a1_alt":"Lemesos",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:la":"\u03a6\u03b1\u03c3\u03bf\u03cd\u03bb\u03b1 (\u039b\u03b5\u03bc\u03b5\u03c3\u03bf\u03cd)",
+    "qs:la_lc":"*CY5103",
+    "qs:level":"locality",
+    "qs:loc":"\u039c\u03ad\u03c3\u03b1 \u0393\u03b5\u03b9\u03c4\u03bf\u03bd\u03b9\u03ac",
+    "qs:loc_alt":"Mesa Geitonia",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":139,
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":146305,
+        "gp:id":841452,
+        "qs:id":5,
+        "wd:id":"Q649368"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"00a9fc9e02c2566dc6abac94b009dc48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":101756197,
+            "region_id":85682411
+        }
+    ],
+    "wof:id":101756197,
+    "wof:lastmodified":1527696565,
+    "wof:name":"\u039c\u03ad\u03c3\u03b1 \u0393\u03b5\u03b9\u03c4\u03bf\u03bd\u03b9\u03ac",
+    "wof:parent_id":85682411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.03597249999979,
+    34.691334,
+    33.0589313945693,
+    34.70577803878098
+],
+  "geometry": {"coordinates":[[[33.05792285657344,34.70223500915108],[33.05654872313136,34.70258773860564],[33.05571206071096,34.69998887945587],[33.05676111253911,34.69971961236587],[33.05648223371117,34.69885332453379],[33.05874109286867,34.69827347183406],[33.0589313945693,34.69706822772991],[33.0577394999998,34.69712449999997],[33.055332,34.69775749999991],[33.05538549999989,34.6972235],[33.04863,34.69405749999987],[33.04751199999981,34.69229149999995],[33.04461049999969,34.69176149999993],[33.04226699999981,34.691334],[33.04208299999965,34.69431699999984],[33.04008899999968,34.694325],[33.03995499999979,34.69625099999979],[33.03862749999973,34.69694149999992],[33.03646849999984,34.697216],[33.03597249999979,34.69763199999983],[33.03655599999979,34.698868],[33.03755549999988,34.700035],[33.0374719999997,34.70106499999986],[33.0372734999998,34.70249949999987],[33.03631199999984,34.70257949999996],[33.0360751739417,34.70401742406989],[33.04054906104517,34.70519476278139],[33.04871492504026,34.70519476278139],[33.05688078903523,34.70577803878098],[33.05792285657344,34.70223500915108]]],"type":"Polygon"}
+}

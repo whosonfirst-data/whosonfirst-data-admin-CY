@@ -1,0 +1,136 @@
+{
+  "id": 101803525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000055,
+    "geom:area_square_m":560053.850753,
+    "geom:bbox":"33.0535697074,35.1980779722,33.0646918836,35.207541042",
+    "geom:latitude":35.202731,
+    "geom:longitude":33.059108,
+    "iso:country":"CY",
+    "lbl:latitude":35.203125,
+    "lbl:longitude":33.058266,
+    "mps:latitude":35.203125,
+    "mps:longitude":33.058266,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Kyra"
+    ],
+    "name:ell_x_preferred":[
+        "Kyr\u00e1"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03c5\u03c1\u03ac"
+    ],
+    "name:eng_x_preferred":[
+        "Cira"
+    ],
+    "name:eng_x_variant":[
+        "Kira",
+        "Mevlevi",
+        "Kyra"
+    ],
+    "name:gre_x_preferred":[
+        "\u039a\u03c5\u03c1\u03ac"
+    ],
+    "name:per_x_preferred":[
+        "\u06a9\u0627\u06cc\u0631\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Kira"
+    ],
+    "name:swe_x_preferred":[
+        "Kyr\u00e1"
+    ],
+    "name:tur_x_preferred":[
+        "Mevlevi"
+    ],
+    "name:und_x_preferred":[
+        "Kyra"
+    ],
+    "name:unk_x_variant":[
+        "Cira"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u06cc\u0626\u0631\u0627\u060c \u0642\u0628\u0631\u0635"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u039b\u03b5\u03c5\u03ba\u03c9\u03c3\u03af\u03b1",
+    "qs:a1_alt":"Lefkosia",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:la":"\u039a\u03c5\u03c1\u03ac",
+    "qs:la_lc":"*CY1369",
+    "qs:level":"locality",
+    "qs:loc":"\u039a\u03c5\u03c1\u03ac",
+    "qs:loc_alt":"Kyra",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682397,
+        85681187,
+        85632375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06ef3442-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":146413,
+        "gp:id":841430,
+        "qs:id":9,
+        "wd:id":"Q4817691",
+        "wk:page":"Kyra, Cyprus"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"64b6f3763b7e5d4560e240c38393a947",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":101803525,
+            "region_id":85682397
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "disputed_id":85632375,
+            "locality_id":101803525,
+            "region_id":85681187
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632375,
+            "disputed_id":85632375,
+            "locality_id":101803525,
+            "region_id":85681187
+        }
+    ],
+    "wof:id":101803525,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1553815513,
+    "wof:name":"\u039a\u03c5\u03c1\u03ac",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.05356970740127,
+    35.19807797221711,
+    33.06469188361274,
+    35.20754104203485
+],
+  "geometry": {"coordinates":[[[33.06054389535126,35.20700188611028],[33.06026126016366,35.20613646207318],[33.06131699957848,35.20586686980499],[33.06075173700697,35.20413602153161],[33.06391885153334,35.20332719496037],[33.06363620253188,35.20246177817802],[33.06469188361274,35.20219214900573],[33.06356134245448,35.19873047126976],[33.06250570460463,35.19900008553441],[33.06278831437504,35.19986551252259],[33.05962132955472,35.20067429437228],[33.05877362693121,35.19807797221711],[33.05666233619718,35.19861707765597],[33.05694487231574,35.19948252837719],[33.05588920643004,35.19975206679118],[33.05617174154463,35.20061751868764],[33.05511605837637,35.20088704880624],[33.05568113640004,35.20261795239878],[33.05356970740127,35.20315699147494],[33.05385223949907,35.20402244689728],[33.05490796804685,35.20375292964428],[33.05575565560895,35.2063492694312],[33.05681141011587,35.20607972897778],[33.05709400306154,35.20694516674598],[33.0581497619051,35.20667561054375],[33.05843237547003,35.20754104203485],[33.06054389535126,35.20700188611028]]],"type":"Polygon"}
+}

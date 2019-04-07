@@ -1,0 +1,129 @@
+{
+  "id": 101838587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000032,
+    "geom:area_square_m":327238.440195,
+    "geom:bbox":"33.4956244337,35.2319780617,33.5044794062,35.2398162429",
+    "geom:latitude":35.236025,
+    "geom:longitude":33.500552,
+    "iso:country":"CY",
+    "lbl:latitude":35.236558,
+    "lbl:longitude":33.500988,
+    "mps:latitude":35.236558,
+    "mps:longitude":33.500988,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Beyk\u00f6y"
+    ],
+    "name:ell_x_preferred":[
+        "B\u00e9\u00efkio\u00ef"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03c0\u03ad\u03ca\u03ba\u03b9\u03bf\u03ca"
+    ],
+    "name:eng_x_preferred":[
+        "Beyk\u00f6y"
+    ],
+    "name:gre_x_preferred":[
+        "\u039c\u03c0\u03ad\u03b7 \u039a\u03b9\u03bf\u03b3\u03b9\u03bf\u03cd"
+    ],
+    "name:pol_x_preferred":[
+        "Beikii"
+    ],
+    "name:und_x_colloquial":[
+        "Beykoey",
+        "Beykoy"
+    ],
+    "name:und_x_preferred":[
+        "Bey Keuy"
+    ],
+    "name:und_x_variant":[
+        "Beyk\u00f6y"
+    ],
+    "name:unk_x_variant":[
+        "Beyk\u00f6y"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0626\u06cc\u06a9\u06cc\u0648\u06cc"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u039b\u03b5\u03c5\u03ba\u03c9\u03c3\u03af\u03b1",
+    "qs:a1_alt":"Lefkosia",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:la":"\u039a\u03c5\u03b8\u03c1\u03ad\u03b1",
+    "qs:la_lc":"*CY1139",
+    "qs:level":"locality",
+    "qs:loc":"\u039c\u03c0\u03ad\u03ca\u03ba\u03ca\u03bf\u03b9",
+    "qs:loc_alt":"Beikioi",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682397,
+        85681187,
+        85632375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06ef12dc-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":146679,
+        "gp:id":841241,
+        "qs:id":9,
+        "wd:id":"Q4899877",
+        "wk:page":"Beikioi"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"f9976f250414c304661fdb2bdf619950",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":101838587,
+            "region_id":85682397
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "disputed_id":85632375,
+            "locality_id":101838587,
+            "region_id":85681187
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632375,
+            "disputed_id":85632375,
+            "locality_id":101838587,
+            "region_id":85681187
+        }
+    ],
+    "wof:id":101838587,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1513944738,
+    "wof:name":"\u039c\u03c0\u03ad\u03ca\u03ba\u03ca\u03bf\u03b9",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.49562443367915,
+    35.23197806171515,
+    33.50447940619563,
+    35.23981624294828
+],
+  "geometry": {"coordinates":[[[33.49936717135466,35.23197806171515],[33.49562443367915,35.23450626304276],[33.49565397354161,35.23459481362562],[33.49670889749461,35.2343201896395],[33.49728518020294,35.23604745704523],[33.49834011901601,35.23577281347423],[33.49949284715137,35.23922730188951],[33.50054782227801,35.23895263114366],[33.50083604000287,35.23981624294828],[33.50294599192682,35.23926685787308],[33.50265775274818,35.23840325365791],[33.50371270809114,35.23812854691755],[33.50342446817319,35.23726494389484],[33.50447940619563,35.23699022895141],[33.50361471418591,35.23439941565243],[33.50255980833879,35.23467411921189],[33.50227160836539,35.23381050577973],[33.50016179834074,35.2343598693177],[33.49936717135466,35.23197806171515]]],"type":"Polygon"}
+}

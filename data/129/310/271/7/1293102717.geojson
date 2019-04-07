@@ -1,0 +1,107 @@
+{
+  "id": 1293102717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.57208,35.15586,33.57208,35.15586",
+    "geom:latitude":35.15586,
+    "geom:longitude":33.57208,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ornithi",
+    "gn:country_code":"CY",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":146251,
+    "gn:latitude":35.15586,
+    "gn:longitude":33.57208,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Orn\u00edthi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Famagusta",
+    "iso:country":"CY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Orn\u00edthi"
+    ],
+    "name:ell_x_variant":[
+        "\u039f\u03c1\u03bd\u03af\u03b8\u03b9"
+    ],
+    "name:tur_x_preferred":[
+        "Ekmek\u00e7iler Damlari"
+    ],
+    "name:und_x_variant":[
+        "Tatli Sou",
+        "Ekmekciler",
+        "Tavuk\u00e7u",
+        "Orunta",
+        "Ornita",
+        "Orniti",
+        "Ornuta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85681187,
+        85632375,
+        85682389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":146251
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"79e9881bca4b3826e0e60d53adb735a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "disputed_id":85632375,
+            "locality_id":1293102717,
+            "region_id":85681187
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632375,
+            "disputed_id":85632375,
+            "locality_id":1293102717,
+            "region_id":85681187
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "disputed_id":85632375,
+            "locality_id":1293102717,
+            "region_id":85682389
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632375,
+            "disputed_id":85632375,
+            "locality_id":1293102717,
+            "region_id":85682389
+        }
+    ],
+    "wof:id":1293102717,
+    "wof:lastmodified":1537619243,
+    "wof:name":"Ornithi",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.57208,
+    35.15586,
+    33.57208,
+    35.15586
+],
+  "geometry": {"coordinates":[33.57208,35.15586],"type":"Point"}
+}

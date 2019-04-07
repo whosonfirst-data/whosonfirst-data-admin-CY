@@ -1,0 +1,124 @@
+{
+  "id": 101803511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00004,
+    "geom:area_square_m":400039.95502,
+    "geom:bbox":"32.9328589766,35.171020685,32.9427086883,35.179082485",
+    "geom:latitude":35.174897,
+    "geom:longitude":32.937315,
+    "iso:country":"CY",
+    "lbl:latitude":35.174567,
+    "lbl:longitude":32.935674,
+    "mps:latitude":35.174567,
+    "mps:longitude":32.935674,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Prasti\u00f3"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03c1\u03b1\u03c3\u03c4\u03b9\u03cc"
+    ],
+    "name:eng_x_preferred":[
+        "Prasdyo"
+    ],
+    "name:eng_x_variant":[
+        "Aydinli",
+        "Prastio Morfou",
+        "Prastio Morphou",
+        "Prastion",
+        "Prastyo"
+    ],
+    "name:und_x_colloquial":[
+        "Aydinkoey",
+        "Aydinkoy"
+    ],
+    "name:und_x_preferred":[
+        "Prastio"
+    ],
+    "name:und_x_variant":[
+        "Aydink\u00f6y"
+    ],
+    "name:unk_x_variant":[
+        "Prasdyo"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u039b\u03b5\u03c5\u03ba\u03c9\u03c3\u03af\u03b1",
+    "qs:a1_alt":"Lefkosia",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:la":"\u03a0\u03c1\u03b1\u03c3\u03c4\u03b9\u03cc (\u039b\u03b5\u03c5\u03ba\u03c9\u03c3\u03af\u03b1\u03c2)",
+    "qs:la_lc":"*CY1353",
+    "qs:level":"locality",
+    "qs:loc":"\u03a0\u03c1\u03b1\u03c3\u03c4\u03b9\u03cc",
+    "qs:loc_alt":"Prastio",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682397,
+        85681187,
+        85632375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06ef5eae-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":146123,
+        "gp:id":841659,
+        "qs:id":1273511,
+        "wd:id":"Q4817977",
+        "wk:page":"Prastio, Nicosia"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"d64b41f11ef017f1b9534e73482793ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":101803511,
+            "region_id":85682397
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "disputed_id":85632375,
+            "locality_id":101803511,
+            "region_id":85681187
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632375,
+            "disputed_id":85632375,
+            "locality_id":101803511,
+            "region_id":85681187
+        }
+    ],
+    "wof:id":101803511,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1501212506,
+    "wof:name":"\u03a0\u03c1\u03b1\u03c3\u03c4\u03b9\u03cc",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.93285897660718,
+    35.17102068499253,
+    32.94270868828346,
+    35.17908248496747
+],
+  "geometry": {"coordinates":[[[32.94010362985711,35.17768018507815],[32.93982266997489,35.17681423767777],[32.94193401035386,35.17627784937793],[32.94165303857449,35.17541190685279],[32.94270868828346,35.17514369837266],[32.94214675233485,35.17341181312179],[32.93897984883881,35.17421638025064],[32.93869892796272,35.17335042269963],[32.93764329141476,35.173618583988],[32.93680061975772,35.17102068499253],[32.93363376891659,35.17182506336212],[32.93391461724764,35.17269104334724],[32.93285897660718,35.172959149127],[32.93426331037165,35.17728902952342],[32.93637469347073,35.17675276888485],[32.93665561112505,35.17761872994151],[32.9377113038455,35.17735057787843],[32.93827319006039,35.17908248496747],[32.93932889799532,35.17881431346683],[32.93904793918568,35.17794836489747],[32.94010362985711,35.17768018507815]]],"type":"Polygon"}
+}

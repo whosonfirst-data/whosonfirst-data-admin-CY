@@ -1,0 +1,137 @@
+{
+  "id": 101804687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000032,
+    "geom:area_square_m":320055.333713,
+    "geom:bbox":"32.945202396,34.8480244192,32.9541703544,34.8540274912",
+    "geom:latitude":34.850834,
+    "geom:longitude":32.949454,
+    "gn:population":110,
+    "iso:country":"CY",
+    "lbl:latitude":34.85086,
+    "lbl:longitude":32.949013,
+    "mps:latitude":34.85086,
+    "mps:longitude":32.949013,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u0531\u0575\u0578\u057d \u0544\u0561\u0574\u0561\u057d"
+    ],
+    "name:bul_x_preferred":[
+        "\u0410\u0433\u0438\u043e\u0441 \u041c\u0430\u043c\u0430\u0441"
+    ],
+    "name:ceb_x_preferred":[
+        "\u00c1gios M\u00e1mas"
+    ],
+    "name:dut_x_preferred":[
+        "Ayios Mamas"
+    ],
+    "name:ell_x_preferred":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u039c\u03ac\u03bc\u03b1\u03c2 \u039b\u03b5\u03bc\u03b5\u03c3\u03bf\u03cd"
+    ],
+    "name:ell_x_variant":[
+        "\u00c1gios M\u00e1mas",
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u039c\u03ac\u03bc\u03b1\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Ayios Mamas"
+    ],
+    "name:eng_x_variant":[
+        "Agios Mamas",
+        "Aymama",
+        "Saint Mamos",
+        "St Mamos",
+        "St. Mamos"
+    ],
+    "name:gre_x_preferred":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u039c\u03ac\u03bc\u03b1\u03c2"
+    ],
+    "name:hun_x_preferred":[
+        "Agios Mamas"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u0575\u0578\u057d \u0544\u0561\u0574\u0561\u057d"
+    ],
+    "name:pol_x_preferred":[
+        "Ajos Mamas"
+    ],
+    "name:swe_x_preferred":[
+        "\u00c1gios M\u00e1mas"
+    ],
+    "name:unk_x_variant":[
+        "Saint Mamos"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u039b\u03b5\u03bc\u03b5\u03c3\u03cc\u03c2",
+    "qs:a1_alt":"Lemesos",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:la":"\u0386\u03b3\u03b9\u03bf\u03c2 \u039c\u03ac\u03bc\u03b1\u03c2",
+    "qs:la_lc":"*CY5316",
+    "qs:level":"locality",
+    "qs:loc":"\u0386\u03b3\u03b9\u03bf\u03c2 \u039c\u03ac\u03bc\u03b1\u03c2",
+    "qs:loc_alt":"Agios Mamas",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:elevation":590.0,
+    "wd:latitude":34.85,
+    "wd:longitude":32.95,
+    "wd:wordcount":189,
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06ef0de6-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":146717,
+        "gp:id":841210,
+        "qs:id":405486,
+        "qs_pg:id":405486,
+        "wd:id":"Q516882",
+        "wk:page":"Agios Mamas"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"c7add80e5c4bbcdd7a506b21b126dfac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":101804687,
+            "region_id":85682411
+        }
+    ],
+    "wof:id":101804687,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527642746,
+    "wof:name":"\u0386\u03b3\u03b9\u03bf\u03c2 \u039c\u03ac\u03bc\u03b1\u03c2",
+    "wof:parent_id":85682411,
+    "wof:placetype":"locality",
+    "wof:population":110,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.94520239604822,
+    34.84802441915269,
+    32.95417035441631,
+    34.85402749121238
+],
+  "geometry": {"coordinates":[[[32.95052251152578,34.85349125204272],[32.95024379083338,34.85262480550864],[32.95234646220376,34.85208852580973],[32.95206772977531,34.85122208408001],[32.95417035441631,34.85068576385339],[32.95361287573087,34.84895288745616],[32.95256158795206,34.84922104620307],[32.95228287375403,34.84835460050869],[32.95018030055581,34.84889087474403],[32.94990161736803,34.84802441915269],[32.94674774210216,34.84882872971053],[32.94702639322907,34.84969519632619],[32.94597507811284,34.84996327958095],[32.94625372818882,34.85082974732529],[32.94520239604822,34.85109782228466],[32.94575970373353,34.85283075748447],[32.94681105725192,34.85256267517553],[32.94708973623972,34.85342913528154],[32.9481410941093,34.85316103732754],[32.94841979342431,34.85402749121238],[32.95052251152578,34.85349125204272]]],"type":"Polygon"}
+}

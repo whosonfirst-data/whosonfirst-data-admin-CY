@@ -1,0 +1,126 @@
+{
+  "id": 101849051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.065426,34.867393,33.065426,34.867393",
+    "geom:latitude":34.867393,
+    "geom:longitude":33.065426,
+    "gn:population":169,
+    "iso:country":"CY",
+    "lbl:latitude":34.867393,
+    "lbl:longitude":33.065426,
+    "mps:latitude":34.867393,
+    "mps:longitude":33.065426,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u0531\u0575\u0578\u057d \u053f\u0578\u0576\u057d\u057f\u0561\u0576\u057f\u056b\u0576\u0578\u057d"
+    ],
+    "name:bul_x_preferred":[
+        "\u0410\u0433\u0438\u043e\u0441 \u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\u043e\u0441"
+    ],
+    "name:dut_x_preferred":[
+        "Ayios Konstantinos"
+    ],
+    "name:ell_x_preferred":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u039a\u03c9\u03bd\u03c3\u03c4\u03b1\u03bd\u03c4\u03af\u03bd\u03bf\u03c2 \u039b\u03b5\u03bc\u03b5\u03c3\u03bf\u03cd"
+    ],
+    "name:ell_x_variant":[
+        "\u00c1gios Konstant\u00ednos",
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u039a\u03c9\u03bd\u03c3\u03c4\u03b1\u03bd\u03c4\u03af\u03bd\u03bf\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Ayios Konstantinos"
+    ],
+    "name:eng_x_variant":[
+        "Agios Konstantinos",
+        "Saint Konstantinos",
+        "St Konstantinos",
+        "St. Konstantinos"
+    ],
+    "name:gre_x_preferred":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u039a\u03c9\u03bd\u03c3\u03c4\u03b1\u03bd\u03c4\u03af\u03bd\u03bf\u03c2"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u0575\u0578\u057d \u053f\u0578\u0576\u057d\u057f\u0561\u0576\u057f\u056b\u0576\u0578\u057d"
+    ],
+    "name:pol_x_preferred":[
+        "Ajos Konstantinos"
+    ],
+    "name:unk_x_variant":[
+        "Saint Konstantinos"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u039b\u03b5\u03bc\u03b5\u03c3\u03cc\u03c2",
+    "qs:a1_alt":"Lemesos",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0386\u03b3\u03b9\u03bf\u03c2 \u039a\u03c9\u03bd\u03c3\u03c4\u03b1\u03bd\u03c4\u03af\u03bd\u03bf\u03c2",
+    "qs:loc_alt":"Agios Konstantinos",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":34.867222,
+    "wd:longitude":33.066111,
+    "wd:wordcount":23,
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06ef0daa-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":146719,
+        "gp:id":841208,
+        "qs:id":405485,
+        "qs_pg:id":405485,
+        "wd:id":"Q4831295"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"809aba9c14e53a72b59864f5354b21b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":101849051,
+            "region_id":85682411
+        }
+    ],
+    "wof:id":101849051,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1544740756,
+    "wof:name":"\u0386\u03b3\u03b9\u03bf\u03c2 \u039a\u03c9\u03bd\u03c3\u03c4\u03b1\u03bd\u03c4\u03af\u03bd\u03bf\u03c2",
+    "wof:parent_id":85682411,
+    "wof:placetype":"locality",
+    "wof:population":169,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.065426,
+    34.867393,
+    33.065426,
+    34.867393
+],
+  "geometry": {"coordinates":[33.065426,34.867393],"type":"Point"}
+}

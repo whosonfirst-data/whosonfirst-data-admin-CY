@@ -1,0 +1,147 @@
+{
+  "id": 101803331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000031,
+    "geom:area_square_m":310010.532221,
+    "geom:bbox":"34.2124795873,35.4881118696,34.223640407,35.4941116448",
+    "geom:latitude":35.491031,
+    "geom:longitude":34.218437,
+    "iso:country":"CY",
+    "lbl:latitude":35.490841,
+    "lbl:longitude":34.218521,
+    "mps:latitude":35.490841,
+    "mps:longitude":34.218521,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u0531\u0575\u0578\u057d \u054d\u056b\u0574\u0565\u0578\u0576"
+    ],
+    "name:bul_x_preferred":[
+        "\u0410\u0433\u0438\u043e\u0441 \u0421\u0438\u043c\u0435\u043e\u043d"
+    ],
+    "name:dut_x_preferred":[
+        "Ayios Symeon"
+    ],
+    "name:ell_x_preferred":[
+        "\u00c1gios Syme\u00f3n"
+    ],
+    "name:ell_x_variant":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u03a3\u03c5\u03bc\u03b5\u03ce\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Aysimyo"
+    ],
+    "name:eng_x_variant":[
+        "Agios Symeon",
+        "Avtepe",
+        "Saint Symeon",
+        "St Symeon",
+        "St. Symeon",
+        "Ayios Symeon"
+    ],
+    "name:ger_x_preferred":[
+        "Avtepe"
+    ],
+    "name:gre_x_preferred":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u03a3\u03c5\u03bc\u03b5\u03ce\u03bd"
+    ],
+    "name:pol_x_preferred":[
+        "Ajos Simeon"
+    ],
+    "name:swe_x_preferred":[
+        "\u00c1gios Syme\u00f3n"
+    ],
+    "name:und_x_preferred":[
+        "Ayios Symeon"
+    ],
+    "name:unk_x_variant":[
+        "Saint Symeon"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u0391\u03bc\u03bc\u03cc\u03c7\u03c9\u03c3\u03c4\u03bf\u03c2",
+    "qs:a1_alt":"Ammochostos",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:la":"\u0386\u03b3\u03b9\u03bf\u03c2 \u03a3\u03c5\u03bc\u03b5\u03ce\u03bd",
+    "qs:la_lc":"*CY3350",
+    "qs:level":"locality",
+    "qs:loc":"\u0386\u03b3\u03b9\u03bf\u03c2 \u03a3\u03c5\u03bc\u03b5\u03ce\u03bd",
+    "qs:loc_alt":"Agios Symeon",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682389,
+        85632375,
+        85681187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06ef0fe4-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":146701,
+        "gp:id":841222,
+        "qs:id":405493,
+        "wd:id":"Q4831303",
+        "wk:page":"Agios Symeon"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"d2576bcd0827a8b01d5d3220fd4ed664",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "disputed_id":85632375,
+            "locality_id":101803331,
+            "region_id":85682389
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632375,
+            "disputed_id":85632375,
+            "locality_id":101803331,
+            "region_id":85682389
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "disputed_id":85632375,
+            "locality_id":101803331,
+            "region_id":85681187
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632375,
+            "disputed_id":85632375,
+            "locality_id":101803331,
+            "region_id":85681187
+        }
+    ],
+    "wof:id":101803331,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1553815513,
+    "wof:name":"\u0386\u03b3\u03b9\u03bf\u03c2 \u03a3\u03c5\u03bc\u03b5\u03ce\u03bd",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.21247958729737,
+    35.48811186962308,
+    34.22364040700239,
+    35.49411164476402
+],
+  "geometry": {"coordinates":[[[34.21790032216455,35.49382857482533],[34.21760144173641,35.49296832544104],[34.22288304165812,35.49155281549588],[34.22258411824498,35.49069258305434],[34.22364040700239,35.49040944901651],[34.22334148327627,35.48954921781592],[34.22228520518445,35.48983234792837],[34.22168741012052,35.48811186962308],[34.21640602353875,35.48952730106612],[34.21670486256198,35.4903875611854],[34.21247958729737,35.49151970619158],[34.21277839399727,35.49237997932522],[34.2138347337596,35.49209695713711],[34.2141335614786,35.49295722366304],[34.21518990505797,35.49267418555826],[34.21548875379699,35.49353444547614],[34.21654510119305,35.49325139145469],[34.21684397095203,35.49411164476402],[34.21790032216455,35.49382857482533]]],"type":"Polygon"}
+}

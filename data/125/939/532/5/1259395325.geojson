@@ -1,0 +1,89 @@
+{
+  "id": 1259395325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.5,35.33333,33.5,35.33333",
+    "geom:latitude":35.33333,
+    "geom:longitude":33.5,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Alakati",
+    "gn:country_code":"CY",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":20017,
+    "gn:latitude":35.33333,
+    "gn:longitude":33.5,
+    "gn:modification_date":"1999-01-12",
+    "gn:name":"Alakati",
+    "gn:population":0,
+    "gn:timezone":"Asia/Famagusta",
+    "iso:country":"CY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85681187,
+        85632375,
+        85682393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":20017
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"fe65a191a63e66f8edc37766ff8f19ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "disputed_id":85632375,
+            "locality_id":1259395325,
+            "region_id":85681187
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632375,
+            "disputed_id":85632375,
+            "locality_id":1259395325,
+            "region_id":85681187
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "disputed_id":85632375,
+            "locality_id":1259395325,
+            "region_id":85682393
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632375,
+            "disputed_id":85632375,
+            "locality_id":1259395325,
+            "region_id":85682393
+        }
+    ],
+    "wof:id":1259395325,
+    "wof:lastmodified":1536984402,
+    "wof:name":"Alakati",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.5,
+    35.33333,
+    33.5,
+    35.33333
+],
+  "geometry": {"coordinates":[33.5,35.33333],"type":"Point"}
+}

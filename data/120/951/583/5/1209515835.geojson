@@ -1,0 +1,80 @@
+{
+  "id": 1209515835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.88769,35.06078,32.88769,35.06078",
+    "geom:latitude":35.06078,
+    "geom:longitude":32.88769,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Kato Flasou",
+    "gn:country_code":"CY",
+    "gn:dem":332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":146518,
+    "gn:latitude":35.06078,
+    "gn:longitude":32.88769,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"K\u00e1to Fl\u00e1sou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Nicosia",
+    "iso:country":"CY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "K\u00e1to Fl\u00e1sou"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03ac\u03c4\u03c9 \u03a6\u03bb\u03ac\u03c3\u03bf\u03c5"
+    ],
+    "name:tur_x_preferred":[
+        "Kato Flasou"
+    ],
+    "name:und_x_variant":[
+        "Phlasou",
+        "A\u015fa\u011f\u0131flaso",
+        "Vlaso",
+        "K\u00e1to Vl\u00e1so",
+        "Fl\u00e2su",
+        "Kato Flasu",
+        "Kato Phlasou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":146518,
+        "wk:page":"Flasou"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"943e15efa23c1582458c9db3a60e275e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632437,
+            "locality_id":1209515835
+        }
+    ],
+    "wof:id":1209515835,
+    "wof:lastmodified":1537619245,
+    "wof:name":"Kato Flasou",
+    "wof:parent_id":85632437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.88769,
+    35.06078,
+    32.88769,
+    35.06078
+],
+  "geometry": {"coordinates":[32.88769,35.06078],"type":"Point"}
+}

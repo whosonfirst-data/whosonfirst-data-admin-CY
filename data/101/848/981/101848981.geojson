@@ -1,0 +1,119 @@
+{
+  "id": 101848981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.658787,34.892037,32.658787,34.892037",
+    "geom:latitude":34.892037,
+    "geom:longitude":32.658787,
+    "iso:country":"CY",
+    "lbl:latitude":34.892037,
+    "lbl:longitude":32.658787,
+    "mps:latitude":34.892037,
+    "mps:longitude":32.658787,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u054e\u0580\u0565\u057f\u057d\u056b\u0561"
+    ],
+    "name:bul_x_preferred":[
+        "\u0412\u0440\u0435\u0446\u0438\u044f"
+    ],
+    "name:dut_x_preferred":[
+        "Vretsia"
+    ],
+    "name:ell_x_preferred":[
+        "Vr\u00e9tsia"
+    ],
+    "name:ell_x_variant":[
+        "\u0392\u03c1\u03ad\u03c4\u03c3\u03b9\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Vretsia"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0631\u062a\u0633\u06cc\u0627"
+    ],
+    "name:gre_x_preferred":[
+        "\u0392\u03c1\u03ad\u03c4\u03c3\u03b9\u03b1"
+    ],
+    "name:hye_x_preferred":[
+        "\u054e\u0580\u0565\u057f\u057d\u056b\u0561"
+    ],
+    "name:per_x_preferred":[
+        "\u0648\u0631\u062a\u0633\u06cc\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Wretsia"
+    ],
+    "name:spa_x_preferred":[
+        "Vretsia"
+    ],
+    "name:unk_x_variant":[
+        "Vretcha"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u0631\u06cc\u062a\u0633\u06cc\u0627"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u03a0\u03ac\u03c6\u03bf\u03c2",
+    "qs:a1_alt":"Pafos",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u0392\u03c1\u03ad\u03c4\u03c3\u03b9\u03b1",
+    "qs:loc_alt":"Vretsia",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":122,
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":145983,
+        "gp:id":841767,
+        "qs:id":9,
+        "wd:id":"Q7942718"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"07b15740f4bb01f422b36da7cc2b7cd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":101848981,
+            "region_id":85682401
+        }
+    ],
+    "wof:id":101848981,
+    "wof:lastmodified":1544740724,
+    "wof:name":"\u0392\u03c1\u03ad\u03c4\u03c3\u03b9\u03b1",
+    "wof:parent_id":85682401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.658787,
+    34.892037,
+    32.658787,
+    34.892037
+],
+  "geometry": {"coordinates":[32.658787,34.892037],"type":"Point"}
+}

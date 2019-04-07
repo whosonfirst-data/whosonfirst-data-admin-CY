@@ -1,0 +1,92 @@
+{
+  "id": 1259592855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.88064,35.29523,33.88064,35.29523",
+    "geom:latitude":35.29523,
+    "geom:longitude":33.88064,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Nikoloudes",
+    "gn:country_code":"CY",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":19738,
+    "gn:latitude":35.29523,
+    "gn:longitude":33.88064,
+    "gn:modification_date":"2015-01-06",
+    "gn:name":"Nikoloudes",
+    "gn:population":0,
+    "gn:timezone":"Asia/Famagusta",
+    "iso:country":"CY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hajinikoloues"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85681187,
+        85632375,
+        85682389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":19738
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"dfe61a7af47d6507e5292ca2bcab4dcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "disputed_id":85632375,
+            "locality_id":1259592855,
+            "region_id":85681187
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632375,
+            "disputed_id":85632375,
+            "locality_id":1259592855,
+            "region_id":85681187
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "disputed_id":85632375,
+            "locality_id":1259592855,
+            "region_id":85682389
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632375,
+            "disputed_id":85632375,
+            "locality_id":1259592855,
+            "region_id":85682389
+        }
+    ],
+    "wof:id":1259592855,
+    "wof:lastmodified":1537619240,
+    "wof:name":"Nikoloudes",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.88064,
+    35.29523,
+    33.88064,
+    35.29523
+],
+  "geometry": {"coordinates":[33.88064,35.29523],"type":"Point"}
+}

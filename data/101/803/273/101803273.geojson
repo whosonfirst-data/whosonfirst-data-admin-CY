@@ -1,0 +1,128 @@
+{
+  "id": 101803273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000026,
+    "geom:area_square_m":260015.546783,
+    "geom:bbox":"33.7959594543,35.3436435259,33.8029933627,35.3505135963",
+    "geom:latitude":35.347321,
+    "geom:longitude":33.799368,
+    "iso:country":"CY",
+    "lbl:latitude":35.347132,
+    "lbl:longitude":33.799128,
+    "mps:latitude":35.347132,
+    "mps:longitude":33.799128,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "M\u00e1ndres"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03ac\u03bd\u03b4\u03c1\u03b5\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Mandrez"
+    ],
+    "name:eng_x_variant":[
+        "Mandraes",
+        "Mandraz"
+    ],
+    "name:und_x_colloquial":[
+        "Akillar"
+    ],
+    "name:und_x_preferred":[
+        "Mandres"
+    ],
+    "name:und_x_variant":[
+        "Ak\u0327illar"
+    ],
+    "name:unk_x_variant":[
+        "A\u011f\u0131llar"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u0391\u03bc\u03bc\u03cc\u03c7\u03c9\u03c3\u03c4\u03bf\u03c2",
+    "qs:a1_alt":"Ammochostos",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:la":"\u039c\u03ac\u03bd\u03b4\u03c1\u03b5\u03c2 (\u0391\u03bc\u03bc\u03bf\u03c7\u03ce\u03c3\u03c4\u03bf\u03c5)",
+    "qs:la_lc":"*CY3312",
+    "qs:level":"locality",
+    "qs:loc":"\u039c\u03ac\u03bd\u03b4\u03c1\u03b5\u03c2",
+    "qs:loc_alt":"Mandres",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85681187,
+        85632375,
+        85682389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06ef3e42-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":146342,
+        "gp:id":841486,
+        "qs:id":255630,
+        "wd:id":"Q6748194",
+        "wk:page":"Mandres, Famagusta"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"ee6cba94adb359782876414fa6424a53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "disputed_id":85632375,
+            "locality_id":101803273,
+            "region_id":85681187
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632375,
+            "disputed_id":85632375,
+            "locality_id":101803273,
+            "region_id":85681187
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "disputed_id":85632375,
+            "locality_id":101803273,
+            "region_id":85682389
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632375,
+            "disputed_id":85632375,
+            "locality_id":101803273,
+            "region_id":85682389
+        }
+    ],
+    "wof:id":101803273,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1501212517,
+    "wof:name":"\u039c\u03ac\u03bd\u03b4\u03c1\u03b5\u03c2",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.79595945432504,
+    35.34364352588238,
+    33.80299336268126,
+    35.35051359627141
+],
+  "geometry": {"coordinates":[[[33.80299336268126,35.34940081137358],[33.80240794098563,35.34767640376293],[33.80135235858455,35.34795461028295],[33.80047433420441,35.34536796754986],[33.80152988449481,35.34508977257775],[33.80123721927652,35.34422755691105],[33.80018167968939,35.34450574803401],[33.79988903531296,35.34364352588238],[33.79883349972727,35.34392170116092],[33.79912613340082,35.34478392716119],[33.79595945432504,35.34561839256713],[33.79712996194939,35.34906731639916],[33.79818557116221,35.3487891578651],[33.79877090721828,35.35051359627141],[33.80299336268126,35.34940081137358]]],"type":"Polygon"}
+}

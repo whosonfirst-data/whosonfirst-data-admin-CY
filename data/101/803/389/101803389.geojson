@@ -1,0 +1,122 @@
+{
+  "id": 101803389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000068,
+    "geom:area_square_m":690103.661677,
+    "geom:bbox":"33.3277851625,34.9583229012,33.3390710835,34.9723374857",
+    "geom:latitude":34.964808,
+    "geom:longitude":33.333919,
+    "gn:population":605,
+    "iso:country":"CY",
+    "lbl:latitude":34.963737,
+    "lbl:longitude":33.335416,
+    "mps:latitude":34.963737,
+    "mps:longitude":33.335416,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Mathi\u00e1tis"
+    ],
+    "name:dut_x_preferred":[
+        "Mathiatis"
+    ],
+    "name:ell_x_preferred":[
+        "Mathi\u00e1tis"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03b1\u03b8\u03b9\u03ac\u03c4\u03b7\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Mathiatis"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u062a\u06cc\u0627\u062a\u06cc\u0633"
+    ],
+    "name:gre_x_preferred":[
+        "\u039c\u03b1\u03b8\u03b9\u03ac\u03c4\u03b7\u03c2"
+    ],
+    "name:per_x_preferred":[
+        "\u0645\u0627\u062a\u06cc\u0627\u062a\u06cc\u0633"
+    ],
+    "name:pol_x_preferred":[
+        "Matiatis"
+    ],
+    "name:spa_x_preferred":[
+        "Mathiatis"
+    ],
+    "name:swe_x_preferred":[
+        "Mathiatis"
+    ],
+    "name:unk_x_variant":[
+        "Matyat"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0627\u062a\u06be\u06cc\u0627\u062a\u06cc\u0633"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u039b\u03b5\u03c5\u03ba\u03c9\u03c3\u03af\u03b1",
+    "qs:a1_alt":"Lefkosia",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:la":"\u039c\u03b1\u03b8\u03b9\u03ac\u03c4\u03b7\u03c2",
+    "qs:la_lc":"*CY1101",
+    "qs:level":"locality",
+    "qs:loc":"\u039c\u03b1\u03b8\u03b9\u03ac\u03c4\u03b7\u03c2",
+    "qs:loc_alt":"Mathiatis",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":68,
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":146327,
+        "gp:id":841499,
+        "qs:id":1174931,
+        "qs_pg:id":1174931,
+        "wd:id":"Q6787178",
+        "wk:page":"Mathiatis"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"4203a87900d66759484d02d72eb7fc46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":101803389,
+            "region_id":85682397
+        }
+    ],
+    "wof:id":101803389,
+    "wof:lastmodified":1527642771,
+    "wof:name":"\u039c\u03b1\u03b8\u03b9\u03ac\u03c4\u03b7\u03c2",
+    "wof:parent_id":85682397,
+    "wof:placetype":"locality",
+    "wof:population":605,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.32778516247294,
+    34.95832290117426,
+    33.33907108350729,
+    34.97233748569772
+],
+  "geometry": {"coordinates":[[[33.33312928652111,34.97179230442322],[33.33284509502516,34.97092757105668],[33.33389696506993,34.97065496621468],[33.33361277274514,34.96979023400297],[33.33466462566884,34.96951762093931],[33.33438043251613,34.96865288988209],[33.33543226831944,34.96838026859672],[33.33514807433858,34.96751553869393],[33.33725170523843,34.96697026771636],[33.3369674997798,34.96610554271081],[33.33907108350729,34.96556023136361],[33.33708177126135,34.9595071362391],[33.33603005717572,34.95977977169645],[33.3357459196514,34.95891502972421],[33.33469420974893,34.95918764947692],[33.33441009269387,34.95832290117426],[33.32915149946069,34.95968580178635],[33.32943556326995,34.96055056879635],[33.33153904125481,34.96000543695766],[33.33267547989453,34.96346444918578],[33.33162370153343,34.96373703605298],[33.33332859024506,34.96892549920312],[33.33017302462844,34.96974325537883],[33.32988888391122,34.9688785067637],[33.32778516247294,34.96942361023963],[33.32863755016831,34.97201787077478],[33.3307413355318,34.97147274484581],[33.33102550571948,34.97233748569772],[33.33312928652111,34.97179230442322]]],"type":"Polygon"}
+}

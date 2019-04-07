@@ -1,0 +1,83 @@
+{
+  "id": 101803447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000056,
+    "geom:bbox":"33.0521180354,35.0404754941,33.0611822926,35.0530769305",
+    "geom:latitude":35.048133,
+    "geom:longitude":33.056254,
+    "iso:country":"CY",
+    "lbl:latitude":35.04929,
+    "lbl:longitude":33.056322,
+    "mps:latitude":35.04929,
+    "mps:longitude":33.056322,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Ag\u00eda Mar\u00edna"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03b3\u03af\u03b1 \u039c\u03b1\u03c1\u03af\u03bd\u03b1"
+    ],
+    "name:unk_x_variant":[
+        "Ayia Marina Xyliatou"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u039b\u03b5\u03c5\u03ba\u03c9\u03c3\u03af\u03b1",
+    "qs:a1_alt":"Lefkosia",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:la":"\u0391\u03b3\u03af\u03b1 \u039c\u03b1\u03c1\u03af\u03bd\u03b1 (\u039e\u03c5\u03bb\u03b9\u03ac\u03c4\u03bf\u03c5)",
+    "qs:la_lc":"*CY1324",
+    "qs:level":"locality",
+    "qs:loc":"\u0391\u03b3\u03af\u03b1 \u039c\u03b1\u03c1\u03af\u03bd\u03b1",
+    "qs:loc_alt":"Agia Marina",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":29,
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":146752,
+        "gp:id":841175,
+        "qs:id":8,
+        "wd:id":"Q4818374"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"93d1a04c1b98dc7f6fa84a51249034f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":101803447,
+            "region_id":85682397
+        }
+    ],
+    "wof:id":101803447,
+    "wof:lastmodified":1527642761,
+    "wof:name":"\u0391\u03b3\u03af\u03b1 \u039c\u03b1\u03c1\u03af\u03bd\u03b1",
+    "wof:parent_id":85682397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.05211803542363,
+    35.04047549408494,
+    33.06118229256083,
+    35.05307693046785
+],
+  "geometry": {"coordinates":[[[33.06118229256083,35.05119063348201],[33.05977490656448,35.04686220576446],[33.05872128321005,35.04713169419568],[33.0584398460071,35.04626599727777],[33.05738622697203,35.04653547000299],[33.05626061862756,35.04307264194648],[33.05731419468543,35.04280318406239],[33.05703280622515,35.0419374743725],[33.05597924091069,35.04220692854688],[33.05541651471776,35.04047549408494],[33.0543629644668,35.0407449288453],[33.05492566917292,35.04247637072655],[33.05387209101207,35.0427458009114],[33.05443481321618,35.04447723999556],[33.05338120714248,35.04474666560469],[33.05422533131696,35.04734381620614],[33.05211803542363,35.04788265369666],[33.05380641801628,35.05307693046785],[33.06118229256083,35.05119063348201]]],"type":"Polygon"}
+}

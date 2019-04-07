@@ -1,0 +1,107 @@
+{
+  "id": 1125820591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.625,34.88333,32.625,34.88333",
+    "geom:latitude":34.88333,
+    "geom:longitude":32.625,
+    "gn:gn_country":"CY",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":249,
+    "gn:population":249,
+    "iso:country":"CY",
+    "lbl:latitude":34.88333,
+    "lbl:longitude":32.625,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arm_x_preferred":[
+        "\u054d\u057f\u0561\u057f\u0578\u057d-\u0531\u0575\u0578\u057d \u0556\u0578\u0582\u057f\u056b\u0578\u057d"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u0442\u0430\u0442\u043e\u0441-\u0410\u0433\u0438\u043e\u0441 \u0424\u043e\u0442\u0438\u043e\u0441"
+    ],
+    "name:dut_x_preferred":[
+        "Statos-Agios Fotios"
+    ],
+    "name:ell_x_preferred":[
+        "Stat\u00f3s-\u00c1gios F\u00f3tios"
+    ],
+    "name:ell_x_variant":[
+        "\u03a3\u03c4\u03b1\u03c4\u03cc\u03c2-\u0386\u03b3\u03b9\u03bf\u03c2 \u03a6\u03ce\u03c4\u03b9\u03bf\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Statos-Agios Fotios"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a3\u03c4\u03b1\u03c4\u03cc\u03c2-\u0386\u03b3\u03b9\u03bf\u03c2 \u03a6\u03ce\u03c4\u03b9\u03bf\u03c2"
+    ],
+    "name:pol_x_preferred":[
+        "Statos-Ajos Fotios"
+    ],
+    "name:swe_x_preferred":[
+        "Stat\u00f3s-\u00c1gios F\u00f3tios"
+    ],
+    "name:unk_x_variant":[
+        "Stato-Ayfoti"
+    ],
+    "qs_pg:aaroncc":"CY",
+    "qs_pg:gn_country":"CY",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":16770,
+    "qs_pg:gn_pop":249,
+    "qs_pg:name":"Statos and Ayios Photios",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":79520,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":16770,
+        "qs_pg:id":79520,
+        "wd:id":"Q7604465"
+    },
+    "wof:country":"CY",
+    "wof:created":1497292031,
+    "wof:geomhash":"cbe865cd58a0c09a9165cada5dbf5985",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":1125820591,
+            "region_id":85682401
+        }
+    ],
+    "wof:id":1125820591,
+    "wof:lastmodified":1553816553,
+    "wof:name":"Statos and Ayios Photios",
+    "wof:parent_id":85682401,
+    "wof:placetype":"locality",
+    "wof:population":249,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.625,
+    34.88333,
+    32.625,
+    34.88333
+],
+  "geometry": {"coordinates":[32.625,34.88333],"type":"Point"}
+}

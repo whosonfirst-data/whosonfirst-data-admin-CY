@@ -1,0 +1,98 @@
+{
+  "id": 1343871213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.47444,35.33069,33.47444,35.33069",
+    "geom:latitude":35.33069,
+    "geom:longitude":33.47444,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ntaout",
+    "gn:country_code":"CY",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":20050,
+    "gn:latitude":35.33069,
+    "gn:longitude":33.47444,
+    "gn:modification_date":"2014-09-30",
+    "gn:name":"Ntao\u00fat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Famagusta",
+    "iso:country":"CY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ell_x_preferred":[
+        "Ntao\u00fat"
+    ],
+    "name:ell_x_variant":[
+        "\u039d\u03c4\u03b1\u03bf\u03cd\u03c4"
+    ],
+    "name:und_x_variant":[
+        "Daoud"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85681187,
+        85632375,
+        85682393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":20050
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"ad2eb7e92476f6db4e596dd86b7ffe60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "disputed_id":85632375,
+            "locality_id":1343871213,
+            "region_id":85681187
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632375,
+            "disputed_id":85632375,
+            "locality_id":1343871213,
+            "region_id":85681187
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "disputed_id":85632375,
+            "locality_id":1343871213,
+            "region_id":85682393
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632375,
+            "disputed_id":85632375,
+            "locality_id":1343871213,
+            "region_id":85682393
+        }
+    ],
+    "wof:id":1343871213,
+    "wof:lastmodified":1537619240,
+    "wof:name":"Ntaout",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.47444,
+    35.33069000000001,
+    33.47444,
+    35.33069000000001
+],
+  "geometry": {"coordinates":[33.47444,35.33069000000001],"type":"Point"}
+}

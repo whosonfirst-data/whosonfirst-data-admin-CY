@@ -1,0 +1,168 @@
+{
+  "id": 101838597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000064,
+    "geom:area_square_m":650272.811899,
+    "geom:bbox":"33.0014649037,35.1630887843,33.0130740577,35.1753597952",
+    "geom:latitude":35.168066,
+    "geom:longitude":33.007334,
+    "iso:country":"CY",
+    "lbl:latitude":35.166889,
+    "lbl:longitude":33.008302,
+    "mps:latitude":35.166889,
+    "mps:longitude":33.008302,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Zodeia"
+    ],
+    "name:ell_x_preferred":[
+        "K\u00e1to Z\u00f3deia"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03ac\u03c4\u03c9 \u0396\u03ce\u03b4\u03b5\u03b9\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Zodhia"
+    ],
+    "name:eng_x_variant":[
+        "Kato Zadhia",
+        "Zodia",
+        "Zodeia"
+    ],
+    "name:gre_x_preferred":[
+        "\u0396\u03ce\u03b4\u03b9\u03b1"
+    ],
+    "name:nno_x_preferred":[
+        "Z\u00f3dia"
+    ],
+    "name:nob_x_preferred":[
+        "Zodia"
+    ],
+    "name:per_x_preferred":[
+        "\u0632\u0648\u062f\u06cc\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Kato Zodia"
+    ],
+    "name:por_x_preferred":[
+        "Zodeia"
+    ],
+    "name:rum_x_preferred":[
+        "Zodeia"
+    ],
+    "name:sco_x_preferred":[
+        "Zodeia"
+    ],
+    "name:spa_x_preferred":[
+        "Kato Zodia"
+    ],
+    "name:swe_x_preferred":[
+        "Zodia"
+    ],
+    "name:tur_x_preferred":[
+        "Bostanc\u0131"
+    ],
+    "name:und_x_colloquial":[
+        "Asaki Bostanci",
+        "Asaki Zodya",
+        "Asaki Zotya",
+        "Kato Zodia",
+        "Zedeia Kato"
+    ],
+    "name:und_x_preferred":[
+        "Kato Zodhia"
+    ],
+    "name:und_x_variant":[
+        "A\u015fak\u0327i Bostanci",
+        "A\u015fak\u0327i Zodya",
+        "A\u015fak\u0327i Zotya",
+        "K\u00e1to Zodia",
+        "Z\u0119deia Kato"
+    ],
+    "name:unk_x_variant":[
+        "Zodhia"
+    ],
+    "name:urd_x_preferred":[
+        "\u0632\u0648\u062f\u06cc\u0627"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u039b\u03b5\u03c5\u03ba\u03c9\u03c3\u03af\u03b1",
+    "qs:a1_alt":"Lefkosia",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:la":"\u039a\u03ac\u03c4\u03c9 \u0396\u03ce\u03b4\u03b5\u03b9\u03b1",
+    "qs:la_lc":"*CY1351",
+    "qs:level":"locality",
+    "qs:loc":"\u039a\u03ac\u03c4\u03c9 \u0396\u03ce\u03b4\u03b5\u03b9\u03b1",
+    "qs:loc_alt":"Kato Zodeia",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682397,
+        85681187,
+        85632375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06ef284e-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":146511,
+        "gp:id":841362,
+        "qs:id":9,
+        "wd:id":"Q3492559",
+        "wk:page":"Zodeia"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"6b00fe6b1532ab16798b41eda1011c78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":101838597,
+            "region_id":85682397
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "disputed_id":85632375,
+            "locality_id":101838597,
+            "region_id":85681187
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632375,
+            "disputed_id":85632375,
+            "locality_id":101838597,
+            "region_id":85681187
+        }
+    ],
+    "wof:id":101838597,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1513944702,
+    "wof:name":"\u039a\u03ac\u03c4\u03c9 \u0396\u03ce\u03b4\u03b5\u03b9\u03b1",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.001464903677,
+    35.16308878430584,
+    33.01307405768739,
+    35.17535979516731
+],
+  "geometry": {"coordinates":[[[33.0128238231535,35.16573653239487],[33.01193004034735,35.16315185947974],[33.00878114014449,35.16395448404671],[33.00849944906747,35.16308878430584],[33.00638882119836,35.16362669294472],[33.00667049066641,35.16449240011519],[33.00561515625185,35.1647613401222],[33.00589682468728,35.16562704846223],[33.00484147301722,35.1658959801656],[33.00512314041953,35.16676168967501],[33.00301239611611,35.16729952445456],[33.00329405167736,35.16816523884808],[33.00223865904309,35.16843414192442],[33.00252031356928,35.16929985748766],[33.001464903677,35.16956875225901],[33.00202822043201,35.17130018317994],[33.00413907700033,35.1707623667578],[33.00498419029168,35.17335947176031],[33.003928732806,35.17362839712729],[33.0044921689244,35.17535979516731],[33.00554764802939,35.17509086236879],[33.00526591427251,35.17422516833716],[33.00632137611456,35.1739562272345],[33.00603964132472,35.17309053437327],[33.00709508590501,35.17282158496653],[33.00681335008204,35.17195589327594],[33.00786877740165,35.17168693556511],[33.00758704054647,35.17082124504441],[33.00864245060575,35.17055227903012],[33.00836071271868,35.16968658967954],[33.01152687176136,35.16887963066955],[33.01124511123089,35.16801394992092],[33.01230047386764,35.16774494326256],[33.01201871230757,35.16687926368354],[33.01307405768739,35.1666102487228],[33.01279229509811,35.16574457031368],[33.0128238231535,35.16573653239487]]],"type":"Polygon"}
+}

@@ -1,0 +1,149 @@
+{
+  "id": 101803315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000072,
+    "geom:area_square_m":730031.550947,
+    "geom:bbox":"34.1235454716,35.4187194008,34.1361530572,35.4325056656",
+    "geom:latitude":35.425944,
+    "geom:longitude":34.13058,
+    "iso:country":"CY",
+    "lbl:latitude":35.427345,
+    "lbl:longitude":34.132156,
+    "mps:latitude":35.427345,
+    "mps:longitude":34.132156,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u053f\u0578\u0574\u0561 \u057f\u0578\u0582 \u0545\u0561\u056c\u0578\u0582"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u043e\u043c\u0430 \u0442\u0443 \u042f\u043b\u0443"
+    ],
+    "name:dut_x_preferred":[
+        "Koma tou Gialou"
+    ],
+    "name:ell_x_preferred":[
+        "K\u00f3ma tou Gialo\u00fa"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03ce\u03bc\u03b1 \u03c4\u03bf\u03c5 \u0393\u03b9\u03b1\u03bb\u03bf\u03cd"
+    ],
+    "name:eng_x_preferred":[
+        "Koma Tou Gialou"
+    ],
+    "name:eng_x_variant":[
+        "Kamyali",
+        "Koma To Yialou",
+        "Komad Tuyalu",
+        "Komatuyalu",
+        "Komialik",
+        "Komyalik",
+        "Kumyali",
+        "Koma tou Gialou"
+    ],
+    "name:ger_x_preferred":[
+        "Koma tou Gialou/Kumyal\u0131"
+    ],
+    "name:gre_x_preferred":[
+        "\u039a\u03ce\u03bc\u03b1 \u03c4\u03bf\u03c5 \u0393\u03b9\u03b1\u03bb\u03bf\u03cd"
+    ],
+    "name:pol_x_preferred":[
+        "Koma tu Jalu"
+    ],
+    "name:swe_x_preferred":[
+        "K\u00f3ma tou Gialo\u00fa"
+    ],
+    "name:und_x_preferred":[
+        "Koma Tou Yialou"
+    ],
+    "name:unk_x_variant":[
+        "Kamyali"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u0391\u03bc\u03bc\u03cc\u03c7\u03c9\u03c3\u03c4\u03bf\u03c2",
+    "qs:a1_alt":"Ammochostos",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:la":"\u039a\u03ce\u03bc\u03b1 \u03c4\u03bf\u03c5 \u0393\u03b9\u03b1\u03bb\u03bf\u03cd",
+    "qs:la_lc":"*CY3340",
+    "qs:level":"locality",
+    "qs:loc":"\u039a\u03ce\u03bc\u03b1 \u03c4\u03bf\u03c5 \u0393\u03b9\u03b1\u03bb\u03bf\u03cd",
+    "qs:loc_alt":"Koma tou Gialou",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682389,
+        85632375,
+        85681187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06ef2f42-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":146450,
+        "gp:id":841403,
+        "qs:id":1273441,
+        "wd:id":"Q11741419",
+        "wk:page":"Koma tou Gialou"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"e5184dd63aa81dc9dcdbf15267c7f88b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "disputed_id":85632375,
+            "locality_id":101803315,
+            "region_id":85682389
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632375,
+            "disputed_id":85632375,
+            "locality_id":101803315,
+            "region_id":85682389
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "disputed_id":85632375,
+            "locality_id":101803315,
+            "region_id":85681187
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632375,
+            "disputed_id":85632375,
+            "locality_id":101803315,
+            "region_id":85681187
+        }
+    ],
+    "wof:id":101803315,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1513944717,
+    "wof:name":"\u039a\u03ce\u03bc\u03b1 \u03c4\u03bf\u03c5 \u0393\u03b9\u03b1\u03bb\u03bf\u03cd",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.12354547164563,
+    35.41871940075515,
+    34.1361530572226,
+    35.43250566556134
+],
+  "geometry": {"coordinates":[[[34.13539470687118,35.43222357959928],[34.13509731060537,35.4313628842196],[34.1361530572226,35.43108079017657],[34.13496353247933,35.42763799753624],[34.1360192296396,35.42735590713204],[34.13512716220725,35.42477379628463],[34.13407149702709,35.42505587497072],[34.13377417246534,35.42419516209941],[34.13271851113541,35.42447722489351],[34.13242120752682,35.42361650544188],[34.13136555004752,35.42389855234438],[34.1307709950288,35.42217709760718],[34.12971535206037,35.42245912471304],[34.12941810064865,35.42159838942803],[34.12836246153245,35.42188040064298],[34.12747080101917,35.41929816702952],[34.12641518707466,35.41958015454503],[34.12611799814238,35.41871940075515],[34.12506238805076,35.41900137238076],[34.12535956632365,35.41986213007453],[34.12430393876673,35.42014409361803],[34.1246011166686,35.42100485254207],[34.12354547164563,35.421286808003],[34.12413983699548,35.42300832563848],[34.12519550334019,35.42272636236942],[34.12549271211071,35.4235871132725],[34.12654838230941,35.42330513411247],[34.12773736294673,35.42674809536902],[34.1287930689831,35.42646608860315],[34.13057691269938,35.43163042683682],[34.13163267590107,35.43134838465028],[34.1319300298818,35.43220909442357],[34.13404155717615,35.43164496627509],[34.13433894277938,35.43250566556134],[34.13539470687118,35.43222357959928]]],"type":"Polygon"}
+}

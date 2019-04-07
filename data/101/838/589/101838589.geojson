@@ -1,0 +1,133 @@
+{
+  "id": 101838589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000064,
+    "geom:area_square_m":643169.965655,
+    "geom:bbox":"33.5424638585,35.2314516949,33.5567340767,35.2409453037",
+    "geom:latitude":35.236227,
+    "geom:longitude":33.54922,
+    "iso:country":"CY",
+    "lbl:latitude":35.236099,
+    "lbl:longitude":33.548625,
+    "mps:latitude":35.236099,
+    "mps:longitude":33.548625,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Petra tou Digeni"
+    ],
+    "name:ell_x_preferred":[
+        "P\u00e9tra tou Digen\u00ed"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03ad\u03c4\u03c1\u03b1 \u03c4\u03bf\u03c5 \u0394\u03b9\u03b3\u03b5\u03bd\u03ae"
+    ],
+    "name:eng_x_preferred":[
+        "Yenije Keuy"
+    ],
+    "name:eng_x_variant":[
+        "Petraduyeni",
+        "Petra tou Digeni"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a0\u03ad\u03c4\u03c1\u03b1 \u03c4\u03bf\u03c5 \u0394\u03b9\u03b3\u03b5\u03bd\u03ae"
+    ],
+    "name:pol_x_preferred":[
+        "Petra tu Dijeni"
+    ],
+    "name:swe_x_preferred":[
+        "P\u00e9tra tou Digen\u00ed"
+    ],
+    "name:und_x_colloquial":[
+        "Yenicekoey",
+        "Yenicekoy"
+    ],
+    "name:und_x_preferred":[
+        "Petra Tou Dhiyeni"
+    ],
+    "name:und_x_variant":[
+        "Yenicek\u00f6y"
+    ],
+    "name:unk_x_variant":[
+        "Yenije Keuy"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u039b\u03b5\u03c5\u03ba\u03c9\u03c3\u03af\u03b1",
+    "qs:a1_alt":"Lefkosia",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:la":"\u03a0\u03ad\u03c4\u03c1\u03b1 \u03c4\u03bf\u03c5 \u0394\u03b9\u03b3\u03b5\u03bd\u03ae",
+    "qs:la_lc":"*CY1142",
+    "qs:level":"locality",
+    "qs:loc":"\u03a0\u03ad\u03c4\u03c1\u03b1 \u03c4\u03bf\u03c5 \u0394\u03b9\u03b3\u03b5\u03bd\u03ae",
+    "qs:loc_alt":"Petra tou Digeni",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682397,
+        85681187,
+        85632375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06ef5670-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":146179,
+        "gp:id":841614,
+        "qs:id":9,
+        "wd:id":"Q7178681",
+        "wk:page":"Petra tou Digeni"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"de9f2e7e47bcee83bbf8e7ae1bc54d17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":101838589,
+            "region_id":85682397
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "disputed_id":85632375,
+            "locality_id":101838589,
+            "region_id":85681187
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632375,
+            "disputed_id":85632375,
+            "locality_id":101838589,
+            "region_id":85681187
+        }
+    ],
+    "wof:id":101838589,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1553815536,
+    "wof:name":"\u03a0\u03ad\u03c4\u03c1\u03b1 \u03c4\u03bf\u03c5 \u0394\u03b9\u03b3\u03b5\u03bd\u03ae",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.54246385847,
+    35.23145169492858,
+    33.55673407670554,
+    35.2409453036924
+],
+  "geometry": {"coordinates":[[[33.55673407670554,35.23556982137745],[33.55093102999302,35.23145169492858],[33.54974722570057,35.23176063754812],[33.55003598579907,35.23262406282447],[33.54581693339082,35.23372493948773],[33.54610566063525,35.23458837735916],[33.54505087030839,35.23486357033971],[33.54533959683886,35.23572700940417],[33.54322997494143,35.23627736698268],[33.54351869004159,35.23714081104066],[33.54246385847,35.23741597563787],[33.54275257285502,35.23827942088951],[33.54380741514376,35.23800425249175],[33.54409615024804,35.23886769133577],[33.545150996649,35.23859250714207],[33.54543975247304,35.23945593957785],[33.5464946029856,35.23918073958794],[33.54707216607841,35.24090758903503],[33.55023674227988,35.24008189428514],[33.55052557098372,35.2409453036924],[33.55158042722042,35.24067004431674],[33.55071393897572,35.23807981967661],[33.55176875645776,35.23780455971161],[33.55147993633761,35.23694115008391],[33.55673407670554,35.23556982137745]]],"type":"Polygon"}
+}

@@ -1,0 +1,146 @@
+{
+  "id": 101758483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000103,
+    "geom:area_square_m":1034652.688508,
+    "geom:bbox":"33.2525937772,35.3161373434,33.2685316571,35.3261862357",
+    "geom:latitude":35.320937,
+    "geom:longitude":33.259424,
+    "iso:country":"CY",
+    "lbl:latitude":35.320912,
+    "lbl:longitude":33.258779,
+    "mps:latitude":35.320912,
+    "mps:longitude":33.258779,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u053f\u0561\u0580\u0574\u056b"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u0430\u0440\u043c\u0438"
+    ],
+    "name:dut_x_preferred":[
+        "Karmi"
+    ],
+    "name:ell_x_preferred":[
+        "K\u00e1rmi"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03ac\u03c1\u03bc\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Karni"
+    ],
+    "name:eng_x_variant":[
+        "Karaman",
+        "Karmi"
+    ],
+    "name:gre_x_preferred":[
+        "\u039a\u03ac\u03c1\u03bc\u03b9"
+    ],
+    "name:lit_x_preferred":[
+        "Karmis"
+    ],
+    "name:nno_x_preferred":[
+        "K\u00e1rmi"
+    ],
+    "name:pol_x_preferred":[
+        "Karmi"
+    ],
+    "name:und_x_preferred":[
+        "Karmi"
+    ],
+    "name:unk_x_variant":[
+        "Karni"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u039a\u03b5\u03c1\u03cd\u03bd\u03b5\u03b9\u03b1",
+    "qs:a1_alt":"Keryneia",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:la":"\u0386\u03b3\u03b9\u03bf\u03c2 \u0393\u03b5\u03ce\u03c1\u03b3\u03b9\u03bf\u03c2 (\u039a\u03b5\u03c1\u03cd\u03bd\u03b5\u03b9\u03b1\u03c2)",
+    "qs:la_lc":"*CY2218",
+    "qs:level":"locality",
+    "qs:loc":"\u039a\u03ac\u03c1\u03bc\u03b9",
+    "qs:loc_alt":"Karmi",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682393,
+        85632375,
+        85681187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06ef23a8-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":146542,
+        "gp:id":841335,
+        "qs:id":894606,
+        "qs_pg:id":894606,
+        "wd:id":"Q6372752",
+        "wk:page":"Karmi, Cyprus"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"79ea058e4d7964da309b5fd44d013583",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "disputed_id":85632375,
+            "locality_id":101758483,
+            "region_id":85682393
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632375,
+            "disputed_id":85632375,
+            "locality_id":101758483,
+            "region_id":85682393
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "disputed_id":85632375,
+            "locality_id":101758483,
+            "region_id":85681187
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632375,
+            "disputed_id":85632375,
+            "locality_id":101758483,
+            "region_id":85681187
+        }
+    ],
+    "wof:id":101758483,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1553815480,
+    "wof:name":"\u039a\u03ac\u03c1\u03bc\u03b9",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.25259377719073,
+    35.31613734344927,
+    33.26853165707644,
+    35.32618623570573
+],
+  "geometry": {"coordinates":[[[33.25959287371444,35.32478184260293],[33.26276320571066,35.32396594414445],[33.26304917341866,35.32483036861032],[33.26516271689451,35.32428636862539],[33.26430477866614,35.32169311012319],[33.26853165707644,35.3206050110436],[33.26767367844593,35.31801177461426],[33.2655603172438,35.31855582559683],[33.26527436584792,35.31769140077108],[33.26210430726371,35.31850737573563],[33.26153249912687,35.31677849575868],[33.26047582143468,35.31705045582345],[33.26018994306713,35.31618600820917],[33.25701990306544,35.31700180493692],[33.2567340670617,35.31613734344927],[33.25356400046172,35.31695302062894],[33.25384980402259,35.31781749341673],[33.25279309122232,35.31808936552108],[33.25365052899787,35.32068277975804],[33.25259377719073,35.32095465113451],[33.25402298454571,35.32527697561005],[33.25613658976755,35.3247331831567],[33.25661719211729,35.32618623570573],[33.26005744057602,35.32618623570573],[33.25959287371444,35.32478184260293]]],"type":"Polygon"}
+}

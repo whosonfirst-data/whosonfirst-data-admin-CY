@@ -1,0 +1,124 @@
+{
+  "id": 101804645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000065,
+    "geom:area_square_m":660128.640489,
+    "geom:bbox":"33.0017303117,34.7359644666,33.0111135867,34.7493172878",
+    "geom:latitude":34.742615,
+    "geom:longitude":33.006881,
+    "gn:population":762,
+    "iso:country":"CY",
+    "lbl:latitude":34.743066,
+    "lbl:longitude":33.006561,
+    "mps:latitude":34.743066,
+    "mps:longitude":33.006561,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041f\u0430\u043b\u043e\u0434\u0438\u044f"
+    ],
+    "name:ceb_x_preferred":[
+        "Palodeia"
+    ],
+    "name:dut_x_preferred":[
+        "Palodeia"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b1\u03bb\u03ce\u03b4\u03b9\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03b1\u03bb\u03cc\u03b4\u03b5\u03b9\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Palodhia"
+    ],
+    "name:eng_x_variant":[
+        "Palodeia",
+        "Palodia"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a0\u03b1\u03bb\u03ce\u03b4\u03b9\u03b1"
+    ],
+    "name:pol_x_preferred":[
+        "Palodia"
+    ],
+    "name:swe_x_preferred":[
+        "Palodeia"
+    ],
+    "name:unk_x_variant":[
+        "Palodiya"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u039b\u03b5\u03bc\u03b5\u03c3\u03cc\u03c2",
+    "qs:a1_alt":"Lemesos",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:id":0,
+    "qs:la":"\u03a0\u03b1\u03bb\u03cc\u03b4\u03b5\u03b9\u03b1",
+    "qs:la_lc":"*CY5100",
+    "qs:level":"locality",
+    "qs:loc":"\u03a0\u03b1\u03bb\u03cc\u03b4\u03b5\u03b9\u03b1",
+    "qs:loc_alt":"Palodeia",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":34.742222,
+    "wd:longitude":33.007222,
+    "wd:wordcount":126,
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06ef4dce-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":146235,
+        "gp:id":841569,
+        "qs:id":1273501,
+        "qs_pg:id":1273501,
+        "wd:id":"Q7128555",
+        "wk:page":"Palodeia"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"a1d52fb5eb06eca2e09869654b0da6e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":101804645,
+            "region_id":85682411
+        }
+    ],
+    "wof:id":101804645,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527642745,
+    "wof:name":"\u03a0\u03b1\u03bb\u03cc\u03b4\u03b5\u03b9\u03b1",
+    "wof:parent_id":85682411,
+    "wof:placetype":"locality",
+    "wof:population":762,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.00173031169595,
+    34.73596446656182,
+    33.01111358672279,
+    34.74931728783525
+],
+  "geometry": {"coordinates":[[[33.01104877673129,34.73769727622346],[33.01049157258979,34.73596446656182],[33.00629293479767,34.73703940906131],[33.00657148954565,34.73790582985936],[33.00552180367782,34.73817453928825],[33.00580035741598,34.73904096120276],[33.00475065460205,34.73930966235599],[33.00502920732959,34.74017608538708],[33.00397948756904,34.74044477826448],[33.00425803928533,34.74131120241236],[33.00320830257726,34.7415798870137],[33.00460115229976,34.74591198778546],[33.00355135611449,34.74618067879965],[33.00382994428799,34.74704709496103],[33.00173031169595,34.74758444848732],[33.00228747437211,34.74931728783525],[33.00753661479558,34.74797377767294],[33.00725797547955,34.74710737764082],[33.00830777397266,34.74683864343388],[33.00802913364691,34.74597224451946],[33.01012869041074,34.745434747606],[33.00901414028033,34.7419691557763],[33.01111358672279,34.74143164045483],[33.0099991055024,34.73796603711401],[33.01104877673129,34.73769727622346]]],"type":"Polygon"}
+}

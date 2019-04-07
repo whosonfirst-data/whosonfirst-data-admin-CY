@@ -1,0 +1,75 @@
+{
+  "id": 1343657125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.69073,34.86492,32.69073,34.86492",
+    "geom:latitude":34.86492,
+    "geom:longitude":32.69073,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Malounta",
+    "gn:country_code":"CY",
+    "gn:dem":648,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":146350,
+    "gn:latitude":34.86492,
+    "gn:longitude":32.69073,
+    "gn:modification_date":"2014-06-04",
+    "gn:name":"Malo\u00fanta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Nicosia",
+    "iso:country":"CY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Malo\u00fanta"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03b1\u03bb\u03bf\u03cd\u03bd\u03c4\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Malunda",
+        "Malounda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":146350
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"aa9ff08a9846dc89649949e19f98d71f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":1343657125,
+            "region_id":85682401
+        }
+    ],
+    "wof:id":1343657125,
+    "wof:lastmodified":1537619244,
+    "wof:name":"Malounta",
+    "wof:parent_id":85682401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.69073,
+    34.86492,
+    32.69073,
+    34.86492
+],
+  "geometry": {"coordinates":[32.69073,34.86492],"type":"Point"}
+}

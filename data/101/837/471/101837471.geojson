@@ -1,0 +1,124 @@
+{
+  "id": 101837471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000095,
+    "geom:area_square_m":967602.229597,
+    "geom:bbox":"32.9047056011,34.8439304887,32.9164738261,34.8640137845",
+    "geom:latitude":34.853182,
+    "geom:longitude":32.910385,
+    "gn:population":174,
+    "iso:country":"CY",
+    "lbl:latitude":34.847311,
+    "lbl:longitude":32.911455,
+    "mps:latitude":34.847311,
+    "mps:longitude":32.911455,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0422\u0440\u0438\u043c\u0438\u043a\u043b\u0438\u043d\u0438"
+    ],
+    "name:ceb_x_preferred":[
+        "Trim\u00edklini"
+    ],
+    "name:dut_x_preferred":[
+        "Trimiklini"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c1\u03b9\u03bc\u03af\u03ba\u03bb\u03b9\u03bd\u03b7"
+    ],
+    "name:ell_x_variant":[
+        "Trim\u00edklini",
+        "\u03a4\u03c1\u03b9\u03bc\u03ae\u03ba\u03bb\u03b7\u03bd\u03b7"
+    ],
+    "name:eng_x_preferred":[
+        "Trimiklini"
+    ],
+    "name:fre_x_preferred":[
+        "Trim\u00edklini"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a4\u03c1\u03b9\u03bc\u03af\u03ba\u03bb\u03b9\u03bd\u03b7"
+    ],
+    "name:pol_x_preferred":[
+        "Trimiklini"
+    ],
+    "name:swe_x_preferred":[
+        "Trim\u00edklini"
+    ],
+    "name:unk_x_variant":[
+        "Trimiklin"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u039b\u03b5\u03bc\u03b5\u03c3\u03cc\u03c2",
+    "qs:a1_alt":"Lemesos",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:id":0,
+    "qs:la":"\u039c\u03bf\u03bd\u03b9\u03ac\u03c4\u03b7\u03c2",
+    "qs:la_lc":"*CY5318",
+    "qs:level":"locality",
+    "qs:loc":"\u03a4\u03c1\u03b9\u03bc\u03ae\u03ba\u03bb\u03b7\u03bd\u03b7",
+    "qs:loc_alt":"Trimiklini",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":34.846944,
+    "wd:longitude":32.911667,
+    "wd:wordcount":27,
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06ef6c6e-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":146025,
+        "gp:id":841736,
+        "qs:id":1349500,
+        "qs_pg:id":1349500,
+        "wd:id":"Q7842231",
+        "wk:page":"Trimiklini"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"6d91b195b251a7bc3e0b2562c9ea823c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":101837471,
+            "region_id":85682411
+        }
+    ],
+    "wof:id":101837471,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527715301,
+    "wof:name":"\u03a4\u03c1\u03b9\u03bc\u03ae\u03ba\u03bb\u03b7\u03bd\u03b7",
+    "wof:parent_id":85682411,
+    "wof:placetype":"locality",
+    "wof:population":174,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.90470560108849,
+    34.84393048871732,
+    32.91647382606095,
+    34.86401378450137
+],
+  "geometry": {"coordinates":[[[32.90470560108849,34.85953873686634],[32.91067644934196,34.86401378450137],[32.91028821908691,34.86280502155176],[32.91133979868471,34.86253734262669],[32.91050488146084,34.85993758005361],[32.91155642262663,34.8596699001663],[32.90960854446723,34.85360372422588],[32.91276290532278,34.85280068979796],[32.91304117684609,34.85366728297652],[32.91409262850215,34.85339957721851],[32.91437092034755,34.85426616418476],[32.91647382606095,34.85373070941091],[32.91563891522821,34.85113096290701],[32.91458749762296,34.85139868526915],[32.91375270550429,34.84879890487247],[32.91480409102553,34.84853119352039],[32.91396935344176,34.84593140125128],[32.91502070055407,34.8456636889369],[32.91446423556249,34.84393048871732],[32.9081561863,34.84553653900417],[32.91010353302846,34.85160284939298],[32.90694919838131,34.85240578996832],[32.90722739717137,34.85327240657864],[32.90512445437065,34.85380764776988],[32.90679372082815,34.85900733809478],[32.90470560108849,34.85953873686634]]],"type":"Polygon"}
+}

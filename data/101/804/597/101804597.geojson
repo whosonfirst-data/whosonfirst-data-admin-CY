@@ -1,0 +1,123 @@
+{
+  "id": 101804597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00008,
+    "geom:area_square_m":810131.267775,
+    "geom:bbox":"32.5693393961,34.9102331286,32.5824349614,34.9281167074",
+    "geom:latitude":34.919747,
+    "geom:longitude":32.576906,
+    "gn:population":169,
+    "iso:country":"CY",
+    "lbl:latitude":34.924076,
+    "lbl:longitude":32.578989,
+    "mps:latitude":34.924076,
+    "mps:longitude":32.578989,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u053f\u0561\u0576\u0561\u057e\u056b\u0578\u0582"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u0430\u043d\u0430\u0432\u0438\u0443"
+    ],
+    "name:ceb_x_preferred":[
+        "Kannavio\u00fa"
+    ],
+    "name:dut_x_preferred":[
+        "Kannaviou"
+    ],
+    "name:ell_x_preferred":[
+        "Kannavio\u00fa"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03b1\u03bd\u03bd\u03b1\u03b2\u03b9\u03bf\u03cd"
+    ],
+    "name:eng_x_preferred":[
+        "Kannaviou"
+    ],
+    "name:gre_x_preferred":[
+        "\u039a\u03b1\u03bd\u03bd\u03b1\u03b2\u03b9\u03bf\u03cd"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0561\u0576\u0561\u057e\u056b\u0578\u0582"
+    ],
+    "name:pol_x_preferred":[
+        "Kanawiu"
+    ],
+    "name:swe_x_preferred":[
+        "Kannavio\u00fa"
+    ],
+    "name:unk_x_variant":[
+        "Kanavya"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u03a0\u03ac\u03c6\u03bf\u03c2",
+    "qs:a1_alt":"Pafos",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:la":"\u039a\u03c1\u03af\u03c4\u03bf\u03c5 \u039c\u03b1\u03c1\u03cc\u03c4\u03c4\u03bf\u03c5",
+    "qs:la_lc":"*CY6305",
+    "qs:level":"locality",
+    "qs:loc":"\u039a\u03b1\u03bd\u03bd\u03b1\u03b2\u03b9\u03bf\u03cd",
+    "qs:loc_alt":"Kannaviou",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":21,
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06ef21dc-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":146557,
+        "gp:id":841325,
+        "qs:id":940302,
+        "qs_pg:id":940302,
+        "wd:id":"Q6364013",
+        "wk:page":"Kannaviou"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"c714c74d4980995223935c23fea2965a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":101804597,
+            "region_id":85682401
+        }
+    ],
+    "wof:id":101804597,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527642751,
+    "wof:name":"\u039a\u03b1\u03bd\u03bd\u03b1\u03b2\u03b9\u03bf\u03cd",
+    "wof:parent_id":85682401,
+    "wof:placetype":"locality",
+    "wof:population":169,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.56933939613043,
+    34.91023312859562,
+    32.58243496135822,
+    34.92811670738837
+],
+  "geometry": {"coordinates":[[[32.58243496135822,34.92592944657144],[32.58023671304966,34.91898730859657],[32.57918351082134,34.91925120091685],[32.57835935724358,34.91664784699776],[32.57730618113033,34.91691171642981],[32.57593283624254,34.9125727250439],[32.57487970783069,34.91283656433563],[32.57405584751882,34.91023312859562],[32.57300274521958,34.91049694500379],[32.57327734501172,34.91136476304592],[32.57117110003276,34.91189236710363],[32.57144568775669,34.91276018989629],[32.56933939613043,34.91328775318993],[32.56961397178367,34.91415558073328],[32.57066713152426,34.91389180146234],[32.57094172749083,34.91475962287757],[32.57199489176026,34.91449582797594],[32.57226950804034,34.91536364326294],[32.57332267683876,34.91509983273005],[32.57469595501897,34.91943885350133],[32.57574917152624,34.9191750128283],[32.57657328508299,34.92177838438346],[32.5755200361869,34.92204223593967],[32.57606947124737,34.92377781172127],[32.57501619448698,34.9240416585277],[32.57529091550521,34.92490944629344],[32.57634420306317,34.92464559585898],[32.57744322557528,34.92811670738837],[32.58165648587021,34.92706112753444],[32.58138167276127,34.9261933679208],[32.58243496135822,34.92592944657144]]],"type":"Polygon"}
+}

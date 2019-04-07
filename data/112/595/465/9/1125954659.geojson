@@ -1,0 +1,117 @@
+{
+  "id": 1125954659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.44583,34.94167,32.44583,34.94167",
+    "geom:latitude":34.94167,
+    "geom:longitude":32.44583,
+    "gn:gn_country":"CY",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":27,
+    "gn:population":27,
+    "iso:country":"CY",
+    "lbl:latitude":34.94167,
+    "lbl:longitude":32.44583,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arm_x_preferred":[
+        "\u054a\u0561\u0576\u0578 \u0531\u056f\u0578\u0582\u0580\u0564\u0561\u056c\u056b\u0561"
+    ],
+    "name:bul_x_preferred":[
+        "\u041f\u0430\u043d\u043e \u0410\u043a\u0443\u0440\u0434\u0430\u043b\u0438\u044f"
+    ],
+    "name:dut_x_preferred":[
+        "Pano Akourdaleia"
+    ],
+    "name:ell_x_preferred":[
+        "P\u00e1no Akourd\u00e1leia"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03ac\u03bd\u03c9 \u0391\u03ba\u03bf\u03c5\u03c1\u03b4\u03ac\u03bb\u03b5\u03b9\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Pano Akourdaleia"
+    ],
+    "name:ger_x_preferred":[
+        "Pano Akourdaleia"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a0\u03ac\u03bd\u03c9 \u0391\u03ba\u03bf\u03c5\u03c1\u03b4\u03ac\u03bb\u03b5\u03b9\u03b1"
+    ],
+    "name:pol_x_preferred":[
+        "Pano Akurdalia"
+    ],
+    "name:unk_x_variant":[
+        "Pano Akurdalya"
+    ],
+    "qs_pg:aaroncc":"CY",
+    "qs_pg:gn_country":"CY",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":146229,
+    "qs_pg:gn_pop":27,
+    "qs_pg:name":"Pano Akourdhalia",
+    "qs_pg:name_adm0":"Cyprus",
+    "qs_pg:name_adm1":"Paphos District",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":405571,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":26812346,
+    "qs_pg:woe_id":841573,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":26812346,
+    "woe:name_adm0":"Cyprus",
+    "woe:name_adm1":"Paphos District",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":146229,
+        "gp:id":841573,
+        "qs_pg:id":405571,
+        "wd:id":"Q7131430"
+    },
+    "wof:country":"CY",
+    "wof:created":1497297578,
+    "wof:geomhash":"bfc563b09db637e698ec150c8240a1cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":1125954659,
+            "region_id":85682401
+        }
+    ],
+    "wof:id":1125954659,
+    "wof:lastmodified":1513944666,
+    "wof:name":"Pano Akourdhalia",
+    "wof:parent_id":85682401,
+    "wof:placetype":"locality",
+    "wof:population":27,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.44583,
+    34.94167,
+    32.44583,
+    34.94167
+],
+  "geometry": {"coordinates":[32.44583,34.94167],"type":"Point"}
+}

@@ -1,0 +1,144 @@
+{
+  "id": 101837453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000045,
+    "geom:area_square_m":459654.800976,
+    "geom:bbox":"32.3888862284,34.9515187318,32.3983738652,34.9624703442",
+    "geom:latitude":34.955867,
+    "geom:longitude":32.394281,
+    "gn:population":367,
+    "iso:country":"CY",
+    "lbl:latitude":34.955554,
+    "lbl:longitude":32.394229,
+    "mps:latitude":34.955554,
+    "mps:longitude":32.394229,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u053b\u0576\u056b\u0561"
+    ],
+    "name:bul_x_preferred":[
+        "\u0418\u043d\u0438\u044f"
+    ],
+    "name:ceb_x_preferred":[
+        "\u00cdneia"
+    ],
+    "name:dut_x_preferred":[
+        "Inia"
+    ],
+    "name:ell_x_preferred":[
+        "\u00cdneia"
+    ],
+    "name:ell_x_variant":[
+        "\u038a\u03bd\u03b5\u03b9\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Inia"
+    ],
+    "name:eng_x_variant":[
+        "Ineia"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u0646\u0627\u06cc\u0627"
+    ],
+    "name:gre_x_preferred":[
+        "\u038a\u03bd\u03b9\u03b1"
+    ],
+    "name:hye_x_preferred":[
+        "\u053b\u0576\u056b\u0561"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u06cc\u0646\u0627\u06cc\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Inia"
+    ],
+    "name:spa_x_preferred":[
+        "Ineia"
+    ],
+    "name:swe_x_preferred":[
+        "\u00cdneia"
+    ],
+    "name:und_x_colloquial":[
+        "Inya"
+    ],
+    "name:und_x_variant":[
+        "\u1e2enya"
+    ],
+    "name:unk_x_variant":[
+        "\u0130nya"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0646\u06cc\u0627\u060c \u067e\u0627\u0641\u0648\u0633"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u03a0\u03ac\u03c6\u03bf\u03c2",
+    "qs:a1_alt":"Pafos",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:la":"\u0394\u03c1\u03bf\u03cd\u03c3\u03b5\u03b9\u03b1",
+    "qs:la_lc":"*CY6353",
+    "qs:level":"locality",
+    "qs:loc":"\u038a\u03bd\u03b5\u03b9\u03b1",
+    "qs:loc_alt":"Ineia",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":20,
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06ef1cf0-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":146588,
+        "gp:id":841301,
+        "qs:id":1273423,
+        "qs_pg:id":1273423,
+        "wd:id":"Q11712531",
+        "wk:page":"Inia, Paphos"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"4e6fdc13dd7a638da800161de009142e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":101837453,
+            "region_id":85682401
+        }
+    ],
+    "wof:id":101837453,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527715304,
+    "wof:name":"\u038a\u03bd\u03b5\u03b9\u03b1",
+    "wof:parent_id":85682401,
+    "wof:placetype":"locality",
+    "wof:population":367,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.38888622842751,
+    34.95151873180231,
+    32.3983738651807,
+    34.96247034419315
+],
+  "geometry": {"coordinates":[[[[32.39204973378298,34.96217983872066],[32.39157693482741,34.96229722446196],[32.39163131358703,34.96247034419315],[32.39204973378298,34.96217983872066]]],[[[32.39414877543351,34.96072249251125],[32.39235841604989,34.96116704452299],[32.39256432301943,34.96182256392677],[32.39414877543351,34.96072249251125]]],[[[32.39834720926092,34.95780755672502],[32.39813814331308,34.95785948426197],[32.39731970825966,34.95525423357191],[32.3983738651807,34.95499241970589],[32.3972827075965,34.95151873180231],[32.39412034830474,34.95230409407708],[32.39439309095758,34.9531725305884],[32.39017648123308,34.95421952639651],[32.39099463579407,34.95682486429695],[32.38888622842751,34.95734831168977],[32.38943166872485,34.95908520563825],[32.39470274888868,34.95777646094041],[32.39536330148974,34.95987925772175],[32.39834720926092,34.95780755672502]]]],"type":"MultiPolygon"}
+}

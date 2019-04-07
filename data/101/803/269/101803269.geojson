@@ -1,0 +1,132 @@
+{
+  "id": 101803269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000027,
+    "geom:area_square_m":270017.726662,
+    "geom:bbox":"33.8110377658,35.3228367834,33.8193026086,35.3285666247",
+    "geom:latitude":35.32595,
+    "geom:longitude":33.81507,
+    "iso:country":"CY",
+    "lbl:latitude":35.32581,
+    "lbl:longitude":33.814789,
+    "mps:latitude":35.32581,
+    "mps:longitude":33.814789,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u0531\u0575\u0578\u057d \u0545\u0561\u056f\u0578\u057e\u0578\u057d"
+    ],
+    "name:bul_x_preferred":[
+        "\u0410\u0433\u0438\u043e\u0441 \u042f\u043a\u043e\u0432\u043e\u0441"
+    ],
+    "name:dut_x_preferred":[
+        "Ayios Iakovos"
+    ],
+    "name:ell_x_preferred":[
+        "\u00c1gios I\u00e1kovos"
+    ],
+    "name:ell_x_variant":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u0399\u03ac\u03ba\u03c9\u03b2\u03bf\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Ayios Iakovos"
+    ],
+    "name:gre_x_preferred":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u0399\u03ac\u03ba\u03c9\u03b2\u03bf\u03c2"
+    ],
+    "name:may_x_preferred":[
+        "Ayios Iakovos"
+    ],
+    "name:pol_x_preferred":[
+        "Ajos Jakowos"
+    ],
+    "name:swe_x_preferred":[
+        "\u00c1gios I\u00e1kovos"
+    ],
+    "name:unk_x_variant":[
+        "Aynakofo"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u0391\u03bc\u03bc\u03cc\u03c7\u03c9\u03c3\u03c4\u03bf\u03c2",
+    "qs:a1_alt":"Ammochostos",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:la":"\u0386\u03b3\u03b9\u03bf\u03c2 \u0399\u03ac\u03ba\u03c9\u03b2\u03bf\u03c2",
+    "qs:la_lc":"*CY3310",
+    "qs:level":"locality",
+    "qs:loc":"\u0386\u03b3\u03b9\u03bf\u03c2 \u0399\u03ac\u03ba\u03c9\u03b2\u03bf\u03c2",
+    "qs:loc_alt":"Agios Iakovos",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85681187,
+        85632375,
+        85682389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":146725,
+        "gp:id":841202,
+        "qs:id":9,
+        "wd:id":"Q4831287",
+        "wk:page":"Agios Iakovos"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"1c8e3f8c5456bf9851758f8c2c7f6c28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "disputed_id":85632375,
+            "locality_id":101803269,
+            "region_id":85681187
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632375,
+            "disputed_id":85632375,
+            "locality_id":101803269,
+            "region_id":85681187
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "disputed_id":85632375,
+            "locality_id":101803269,
+            "region_id":85682389
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632375,
+            "disputed_id":85632375,
+            "locality_id":101803269,
+            "region_id":85682389
+        }
+    ],
+    "wof:id":101803269,
+    "wof:lastmodified":1553815512,
+    "wof:name":"\u0386\u03b3\u03b9\u03bf\u03c2 \u0399\u03ac\u03ba\u03c9\u03b2\u03bf\u03c2",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.81103776576981,
+    35.32283678342219,
+    33.81930260855097,
+    35.32856662472
+],
+  "geometry": {"coordinates":[[[33.81431899050136,35.32856662472],[33.81854009667387,35.32745317284758],[33.81824735945099,35.32659099725072],[33.81930260855097,35.32631260815282],[33.81871714313831,35.32458825674377],[33.81660668100312,35.32514500754979],[33.81602129890422,35.3234206301903],[33.81496607917006,35.32369897990799],[33.81467341401628,35.32283678342219],[33.81361819827464,35.32311511729995],[33.81391085273725,35.32397731763433],[33.81180037977606,35.32453395711269],[33.8120930229901,35.32539616250688],[33.81103776576981,35.32567446810714],[33.81162306121962,35.32739887868024],[33.81267833982633,35.32712056538247],[33.81297101344836,35.32798276286405],[33.81402629604906,35.3277044337251],[33.81431899050136,35.32856662472]]],"type":"Polygon"}
+}

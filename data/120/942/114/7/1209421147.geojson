@@ -1,0 +1,67 @@
+{
+  "id": 1209421147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.4986,35.16034,33.4986,35.16034",
+    "geom:latitude":35.16034,
+    "geom:longitude":33.4986,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ercan",
+    "gn:country_code":"CY",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8531733,
+    "gn:latitude":35.16034,
+    "gn:longitude":33.4986,
+    "gn:modification_date":"2013-05-11",
+    "gn:name":"Ercan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Nicosia",
+    "iso:country":"CY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ercan"
+    ],
+    "name:tur_x_preferred":[
+        "Ercan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8531733
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"578e56f627af37f66fb12b8dfc7c90b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632437,
+            "locality_id":1209421147
+        }
+    ],
+    "wof:id":1209421147,
+    "wof:lastmodified":1537619250,
+    "wof:name":"Ercan",
+    "wof:parent_id":85632437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.4986,
+    35.16034000000001,
+    33.4986,
+    35.16034000000001
+],
+  "geometry": {"coordinates":[33.4986,35.16034000000001],"type":"Point"}
+}

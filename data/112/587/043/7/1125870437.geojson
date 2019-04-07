@@ -1,0 +1,104 @@
+{
+  "id": 1125870437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.5647045,35.661131,34.5647045,35.661131",
+    "geom:latitude":35.661131,
+    "geom:longitude":34.564704,
+    "gn:gn_country":"CY",
+    "iso:country":"CY",
+    "lbl:latitude":35.661131,
+    "lbl:longitude":34.564704,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"CY",
+    "qs_pg:gn_country":"CY",
+    "qs_pg:name":"Apostolos Andreas",
+    "qs_pg:name_adm0":"Cyprus",
+    "qs_pg:name_adm1":"Famagusta District",
+    "qs_pg:photos":324,
+    "qs_pg:photos_1k":66,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":324,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":362659,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":26812346,
+    "qs_pg:woe_id":8893193,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":26812346,
+    "woe:name_adm0":"Cyprus",
+    "woe:name_adm1":"Famagusta District",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682389,
+        85632375,
+        85681187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":8893193,
+        "qs_pg:id":362659
+    },
+    "wof:country":"CY",
+    "wof:created":1497294268,
+    "wof:geomhash":"3e482b9e1d384d1e53e717bc2d972a99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "disputed_id":85632375,
+            "locality_id":1125870437,
+            "region_id":85682389
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632375,
+            "disputed_id":85632375,
+            "locality_id":1125870437,
+            "region_id":85682389
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "disputed_id":85632375,
+            "locality_id":1125870437,
+            "region_id":85681187
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632375,
+            "disputed_id":85632375,
+            "locality_id":1125870437,
+            "region_id":85681187
+        }
+    ],
+    "wof:id":1125870437,
+    "wof:lastmodified":1509397261,
+    "wof:name":"Apostolos Andreas",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.5647045,
+    35.661131,
+    34.5647045,
+    35.661131
+],
+  "geometry": {"coordinates":[34.5647045,35.661131],"type":"Point"}
+}

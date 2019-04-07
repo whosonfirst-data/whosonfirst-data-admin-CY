@@ -1,0 +1,170 @@
+{
+  "id": 101804615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000103,
+    "geom:area_square_m":1040137.679526,
+    "geom:bbox":"32.4211283797,35.0293060224,32.4386384292,35.0411978642",
+    "geom:latitude":35.036036,
+    "geom:longitude":32.428626,
+    "gn:population":1975,
+    "iso:country":"CY",
+    "lbl:latitude":35.035591,
+    "lbl:longitude":32.42657,
+    "mps:latitude":35.035591,
+    "mps:longitude":32.42657,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u054a\u0578\u056c\u056b\u057d"
+    ],
+    "name:bul_x_preferred":[
+        "\u041f\u043e\u043b\u0438\u0441"
+    ],
+    "name:ceb_x_preferred":[
+        "P\u00f3lis"
+    ],
+    "name:deu_x_preferred":[
+        "Polis Chrysochous"
+    ],
+    "name:dut_x_preferred":[
+        "Polis"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03cc\u03bb\u03b7 \u03a7\u03c1\u03c5\u03c3\u03bf\u03c7\u03bf\u03cd\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "P\u00f3lis",
+        "\u03a0\u03cc\u03bb\u03b9\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Polis"
+    ],
+    "name:eng_x_variant":[
+        "Polis Chrysochous"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u0644\u06cc\u0633 \u0642\u0628\u0631\u0633"
+    ],
+    "name:fre_x_preferred":[
+        "Polis Crysochous"
+    ],
+    "name:ger_x_preferred":[
+        "Polis Chrysochous"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a0\u03cc\u03bb\u03b7 \u03a7\u03c1\u03c5\u03c3\u03bf\u03c7\u03bf\u03cd\u03c2"
+    ],
+    "name:hye_x_preferred":[
+        "\u054a\u0578\u056c\u056b\u057d"
+    ],
+    "name:ita_x_preferred":[
+        "Polis"
+    ],
+    "name:nno_x_preferred":[
+        "P\u00f3li i P\u00e1fos"
+    ],
+    "name:nob_x_preferred":[
+        "Polis"
+    ],
+    "name:nor_x_preferred":[
+        "Polis"
+    ],
+    "name:per_x_preferred":[
+        "\u067e\u0648\u0644\u06cc\u0633 \u0642\u0628\u0631\u0633"
+    ],
+    "name:pol_x_preferred":[
+        "Polis"
+    ],
+    "name:por_x_preferred":[
+        "Polis"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u043b\u0438\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Poli Crysochous"
+    ],
+    "name:swe_x_preferred":[
+        "P\u00f3lis"
+    ],
+    "name:und_x_preferred":[
+        "Poli"
+    ],
+    "name:unk_x_variant":[
+        "Poli"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u0648\u0644\u0633\u060c \u0642\u0628\u0631\u0635"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u03a0\u03ac\u03c6\u03bf\u03c2",
+    "qs:a1_alt":"Pafos",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:la":"\u03a0\u03cc\u03bb\u03b9\u03c2",
+    "qs:la_lc":"*CY6343",
+    "qs:level":"locality",
+    "qs:loc":"\u03a0\u03cc\u03bb\u03b9\u03c2",
+    "qs:loc_alt":"Polis",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":943,
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06ef5d46-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":146137,
+        "gp:id":841650,
+        "loc:id":"n85064337",
+        "qs:id":894591,
+        "qs_pg:id":894591,
+        "wd:id":"Q2626631",
+        "wk:page":"Polis, Cyprus"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"53710827b4c4bb015183a49292844260",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":101804615,
+            "region_id":85682401
+        }
+    ],
+    "wof:id":101804615,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527642754,
+    "wof:name":"\u03a0\u03cc\u03bb\u03b9\u03c2",
+    "wof:parent_id":85682401,
+    "wof:placetype":"locality",
+    "wof:population":1975,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.42112837965885,
+    35.02930602239655,
+    32.43863842915243,
+    35.0411978642129
+],
+  "geometry": {"coordinates":[[[32.43785714131513,35.04067324700952],[32.43758325022435,35.03980512169551],[32.43863842915243,35.03954279866201],[32.43836453669934,35.03867467448339],[32.43730936864631,35.03893699389761],[32.43703549658085,35.03806886361633],[32.43598033313214,35.03833116737781],[32.43515880662915,35.03572675077646],[32.436213937454,35.0354644578714],[32.43594010343327,35.03459631765605],[32.43066444098986,35.03590764375565],[32.42956941748525,35.03243498570123],[32.43062451901318,35.03217275901886],[32.43035077603218,35.0313045919155],[32.43140586041989,35.03104235681752],[32.43085838123204,35.02930602239655],[32.42874824968305,35.02983046609074],[32.42902196277737,35.03069864177695],[32.42480158099164,35.03174739923753],[32.4245279113934,35.03087920908416],[32.42241770465569,35.03140350838163],[32.42296500985611,35.03313990067187],[32.42190987533769,35.03340203950285],[32.42218353131932,35.03427023554133],[32.42112837965885,35.03453236595487],[32.42277044989919,35.0397415117647],[32.42488087748245,35.03921719550192],[32.42515461088499,35.04008537054915],[32.42620982615284,35.03982319074828],[32.4264835799421,35.04069135969581],[32.42753879981871,35.04042916424277],[32.42726503515178,35.03956099891292],[32.43043062453546,35.03877435119938],[32.43070442183443,35.03964250567549],[32.43175961663388,35.03938026208419],[32.43203343432009,35.04024841045907],[32.43414382686205,35.03972387993679],[32.43441767581254,35.04059201859161],[32.43547287355432,35.04032973166022],[32.43574674289272,35.0411978642129],[32.43785714131513,35.04067324700952]]],"type":"Polygon"}
+}

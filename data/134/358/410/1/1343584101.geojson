@@ -1,0 +1,74 @@
+{
+  "id": 1343584101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.88106,34.73976,32.88106,34.73976",
+    "geom:latitude":34.73976,
+    "geom:longitude":32.88106,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Souni",
+    "gn:country_code":"CY",
+    "gn:dem":450,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":5819,
+    "gn:latitude":34.73976,
+    "gn:longitude":32.88106,
+    "gn:modification_date":"2018-07-01",
+    "gn:name":"So\u00fani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Nicosia",
+    "iso:country":"CY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "So\u00fani"
+    ],
+    "name:ell_x_variant":[
+        "\u03a3\u03bf\u03cd\u03bd\u03b9"
+    ],
+    "name:und_x_variant":[
+        "Suni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":5819
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"6d67102ab40833066101eb39bd6e5692",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":1343584101,
+            "region_id":85682411
+        }
+    ],
+    "wof:id":1343584101,
+    "wof:lastmodified":1537619239,
+    "wof:name":"Souni",
+    "wof:parent_id":85682411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.88106,
+    34.73976,
+    32.88106,
+    34.73976
+],
+  "geometry": {"coordinates":[32.88106,34.73976],"type":"Point"}
+}

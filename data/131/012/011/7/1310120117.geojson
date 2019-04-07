@@ -1,0 +1,98 @@
+{
+  "id": 1310120117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.67019,35.36321,33.67019,35.36321",
+    "geom:latitude":35.36321,
+    "geom:longitude":33.67019,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kapsalos",
+    "gn:country_code":"CY",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":19892,
+    "gn:latitude":35.36321,
+    "gn:longitude":33.67019,
+    "gn:modification_date":"2015-09-05",
+    "gn:name":"K\u00e1psalos",
+    "gn:population":0,
+    "gn:timezone":"Asia/Famagusta",
+    "iso:country":"CY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "K\u00e1psalos"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03ac\u03c8\u03b1\u03bb\u03bf\u03c2"
+    ],
+    "name:tur_x_preferred":[
+        "K\u00fc\u00e7\u00fck Erenk\u00f6y"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85681187,
+        85632375,
+        85682389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":19892
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"27030fff0fa007c257422c85bebd6fe1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "disputed_id":85632375,
+            "locality_id":1310120117,
+            "region_id":85681187
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632375,
+            "disputed_id":85632375,
+            "locality_id":1310120117,
+            "region_id":85681187
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "disputed_id":85632375,
+            "locality_id":1310120117,
+            "region_id":85682389
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632375,
+            "disputed_id":85632375,
+            "locality_id":1310120117,
+            "region_id":85682389
+        }
+    ],
+    "wof:id":1310120117,
+    "wof:lastmodified":1537619240,
+    "wof:name":"Kapsalos",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.67019000000001,
+    35.36320999999999,
+    33.67019000000001,
+    35.36320999999999
+],
+  "geometry": {"coordinates":[33.67019000000001,35.36320999999999],"type":"Point"}
+}

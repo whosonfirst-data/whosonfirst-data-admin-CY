@@ -1,0 +1,112 @@
+{
+  "id": 101850125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.585747,35.170944,32.585747,35.170944",
+    "geom:latitude":35.170944,
+    "geom:longitude":32.585747,
+    "gn:population":101,
+    "iso:country":"CY",
+    "lbl:latitude":35.170944,
+    "lbl:longitude":32.585747,
+    "mps:latitude":35.170944,
+    "mps:longitude":32.585747,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Pach\u00fdammos"
+    ],
+    "name:dut_x_preferred":[
+        "Pachyammos"
+    ],
+    "name:ell_x_preferred":[
+        "Pach\u00fdammos"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03b1\u03c7\u03cd\u03b1\u03bc\u03bc\u03bf\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Pachyammos"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a0\u03b1\u03c7\u03cd\u03b1\u03bc\u03bc\u03bf\u03c2"
+    ],
+    "name:pol_x_preferred":[
+        "Pachiamos"
+    ],
+    "name:spa_x_preferred":[
+        "Pachyammos"
+    ],
+    "name:swe_x_preferred":[
+        "Pach\u00fdammos"
+    ],
+    "name:unk_x_variant":[
+        "Pa\u015fiammo"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u039b\u03b5\u03c5\u03ba\u03c9\u03c3\u03af\u03b1",
+    "qs:a1_alt":"Lefkosia",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u03a0\u03b1\u03c7\u03cd\u03b1\u03bc\u03bc\u03bf\u03c2",
+    "qs:loc_alt":"Pachyammos",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":21,
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":146244,
+        "gp:id":841563,
+        "qs:id":514255,
+        "wd:id":"Q7122083",
+        "wk:page":"Pachyammos"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"abfb3e6beffc965e410f4d3ebfce98ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":101850125,
+            "region_id":85682397
+        }
+    ],
+    "wof:id":101850125,
+    "wof:lastmodified":1544741272,
+    "wof:name":"\u03a0\u03b1\u03c7\u03cd\u03b1\u03bc\u03bc\u03bf\u03c2",
+    "wof:parent_id":85682397,
+    "wof:placetype":"locality",
+    "wof:population":101,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.585747,
+    35.170944,
+    32.585747,
+    35.170944
+],
+  "geometry": {"coordinates":[32.585747,35.170944],"type":"Point"}
+}

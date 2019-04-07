@@ -1,0 +1,110 @@
+{
+  "id": 101803391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000101,
+    "geom:bbox":"33.3648933899,34.9864064812,33.3790304549,35.0013313162",
+    "geom:latitude":34.995184,
+    "geom:longitude":33.370927,
+    "iso:country":"CY",
+    "lbl:latitude":34.993511,
+    "lbl:longitude":33.369266,
+    "mps:latitude":34.993511,
+    "mps:longitude":33.369266,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Ag\u00eda Varv\u00e1ra"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03b3\u03af\u03b1 \u0392\u03b1\u03c1\u03b2\u03ac\u03c1\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Ayia Varvara"
+    ],
+    "name:eng_x_variant":[
+        "Agia Varvara",
+        "Avia Varvara"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u06af\u06cc\u0627 \u0648\u0627\u0631\u0648\u0627\u0631\u0627\u060c \u0646\u06cc\u06a9\u0648\u0632\u06cc\u0627"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u0575\u056b\u0561 \u054e\u0561\u0580\u057e\u0561\u0580\u0561"
+    ],
+    "name:nld_x_preferred":[
+        "Agia Vavaraklooster"
+    ],
+    "name:pol_x_preferred":[
+        "Ajia Warwara"
+    ],
+    "name:unk_x_variant":[
+        "Ayvaryara"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u06af\u06cc\u0627 \u0648\u0627\u0631\u0648\u0627\u0631\u0627\u060c \u0646\u06a9\u0648\u0633\u06cc\u0627"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u039b\u03b5\u03c5\u03ba\u03c9\u03c3\u03af\u03b1",
+    "qs:a1_alt":"Lefkosia",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:la":"\u0391\u03b3\u03af\u03b1 \u0392\u03b1\u03c1\u03b2\u03ac\u03c1\u03b1 (\u039b\u03b5\u03c5\u03ba\u03c9\u03c3\u03af\u03b1\u03c2)",
+    "qs:la_lc":"*CY1103",
+    "qs:level":"locality",
+    "qs:loc":"\u0391\u03b3\u03af\u03b1 \u0392\u03b1\u03c1\u03b2\u03ac\u03c1\u03b1",
+    "qs:loc_alt":"Agia Varvara",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":26,
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06ef097c-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":146744,
+        "gp:id":841183,
+        "qs:id":405471,
+        "wd:id":"Q1942703",
+        "wk:page":"Agia Varvara, Nicosia"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"db60354f7e86793e0af8c62b3dce139d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":101803391,
+            "region_id":85682397
+        }
+    ],
+    "wof:id":101803391,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527642759,
+    "wof:name":"\u0391\u03b3\u03af\u03b1 \u0392\u03b1\u03c1\u03b2\u03ac\u03c1\u03b1",
+    "wof:parent_id":85682397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.36489338994846,
+    34.98640648122557,
+    33.37903045491373,
+    35.00133131615053
+],
+  "geometry": {"coordinates":[[[33.37482186389832,35.00133131615053],[33.37903045491373,35.00023882526074],[33.37789069202768,34.9967808014768],[33.37263015015446,34.99814631013498],[33.37177559124677,34.99555270880251],[33.37282768062823,34.99527964225729],[33.37254283670057,34.99441510704662],[33.37359490894238,34.99414203228594],[33.37331006420862,34.99327749823391],[33.374362119311,34.9930044152585],[33.37322279623743,34.98954626813054],[33.37427480224386,34.98927318819233],[33.37370517848342,34.98754410657489],[33.3747571567028,34.98727102217271],[33.37447234894034,34.98640648122557],[33.37236840732157,34.9869526305647],[33.37265319378105,34.98781717901227],[33.37160120259603,34.98809023948462],[33.37188598824923,34.98895478909003],[33.36662588181861,34.99031993072163],[33.36691062405004,34.99118449648478],[33.36585857266198,34.9914574926637],[33.36614331408333,34.99232205958486],[33.36509124555755,34.99259504754724],[33.36594549692512,34.99518874401173],[33.36489338994846,34.99546173125702],[33.36631728586292,34.99978452562141],[33.36736944612545,34.99951151962478],[33.36765426550738,35.00037606697316],[33.36975858789168,34.99983001157671],[33.37004343843785,35.00069454883163],[33.37319990533922,34.99987536472941],[33.37348479770651,35.00073988813853],[33.37453695102334,35.0004667990853],[33.37482186389832,35.00133131615053]]],"type":"Polygon"}
+}

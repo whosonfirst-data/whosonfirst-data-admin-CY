@@ -1,0 +1,129 @@
+{
+  "id": 101804659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000038,
+    "geom:area_square_m":390086.397325,
+    "geom:bbox":"32.9551123927,34.6331321788,32.9648868715,34.6411388686",
+    "geom:latitude":34.637741,
+    "geom:longitude":32.960288,
+    "gn:population":403,
+    "iso:country":"CY",
+    "lbl:latitude":34.637871,
+    "lbl:longitude":32.960362,
+    "mps:latitude":34.637871,
+    "mps:longitude":32.960362,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0410\u0441\u043e\u043c\u0430\u0442\u043e\u0441"
+    ],
+    "name:ceb_x_preferred":[
+        "As\u00f3matos"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03c3\u03ce\u03bc\u03b1\u03c4\u03bf\u03c2 \u039b\u03b5\u03bc\u03b5\u03c3\u03bf\u03cd"
+    ],
+    "name:ell_x_variant":[
+        "As\u00f3matos",
+        "\u0391\u03c3\u03ce\u03bc\u03b1\u03c4\u03bf\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Asomatos"
+    ],
+    "name:eng_x_variant":[
+        "Asomados",
+        "Asomalos",
+        "Asomato"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u057d\u0578\u0574\u0561\u057f\u0578\u057d"
+    ],
+    "name:pol_x_preferred":[
+        "Asomatos"
+    ],
+    "name:swe_x_preferred":[
+        "As\u00f3matos"
+    ],
+    "name:und_x_colloquial":[
+        "Goezueguezel",
+        "Gozuguzel"
+    ],
+    "name:und_x_variant":[
+        "G\u00f6z\u00fcg\u00fczel"
+    ],
+    "name:unk_x_variant":[
+        "G\u00f6z\u00fcg\u00fczel"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u039b\u03b5\u03bc\u03b5\u03c3\u03cc\u03c2",
+    "qs:a1_alt":"Lemesos",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:la":"\u0391\u03c3\u03ce\u03bc\u03b1\u03c4\u03bf\u03c2 (\u039b\u03b5\u03bc\u03b5\u03c3\u03bf\u03cd)",
+    "qs:la_lc":"*CY5201",
+    "qs:level":"locality",
+    "qs:loc":"\u0391\u03c3\u03ce\u03bc\u03b1\u03c4\u03bf\u03c2",
+    "qs:loc_alt":"Asomatos",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":34.637222,
+    "wd:longitude":32.96,
+    "wd:wordcount":58,
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06ef0512-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":146775,
+        "gp:id":841157,
+        "qs:id":313406,
+        "qs_pg:id":313406,
+        "wd:id":"Q4807589",
+        "wk:page":"Asomatos, Limassol"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"deba54b67573dcba2970c97ebf0d9c12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":101804659,
+            "region_id":85682411
+        }
+    ],
+    "wof:id":101804659,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527642748,
+    "wof:name":"\u0391\u03c3\u03ce\u03bc\u03b1\u03c4\u03bf\u03c2",
+    "wof:parent_id":85682411,
+    "wof:placetype":"locality",
+    "wof:population":403,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.95511239271684,
+    34.63313217881785,
+    32.96488687150497,
+    34.64113886859212
+],
+  "geometry": {"coordinates":[[[32.95964425192204,34.64113886859212],[32.96488687150497,34.63979810334484],[32.96433218836734,34.63806460061431],[32.96328369819832,34.63833277021996],[32.96161994198428,34.63313217881785],[32.95952306998345,34.63366843836161],[32.96007757473666,34.63540199366201],[32.95693215610407,34.63620631540687],[32.9572093910358,34.63707310019322],[32.95511239271684,34.63760926232976],[32.95538961601608,34.63847605187351],[32.95643812891126,34.63820797311735],[32.95699262540336,34.63994153723826],[32.95804115322312,34.63967343923753],[32.95831842641741,34.64054021381429],[32.95936695856153,34.64027210022357],[32.95964425192204,34.64113886859212]]],"type":"Polygon"}
+}

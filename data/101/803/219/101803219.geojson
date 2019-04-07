@@ -1,0 +1,136 @@
+{
+  "id": 101803219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000033,
+    "geom:area_square_m":330034.834543,
+    "geom:bbox":"33.7839161857,35.1643817351,33.7921622201,35.1715601866",
+    "geom:latitude":35.167755,
+    "geom:longitude":33.788817,
+    "iso:country":"CY",
+    "lbl:latitude":35.167446,
+    "lbl:longitude":33.789099,
+    "mps:latitude":35.167446,
+    "mps:longitude":33.789099,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u0533\u0561\u056b\u0564\u0578\u0582\u0580\u0561\u057d"
+    ],
+    "name:dut_x_preferred":[
+        "Gaidouras"
+    ],
+    "name:ell_x_preferred":[
+        "Ga\u00efdour\u00e1s"
+    ],
+    "name:ell_x_variant":[
+        "\u0393\u03b1\u03ca\u03b4\u03bf\u03c5\u03c1\u03ac\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Gaydura"
+    ],
+    "name:eng_x_variant":[
+        "Gaidhoura",
+        "Gaidouras",
+        "Gayidura",
+        "Korkuteli"
+    ],
+    "name:gre_x_preferred":[
+        "\u0393\u03b1\u03ca\u03b4\u03bf\u03c5\u03c1\u03ac\u03c2"
+    ],
+    "name:pol_x_preferred":[
+        "Jaiduras"
+    ],
+    "name:und_x_preferred":[
+        "Gaidhouras"
+    ],
+    "name:unk_x_variant":[
+        "Korkuteli"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u0391\u03bc\u03bc\u03cc\u03c7\u03c9\u03c3\u03c4\u03bf\u03c2",
+    "qs:a1_alt":"Ammochostos",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:la":"\u0393\u03b1\u03ca\u03b4\u03bf\u03c5\u03c1\u03ac\u03c2 (\u039d\u03ad\u03b1 \u03a3\u03c0\u03ac\u03c1\u03c4\u03b7)",
+    "qs:la_lc":"*CY3210",
+    "qs:level":"locality",
+    "qs:loc":"\u0393\u03b1\u03ca\u03b4\u03bf\u03c5\u03c1\u03ac\u03c2",
+    "qs:loc_alt":"Gaidouras",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85681187,
+        85632375,
+        85682389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06ef1a84-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":146613,
+        "gp:id":841286,
+        "qs:id":9,
+        "wd:id":"Q5516999",
+        "wk:page":"Gaidouras"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"1f9a65725c6e228fc17678a0bda59c8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "disputed_id":85632375,
+            "locality_id":101803219,
+            "region_id":85681187
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632375,
+            "disputed_id":85632375,
+            "locality_id":101803219,
+            "region_id":85681187
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "disputed_id":85632375,
+            "locality_id":101803219,
+            "region_id":85682389
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632375,
+            "disputed_id":85632375,
+            "locality_id":101803219,
+            "region_id":85682389
+        }
+    ],
+    "wof:id":101803219,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1513944696,
+    "wof:name":"\u0393\u03b1\u03ca\u03b4\u03bf\u03c5\u03c1\u03ac\u03c2",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.7839161856993,
+    35.16438173506634,
+    33.7921622201219,
+    35.17156018661137
+],
+  "geometry": {"coordinates":[[[33.79198264384661,35.17100422180312],[33.79110900096714,35.16841657490409],[33.7921622201219,35.16813858603729],[33.79099746137877,35.16468836855489],[33.78889110148458,35.16524430368963],[33.78859995823001,35.16438173506634],[33.78649359303824,35.16493761467711],[33.7867847150282,35.16580019095738],[33.78573151183991,35.16607811664079],[33.78602263326269,35.1669406941117],[33.7839161856993,35.16749651723347],[33.78420729592091,35.16835909972338],[33.7852605336567,35.16808119031799],[33.78555166457841,35.1689437663423],[33.78660490630762,35.16866584114086],[33.78689605793005,35.16952841069923],[33.78794930365183,35.16925046970152],[33.78853165836756,35.17097559324759],[33.78958491871566,35.17069763262418],[33.78987612181015,35.17156018661137],[33.79198264384661,35.17100422180312]]],"type":"Polygon"}
+}

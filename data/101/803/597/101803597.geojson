@@ -1,0 +1,130 @@
+{
+  "id": 101803597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000076,
+    "geom:area_square_m":770091.873301,
+    "geom:bbox":"33.6227572593,35.0840536518,33.6348286842,35.0946547373",
+    "geom:latitude":35.089873,
+    "geom:longitude":33.628875,
+    "iso:country":"CY",
+    "lbl:latitude":35.09013,
+    "lbl:longitude":33.628991,
+    "mps:latitude":35.09013,
+    "mps:longitude":33.628991,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u0531\u0580\u057d\u0578\u057d"
+    ],
+    "name:bul_x_preferred":[
+        "\u0410\u0440\u0441\u043e\u0441"
+    ],
+    "name:dut_x_preferred":[
+        "Arsos"
+    ],
+    "name:ell_x_preferred":[
+        "\u00c1rsos"
+    ],
+    "name:ell_x_variant":[
+        "\u0386\u03c1\u03c3\u03bf\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Arsos"
+    ],
+    "name:gre_x_preferred":[
+        "\u0386\u03c1\u03c3\u03bf\u03c2"
+    ],
+    "name:nno_x_preferred":[
+        "\u00c1rsos"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0631\u0633\u0648\u0633"
+    ],
+    "name:pol_x_preferred":[
+        "Arsos"
+    ],
+    "name:swe_x_preferred":[
+        "\u00c1rsos"
+    ],
+    "name:tur_x_preferred":[
+        "Yi\u011fitler"
+    ],
+    "name:unk_x_variant":[
+        "D\u0131\u015fkap\u0131"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u039b\u03ac\u03c1\u03bd\u03b1\u03ba\u03b1",
+    "qs:a1_alt":"Larnaka",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:la":"\u0386\u03c1\u03c3\u03bf\u03c2 (\u039b\u03ac\u03c1\u03bd\u03b1\u03ba\u03b1\u03c2)",
+    "qs:la_lc":"*CY4205",
+    "qs:level":"locality",
+    "qs:loc":"\u0386\u03c1\u03c3\u03bf\u03c2",
+    "qs:loc_alt":"Arsos",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85681187,
+        85632375,
+        85682407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":146782,
+        "gp:id":841151,
+        "qs:id":9,
+        "wd:id":"Q4796610",
+        "wk:page":"Arsos, Larnaca"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"1ef0a6e5a38964304860f990f21d28e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "disputed_id":85632375,
+            "locality_id":101803597,
+            "region_id":85681187
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632375,
+            "disputed_id":85632375,
+            "locality_id":101803597,
+            "region_id":85681187
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":101803597,
+            "region_id":85682407
+        }
+    ],
+    "wof:id":101803597,
+    "wof:lastmodified":1553815513,
+    "wof:name":"\u0386\u03c1\u03c3\u03bf\u03c2",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.62275725928777,
+    35.08405365175582,
+    33.6348286842466,
+    35.0946547373419
+],
+  "geometry": {"coordinates":[[[33.62880136003406,35.0946547373419],[33.63301209495552,35.09355034558962],[33.63330082235558,35.0944136656683],[33.63435350027481,35.09413753401782],[33.63377603418138,35.09241089883699],[33.6348286842466,35.09213476281894],[33.63425123680634,35.09040812475178],[33.63319860801403,35.09068425317253],[33.63117793079471,35.08464091079134],[33.63012536987185,35.08491700066213],[33.62983675224552,35.08405365175582],[33.62773163194095,35.08460578801072],[33.62802022829737,35.08546914451153],[33.62696764764644,35.08574519848975],[33.62725624334382,35.08660855616722],[33.62409843002899,35.08743665770567],[33.62380986624032,35.08657328863751],[33.62275725928777,35.08684929475754],[33.62477734085451,35.09289284979599],[33.62583002227211,35.09261681709705],[33.62640729951056,35.09434351593484],[33.62851268516749,35.09379139944878],[33.62880136003406,35.0946547373419]]],"type":"Polygon"}
+}

@@ -1,0 +1,121 @@
+{
+  "id": 101803377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000049,
+    "geom:area_square_m":500050.816753,
+    "geom:bbox":"32.9089867812,35.1249333239,32.9162906193,35.14019319",
+    "geom:latitude":35.132336,
+    "geom:longitude":32.912411,
+    "iso:country":"CY",
+    "lbl:latitude":35.132257,
+    "lbl:longitude":32.912356,
+    "mps:latitude":35.132257,
+    "mps:longitude":32.912356,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Eli\u00e1"
+    ],
+    "name:ell_x_variant":[
+        "\u0395\u03bb\u03b9\u03ac"
+    ],
+    "name:eng_x_preferred":[
+        "Elye"
+    ],
+    "name:eng_x_variant":[
+        "Elia Lefkosias"
+    ],
+    "name:und_x_colloquial":[
+        "Dokanci",
+        "Elaea"
+    ],
+    "name:und_x_preferred":[
+        "El\u00e6\u00e1"
+    ],
+    "name:und_x_variant":[
+        "Dok\u0327anci",
+        "Elea"
+    ],
+    "name:unk_x_variant":[
+        "Elya"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u039b\u03b5\u03c5\u03ba\u03c9\u03c3\u03af\u03b1",
+    "qs:a1_alt":"Lefkosia",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:la":"\u0395\u03bb\u03b9\u03ac (\u039b\u03b5\u03c5\u03ba\u03c9\u03c3\u03af\u03b1\u03c2)",
+    "qs:la_lc":"*CY1438",
+    "qs:level":"locality",
+    "qs:loc":"\u0395\u03bb\u03b9\u03ac",
+    "qs:loc_alt":"Elia",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682397,
+        85681187,
+        85632375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06ef16d8-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":146646,
+        "gp:id":841265,
+        "qs:id":405497,
+        "wd:id":"Q4817747",
+        "wk:page":"Elia, Nicosia"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"4e1fef31055a6bbfb6a14ca9b47fba25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":101803377,
+            "region_id":85682397
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "disputed_id":85632375,
+            "locality_id":101803377,
+            "region_id":85681187
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632375,
+            "disputed_id":85632375,
+            "locality_id":101803377,
+            "region_id":85681187
+        }
+    ],
+    "wof:id":101803377,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1501212532,
+    "wof:name":"\u0395\u03bb\u03b9\u03ac",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.90898678115423,
+    35.12493332394251,
+    32.91629061927375,
+    35.14019319003967
+],
+  "geometry": {"coordinates":[[[32.91530169317986,35.13992531649961],[32.91446057323071,35.13732698682981],[32.91551578720487,35.13705911236673],[32.91523542253168,35.13619300110417],[32.91629061927375,35.13592511832036],[32.91601025351576,35.13505900822076],[32.91495506758673,35.13532688730589],[32.91411406111644,35.13272853069674],[32.91516921460811,35.1324606627071],[32.9146085706372,35.13072841968557],[32.91355343876876,35.13099628027879],[32.91215205308981,35.12666560985974],[32.9132071309055,35.12639776775495],[32.91292687213195,35.12553162976144],[32.91187180512611,35.12579946816891],[32.91159156688531,35.12493332394251],[32.90948143524986,35.12546895730918],[32.91004187821443,35.12720125801457],[32.90898678115423,35.1274690640646],[32.91038800466424,35.13179978994577],[32.90933284713043,35.13206760246339],[32.90961311019191,35.13293374373126],[32.91066827853837,35.13266592751614],[32.91291081967125,35.1395949368071],[32.91396606811242,35.13932707898641],[32.91424644034294,35.14019319003967],[32.91530169317986,35.13992531649961]]],"type":"Polygon"}
+}

@@ -1,0 +1,129 @@
+{
+  "id": 101837479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000026,
+    "geom:area_square_m":262827.876115,
+    "geom:bbox":"32.8351225959,34.8746443333,32.8445812348,34.8821790038",
+    "geom:latitude":34.878849,
+    "geom:longitude":32.840165,
+    "gn:population":143,
+    "iso:country":"CY",
+    "lbl:latitude":34.879899,
+    "lbl:longitude":32.841024,
+    "mps:latitude":34.879899,
+    "mps:longitude":32.841024,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041a\u0430\u0442\u043e \u041f\u043b\u0430\u0442\u0440\u0435\u0441"
+    ],
+    "name:ceb_x_preferred":[
+        "K\u00e1to Pl\u00e1tres"
+    ],
+    "name:dut_x_preferred":[
+        "Platres"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03ac\u03c4\u03c9 \u03a0\u03bb\u03ac\u03c4\u03c1\u03b5\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "K\u00e1to Pl\u00e1tres"
+    ],
+    "name:eng_x_preferred":[
+        "Kato Platres"
+    ],
+    "name:fin_x_preferred":[
+        "Pl\u00e1tres"
+    ],
+    "name:gre_x_preferred":[
+        "\u039a\u03ac\u03c4\u03c9 \u03a0\u03bb\u03ac\u03c4\u03c1\u03b5\u03c2"
+    ],
+    "name:pol_x_preferred":[
+        "Kato Platres"
+    ],
+    "name:swe_x_preferred":[
+        "K\u00e1to Pl\u00e1tres"
+    ],
+    "name:und_x_colloquial":[
+        "Kato Platraes"
+    ],
+    "name:und_x_variant":[
+        "K\u00e1to Pl\u00e1tr\u00e6s"
+    ],
+    "name:unk_x_variant":[
+        "K\u00e1to Pl\u00e1tr\u00e6s"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u039b\u03b5\u03bc\u03b5\u03c3\u03cc\u03c2",
+    "qs:a1_alt":"Lemesos",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:la":"\u039a\u03ac\u03c4\u03c9 \u03a0\u03bb\u03ac\u03c4\u03c1\u03b5\u03c2",
+    "qs:la_lc":"*CY5350",
+    "qs:level":"locality",
+    "qs:loc":"\u039a\u03ac\u03c4\u03c9 \u03a0\u03bb\u03ac\u03c4\u03c1\u03b5\u03c2",
+    "qs:loc_alt":"Kato Platres",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"wk",
+    "wd:latitude":34.879444,
+    "wd:longitude":32.841389,
+    "wd:population":148,
+    "wd:wordcount":65,
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06ef274a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":146517,
+        "gp:id":841356,
+        "qs:id":405534,
+        "qs_pg:id":405534,
+        "wd:id":"Q3557616",
+        "wk:page":"Kato Platres"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"d1597237bf5d44b25991faaa4d332a55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":101837479,
+            "region_id":85682411
+        }
+    ],
+    "wof:id":101837479,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527715302,
+    "wof:name":"\u039a\u03ac\u03c4\u03c9 \u03a0\u03bb\u03ac\u03c4\u03c1\u03b5\u03c2",
+    "wof:parent_id":85682411,
+    "wof:placetype":"locality",
+    "wof:population":148,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.83512259591362,
+    34.87464433326176,
+    32.84458123476549,
+    34.88217900382091
+],
+  "geometry": {"coordinates":[[[32.83721115238717,34.87481273978534],[32.83512259591362,34.87670481435453],[32.83527424407748,34.87717853211416],[32.83632621288467,34.87691170996521],[32.83660373997787,34.87777856171971],[32.83765571318918,34.87751172392802],[32.83848838427326,34.88011225300897],[32.83954038333377,34.87984539225062],[32.84009556687147,34.88157905831537],[32.84114758105835,34.88131217825082],[32.84142519796274,34.88217900382091],[32.84458123476549,34.88137828074923],[32.84374831637206,34.87877782940217],[32.84269634259374,34.87904473808646],[32.84241873306848,34.87817791224086],[32.8413667636911,34.87844480528133],[32.84108917449555,34.87757797324019],[32.84003720952052,34.87784485063753],[32.83975964065399,34.87697801240097],[32.83870768008109,34.87724487415517],[32.83787506328338,34.87464433326176],[32.83721115238717,34.87481273978534]]],"type":"Polygon"}
+}

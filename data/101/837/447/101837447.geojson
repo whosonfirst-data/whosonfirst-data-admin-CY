@@ -1,0 +1,123 @@
+{
+  "id": 101837447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000081,
+    "geom:area_square_m":818439.693475,
+    "geom:bbox":"32.4732997364,34.7921677237,32.4879861879,34.8045723223",
+    "geom:latitude":34.798205,
+    "geom:longitude":32.479904,
+    "gn:population":357,
+    "iso:country":"CY",
+    "lbl:latitude":34.797874,
+    "lbl:longitude":32.479404,
+    "mps:latitude":34.797874,
+    "mps:longitude":32.479404,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u0531\u0580\u0574\u0578\u0582"
+    ],
+    "name:bul_x_preferred":[
+        "\u0410\u0440\u043c\u0443"
+    ],
+    "name:ceb_x_preferred":[
+        "\u00c1rmou"
+    ],
+    "name:dut_x_preferred":[
+        "Armou"
+    ],
+    "name:ell_x_preferred":[
+        "\u00c1rmou"
+    ],
+    "name:ell_x_variant":[
+        "\u0386\u03c1\u03bc\u03bf\u03c5"
+    ],
+    "name:eng_x_preferred":[
+        "Armou"
+    ],
+    "name:gre_x_preferred":[
+        "\u0386\u03c1\u03bc\u03bf\u03c5"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u0580\u0574\u0578\u0582"
+    ],
+    "name:pol_x_preferred":[
+        "Armu"
+    ],
+    "name:swe_x_preferred":[
+        "\u00c1rmou"
+    ],
+    "name:unk_x_variant":[
+        "Armu"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u03a0\u03ac\u03c6\u03bf\u03c2",
+    "qs:a1_alt":"Pafos",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:la":"\u0386\u03c1\u03bc\u03bf\u03c5",
+    "qs:la_lc":"*CY6111",
+    "qs:level":"locality",
+    "qs:loc":"\u0386\u03c1\u03bc\u03bf\u03c5",
+    "qs:loc_alt":"Armou",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":79,
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06ef0346-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":146786,
+        "gp:id":841148,
+        "qs:id":42554,
+        "qs_pg:id":42554,
+        "wd:id":"Q4793771",
+        "wk:page":"Armou"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"fe008f18dd8429aa70a49f586c9149ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":101837447,
+            "region_id":85682401
+        }
+    ],
+    "wof:id":101837447,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527715300,
+    "wof:name":"\u0386\u03c1\u03bc\u03bf\u03c5",
+    "wof:parent_id":85682401,
+    "wof:placetype":"locality",
+    "wof:population":357,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.47329973644077,
+    34.79216772372956,
+    32.48798618791011,
+    34.80457232225626
+],
+  "geometry": {"coordinates":[[[32.48798618791011,34.79971245896274],[32.47893730076601,34.79216772372956],[32.47933807670734,34.79344431833704],[32.47618264736354,34.79423226990428],[32.47645525393233,34.79510065418026],[32.47329973644077,34.79588850863587],[32.47411751590272,34.79849367890688],[32.47516939357121,34.79823106194351],[32.47680527203323,34.80344131354502],[32.47575332975862,34.80370395211634],[32.47602599845266,34.80457232225626],[32.47812989833113,34.80404702591807],[32.47758452731313,34.8023102975518],[32.48494783055207,34.800471433062],[32.48522058670625,34.80133977327648],[32.48732435327736,34.80081426829736],[32.48705157559209,34.79994593528812],[32.48798618791011,34.79971245896274]]],"type":"Polygon"}
+}

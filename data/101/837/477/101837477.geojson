@@ -1,0 +1,115 @@
+{
+  "id": 101837477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000039,
+    "geom:bbox":"32.8296213741,34.8657088848,32.8372111524,34.8767048144",
+    "geom:latitude":34.870515,
+    "geom:longitude":32.833581,
+    "iso:country":"CY",
+    "lbl:latitude":34.869848,
+    "lbl:longitude":32.833207,
+    "mps:latitude":34.869848,
+    "mps:longitude":32.833207,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041c\u0430\u043d\u0434\u0440\u0438\u044f"
+    ],
+    "name:ceb_x_preferred":[
+        "Mandri\u00e1"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03bd\u03c4\u03c1\u03b9\u03ac"
+    ],
+    "name:ell_x_variant":[
+        "Mandri\u00e1",
+        "\u039c\u03b1\u03bd\u03b4\u03c1\u03b9\u03ac"
+    ],
+    "name:eng_x_preferred":[
+        "Mandria"
+    ],
+    "name:eng_x_variant":[
+        "Mandna"
+    ],
+    "name:pol_x_preferred":[
+        "Mandria"
+    ],
+    "name:spa_x_preferred":[
+        "Mandria"
+    ],
+    "name:swe_x_preferred":[
+        "Mandri\u00e1"
+    ],
+    "name:unk_x_variant":[
+        "Mandriya"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u039b\u03b5\u03bc\u03b5\u03c3\u03cc\u03c2",
+    "qs:a1_alt":"Lemesos",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:la":"\u039a\u03ac\u03c4\u03c9 \u03a0\u03bb\u03ac\u03c4\u03c1\u03b5\u03c2",
+    "qs:la_lc":"*CY5350",
+    "qs:level":"locality",
+    "qs:loc":"\u039c\u03b1\u03bd\u03b4\u03c1\u03b9\u03ac",
+    "qs:loc_alt":"Mandria",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":34.869167,
+    "wd:longitude":32.831944,
+    "wd:wordcount":23,
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06ef3ea6-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":146340,
+        "gp:id":841488,
+        "qs:id":1083336,
+        "qs_pg:id":1083336,
+        "wd:id":"Q6748199",
+        "wk:page":"Mandria, Limassol"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"aa6309261f9f81c4b89ca826fe623c18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":101837477,
+            "region_id":85682411
+        }
+    ],
+    "wof:id":101837477,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527715301,
+    "wof:name":"\u039c\u03b1\u03bd\u03b4\u03c1\u03b9\u03ac",
+    "wof:parent_id":85682411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.82962137407571,
+    34.86570888480685,
+    32.83721115238717,
+    34.87670481435453
+],
+  "geometry": {"coordinates":[[[32.83721115238717,34.87481273978534],[32.83577118751288,34.87517799885813],[32.83466125201721,34.87171054625003],[32.8357131501765,34.87144373408569],[32.83543567958992,34.87057686826211],[32.83648756071238,34.87031004777816],[32.83537773150891,34.86684257379682],[32.83642956343891,34.86657575597457],[32.83615211942379,34.86570888480685],[32.83194479668845,34.86677606957744],[32.83222219782851,34.86764295538501],[32.83011847713504,34.86817648321016],[32.83067326533569,34.86991026186661],[32.82962137407571,34.87017701512821],[32.82989877185514,34.87104390431762],[32.83095067383613,34.87077714739621],[32.8317829569454,34.87337778879106],[32.83283488477559,34.87311100890861],[32.83366728647104,34.87571161652994],[32.83471924015078,34.87544481368468],[32.83512259591362,34.87670481435453],[32.83721115238717,34.87481273978534]]],"type":"Polygon"}
+}

@@ -1,0 +1,138 @@
+{
+  "id": 101804563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000045,
+    "geom:area_square_m":460086.592086,
+    "geom:bbox":"32.5651462408,34.774623332,32.5751561105,34.7831500156",
+    "geom:latitude":34.779429,
+    "geom:longitude":32.570316,
+    "gn:population":169,
+    "iso:country":"CY",
+    "lbl:latitude":34.779572,
+    "lbl:longitude":32.570316,
+    "mps:latitude":34.779572,
+    "mps:longitude":32.570316,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u0546\u0561\u057f\u0561"
+    ],
+    "name:bul_x_preferred":[
+        "\u041d\u0430\u0442\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Nat\u00e1"
+    ],
+    "name:dut_x_preferred":[
+        "Nata"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03b1\u03c4\u03ac \u03a0\u03ac\u03c6\u03bf\u03c5"
+    ],
+    "name:ell_x_variant":[
+        "Nat\u00e1",
+        "\u039d\u03b1\u03c4\u03ac"
+    ],
+    "name:eng_x_preferred":[
+        "Nata"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062a\u0627"
+    ],
+    "name:gre_x_preferred":[
+        "\u039d\u03b1\u03c4\u03ac"
+    ],
+    "name:hye_x_preferred":[
+        "\u0546\u0561\u057f\u0561"
+    ],
+    "name:per_x_preferred":[
+        "\u0646\u0627\u062a\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Nata"
+    ],
+    "name:spa_x_preferred":[
+        "Nata"
+    ],
+    "name:swe_x_preferred":[
+        "Nata"
+    ],
+    "name:unk_x_variant":[
+        "Ta\u015fl\u0131ca"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u0627\u062a\u0627\u060c \u0642\u0628\u0631\u0635"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u03a0\u03ac\u03c6\u03bf\u03c2",
+    "qs:a1_alt":"Pafos",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:la":"\u039d\u03b1\u03c4\u03ac",
+    "qs:la_lc":"*CY6113",
+    "qs:level":"locality",
+    "qs:loc":"\u039d\u03b1\u03c4\u03ac",
+    "qs:loc_alt":"Nata",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":34.766667,
+    "wd:longitude":32.566667,
+    "wd:wordcount":303,
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06ef4838-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":146273,
+        "gp:id":841540,
+        "qs:id":313511,
+        "qs_pg:id":313511,
+        "wd:id":"Q6967909",
+        "wk:page":"Nata, Cyprus"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"c10f2dac30e264fe3c4990986688923b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":101804563,
+            "region_id":85682401
+        }
+    ],
+    "wof:id":101804563,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527642751,
+    "wof:name":"\u039d\u03b1\u03c4\u03ac",
+    "wof:parent_id":85682401,
+    "wof:placetype":"locality",
+    "wof:population":169,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.5651462408477,
+    34.77462333196121,
+    32.57515611049251,
+    34.78315001557036
+],
+  "geometry": {"coordinates":[[[32.57227560127399,34.78235886679681],[32.57200193503161,34.7814908299477],[32.57515611049251,34.78069958417387],[32.57460874199251,34.77896352464114],[32.57355737787407,34.77922727798705],[32.57273642837828,34.77662315905587],[32.57378776028497,34.77635941654984],[32.57324048650258,34.77462333196121],[32.57113785941362,34.77515079054007],[32.571411470096,34.77601884131286],[32.5682574505779,34.77680995015919],[32.56853103851705,34.77767800926483],[32.56642830624679,34.77820536247896],[32.56697546757835,34.77994148762571],[32.56592407062965,34.78020515348442],[32.56619765475972,34.7810732159133],[32.5651462408477,34.78133687340204],[32.5654198237072,34.78220493693902],[32.56647124835979,34.78194127583771],[32.56674485143049,34.78280933325743],[32.56884770354458,34.78228196788115],[32.56912133756759,34.78315001557036],[32.57227560127399,34.78235886679681]]],"type":"Polygon"}
+}

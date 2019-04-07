@@ -1,0 +1,118 @@
+{
+  "id": 101850163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.529198,34.956341,32.529198,34.956341",
+    "geom:latitude":34.956341,
+    "geom:longitude":32.529198,
+    "iso:country":"CY",
+    "lbl:latitude":34.956341,
+    "lbl:longitude":32.529198,
+    "mps:latitude":34.956341,
+    "mps:longitude":32.529198,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u054d\u0561\u0580\u0561\u0574\u0561"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u0430\u0440\u0430\u043c\u0430"
+    ],
+    "name:dut_x_preferred":[
+        "Sarama"
+    ],
+    "name:ell_x_preferred":[
+        "Saram\u00e1"
+    ],
+    "name:ell_x_variant":[
+        "\u03a3\u03b1\u03c1\u03b1\u03bc\u03ac"
+    ],
+    "name:eng_x_preferred":[
+        "Sarama"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a3\u03b1\u03c1\u03b1\u03bc\u03ac"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0561\u0580\u0561\u0574\u0561"
+    ],
+    "name:pol_x_preferred":[
+        "Sarama"
+    ],
+    "name:und_x_colloquial":[
+        "Kusluca"
+    ],
+    "name:und_x_variant":[
+        "Ku\u015fluca"
+    ],
+    "name:unk_x_variant":[
+        "Ku\u015fluca"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u03a0\u03ac\u03c6\u03bf\u03c2",
+    "qs:a1_alt":"Pafos",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u03a3\u03b1\u03c1\u03b1\u03bc\u03ac",
+    "qs:loc_alt":"Sarama",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":301,
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06ef6246-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":146094,
+        "gp:id":841682,
+        "qs:id":9,
+        "wd:id":"Q7423027",
+        "wk:page":"Sarama, Cyprus"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"864e18ea655a81838d3f885cfbcf5ddf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":101850163,
+            "region_id":85682401
+        }
+    ],
+    "wof:id":101850163,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1544741289,
+    "wof:name":"\u03a3\u03b1\u03c1\u03b1\u03bc\u03ac",
+    "wof:parent_id":85682401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.529198,
+    34.956341,
+    32.529198,
+    34.956341
+],
+  "geometry": {"coordinates":[32.529198,34.956341],"type":"Point"}
+}

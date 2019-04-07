@@ -1,0 +1,117 @@
+{
+  "id": 101837451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000035,
+    "geom:area_square_m":352155.233979,
+    "geom:bbox":"32.5221295552,34.9184915149,32.5338463207,34.9271154457",
+    "geom:latitude":34.923568,
+    "geom:longitude":32.527049,
+    "gn:population":95,
+    "iso:country":"CY",
+    "lbl:latitude":34.924353,
+    "lbl:longitude":32.526561,
+    "mps:latitude":34.924353,
+    "mps:longitude":32.526561,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u053c\u0561\u057d\u0561"
+    ],
+    "name:bul_x_preferred":[
+        "\u041b\u0430\u0441\u0430"
+    ],
+    "name:dut_x_preferred":[
+        "Lasa"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03ac\u03c3\u03b1 \u03a0\u03ac\u03c6\u03bf\u03c5"
+    ],
+    "name:ell_x_variant":[
+        "L\u00e1sa",
+        "\u039b\u03ac\u03c3\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Lasa"
+    ],
+    "name:gre_x_preferred":[
+        "\u039b\u03ac\u03c3\u03b1 \u03a0\u03ac\u03c6\u03bf\u03c5"
+    ],
+    "name:hye_x_preferred":[
+        "\u053c\u0561\u057d\u0561"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u0633\u0627\u060c \u067e\u0627\u067e\u06c1\u0648\u0633"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u03a0\u03ac\u03c6\u03bf\u03c2",
+    "qs:a1_alt":"Pafos",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:la":"\u039b\u03ac\u03c3\u03b1",
+    "qs:la_lc":"*CY6307",
+    "qs:level":"locality",
+    "qs:loc":"\u039b\u03ac\u03c3\u03b1",
+    "qs:loc_alt":"Lasa",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":34.925,
+    "wd:longitude":32.5275,
+    "wd:wordcount":26,
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06ef367c-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":146396,
+        "gp:id":841441,
+        "qs:id":1144731,
+        "qs_pg:id":1144731,
+        "wd:id":"Q12880005",
+        "wk:page":"Lasa, Cyprus"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"41c177634c9446ec620c624e2807cc66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":101837451,
+            "region_id":85682401
+        }
+    ],
+    "wof:id":101837451,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527715314,
+    "wof:name":"\u039b\u03ac\u03c3\u03b1",
+    "wof:parent_id":85682401,
+    "wof:placetype":"locality",
+    "wof:population":95,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.52212955523271,
+    34.91849151488861,
+    32.53384632072584,
+    34.92711544565617
+],
+  "geometry": {"coordinates":[[[32.52585374334706,34.91948503100548],[32.52233474951083,34.91849151488861],[32.52212955523271,34.91854279498523],[32.52267765402894,34.92027879413024],[32.52373101816084,34.92001555287493],[32.52482737301932,34.92348750673],[32.52377396565601,34.92375076246617],[32.52404806732238,34.92461874830957],[32.52299464289342,34.92488199565719],[32.52326874325502,34.92574998262501],[32.52432217849326,34.92548673165697],[32.52459629916984,34.92635471250804],[32.52775659976544,34.92556487668588],[32.5280307623745,34.92643284417773],[32.53119103906943,34.92564288940963],[32.5314652436108,34.92651084354043],[32.53251866746547,34.92624749764457],[32.53279289232319,34.92711544565617],[32.53384632072584,34.92685208412945],[32.53329785890338,34.92511619285358],[32.53224445211617,34.92537954713595],[32.53197024627468,34.92451159413031],[32.53091684403563,34.92477493278238],[32.53064265850907,34.92390697365789],[32.52958926081857,34.92417029667996],[32.52904093990031,34.92243436369768],[32.52693416897444,34.92296095923109],[32.52583772765712,34.91948903433951],[32.52585374334706,34.91948503100548]]],"type":"Polygon"}
+}

@@ -1,0 +1,104 @@
+{
+  "id": 1125791357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.4625,35.0,33.4625,35.0",
+    "geom:latitude":35.0,
+    "geom:longitude":33.4625,
+    "gn:gn_country":"CY",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2262,
+    "gn:population":2262,
+    "iso:country":"CY",
+    "lbl:latitude":35.0,
+    "lbl:longitude":33.4625,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Lympia"
+    ],
+    "name:ell_x_preferred":[
+        "L\u00fdmpia"
+    ],
+    "name:ell_x_variant":[
+        "\u039b\u03cd\u03bc\u03c0\u03b9\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Lympia"
+    ],
+    "name:gre_x_preferred":[
+        "\u039b\u03cd\u03bc\u03c0\u03b9\u03b1"
+    ],
+    "name:nno_x_preferred":[
+        "L\u00fdmbia"
+    ],
+    "name:pol_x_preferred":[
+        "Limbia"
+    ],
+    "name:swe_x_preferred":[
+        "L\u00fdmpia"
+    ],
+    "name:unk_x_variant":[
+        "Olympia"
+    ],
+    "qs_pg:aaroncc":"CY",
+    "qs_pg:gn_country":"CY",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":146362,
+    "qs_pg:gn_pop":2262,
+    "qs_pg:name":"Lymbia",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":122406,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":146362,
+        "qs_pg:id":122406,
+        "wd:id":"Q6708289"
+    },
+    "wof:country":"CY",
+    "wof:created":1497290875,
+    "wof:geomhash":"27094c9c1f2efdd036eeeff9e36f4648",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":1125791357,
+            "region_id":85682397
+        }
+    ],
+    "wof:id":1125791357,
+    "wof:lastmodified":1553816536,
+    "wof:name":"Lymbia",
+    "wof:parent_id":85682397,
+    "wof:placetype":"locality",
+    "wof:population":2262,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.4625,
+    35.0,
+    33.4625,
+    35.0
+],
+  "geometry": {"coordinates":[33.4625,35.0],"type":"Point"}
+}

@@ -1,0 +1,102 @@
+{
+  "id": 101804603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000031,
+    "geom:bbox":"32.4864717064,34.9871434724,32.4954549645,34.9925351849",
+    "geom:latitude":34.989986,
+    "geom:longitude":32.4912,
+    "iso:country":"CY",
+    "lbl:latitude":34.98994,
+    "lbl:longitude":32.4912,
+    "mps:latitude":34.98994,
+    "mps:longitude":32.4912,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041f\u0435\u0440\u0438\u0441\u0442\u0435\u0440\u043e\u043d\u0430"
+    ],
+    "name:ell_x_preferred":[
+        "Perister\u00f3na"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03b5\u03c1\u03b9\u03c3\u03c4\u03b5\u03c1\u03ce\u03bd\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Peristerona"
+    ],
+    "name:eng_x_variant":[
+        "Peristerona Chrysochous"
+    ],
+    "name:hye_x_preferred":[
+        "\u054a\u0565\u0580\u056b\u057d\u057f\u0565\u0580\u0578\u0576\u0561"
+    ],
+    "name:pol_x_preferred":[
+        "Peristerona"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u03a0\u03ac\u03c6\u03bf\u03c2",
+    "qs:a1_alt":"Pafos",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:la":"\u03a0\u03b5\u03c1\u03b9\u03c3\u03c4\u03b5\u03c1\u03ce\u03bd\u03b1 (\u03a0\u03ac\u03c6\u03bf\u03c5)",
+    "qs:la_lc":"*CY6321",
+    "qs:level":"locality",
+    "qs:loc":"\u03a0\u03b5\u03c1\u03b9\u03c3\u03c4\u03b5\u03c1\u03ce\u03bd\u03b1",
+    "qs:loc_alt":"Peristerona",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":34.990556,
+    "wd:longitude":32.489167,
+    "wd:wordcount":21,
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06ef551c-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":146188,
+        "gp:id":841608,
+        "qs:id":405582,
+        "wd:id":"Q582175",
+        "wk:page":"Peristerona, Paphos"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"9c6029f538acb105eca51aff93e5e2ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":101804603,
+            "region_id":85682401
+        }
+    ],
+    "wof:id":101804603,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527642748,
+    "wof:name":"\u03a0\u03b5\u03c1\u03b9\u03c3\u03c4\u03b5\u03c1\u03ce\u03bd\u03b1",
+    "wof:parent_id":85682401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.48647170638202,
+    34.98714347242895,
+    32.4954549644961,
+    34.9925351849472
+],
+  "geometry": {"coordinates":[[[32.49416889099155,34.99200932012849],[32.49389466780838,34.99114133090717],[32.49494904988069,34.99087838408695],[32.49440061037888,34.98914240541626],[32.4954549644961,34.98887945381961],[32.49490654137639,34.98714347242895],[32.48647170638202,34.98924669063229],[32.48729409510327,34.99185074591196],[32.48834850394951,34.99158787484873],[32.48862266339665,34.99245588467255],[32.49178588485336,34.99166718848068],[32.49206008634917,34.9925351849472],[32.49416889099155,34.99200932012849]]],"type":"Polygon"}
+}

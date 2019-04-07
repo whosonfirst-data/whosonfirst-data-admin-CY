@@ -1,0 +1,152 @@
+{
+  "id": 101803301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000031,
+    "geom:area_square_m":310015.925618,
+    "geom:bbox":"34.0113886024,35.3883712725,34.0192000759,35.3955420342",
+    "geom:latitude":35.391862,
+    "geom:longitude":34.015328,
+    "iso:country":"CY",
+    "lbl:latitude":35.391835,
+    "lbl:longitude":34.015387,
+    "mps:latitude":35.391835,
+    "mps:longitude":34.015387,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u0531\u0575\u0578\u057d \u0537\u0586\u057d\u057f\u0561\u057f\u056b\u0578\u057d"
+    ],
+    "name:bul_x_preferred":[
+        "\u0410\u0433\u0438\u043e\u0441 \u0415\u0432\u0441\u0442\u0430\u0442\u0438\u043e\u0441"
+    ],
+    "name:dut_x_preferred":[
+        "Ayios Efstathios"
+    ],
+    "name:ell_x_preferred":[
+        "\u00c1gios Efst\u00e1thios"
+    ],
+    "name:ell_x_variant":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u0395\u03c5\u03c3\u03c4\u03ac\u03b8\u03b9\u03bf\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Ayevstatios"
+    ],
+    "name:eng_x_variant":[
+        "Agios Efstathios",
+        "Ayastad",
+        "Ayistat",
+        "Ayios Efstathios"
+    ],
+    "name:ger_x_preferred":[
+        "Zeybekk\u00f6y/Agios Evstathios"
+    ],
+    "name:gre_x_preferred":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u0395\u03c5\u03c3\u03c4\u03ac\u03b8\u03b9\u03bf\u03c2"
+    ],
+    "name:may_x_preferred":[
+        "Ayios Efstathios"
+    ],
+    "name:pol_x_preferred":[
+        "Ajos Efstatios"
+    ],
+    "name:und_x_colloquial":[
+        "Zeybekkoey",
+        "Zeybekkoy"
+    ],
+    "name:und_x_preferred":[
+        "Ayios Evstathios"
+    ],
+    "name:und_x_variant":[
+        "Zeybekk\u00f6y"
+    ],
+    "name:unk_x_variant":[
+        "Zeybekk\u00f6y"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u0391\u03bc\u03bc\u03cc\u03c7\u03c9\u03c3\u03c4\u03bf\u03c2",
+    "qs:a1_alt":"Ammochostos",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:la":"\u039a\u03ce\u03bc\u03b7 (\u039a\u03ce\u03bc\u03b7 \u039a\u03b5\u03c0\u03ae\u03c1)",
+    "qs:la_lc":"*CY3336",
+    "qs:level":"locality",
+    "qs:loc":"\u0386\u03b3\u03b9\u03bf\u03c2 \u0395\u03c5\u03c3\u03c4\u03ac\u03b8\u03b9\u03bf\u03c2",
+    "qs:loc_alt":"Agios Efstathios",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682389,
+        85632375,
+        85681187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06ef0c4c-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":146726,
+        "gp:id":841201,
+        "qs:id":9,
+        "wd:id":"Q572577",
+        "wk:page":"Agios Efstathios"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"d9b300f8843136b8a3bccd41da6cf1d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "disputed_id":85632375,
+            "locality_id":101803301,
+            "region_id":85682389
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632375,
+            "disputed_id":85632375,
+            "locality_id":101803301,
+            "region_id":85682389
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "disputed_id":85632375,
+            "locality_id":101803301,
+            "region_id":85681187
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632375,
+            "disputed_id":85632375,
+            "locality_id":101803301,
+            "region_id":85681187
+        }
+    ],
+    "wof:id":101803301,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1513944669,
+    "wof:name":"\u0386\u03b3\u03b9\u03bf\u03c2 \u0395\u03c5\u03c3\u03c4\u03ac\u03b8\u03b9\u03bf\u03c2",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.01138860235972,
+    35.38837127254061,
+    34.01920007585761,
+    35.39554203422091
+],
+  "geometry": {"coordinates":[[[34.01768027369758,35.39498062503577],[34.01738459781416,35.3941193803492],[34.0184401837173,35.39383866165826],[34.01814450739886,35.3929774181961],[34.01920007585761,35.39269669140174],[34.01860873259011,35.39097420426521],[34.01755318547708,35.3912549232885],[34.01696190450588,35.38953241773646],[34.01590637196824,35.38981311700064],[34.01561075751016,35.38895185634794],[34.01455522887591,35.38923253973883],[34.01425963532625,35.38837127254061],[34.01214857909633,35.38893259558733],[34.0124441513002,35.3897938705544],[34.01138860235972,35.39007451797897],[34.01197975612598,35.39179706770091],[34.01303532641407,35.3915164125072],[34.01421779947805,35.39496146448602],[34.01527340569436,35.3946807817631],[34.01556906022881,35.39554203422091],[34.01768027369758,35.39498062503577]]],"type":"Polygon"}
+}

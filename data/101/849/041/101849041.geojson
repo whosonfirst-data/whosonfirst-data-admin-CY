@@ -1,0 +1,121 @@
+{
+  "id": 101849041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.188907,34.807793,33.188907,34.807793",
+    "geom:latitude":34.807793,
+    "geom:longitude":33.188907,
+    "gn:population":46,
+    "iso:country":"CY",
+    "lbl:latitude":34.807793,
+    "lbl:longitude":33.188907,
+    "mps:latitude":34.807793,
+    "mps:longitude":33.188907,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0421\u0430\u043d\u0438\u0434\u0430"
+    ],
+    "name:dut_x_preferred":[
+        "Sanida"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03bd\u03af\u03b4\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "San\u00edda"
+    ],
+    "name:eng_x_preferred":[
+        "Sanidha"
+    ],
+    "name:eng_x_variant":[
+        "Sanida",
+        "Sanidka"
+    ],
+    "name:fre_x_preferred":[
+        "San\u00edda"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a3\u03b1\u03bd\u03af\u03b4\u03b1"
+    ],
+    "name:pol_x_preferred":[
+        "Sanida"
+    ],
+    "name:unk_x_variant":[
+        "Sanidka"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u039b\u03b5\u03bc\u03b5\u03c3\u03cc\u03c2",
+    "qs:a1_alt":"Lemesos",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u03a3\u03b1\u03bd\u03af\u03b4\u03b1",
+    "qs:loc_alt":"Sanida",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":34.807778,
+    "wd:longitude":33.189722,
+    "wd:wordcount":20,
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06ef6214-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":146095,
+        "gp:id":841681,
+        "qs:id":1273517,
+        "qs_pg:id":1273517,
+        "wd:id":"Q7418284",
+        "wk:page":"Sanida"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"eee584c0cc62eb6975b23a1834e5a9cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":101849041,
+            "region_id":85682411
+        }
+    ],
+    "wof:id":101849041,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1544740752,
+    "wof:name":"\u03a3\u03b1\u03bd\u03af\u03b4\u03b1",
+    "wof:parent_id":85682411,
+    "wof:placetype":"locality",
+    "wof:population":46,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.188907,
+    34.807793,
+    33.188907,
+    34.807793
+],
+  "geometry": {"coordinates":[33.188907,34.807793],"type":"Point"}
+}

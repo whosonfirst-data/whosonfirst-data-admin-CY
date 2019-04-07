@@ -1,0 +1,160 @@
+{
+  "id": 101803295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000061,
+    "geom:area_square_m":620038.651827,
+    "geom:bbox":"34.018185069,35.3618239202,34.0339710013,35.3715596991",
+    "geom:latitude":35.366132,
+    "geom:longitude":34.027767,
+    "iso:country":"CY",
+    "lbl:latitude":35.366418,
+    "lbl:longitude":34.027886,
+    "mps:latitude":35.366418,
+    "mps:longitude":34.027886,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u0531\u0575\u0578\u057d \u0539\u0565\u0578\u0564\u0578\u0580\u0578\u057d"
+    ],
+    "name:bul_x_preferred":[
+        "\u0410\u0433\u0438\u043e\u0441 \u0422\u0435\u043e\u0434\u043e\u0440\u043e\u0441"
+    ],
+    "name:dut_x_preferred":[
+        "Ayios Theodhoros"
+    ],
+    "name:ell_x_preferred":[
+        "\u00c1gios The\u00f3doros"
+    ],
+    "name:ell_x_variant":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u0398\u03b5\u03cc\u03b4\u03c9\u03c1\u03bf\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Agios Theodoros"
+    ],
+    "name:eng_x_variant":[
+        "Ayios Theodhoros",
+        "Ayios Theodoros",
+        "Aytotoro",
+        "Aytotro",
+        "Gayirova",
+        "Otluk",
+        "Saint Theodoros",
+        "St Theodoros",
+        "St. Theodoros"
+    ],
+    "name:ger_x_preferred":[
+        "Ayios Theodoros/\u00c7ay\u0131rova"
+    ],
+    "name:gre_x_preferred":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u0398\u03b5\u03cc\u03b4\u03c9\u03c1\u03bf\u03c2"
+    ],
+    "name:per_x_preferred":[
+        "\u0686\u0627\u06cc\u06cc\u0631\u0648\u0648\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Ajos Teodoros"
+    ],
+    "name:swe_x_preferred":[
+        "\u00c1gios The\u00f3doros"
+    ],
+    "name:und_x_colloquial":[
+        "Bozdak",
+        "Cayirova"
+    ],
+    "name:und_x_preferred":[
+        "\u00c7ayirova"
+    ],
+    "name:und_x_variant":[
+        "Bozdak\u0327"
+    ],
+    "name:unk_x_variant":[
+        "Otluk"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u0391\u03bc\u03bc\u03cc\u03c7\u03c9\u03c3\u03c4\u03bf\u03c2",
+    "qs:a1_alt":"Ammochostos",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:la":"\u0386\u03b3\u03b9\u03bf\u03c2 \u0398\u03b5\u03cc\u03b4\u03c9\u03c1\u03bf\u03c2 (\u0391\u03bc\u03bc\u03bf\u03c7\u03ce\u03c3\u03c4\u03bf\u03c5)",
+    "qs:la_lc":"*CY3330",
+    "qs:level":"locality",
+    "qs:loc":"\u0386\u03b3\u03b9\u03bf\u03c2 \u0398\u03b5\u03cc\u03b4\u03c9\u03c1\u03bf\u03c2",
+    "qs:loc_alt":"Agios Theodoros",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682389,
+        85632375,
+        85681187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06ef10d4-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":146696,
+        "gp:id":841227,
+        "qs:id":966675,
+        "wd:id":"Q4831308",
+        "wk:page":"Agios Theodoros, Famagusta"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"3314c1b65e4a0d925067990a58c2c40a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "disputed_id":85632375,
+            "locality_id":101803295,
+            "region_id":85682389
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632375,
+            "disputed_id":85632375,
+            "locality_id":101803295,
+            "region_id":85682389
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "disputed_id":85632375,
+            "locality_id":101803295,
+            "region_id":85681187
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632375,
+            "disputed_id":85632375,
+            "locality_id":101803295,
+            "region_id":85681187
+        }
+    ],
+    "wof:id":101803295,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1553815512,
+    "wof:name":"\u0386\u03b3\u03b9\u03bf\u03c2 \u0398\u03b5\u03cc\u03b4\u03c9\u03c1\u03bf\u03c2",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.01818506896416,
+    35.3618239201773,
+    34.03397100132793,
+    35.37155969913255
+],
+  "geometry": {"coordinates":[[[34.03257939399953,35.37127883040165],[34.03139675839139,35.36783392289146],[34.03245195292084,35.36755305771675],[34.03215630894488,35.36669182806583],[34.03321148604897,35.36641095479234],[34.03291584164811,35.36554972636299],[34.03397100132793,35.36526884499096],[34.03278848342211,35.3618239201773],[34.03173336637377,35.36210478601083],[34.03202896984385,35.36296602509407],[34.02780839137955,35.36408938413382],[34.02751283054329,35.36322812951403],[34.0264576796767,35.36350893543153],[34.02675322985374,35.36437019393514],[34.02358770469618,35.3652125514368],[34.02329218649925,35.36435128128255],[34.02223700858121,35.36463203926513],[34.02194151127389,35.36377076256537],[34.02088633725407,35.36405150468079],[34.02029539464615,35.36232893552915],[34.01818506896416,35.36289036827725],[34.01877596892865,35.36461295295976],[34.01983115647221,35.36433223481237],[34.02012663245739,35.36519351927819],[34.02118182390063,35.36491278526364],[34.0217728278804,35.36663533844325],[34.02282803388351,35.36635458467811],[34.02312356187957,35.36721585339114],[34.02417877178033,35.36693508375816],[34.02476987978787,35.36865760542997],[34.02582510424804,35.36837681604482],[34.02612068426095,35.36923806900302],[34.02823113420925,35.36867644651119],[34.02852674577753,35.36953768903777],[34.02958197126463,35.36925685593076],[34.03017324642485,35.37097932522596],[34.03122848646825,35.37069847236461],[34.03152415006161,35.37155969913255],[34.03257939399953,35.37127883040165]]],"type":"Polygon"}
+}

@@ -1,0 +1,118 @@
+{
+  "id": 101804623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000029,
+    "geom:area_square_m":290052.503367,
+    "geom:bbox":"33.4305258931,34.8038068748,33.4392054798,34.8106801393",
+    "geom:latitude":34.806929,
+    "geom:longitude":33.434533,
+    "gn:population":292,
+    "iso:country":"CY",
+    "lbl:latitude":34.807425,
+    "lbl:longitude":33.434106,
+    "mps:latitude":34.807425,
+    "mps:longitude":33.434106,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0410\u043b\u0430\u043c\u0438\u043d\u043e\u0441"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bb\u03b1\u03bc\u03b9\u03bd\u03cc\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "Alamin\u00f3s"
+    ],
+    "name:eng_x_preferred":[
+        "Alaminos"
+    ],
+    "name:eng_x_variant":[
+        "Alamino",
+        "Alaminya",
+        "Alaminyo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0627\u0645\u06cc\u0646\u0627\u0633\u060c \u0642\u0628\u0631\u0633"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u056c\u0561\u0574\u056b\u0576\u0578\u057d"
+    ],
+    "name:pol_x_preferred":[
+        "Alaminos"
+    ],
+    "name:unk_x_variant":[
+        "Alaminyo"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u039b\u03ac\u03c1\u03bd\u03b1\u03ba\u03b1",
+    "qs:a1_alt":"Larnaka",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:id":0,
+    "qs:la":"\u0391\u03bb\u03b1\u03bc\u03b9\u03bd\u03cc\u03c2",
+    "qs:la_lc":"*CY4121",
+    "qs:level":"locality",
+    "qs:loc":"\u0391\u03bb\u03b1\u03bc\u03b9\u03bd\u03cc\u03c2",
+    "qs:loc_alt":"Alaminos",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":34.781111,
+    "wd:longitude":32.826111,
+    "wd:wordcount":86,
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06eefbf8-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":146833,
+        "gp:id":841111,
+        "qs:id":229083,
+        "qs_pg:id":229083,
+        "wd:id":"Q4705928"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"e8ef7ff9f5089ae49dadf272d6d44508",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":101804623,
+            "region_id":85682407
+        }
+    ],
+    "wof:id":101804623,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527642753,
+    "wof:name":"\u0391\u03bb\u03b1\u03bc\u03b9\u03bd\u03cc\u03c2",
+    "wof:parent_id":85682407,
+    "wof:placetype":"locality",
+    "wof:population":292,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.43052589308354,
+    34.80380687475832,
+    33.43920547975478,
+    34.81068013929132
+],
+  "geometry": {"coordinates":[[[33.43795935895571,34.80844707883017],[33.43710665928802,34.80585330211477],[33.43920547975478,34.80530585915341],[33.43892124501326,34.80444126918934],[33.43472362056951,34.8055360924248],[33.43415526499888,34.80380687475832],[33.43205645639091,34.80435419982928],[33.4323406081478,34.805218817445],[33.43129118362094,34.80549246582433],[33.43157533461488,34.80635708457692],[33.43052589308354,34.80663072476511],[33.43081004331361,34.8074953446548],[33.43185949540987,34.80722170072607],[33.43299623661164,34.81068013929132],[33.43404572452994,34.81040646846861],[33.43376151395967,34.80954186647307],[33.43795935895571,34.80844707883017]]],"type":"Polygon"}
+}

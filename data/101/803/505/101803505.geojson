@@ -1,0 +1,147 @@
+{
+  "id": 101803505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000108,
+    "geom:area_square_m":1090099.946644,
+    "geom:bbox":"33.1791483421,35.213873585,33.1972566146,35.2246909075",
+    "geom:latitude":35.219733,
+    "geom:longitude":33.187594,
+    "iso:country":"CY",
+    "lbl:latitude":35.219123,
+    "lbl:longitude":33.185331,
+    "mps:latitude":35.219123,
+    "mps:longitude":33.185331,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u0531\u0575\u0578\u057d \u054e\u0561\u057d\u056b\u056c\u056b\u0578\u057d"
+    ],
+    "name:dut_x_preferred":[
+        "Agios Vasileios"
+    ],
+    "name:eng_x_preferred":[
+        "Saint Vasilios"
+    ],
+    "name:eng_x_variant":[
+        "Agios Vasileios",
+        "Ayvasil",
+        "St Vasilios",
+        "St. Vasilios"
+    ],
+    "name:ger_x_preferred":[
+        "Agios Vasilios"
+    ],
+    "name:gre_x_preferred":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u0392\u03b1\u03c3\u03af\u03bb\u03b5\u03b9\u03bf\u03c2"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u06af\u06cc\u0648\u0627\u0633 \u0648\u0627\u0632\u06cc\u0644\u0648\u0627\u0632\u060c \u0633\u06cc\u067e\u0631\u0627\u0633"
+    ],
+    "name:pol_x_preferred":[
+        "Ajos Wasilios"
+    ],
+    "name:spa_x_preferred":[
+        "Agios Vasillios"
+    ],
+    "name:swe_x_preferred":[
+        "Ayios Vasilios"
+    ],
+    "name:tur_x_preferred":[
+        "Ayvas\u0131l"
+    ],
+    "name:und_x_colloquial":[
+        "Tuerkeli",
+        "Turkeli"
+    ],
+    "name:und_x_preferred":[
+        "Ayios Vasilios"
+    ],
+    "name:und_x_variant":[
+        "T\u00fcrkeli"
+    ],
+    "name:unk_x_variant":[
+        "T\u00fcrkeli"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u06af\u06cc\u0648\u0627\u0633 \u0648\u0627\u0632\u06cc\u0644\u06cc\u0648\u0633\u060c \u0642\u0628\u0631\u0635"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u039b\u03b5\u03c5\u03ba\u03c9\u03c3\u03af\u03b1",
+    "qs:a1_alt":"Lefkosia",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:la":"\u0386\u03b3\u03b9\u03bf\u03c2 \u0392\u03b1\u03c3\u03af\u03bb\u03b5\u03b9\u03bf\u03c2",
+    "qs:la_lc":"*CY1248",
+    "qs:level":"locality",
+    "qs:loc":"\u0386\u03b3\u03b9\u03bf\u03c2 \u0392\u03b1\u03c3\u03af\u03bb\u03b5\u03b9\u03bf\u03c2",
+    "qs:loc_alt":"Agios Vasileios",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682397,
+        85681187,
+        85632375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06ef11d8-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":146691,
+        "gp:id":841232,
+        "qs:id":1273407,
+        "wd:id":"Q4692676",
+        "wk:page":"Agios Vasileios, Cyprus"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"6e23d013ccfc2df86c90c7c5a1fad7b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":101803505,
+            "region_id":85682397
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "disputed_id":85632375,
+            "locality_id":101803505,
+            "region_id":85681187
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632375,
+            "disputed_id":85632375,
+            "locality_id":101803505,
+            "region_id":85681187
+        }
+    ],
+    "wof:id":101803505,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1553815513,
+    "wof:name":"\u0386\u03b3\u03b9\u03bf\u03c2 \u0392\u03b1\u03c3\u03af\u03bb\u03b5\u03b9\u03bf\u03c2",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.17914834208977,
+    35.21387358499987,
+    33.19725661456965,
+    35.22469090749468
+],
+  "geometry": {"coordinates":[[[33.18190921711687,35.22469090749468],[33.18718743176566,35.22333576593076],[33.18690314027629,35.22247087105484],[33.19112555160638,35.22138655649741],[33.19169423076278,35.22311631370331],[33.19274983888954,35.22284519752827],[33.19303420405259,35.22371006853439],[33.19725661456965,35.22262546868268],[33.19555031265179,35.21743629410821],[33.1923837087063,35.21824969455531],[33.19209939193706,35.21738481190039],[33.19104385505022,35.21765591760504],[33.1907595589297,35.21679102863692],[33.1886484871938,35.21733319650644],[33.18751148761362,35.21387358499987],[33.18328943860524,35.21495771661262],[33.18357363056248,35.21582263832232],[33.18146254542592,35.2163646395291],[33.18174672566511,35.21722956616554],[33.18069116254389,35.21750055249134],[33.18097534185262,35.21836548030871],[33.17991976143242,35.21863645836419],[33.18020393980942,35.21950138736264],[33.17914834208977,35.21977235714792],[33.17943251953488,35.22063728732752],[33.180488128045,35.22036631379643],[33.1813407519079,35.22296107770967],[33.18028511102477,35.22323206247904],[33.18056932790734,35.22409698240034],[33.18162497958201,35.22382599388459],[33.18190921711687,35.22469090749468]]],"type":"Polygon"}
+}

@@ -1,0 +1,94 @@
+{
+  "id": 101803409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000037,
+    "geom:bbox":"33.1814289666,35.0608958841,33.1911938127,35.0694952165",
+    "geom:latitude":35.064657,
+    "geom:longitude":33.185721,
+    "iso:country":"CY",
+    "lbl:latitude":35.064758,
+    "lbl:longitude":33.185721,
+    "mps:latitude":35.064758,
+    "mps:longitude":33.185721,
+    "mz:hierarchy_label":1,
+    "name:ell_x_preferred":[
+        "\u00c1gios Io\u00e1nnis"
+    ],
+    "name:ell_x_variant":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u0399\u03c9\u03ac\u03bd\u03bd\u03b7\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Ayios Ioannis"
+    ],
+    "name:eng_x_variant":[
+        "Agios Ioannis Malountas",
+        "Ayios Ioannis Maloundas",
+        "Saint Ioannis",
+        "St Ioannis",
+        "St. Ioannis"
+    ],
+    "name:unk_x_variant":[
+        "Saint Ioannis"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u039b\u03b5\u03c5\u03ba\u03c9\u03c3\u03af\u03b1",
+    "qs:a1_alt":"Lefkosia",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:la":"\u0386\u03b3\u03b9\u03bf\u03c2 \u0399\u03c9\u03ac\u03bd\u03bd\u03b7\u03c2 (\u039c\u03b1\u03bb\u03bf\u03cd\u03bd\u03c4\u03b1\u03c2)",
+    "qs:la_lc":"*CY1211",
+    "qs:level":"locality",
+    "qs:loc":"\u02bc\u03b3\u03b9\u03bf\u03c2 \u0399\u03c9\u03ac\u03bd\u03bd\u03b7\u03c2",
+    "qs:loc_alt":"Agios Ioannis",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06ef0cb0-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":146722,
+        "gp:id":841203,
+        "qs:id":405481
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"09120e152b585aa78549f25d94a42d0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":101803409,
+            "region_id":85682397
+        }
+    ],
+    "wof:id":101803409,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1501212541,
+    "wof:name":"\u02bc\u03b3\u03b9\u03bf\u03c2 \u0399\u03c9\u03ac\u03bd\u03bd\u03b7\u03c2",
+    "wof:parent_id":85682397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.18142896662147,
+    35.06089588414864,
+    33.19119381272793,
+    35.06949521645726
+],
+  "geometry": {"coordinates":[[[33.18466847612854,35.06922427692155],[33.18410224434581,35.06749395159375],[33.18620934655837,35.06695205147486],[33.18592622392242,35.06608689242006],[33.19119381272793,35.06473195095094],[33.19006120575176,35.06127136366791],[33.18900774380847,35.06154236101588],[33.18929087012287,35.06240751542191],[33.18507691483927,35.0634913998436],[33.18422769398478,35.06089588414864],[33.18212074191757,35.06143773203854],[33.18325297020237,35.06489844433804],[33.18219944157943,35.0651693652195],[33.1824825124317,35.06603454060382],[33.18142896662147,35.0663054532256],[33.18199511628302,35.06803580375032],[33.18304868354562,35.06776488366734],[33.18361489387507,35.06949521645726],[33.18466847612854,35.06922427692155]]],"type":"Polygon"}
+}

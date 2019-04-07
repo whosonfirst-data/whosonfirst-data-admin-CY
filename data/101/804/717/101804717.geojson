@@ -1,0 +1,165 @@
+{
+  "id": 101804717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000036,
+    "geom:area_square_m":370057.632315,
+    "geom:bbox":"33.0137382945,34.9131545928,33.0292381795,34.9197875203",
+    "geom:latitude":34.916465,
+    "geom:longitude":33.02201,
+    "gn:population":874,
+    "iso:country":"CY",
+    "lbl:latitude":34.916173,
+    "lbl:longitude":33.022655,
+    "mps:latitude":34.916173,
+    "mps:longitude":33.022655,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:als_x_preferred":[
+        "Agros"
+    ],
+    "name:arm_x_preferred":[
+        "\u0531\u0563\u0580\u0578\u057d"
+    ],
+    "name:bul_x_preferred":[
+        "\u0410\u0433\u0440\u043e\u0441"
+    ],
+    "name:ceb_x_preferred":[
+        "Agr\u00f3s"
+    ],
+    "name:deu_x_preferred":[
+        "Agros"
+    ],
+    "name:dut_x_preferred":[
+        "Agros"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03b3\u03c1\u03cc\u03c2 \u039b\u03b5\u03bc\u03b5\u03c3\u03bf\u03cd"
+    ],
+    "name:ell_x_variant":[
+        "Agr\u00f3s",
+        "\u0391\u03b3\u03c1\u03cc\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Agros"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u06af\u0631\u0627\u0633\u060c \u0633\u06cc\u067e\u0631\u0627\u0633"
+    ],
+    "name:fra_x_preferred":[
+        "Agros"
+    ],
+    "name:fre_x_preferred":[
+        "Agros"
+    ],
+    "name:ger_x_preferred":[
+        "Agros"
+    ],
+    "name:gre_x_preferred":[
+        "\u0391\u03b3\u03c1\u03cc\u03c2"
+    ],
+    "name:gsw_x_preferred":[
+        "Agros"
+    ],
+    "name:hun_x_preferred":[
+        "Agros"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u0563\u0580\u0578\u057d"
+    ],
+    "name:kor_x_preferred":[
+        "\uc544\uadf8\ub85c\uc2a4"
+    ],
+    "name:nld_x_preferred":[
+        "Agros"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u06af\u0631\u0627\u0633\u060c \u0633\u06cc\u067e\u0631\u0627\u0633"
+    ],
+    "name:pol_x_preferred":[
+        "Agros"
+    ],
+    "name:sco_x_preferred":[
+        "Agros"
+    ],
+    "name:swe_x_preferred":[
+        "Agr\u00f3s"
+    ],
+    "name:unk_x_variant":[
+        "A\u011fro"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u06cc\u06af\u0631\u0648\u0633\u060c \u0642\u0628\u0631\u0635"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u039b\u03b5\u03bc\u03b5\u03c3\u03cc\u03c2",
+    "qs:a1_alt":"Lemesos",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:la":"\u0391\u03b3\u03c1\u03cc\u03c2",
+    "qs:la_lc":"*CY5366",
+    "qs:level":"locality",
+    "qs:loc":"\u0391\u03b3\u03c1\u03cc\u03c2",
+    "qs:loc_alt":"Agros",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":34.916667,
+    "wd:longitude":33.016667,
+    "wd:wordcount":4356,
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06eef9fa-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":146851,
+        "gp:id":841101,
+        "qs:id":959122,
+        "qs_pg:id":959122,
+        "wd:id":"Q353854",
+        "wk:page":"Agros, Cyprus"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"996c0692b624e924e752d768c91ac259",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":101804717,
+            "region_id":85682411
+        }
+    ],
+    "wof:id":101804717,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527642757,
+    "wof:name":"\u0391\u03b3\u03c1\u03cc\u03c2",
+    "wof:parent_id":85682411,
+    "wof:placetype":"locality",
+    "wof:population":874,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.01373829448096,
+    34.91315459283931,
+    33.02923817949983,
+    34.91978752027325
+],
+  "geometry": {"coordinates":[[[33.01401826123367,34.91978752027325],[33.01822644498714,34.9187118295664],[33.01850646423242,34.91957789815552],[33.02061053925792,34.91903997355769],[33.02033049861109,34.91817391235293],[33.02769448544689,34.91629082485525],[33.02741437959833,34.91542478694504],[33.02846634151319,34.91515573023514],[33.02818623465816,34.91428969346396],[33.02923817949983,34.91402062847163],[33.02895807163844,34.91315459283931],[33.02264637112722,34.91476878100679],[33.02236633713784,34.91390272066565],[33.02026240735933,34.91444068019996],[33.02082244223311,34.91617281309681],[33.01556239923622,34.91751753927059],[33.01584237770487,34.91838362034821],[33.01373829448096,34.91892143436519],[33.01401826123367,34.91978752027325]]],"type":"Polygon"}
+}

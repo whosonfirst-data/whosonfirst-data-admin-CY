@@ -1,0 +1,160 @@
+{
+  "id": 101804551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000088,
+    "geom:area_square_m":890177.236898,
+    "geom:bbox":"32.5677245435,34.7005817328,32.5798677808,34.7145819288",
+    "geom:latitude":34.708051,
+    "geom:longitude":32.573482,
+    "gn:population":698,
+    "iso:country":"CY",
+    "lbl:latitude":34.707983,
+    "lbl:longitude":32.57339,
+    "mps:latitude":34.707983,
+    "mps:longitude":32.57339,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u053f\u0578\u0582\u056f\u056c\u056b\u0561"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u0443\u043a\u043b\u0438\u044f"
+    ],
+    "name:cat_x_preferred":[
+        "Vella Pafos"
+    ],
+    "name:ceb_x_preferred":[
+        "Kouklia"
+    ],
+    "name:deu_x_preferred":[
+        "Kouklia"
+    ],
+    "name:dut_x_preferred":[
+        "Kouklia"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03cd\u03ba\u03bb\u03b9\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Kouklia"
+    ],
+    "name:eng_x_variant":[
+        "Koprulu",
+        "Kukla",
+        "Sakarya"
+    ],
+    "name:est_x_preferred":[
+        "Ko\u00faklia"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u06a9\u0644\u06cc\u0627"
+    ],
+    "name:ger_x_preferred":[
+        "Kouklia"
+    ],
+    "name:gre_x_preferred":[
+        "\u039a\u03bf\u03cd\u03ba\u03bb\u03b9\u03b1"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05e7\u05dc\u05d9\u05d4"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0578\u0582\u056f\u056c\u056b\u0561"
+    ],
+    "name:per_x_preferred":[
+        "\u06a9\u0648\u06a9\u0644\u06cc\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Kuklia"
+    ],
+    "name:spa_x_preferred":[
+        "Kouklia"
+    ],
+    "name:swe_x_preferred":[
+        "Kouklia"
+    ],
+    "name:und_x_colloquial":[
+        "Palaea Paphos"
+    ],
+    "name:und_x_variant":[
+        "Pal\u00e6a Paphos"
+    ],
+    "name:unk_x_variant":[
+        "Kukla"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0648\u06a9\u0644\u06cc\u0627"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u03a0\u03ac\u03c6\u03bf\u03c2",
+    "qs:a1_alt":"Pafos",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:la":"\u039a\u03bf\u03cd\u03ba\u03bb\u03b9\u03b1 (\u03a0\u03ac\u03c6\u03bf\u03c5)",
+    "qs:la_lc":"*CY6100",
+    "qs:level":"locality",
+    "qs:loc":"\u039a\u03bf\u03cd\u03ba\u03bb\u03b9\u03b1",
+    "qs:loc_alt":"Kouklia",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":34.698333,
+    "wd:longitude":32.593889,
+    "wd:wordcount":1733,
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06ef31e0-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":146434,
+        "gp:id":841417,
+        "qs:id":278078,
+        "qs_pg:id":278078,
+        "wd:id":"Q930838",
+        "wk:page":"Kouklia"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"415104cf01323c7e2ec9835d117d9ed6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":101804551,
+            "region_id":85682401
+        }
+    ],
+    "wof:id":101804551,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527642743,
+    "wof:name":"\u039a\u03bf\u03cd\u03ba\u03bb\u03b9\u03b1",
+    "wof:parent_id":85682401,
+    "wof:placetype":"locality",
+    "wof:population":698,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.56772454354029,
+    34.70058173284485,
+    32.57986778078413,
+    34.71458192877645
+],
+  "geometry": {"coordinates":[[[32.57675888489126,34.71379073344502],[32.57566601479868,34.71031818133974],[32.57986778078413,34.70926314436196],[32.57959454405062,34.70839501449586],[32.57854412256927,34.7086587880878],[32.57799769886515,34.70692251361731],[32.57694729259435,34.70718626802545],[32.57612776002117,34.70458182669125],[32.57717813417116,34.70431808310337],[32.57635865450197,34.70171363001941],[32.577408990332,34.70144988528187],[32.57713583862989,34.70058173284485],[32.57293450092209,34.70163662555757],[32.57320760980178,34.70250479241901],[32.57215724916546,34.70276848928086],[32.57243035678357,34.70363665724079],[32.57137997923917,34.70390034573921],[32.57165308559536,34.70476851479782],[32.57060269114163,34.70503219493258],[32.57087579623499,34.70590036509003],[32.56772454354029,34.70669134449292],[32.56990946731662,34.71363670204687],[32.57306097705123,34.71284563609566],[32.57360736673331,34.71458192877645],[32.57675888489126,34.71379073344502]]],"type":"Polygon"}
+}

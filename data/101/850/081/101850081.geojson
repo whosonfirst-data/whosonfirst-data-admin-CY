@@ -1,0 +1,108 @@
+{
+  "id": 101850081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.256233,35.293052,33.256233,35.293052",
+    "geom:latitude":35.293052,
+    "geom:longitude":33.256233,
+    "iso:country":"CY",
+    "lbl:latitude":35.293052,
+    "lbl:longitude":33.256233,
+    "mps:latitude":35.293052,
+    "mps:longitude":33.256233,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Ki\u00f3mourtzou"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03b9\u03cc\u03bc\u03bf\u03c5\u03c1\u03c4\u03b6\u03bf\u03c5"
+    ],
+    "name:unk_x_variant":[
+        "K\u00f6m\u00fcrc\u00fc"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u039a\u03b5\u03c1\u03cd\u03bd\u03b5\u03b9\u03b1",
+    "qs:a1_alt":"Keryneia",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u039a\u03b9\u03bf\u03bc\u03bf\u03c5\u03c1\u03c4\u03b6\u03bf\u03cd",
+    "qs:loc_alt":"Kiomourtzou",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85681187,
+        85632375,
+        85682393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":146502,
+        "gp:id":841737,
+        "qs:id":9
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"1cb546a15eeab51816427163467b774e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "disputed_id":85632375,
+            "locality_id":101850081,
+            "region_id":85681187
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632375,
+            "disputed_id":85632375,
+            "locality_id":101850081,
+            "region_id":85681187
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "disputed_id":85632375,
+            "locality_id":101850081,
+            "region_id":85682393
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632375,
+            "disputed_id":85632375,
+            "locality_id":101850081,
+            "region_id":85682393
+        }
+    ],
+    "wof:id":101850081,
+    "wof:lastmodified":1544741252,
+    "wof:name":"\u039a\u03b9\u03bf\u03bc\u03bf\u03c5\u03c1\u03c4\u03b6\u03bf\u03cd",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.256233,
+    35.293052,
+    33.256233,
+    35.293052
+],
+  "geometry": {"coordinates":[33.256233,35.293052],"type":"Point"}
+}

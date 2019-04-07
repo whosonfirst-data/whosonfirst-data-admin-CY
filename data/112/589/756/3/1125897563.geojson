@@ -1,0 +1,122 @@
+{
+  "id": 1125897563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.41667,35.1,33.41667,35.1",
+    "geom:latitude":35.1,
+    "geom:longitude":33.41667,
+    "gn:gn_country":"CY",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":7639,
+    "gn:population":7639,
+    "iso:country":"CY",
+    "lbl:latitude":35.1,
+    "lbl:longitude":33.41667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arm_x_preferred":[
+        "\u0533\u0565\u0580\u056b"
+    ],
+    "name:azb_x_preferred":[
+        "\u06af\u0626\u0631\u06cc"
+    ],
+    "name:ell_x_preferred":[
+        "G\u00e9ri"
+    ],
+    "name:ell_x_variant":[
+        "\u0393\u03ad\u03c1\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Yeri"
+    ],
+    "name:fre_x_preferred":[
+        "Geri"
+    ],
+    "name:gre_x_preferred":[
+        "\u0393\u03ad\u03c1\u03b9"
+    ],
+    "name:nno_x_preferred":[
+        "J\u00e9ri"
+    ],
+    "name:per_x_preferred":[
+        "\u062c\u06cc\u0631\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Jeri"
+    ],
+    "name:por_x_preferred":[
+        "Geri"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0435\u0440\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Geri"
+    ],
+    "name:swe_x_preferred":[
+        "G\u00e9ri"
+    ],
+    "name:urd_x_preferred":[
+        "\u06cc\u0631\u06cc\u060c \u0642\u0628\u0631\u0635"
+    ],
+    "qs_pg:aaroncc":"CY",
+    "qs_pg:gn_country":"CY",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":145964,
+    "qs_pg:gn_pop":7639,
+    "qs_pg:name":"Yeri",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":1026529,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":145964,
+        "qs_pg:id":1026529,
+        "wd:id":"Q3104074"
+    },
+    "wof:country":"CY",
+    "wof:created":1497295649,
+    "wof:geomhash":"9d542972944a784602f5fa046638fd3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":1125897563,
+            "region_id":85682397
+        }
+    ],
+    "wof:id":1125897563,
+    "wof:lastmodified":1553816610,
+    "wof:name":"Yeri",
+    "wof:parent_id":85682397,
+    "wof:placetype":"locality",
+    "wof:population":7639,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.41667,
+    35.1,
+    33.41667,
+    35.1
+],
+  "geometry": {"coordinates":[33.41667,35.1],"type":"Point"}
+}

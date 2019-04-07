@@ -1,0 +1,77 @@
+{
+  "id": 1293586849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.69642,34.78645,32.69642,34.78645",
+    "geom:latitude":34.78645,
+    "geom:longitude":32.69642,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Prastio",
+    "gn:country_code":"CY",
+    "gn:dem":255,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":146125,
+    "gn:latitude":34.78645,
+    "gn:longitude":32.69642,
+    "gn:modification_date":"2014-06-04",
+    "gn:name":"Prasti\u00f3",
+    "gn:population":0,
+    "gn:timezone":"Asia/Nicosia",
+    "iso:country":"CY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ell_x_preferred":[
+        "Prasti\u00f3"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03c1\u03b1\u03c3\u03c4\u03b9\u03cc"
+    ],
+    "name:und_x_variant":[
+        "Yuval\u0131",
+        "Prastyo",
+        "Prastion"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":146125,
+        "wk:page":"Prastio%2C_Paphos"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"f09b028fca17c3620daf89881d871f57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":1293586849,
+            "region_id":85682401
+        }
+    ],
+    "wof:id":1293586849,
+    "wof:lastmodified":1537619242,
+    "wof:name":"Prastio",
+    "wof:parent_id":85682401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.69642,
+    34.78645,
+    32.69642,
+    34.78645
+],
+  "geometry": {"coordinates":[32.69642,34.78645],"type":"Point"}
+}

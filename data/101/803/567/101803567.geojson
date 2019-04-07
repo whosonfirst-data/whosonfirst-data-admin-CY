@@ -1,0 +1,82 @@
+{
+  "id": 101803567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000068,
+    "geom:bbox":"33.5294282645,34.9232773017,33.5430880742,34.9332524623",
+    "geom:latitude":34.928831,
+    "geom:longitude":33.536588,
+    "iso:country":"CY",
+    "lbl:latitude":34.929259,
+    "lbl:longitude":33.536123,
+    "mps:latitude":34.929259,
+    "mps:longitude":33.536123,
+    "mz:hierarchy_label":1,
+    "name:ell_x_preferred":[
+        "K\u00e1lon Chori\u00f3n"
+    ],
+    "name:ell_x_variant":[
+        "K\u00e1lo Chori\u00f3",
+        "\u039a\u03ac\u03bb\u03bf \u03a7\u03c9\u03c1\u03b9\u03cc",
+        "\u039a\u03ac\u03bb\u03bf\u03bd \u03a7\u03c9\u03c1\u03b9\u03cc\u03bd"
+    ],
+    "name:unk_x_variant":[
+        "Voudo"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u039b\u03ac\u03c1\u03bd\u03b1\u03ba\u03b1",
+    "qs:a1_alt":"Larnaka",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:la":"\u039a\u03b1\u03bb\u03cc \u03a7\u03c9\u03c1\u03b9\u03cc (\u039b\u03ac\u03c1\u03bd\u03b1\u03ba\u03b1\u03c2)",
+    "qs:la_lc":"*CY4210",
+    "qs:level":"locality",
+    "qs:loc":"\u039a\u03b1\u03bb\u03cc \u03a7\u03c9\u03c1\u03b9\u03cc",
+    "qs:loc_alt":"Kalo Chorio",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":146573,
+        "gp:id":841311,
+        "qs:id":405512
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"ee17d05c594c97fc38d2ca618b2c438d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":101803567,
+            "region_id":85682407
+        }
+    ],
+    "wof:id":101803567,
+    "wof:lastmodified":1501212529,
+    "wof:name":"\u039a\u03b1\u03bb\u03cc \u03a7\u03c9\u03c1\u03b9\u03cc",
+    "wof:parent_id":85682407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.52942826447429,
+    34.92327730171235,
+    33.54308807423195,
+    34.93325246227141
+],
+  "geometry": {"coordinates":[[[33.53162417844783,34.93325246227141],[33.5400306322266,34.93105314480891],[33.54031702177281,34.93191711430944],[33.54136780981571,34.93164214210572],[33.54108140967776,34.93077817637402],[33.54213218062341,34.93050319599439],[33.54127300775951,34.92791129442475],[33.5423237404284,34.92763631340688],[33.54203735865713,34.9267723447586],[33.54308807423195,34.92649735556523],[33.54280169175775,34.92563338807196],[33.54175098677217,34.92590837349678],[33.5414646247728,34.92504439962141],[33.53831250256172,34.92586927292939],[33.53745357117526,34.92327730171235],[33.53535218739205,34.92382713492651],[33.53621105523928,34.92641912874842],[33.53305883548455,34.92724382289572],[33.53334511276,34.92810782691299],[33.53019280270826,34.92893242486099],[33.53047905808944,34.92979643756735],[33.52942826447429,34.9300712834272],[33.52971451914493,34.9309352972885],[33.53076532335359,34.93066044766158],[33.53162417844783,34.93325246227141]]],"type":"Polygon"}
+}

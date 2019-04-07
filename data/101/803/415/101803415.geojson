@@ -1,0 +1,121 @@
+{
+  "id": 101803415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000039,
+    "geom:area_square_m":400057.900451,
+    "geom:bbox":"33.247704286,34.9717646101,33.2579019365,34.9801434376",
+    "geom:latitude":34.975745,
+    "geom:longitude":33.253194,
+    "iso:country":"CY",
+    "lbl:latitude":34.975813,
+    "lbl:longitude":33.253117,
+    "mps:latitude":34.975813,
+    "mps:longitude":33.253117,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Kapedes"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03c0\u03ad\u03b4\u03b5\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "Kap\u00e9des"
+    ],
+    "name:eng_x_preferred":[
+        "Kapedhes"
+    ],
+    "name:eng_x_variant":[
+        "Kabedes",
+        "Kapades",
+        "Kapedes",
+        "Kapedez",
+        "Kappedhes"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0627\u067e\u062f\u0633"
+    ],
+    "name:gre_x_preferred":[
+        "\u039a\u03b1\u03c0\u03ad\u03b4\u03b5\u03c2"
+    ],
+    "name:per_x_preferred":[
+        "\u06a9\u0627\u067e\u062f\u0633"
+    ],
+    "name:pol_x_preferred":[
+        "Kapedes"
+    ],
+    "name:spa_x_preferred":[
+        "Kapedes"
+    ],
+    "name:unk_x_variant":[
+        "Kabedes"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0627\u067e\u06cc\u062f\u06cc\u0633"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u039b\u03b5\u03c5\u03ba\u03c9\u03c3\u03af\u03b1",
+    "qs:a1_alt":"Lefkosia",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:la":"\u039a\u03b1\u03c0\u03ad\u03b4\u03b5\u03c2",
+    "qs:la_lc":"*CY1220",
+    "qs:level":"locality",
+    "qs:loc":"\u039a\u03b1\u03c0\u03ad\u03b4\u03b5\u03c2",
+    "qs:loc_alt":"Kapedes",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":34.975556,
+    "wd:longitude":33.253889,
+    "wd:wordcount":14,
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06ef2240-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":146553,
+        "gp:id":841327,
+        "qs:id":1273429,
+        "wd:id":"Q6366531"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"e3b17a8db498737a0bb8139140b65137",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":101803415,
+            "region_id":85682397
+        }
+    ],
+    "wof:id":101803415,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527642762,
+    "wof:name":"\u039a\u03b1\u03c0\u03ad\u03b4\u03b5\u03c2",
+    "wof:parent_id":85682397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.24770428601153,
+    34.9717646100658,
+    33.25790193653995,
+    34.98014343757637
+],
+  "geometry": {"coordinates":[[[33.25790193653995,34.97905657260236],[33.25676864005504,34.9755964726557],[33.2557164949082,34.97586819192662],[33.25514992679916,34.97413811901487],[33.25409779654638,34.97440981885114],[33.25324804987247,34.97181467894728],[33.25009171646536,34.97262967305096],[33.24980851918036,34.9717646100658],[33.24770428601153,34.97230787215426],[33.24827064768499,34.97403801046954],[33.24932278883909,34.97376637794918],[33.24988921103591,34.97549649849003],[33.25094136708793,34.97522484653666],[33.25179110587055,34.97781999681695],[33.25284328749399,34.97754832169772],[33.25369314647185,34.98014343757637],[33.25790193653995,34.97905657260236]]],"type":"Polygon"}
+}

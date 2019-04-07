@@ -1,0 +1,142 @@
+{
+  "id": 101837397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000151,
+    "geom:area_square_m":1527190.358923,
+    "geom:bbox":"33.3938481332,34.9845329086,33.413266067,35.0027226321",
+    "geom:latitude":34.993725,
+    "geom:longitude":33.40213,
+    "gn:population":1192,
+    "iso:country":"CY",
+    "lbl:latitude":34.99427,
+    "lbl:longitude":33.403601,
+    "mps:latitude":34.99427,
+    "mps:longitude":33.403601,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u0531\u056c\u0561\u0562\u0580\u0561"
+    ],
+    "name:ceb_x_preferred":[
+        "Al\u00e1mpra"
+    ],
+    "name:deu_x_preferred":[
+        "Alambra"
+    ],
+    "name:dut_x_preferred":[
+        "Alampra"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bb\u03ac\u03bc\u03c0\u03c1\u03b1 \u039b\u03b5\u03c5\u03ba\u03c9\u03c3\u03af\u03b1\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "Al\u00e1mpra",
+        "\u0391\u03bb\u03ac\u03bc\u03c0\u03c1\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Alambra"
+    ],
+    "name:eng_x_variant":[
+        "Alampra"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0627\u0645\u067e\u0631\u0627"
+    ],
+    "name:ger_x_preferred":[
+        "Alambra"
+    ],
+    "name:gre_x_preferred":[
+        "\u0391\u03bb\u03ac\u03bc\u03c0\u03c1\u03b1 \u039b\u03b5\u03c5\u03ba\u03c9\u03c3\u03af\u03b1\u03c2"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u056c\u0561\u0562\u0580\u0561"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u0644\u0627\u0645\u067e\u0631\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Alambra"
+    ],
+    "name:swe_x_preferred":[
+        "Al\u00e1mpra"
+    ],
+    "name:unk_x_variant":[
+        "Alambra"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0644\u0627\u0645\u067e\u0631\u0627"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u039b\u03b5\u03c5\u03ba\u03c9\u03c3\u03af\u03b1",
+    "qs:a1_alt":"Lefkosia",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:id":0,
+    "qs:la":"\u0394\u03ac\u03bb\u03b9",
+    "qs:la_lc":"*CY1107",
+    "qs:level":"locality",
+    "qs:loc":"\u0391\u03bb\u03ac\u03bc\u03c0\u03c1\u03b1",
+    "qs:loc_alt":"Alampra",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":34.991667,
+    "wd:longitude":33.4,
+    "wd:wordcount":130,
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06eefbc6-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":146834,
+        "gp:id":841110,
+        "qs:id":405460,
+        "qs_pg:id":405460,
+        "wd:id":"Q827206",
+        "wk:page":"Alampra"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"dd885841c01acbcf90abffee78f51c1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":101837397,
+            "region_id":85682397
+        }
+    ],
+    "wof:id":101837397,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527715300,
+    "wof:name":"\u0391\u03bb\u03ac\u03bc\u03c0\u03c1\u03b1",
+    "wof:parent_id":85682397,
+    "wof:placetype":"locality",
+    "wof:population":1192,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.39384813321266,
+    34.98453290856412,
+    33.41326606697385,
+    35.00272263212207
+],
+  "geometry": {"coordinates":[[[33.39404914917458,35.00075409465859],[33.3983751273874,35.00272263212207],[33.39919725604375,35.00250901559355],[33.39891204058131,35.00164459810446],[33.40522451771699,35.00000412458371],[33.40493924821169,34.99913972703393],[33.40599129435469,34.99886627665887],[33.40570602406217,34.99800188026938],[33.40675805306171,34.99772842168562],[33.40647278198259,34.99686402645625],[33.4075247938398,34.9965905596643],[33.40723952197447,34.9957261655947],[33.41039548663952,34.99490570470311],[33.41011019269496,34.99404131930572],[33.41326606697385,34.9932207620102],[33.41298075095449,34.99235638528569],[33.41192881000097,34.99262991259087],[33.41164351448913,34.99176552951269],[33.40743572831968,34.99285950407659],[33.40686525204188,34.99113070008275],[33.40581331055898,34.99140415630416],[33.40495770202421,34.98881091957605],[33.40600961157105,34.9885374746205],[33.40572441779796,34.98767306094066],[33.40677631020878,34.98739960777726],[33.40649111564926,34.98653519525612],[33.40754299092578,34.98626173388527],[33.40697261009234,34.98453290856412],[33.405920756103,34.98480636242527],[33.40620593094764,34.98567078013889],[33.39779078024731,34.9878580104085],[33.39750569056105,34.98699356266042],[33.39434993391461,34.98781356535835],[33.39577532119074,34.99213583445282],[33.39787927191799,34.99158914041328],[33.39873468644123,34.99418244820509],[33.39978668401363,34.99390907197585],[33.4006422192021,34.99650234514593],[33.39748611116744,34.99732247173353],[33.39777127733208,34.9981869021978],[33.39566715154774,34.99873360094097],[33.39595230626855,34.99959803632009],[33.39384813321266,35.0001446947112],[33.39404914917458,35.00075409465859]]],"type":"Polygon"}
+}

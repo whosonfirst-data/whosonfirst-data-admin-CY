@@ -1,0 +1,142 @@
+{
+  "id": 101838563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000043,
+    "geom:area_square_m":438390.598856,
+    "geom:bbox":"33.8550238353,35.196755003,33.8663991233,35.2042103478",
+    "geom:latitude":35.20005,
+    "geom:longitude":33.860229,
+    "iso:country":"CY",
+    "lbl:latitude":35.200388,
+    "lbl:longitude":33.860315,
+    "mps:latitude":35.200388,
+    "mps:longitude":33.860315,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u053c\u056b\u0574\u0576\u056b\u0561"
+    ],
+    "name:bul_x_preferred":[
+        "\u041b\u0438\u043c\u043d\u0438\u044f"
+    ],
+    "name:dut_x_preferred":[
+        "Limnia Ammochostou"
+    ],
+    "name:ell_x_preferred":[
+        "Limni\u00e1"
+    ],
+    "name:ell_x_variant":[
+        "\u039b\u03b9\u03bc\u03bd\u03b9\u03ac"
+    ],
+    "name:eng_x_preferred":[
+        "Limnya"
+    ],
+    "name:gre_x_preferred":[
+        "\u039b\u03b9\u03bc\u03bd\u03b9\u03ac"
+    ],
+    "name:pol_x_preferred":[
+        "Limnia"
+    ],
+    "name:und_x_colloquial":[
+        "Mormenekse"
+    ],
+    "name:und_x_preferred":[
+        "Limnia"
+    ],
+    "name:und_x_variant":[
+        "Mormenek\u015fe"
+    ],
+    "name:unk_x_variant":[
+        "Limnya"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u0391\u03bc\u03bc\u03cc\u03c7\u03c9\u03c3\u03c4\u03bf\u03c2",
+    "qs:a1_alt":"Ammochostos",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:la":"\u0386\u03b3\u03b9\u03bf\u03c2 \u03a3\u03ad\u03c1\u03b3\u03b9\u03bf\u03c2",
+    "qs:la_lc":"*CY3121",
+    "qs:level":"locality",
+    "qs:loc":"\u039b\u03b9\u03bc\u03bd\u03b9\u03ac",
+    "qs:loc_alt":"Limnia",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682389,
+        85632375,
+        85681187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06ef38de-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":146380,
+        "gp:id":841456,
+        "qs:id":1083335,
+        "qs_pg:id":1083335,
+        "wd:id":"Q6549752",
+        "wk:page":"Limnia, Cyprus"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"03d1a39fa42cd7a4aae4455461e74e26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "disputed_id":85632375,
+            "locality_id":101838563,
+            "region_id":85682389
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632375,
+            "disputed_id":85632375,
+            "locality_id":101838563,
+            "region_id":85682389
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "disputed_id":85632375,
+            "locality_id":101838563,
+            "region_id":85681187
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632375,
+            "disputed_id":85632375,
+            "locality_id":101838563,
+            "region_id":85681187
+        }
+    ],
+    "wof:id":101838563,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1513944730,
+    "wof:name":"\u039b\u03b9\u03bc\u03bd\u03b9\u03ac",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.85502383532787,
+    35.19675500299053,
+    33.86639912328712,
+    35.20421034781305
+],
+  "geometry": {"coordinates":[[[33.86639912328712,35.19830833985407],[33.86618422776371,35.19742569088436],[33.86421257040433,35.1979476330107],[33.86392026703101,35.19708542714147],[33.85970661939433,35.19820067823565],[33.85941436864186,35.19733845435047],[33.85836095069112,35.19761723336364],[33.85806872067246,35.19675500299053],[33.85596188602688,35.19731251743065],[33.85683854261652,35.19989922366437],[33.85578508340114,35.20017797445837],[33.85607731184245,35.20104020842103],[33.85502383532787,35.20131895108887],[33.8553160632423,35.20218118624825],[33.85742303086613,35.20162368126012],[33.85829983903477,35.20421034781305],[33.85935334473822,35.20393156583901],[33.85906105461049,35.20306935014287],[33.86327496819797,35.20195411793549],[33.86356730084975,35.20281631825975],[33.86462077320107,35.20253747644472],[33.86345146072114,35.19908867464358],[33.86639912328712,35.19830833985407]]],"type":"Polygon"}
+}

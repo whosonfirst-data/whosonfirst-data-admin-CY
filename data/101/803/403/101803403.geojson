@@ -1,0 +1,125 @@
+{
+  "id": 101803403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00003,
+    "geom:area_square_m":300051.492699,
+    "geom:bbox":"33.148997018,34.9542971262,33.1601583281,34.960031002",
+    "geom:latitude":34.956901,
+    "geom:longitude":33.155678,
+    "gn:population":235,
+    "iso:country":"CY",
+    "lbl:latitude":34.956172,
+    "lbl:longitude":33.155593,
+    "mps:latitude":34.956172,
+    "mps:longitude":33.155593,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Go\u00farri"
+    ],
+    "name:dut_x_preferred":[
+        "Gourri"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03bf\u03cd\u03c1\u03c1\u03b9"
+    ],
+    "name:ell_x_variant":[
+        "Go\u00farri",
+        "\u0393\u03bf\u03cd\u03c1\u03c1\u03b7"
+    ],
+    "name:eng_x_preferred":[
+        "Gourri"
+    ],
+    "name:eng_x_variant":[
+        "Guri",
+        "Gurri",
+        "Vourri"
+    ],
+    "name:gre_x_preferred":[
+        "\u0393\u03bf\u03cd\u03c1\u03c1\u03b9"
+    ],
+    "name:pol_x_preferred":[
+        "Guri"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0443\u0440\u0440\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Go\u00farri"
+    ],
+    "name:unk_x_variant":[
+        "Yourri"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u039b\u03b5\u03c5\u03ba\u03c9\u03c3\u03af\u03b1",
+    "qs:a1_alt":"Lefkosia",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:la":"\u0393\u03bf\u03cd\u03c1\u03c1\u03b7",
+    "qs:la_lc":"*CY1204",
+    "qs:level":"locality",
+    "qs:loc":"\u0393\u03bf\u03cd\u03c1\u03c1\u03b7",
+    "qs:loc_alt":"Gourri",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":34.957222,
+    "wd:longitude":33.156944,
+    "wd:wordcount":514,
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06ef1c82-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":146594,
+        "gp:id":841298,
+        "qs:id":894605,
+        "qs_pg:id":894605,
+        "wd:id":"Q5588469",
+        "wk:page":"Gourri"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"6cecbb34926766bdbc3ab02ab28fdf29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":101803403,
+            "region_id":85682397
+        }
+    ],
+    "wof:id":101803403,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527642770,
+    "wof:name":"\u0393\u03bf\u03cd\u03c1\u03c1\u03b7",
+    "wof:parent_id":85682397,
+    "wof:placetype":"locality",
+    "wof:population":235,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.1489970179814,
+    34.95429712622195,
+    33.16015832808029,
+    34.96003100203819
+],
+  "geometry": {"coordinates":[[[33.16015832808029,34.95921924513829],[33.15874835007486,34.95489200636905],[33.15769621331879,34.95516258539595],[33.15741425766583,34.95429712622195],[33.1489970179814,34.95646129765424],[33.14927888814134,34.95732678654986],[33.15033107625823,34.95705630331548],[33.15061296685707,34.95792178592927],[33.15376952475197,34.95711025323396],[33.15405145716591,34.95797572213496],[33.15615581836818,34.95743463303575],[33.15700173825576,34.96003100203819],[33.16015832808029,34.95921924513829]]],"type":"Polygon"}
+}

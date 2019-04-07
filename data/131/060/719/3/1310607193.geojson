@@ -1,0 +1,98 @@
+{
+  "id": 1310607193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.87701,35.11539,32.87701,35.11539",
+    "geom:latitude":35.11539,
+    "geom:longitude":32.87701,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Kalo Chorio",
+    "gn:country_code":"CY",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":146571,
+    "gn:latitude":35.11539,
+    "gn:longitude":32.87701,
+    "gn:modification_date":"2014-01-09",
+    "gn:name":"Kal\u00f3 Chori\u00f3",
+    "gn:population":0,
+    "gn:timezone":"Asia/Nicosia",
+    "iso:country":"CY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Kal\u00f3 Chori\u00f3"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03b1\u03bb\u03cc \u03a7\u03c9\u03c1\u03b9\u03cc"
+    ],
+    "name:und_x_variant":[
+        "Lefkas",
+        "Kalohoryo",
+        "Kalokhorio Lefkas",
+        "\u0130yik\u00f6y",
+        "\u00c7aml\u0131k\u00f6y",
+        "Kalo Khoria",
+        "Kalon Chorion",
+        "Kalokhorio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85681187,
+        85632375,
+        85682397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":146571,
+        "wk:page":"Kalo_Chorio_%28%C3%87aml%C4%B1k%C3%B6y%29"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"24afa66ff75754bc64b16ef1798f2f9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "disputed_id":85632375,
+            "locality_id":1310607193,
+            "region_id":85681187
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632375,
+            "disputed_id":85632375,
+            "locality_id":1310607193,
+            "region_id":85681187
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":1310607193,
+            "region_id":85682397
+        }
+    ],
+    "wof:id":1310607193,
+    "wof:lastmodified":1537619246,
+    "wof:name":"Kalo Chorio",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.87701,
+    35.11539,
+    32.87701,
+    35.11539
+],
+  "geometry": {"coordinates":[32.87701,35.11539],"type":"Point"}
+}

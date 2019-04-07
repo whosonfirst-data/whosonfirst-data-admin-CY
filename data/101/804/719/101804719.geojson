@@ -1,0 +1,137 @@
+{
+  "id": 101804719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000052,
+    "geom:area_square_m":530082.210532,
+    "geom:bbox":"32.9289565846,34.9123841633,32.939973377,34.922057623",
+    "geom:latitude":34.91733,
+    "geom:longitude":32.935006,
+    "gn:population":229,
+    "iso:country":"CY",
+    "lbl:latitude":34.916514,
+    "lbl:longitude":32.93584,
+    "mps:latitude":34.916514,
+    "mps:longitude":32.93584,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u0531\u0574\u056b\u0561\u0576\u057f\u0578\u057d"
+    ],
+    "name:bul_x_preferred":[
+        "\u0410\u043c\u0438\u0430\u043d\u0434\u043e\u0441"
+    ],
+    "name:ceb_x_preferred":[
+        "K\u00e1to Am\u00edantos"
+    ],
+    "name:dut_x_preferred":[
+        "Kato Amiantos"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bc\u03af\u03b1\u03bd\u03c4\u03bf\u03c2 \u039b\u03b5\u03bc\u03b5\u03c3\u03bf\u03cd"
+    ],
+    "name:ell_x_variant":[
+        "K\u00e1to Am\u00edantos",
+        "\u039a\u03ac\u03c4\u03c9 \u0391\u03bc\u03af\u03b1\u03bd\u03c4\u03bf\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Kato Amiandos"
+    ],
+    "name:eng_x_variant":[
+        "Amiandos",
+        "Amiantos Kato",
+        "Amiantos"
+    ],
+    "name:gre_x_preferred":[
+        "\u0391\u03bc\u03af\u03b1\u03bd\u03c4\u03bf\u03c2"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u0574\u056b\u0561\u0576\u057f\u0578\u057d"
+    ],
+    "name:pol_x_preferred":[
+        "Kato Amiandos"
+    ],
+    "name:swe_x_preferred":[
+        "K\u00e1to Am\u00edantos"
+    ],
+    "name:und_x_colloquial":[
+        "Asaki Amyanto"
+    ],
+    "name:und_x_variant":[
+        "A\u015fak\u0327i Amyanto"
+    ],
+    "name:unk_x_variant":[
+        "Amiandos"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u039b\u03b5\u03bc\u03b5\u03c3\u03cc\u03c2",
+    "qs:a1_alt":"Lemesos",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:la":"\u03a0\u03ac\u03bd\u03c9 \u0391\u03bc\u03af\u03b1\u03bd\u03c4\u03bf\u03c2",
+    "qs:la_lc":"*CY5353",
+    "qs:level":"locality",
+    "qs:loc":"\u0391\u03bc\u03af\u03b1\u03bd\u03c4\u03bf\u03c2",
+    "qs:loc_alt":"Amiantos",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":34.916944,
+    "wd:longitude":32.935833,
+    "wd:wordcount":34,
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06ef24ac-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":146532,
+        "gp:id":841340,
+        "qs:id":405523,
+        "qs_pg:id":405523,
+        "wd:id":"Q6377735",
+        "wk:page":"Amiantos"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"6071a7a42428e8f0829f73e7763ae6e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":101804719,
+            "region_id":85682411
+        }
+    ],
+    "wof:id":101804719,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527642757,
+    "wof:name":"\u0391\u03bc\u03af\u03b1\u03bd\u03c4\u03bf\u03c2",
+    "wof:parent_id":85682411,
+    "wof:placetype":"locality",
+    "wof:population":229,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.92895658460918,
+    34.91238416325479,
+    32.93997337697982,
+    34.92205762296362
+],
+  "geometry": {"coordinates":[[[32.93161914581782,34.92205762296362],[32.93688061198191,34.92071772078293],[32.93632253165009,34.91898494324869],[32.93947927076272,34.91818088023535],[32.93892116475524,34.91644811460856],[32.93997337697982,34.91618007700134],[32.93941528817015,34.91444730856023],[32.93836309737821,34.91471533880713],[32.93808407817528,34.91384894709091],[32.93703189174488,34.91411696167705],[32.93647390373917,34.91238416325479],[32.93226518020845,34.91345607235314],[32.93338102337225,34.91692171789401],[32.93232878373499,34.91718967993216],[32.93260775794562,34.91805608863928],[32.93155550123561,34.91832404237454],[32.93183447438275,34.91919045221817],[32.93078220059874,34.91945839765077],[32.93106117268223,34.92032480863105],[32.92895658460918,34.92086067090736],[32.92923554490778,34.92172708670375],[32.9313401544216,34.92119121706867],[32.93161914581782,34.92205762296362]]],"type":"Polygon"}
+}

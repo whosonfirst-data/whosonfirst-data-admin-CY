@@ -1,0 +1,76 @@
+{
+  "id": 1209814521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.81893,34.71059,32.81893,34.71059",
+    "geom:latitude":34.71059,
+    "geom:longitude":32.81893,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Sterakovou",
+    "gn:country_code":"CY",
+    "gn:dem":279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":5833,
+    "gn:latitude":34.71059,
+    "gn:longitude":32.81893,
+    "gn:modification_date":"2014-03-05",
+    "gn:name":"Sterak\u00f3vou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Nicosia",
+    "iso:country":"CY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ell_x_preferred":[
+        "Sterak\u00f3vou"
+    ],
+    "name:ell_x_variant":[
+        "\u03a3\u03c4\u03b5\u03c1\u03b1\u03ba\u03cc\u03b2\u03bf\u03c5"
+    ],
+    "name:und_x_variant":[
+        "Sterakova",
+        "Sterakovu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":5833,
+        "wk:page":"Sterakovou"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"19ea4cf7d016ac9b1cc60b5545992fb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":1209814521,
+            "region_id":85682411
+        }
+    ],
+    "wof:id":1209814521,
+    "wof:lastmodified":1537619240,
+    "wof:name":"Sterakovou",
+    "wof:parent_id":85682411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.81893,
+    34.71059,
+    32.81893,
+    34.71059
+],
+  "geometry": {"coordinates":[32.81893,34.71059],"type":"Point"}
+}

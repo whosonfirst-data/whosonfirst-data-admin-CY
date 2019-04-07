@@ -1,0 +1,138 @@
+{
+  "id": 101803547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000091,
+    "geom:area_square_m":920161.49329,
+    "geom:bbox":"33.5731726545,34.8247283943,33.5889126106,34.8376881455",
+    "geom:latitude":34.830715,
+    "geom:longitude":33.580805,
+    "gn:population":1876,
+    "iso:country":"CY",
+    "lbl:latitude":34.830375,
+    "lbl:longitude":33.58015,
+    "mps:latitude":34.830375,
+    "mps:longitude":33.58015,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u054a\u0565\u0580\u057e\u0578\u056c\u056b\u0561"
+    ],
+    "name:bul_x_preferred":[
+        "\u041f\u0435\u0440\u0432\u043e\u043b\u0438\u044f"
+    ],
+    "name:ceb_x_preferred":[
+        "Periv\u00f3lia"
+    ],
+    "name:dut_x_preferred":[
+        "Perivolia"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b5\u03c1\u03b2\u03cc\u03bb\u03b9\u03b1 \u039b\u03ac\u03c1\u03bd\u03b1\u03ba\u03b1\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "Periv\u00f3lia",
+        "\u03a0\u03b5\u03c1\u03b9\u03b2\u03cc\u03bb\u03b9\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Perivolia"
+    ],
+    "name:eng_x_variant":[
+        "Bervolya",
+        "Perivolia Larnakas"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a0\u03b5\u03c1\u03b2\u03cc\u03bb\u03b9\u03b1 \u039b\u03ac\u03c1\u03bd\u03b1\u03ba\u03b1\u03c2"
+    ],
+    "name:hye_x_preferred":[
+        "\u054a\u0565\u0580\u057e\u0578\u056c\u056b\u0561"
+    ],
+    "name:nno_x_preferred":[
+        "Periv\u00f3lia i L\u00e1rnaka"
+    ],
+    "name:pol_x_preferred":[
+        "Periwolia"
+    ],
+    "name:swe_x_preferred":[
+        "Periv\u00f3lia"
+    ],
+    "name:und_x_colloquial":[
+        "Bahcalar"
+    ],
+    "name:und_x_variant":[
+        "Bah\u00e7alar"
+    ],
+    "name:unk_x_variant":[
+        "Bah\u00e7alar"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u039b\u03ac\u03c1\u03bd\u03b1\u03ba\u03b1",
+    "qs:a1_alt":"Larnaka",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:la":"\u039a\u03af\u03c4\u03b9",
+    "qs:la_lc":"*CY4110",
+    "qs:level":"locality",
+    "qs:loc":"\u03a0\u03b5\u03c1\u03b9\u03b2\u03cc\u03bb\u03b9\u03b1",
+    "qs:loc_alt":"Perivolia",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":34.830833,
+    "wd:longitude":33.578333,
+    "wd:wordcount":234,
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06ef55d0-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":146183,
+        "gp:id":841611,
+        "qs:id":1273502,
+        "qs_pg:id":1273502,
+        "wd:id":"Q7168940"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"4bb3efa30a0ff781a29b85f8c9b76de0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":101803547,
+            "region_id":85682407
+        }
+    ],
+    "wof:id":101803547,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527642770,
+    "wof:name":"\u03a0\u03b5\u03c1\u03b9\u03b2\u03cc\u03bb\u03b9\u03b1",
+    "wof:parent_id":85682407,
+    "wof:placetype":"locality",
+    "wof:population":1876,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.57317265452662,
+    34.82472839428294,
+    33.58891261063275,
+    34.83768814548671
+],
+  "geometry": {"coordinates":[[[33.58204413790565,34.83741275658889],[33.58175795111458,34.83654879527984],[33.58595559713649,34.83544713548531],[33.58509696945356,34.83285528101703],[33.58404759930352,34.83313070255952],[33.58318909205531,34.83053881321155],[33.58633708817933,34.82971254669161],[33.58605090720744,34.82884858962876],[33.58710021574063,34.82857314737009],[33.58681403409571,34.82770919145116],[33.58891261063275,34.82715827868969],[33.58862641777631,34.82629432767942],[33.5875771432884,34.82656978625749],[33.58729097083716,34.8257058288612],[33.58624170040468,34.82598127175032],[33.58652786231698,34.82684523291107],[33.58337998050524,34.82767150132457],[33.58280772978196,34.82594355379609],[33.57965985286887,34.82676969230232],[33.57937377392398,34.82590570331598],[33.57832447919714,34.82618105520481],[33.5780384206555,34.82531705983519],[33.57698912998836,34.8255923960358],[33.57670309184937,34.82472839428294],[33.57565380524261,34.82500371479568],[33.57593983284085,34.82586772031152],[33.57489052921323,34.826143032662],[33.57517655613162,34.82700703932113],[33.57622587030107,34.82673172320756],[33.57708404185553,34.82932371617733],[33.57393598502659,34.83014966261055],[33.57422203030916,34.83101366631792],[33.57317265452662,34.83128896170723],[33.57345869912871,34.83215296655834],[33.57555746529948,34.83160235632715],[33.57584354085242,34.83246635103228],[33.57689292475806,34.83219102426398],[33.5771790207192,34.83305501258553],[33.57822840868596,34.83277967012737],[33.57965908919317,34.837099553619],[33.58070852339654,34.83682418041263],[33.58099469964282,34.83768814548671],[33.58204413790565,34.83741275658889]]],"type":"Polygon"}
+}

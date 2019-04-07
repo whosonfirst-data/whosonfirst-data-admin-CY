@@ -1,0 +1,133 @@
+{
+  "id": 101850153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.40077,34.942559,32.40077,34.942559",
+    "geom:latitude":34.942559,
+    "geom:longitude":32.40077,
+    "iso:country":"CY",
+    "lbl:latitude":34.942559,
+    "lbl:longitude":32.40077,
+    "mps:latitude":34.942559,
+    "mps:longitude":32.40077,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u0531\u0580\u0578\u0564\u0565\u057d"
+    ],
+    "name:bul_x_preferred":[
+        "\u0410\u0440\u043e\u0434\u0435\u0441"
+    ],
+    "name:ceb_x_preferred":[
+        "K\u00e1to Ar\u00f3des"
+    ],
+    "name:dut_x_preferred":[
+        "Arodhes"
+    ],
+    "name:ell_x_preferred":[
+        "K\u00e1to Ar\u00f3des"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03ac\u03c4\u03c9 \u0391\u03c1\u03cc\u03b4\u03b5\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Kato Arodhes"
+    ],
+    "name:eng_x_variant":[
+        "Arodes Kayo",
+        "Arodhes",
+        "Arodhes Kato"
+    ],
+    "name:gre_x_preferred":[
+        "\u0391\u03c1\u03cc\u03b4\u03b5\u03c2"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u0580\u0578\u0564\u0565\u057d"
+    ],
+    "name:pol_x_preferred":[
+        "Arodes"
+    ],
+    "name:swe_x_preferred":[
+        "Ar\u00f3des"
+    ],
+    "name:und_x_colloquial":[
+        "Asaki Arodes",
+        "Asaki Arodez",
+        "Asaki Kalkanli"
+    ],
+    "name:und_x_variant":[
+        "A\u015fak\u0327i Arodes",
+        "A\u015fak\u0327i Arodez",
+        "A\u015fak\u0327i Kalkanli"
+    ],
+    "name:unk_x_variant":[
+        "Kato Arodesd"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u03a0\u03ac\u03c6\u03bf\u03c2",
+    "qs:a1_alt":"Pafos",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u039a\u03ac\u03c4\u03c9 \u0391\u03c1\u03cc\u03b4\u03b5\u03c2",
+    "qs:loc_alt":"Kato Arodes",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":451,
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06ef2510-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":146530,
+        "gp:id":841342,
+        "qs:id":9,
+        "wd:id":"Q4795469",
+        "wk:page":"Arodes"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"ed878d10bdec95037e133db1eeeea9fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":101850153,
+            "region_id":85682401
+        }
+    ],
+    "wof:id":101850153,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1544741284,
+    "wof:name":"\u039a\u03ac\u03c4\u03c9 \u0391\u03c1\u03cc\u03b4\u03b5\u03c2",
+    "wof:parent_id":85682401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.40077,
+    34.942559,
+    32.40077,
+    34.942559
+],
+  "geometry": {"coordinates":[32.40077,34.942559],"type":"Point"}
+}

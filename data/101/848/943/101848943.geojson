@@ -1,0 +1,126 @@
+{
+  "id": 101848943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.678131,34.750854,32.678131,34.750854",
+    "geom:latitude":34.750854,
+    "geom:longitude":32.678131,
+    "gn:population":44,
+    "iso:country":"CY",
+    "lbl:latitude":34.750854,
+    "lbl:longitude":32.678131,
+    "mps:latitude":34.750854,
+    "mps:longitude":32.678131,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u0531\u0580\u056d\u056b\u0574\u0561\u0576\u0564\u0580\u056b\u057f\u0561"
+    ],
+    "name:bul_x_preferred":[
+        "\u0410\u0440\u0445\u0438\u043c\u0430\u043d\u0434\u0440\u0438\u0442\u0430"
+    ],
+    "name:dut_x_preferred":[
+        "Arkhimandrita"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03c1\u03c7\u03b9\u03bc\u03b1\u03bd\u03b4\u03c1\u03af\u03c4\u03b1 \u03a0\u03ac\u03c6\u03bf\u03c5"
+    ],
+    "name:ell_x_variant":[
+        "P\u00e1no Archimandr\u00edta",
+        "\u03a0\u03ac\u03bd\u03c9 \u0391\u03c1\u03c7\u03b9\u03bc\u03b1\u03bd\u03b4\u03c1\u03af\u03c4\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Pano Arkhimandrita"
+    ],
+    "name:eng_x_variant":[
+        "Archimandrita Pano",
+        "Arkhimandrita",
+        "Yukari Arhimandrita"
+    ],
+    "name:gre_x_preferred":[
+        "\u0391\u03c1\u03c7\u03b9\u03bc\u03b1\u03bd\u03b4\u03c1\u03af\u03c4\u03b1"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u0580\u056d\u056b\u0574\u0561\u0576\u0564\u0580\u056b\u057f\u0561"
+    ],
+    "name:pol_x_preferred":[
+        "Archimandrita"
+    ],
+    "name:unk_x_variant":[
+        "Yukar\u0131 Arhimandrita"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u03a0\u03ac\u03c6\u03bf\u03c2",
+    "qs:a1_alt":"Pafos",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u03a0\u03ac\u03bd\u03c9 \u0391\u03c1\u03c7\u03b9\u03bc\u03b1\u03bd\u03b4\u03c1\u03af\u03c4\u03b1",
+    "qs:loc_alt":"Pano Archimandrita",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":34.750833,
+    "wd:longitude":32.6775,
+    "wd:wordcount":20,
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06ef4efa-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":146227,
+        "gp:id":841575,
+        "qs:id":405574,
+        "qs_pg:id":405574,
+        "wd:id":"Q4791988",
+        "wk:page":"Archimandrita"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"c04b3ac0d46b8e4690fec1f93e741c6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":101848943,
+            "region_id":85682401
+        }
+    ],
+    "wof:id":101848943,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1544740707,
+    "wof:name":"\u03a0\u03ac\u03bd\u03c9 \u0391\u03c1\u03c7\u03b9\u03bc\u03b1\u03bd\u03b4\u03c1\u03af\u03c4\u03b1",
+    "wof:parent_id":85682401,
+    "wof:placetype":"locality",
+    "wof:population":44,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.678131,
+    34.750854,
+    32.678131,
+    34.750854
+],
+  "geometry": {"coordinates":[32.678131,34.750854],"type":"Point"}
+}

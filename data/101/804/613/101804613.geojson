@@ -1,0 +1,125 @@
+{
+  "id": 101804613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000027,
+    "geom:area_square_m":270038.759965,
+    "geom:bbox":"32.4219900528,34.9622542588,32.4283540556,34.9702491558",
+    "geom:latitude":34.966276,
+    "geom:longitude":32.424758,
+    "iso:country":"CY",
+    "lbl:latitude":34.966236,
+    "lbl:longitude":32.424709,
+    "mps:latitude":34.966236,
+    "mps:longitude":32.424709,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u054f\u0565\u0580\u0561"
+    ],
+    "name:bul_x_preferred":[
+        "\u0422\u0435\u0440\u0430"
+    ],
+    "name:deu_x_preferred":[
+        "Terra"
+    ],
+    "name:ell_x_preferred":[
+        "T\u00e9ra"
+    ],
+    "name:ell_x_variant":[
+        "\u03a4\u03ad\u03c1\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Terra"
+    ],
+    "name:eng_x_variant":[
+        "Tera"
+    ],
+    "name:ger_x_preferred":[
+        "Tera"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a4\u03ad\u03c1\u03c1\u03b1"
+    ],
+    "name:hye_x_preferred":[
+        "\u054f\u0565\u0580\u0561"
+    ],
+    "name:pol_x_preferred":[
+        "Tera"
+    ],
+    "name:und_x_colloquial":[
+        "Cakirlar"
+    ],
+    "name:und_x_variant":[
+        "\u00c7akirlar"
+    ],
+    "name:unk_x_variant":[
+        "\u00c7ak\u0131rlar"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u03a0\u03ac\u03c6\u03bf\u03c2",
+    "qs:a1_alt":"Pafos",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:la":"\u03a4\u03ad\u03c1\u03b1",
+    "qs:la_lc":"*CY6335",
+    "qs:level":"locality",
+    "qs:loc":"\u03a4\u03ad\u03c1\u03b1",
+    "qs:loc_alt":"Tera",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":86,
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06ef6994-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":146041,
+        "gp:id":841722,
+        "qs:id":988635,
+        "qs_pg:id":988635,
+        "wd:id":"Q1307574",
+        "wk:page":"Terra, Cyprus"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"aca3de688f92ad494053c2f1cd2596ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":101804613,
+            "region_id":85682401
+        }
+    ],
+    "wof:id":101804613,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527642753,
+    "wof:name":"\u03a4\u03ad\u03c1\u03b1",
+    "wof:parent_id":85682401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.42199005278621,
+    34.96225425881829,
+    32.4283540555943,
+    34.97024915581926
+],
+  "geometry": {"coordinates":[[[32.4283540555943,34.96720185040363],[32.42808080351949,34.96633356726988],[32.42702657318944,34.96659572980332],[32.42566050928406,34.96225425881829],[32.42355213835094,34.96277851171806],[32.4238253104769,34.96364681810292],[32.42277110479756,34.96390893012978],[32.42304427555717,34.96477723764042],[32.42199005278621,34.96503934125462],[32.42362921136413,34.97024915581926],[32.42573778083784,34.96972489324742],[32.425464542339,34.96885660425011],[32.42651880685736,34.96859445854034],[32.42624556699354,34.96772617066961],[32.4283540555943,34.96720185040363]]],"type":"Polygon"}
+}

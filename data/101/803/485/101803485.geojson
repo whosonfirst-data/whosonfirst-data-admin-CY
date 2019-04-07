@@ -1,0 +1,141 @@
+{
+  "id": 101803485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000078,
+    "geom:area_square_m":790088.796873,
+    "geom:bbox":"33.557581362,35.1051526214,33.5704162103,35.1221109969",
+    "geom:latitude":35.112791,
+    "geom:longitude":33.565239,
+    "iso:country":"CY",
+    "lbl:latitude":35.111671,
+    "lbl:longitude":33.565774,
+    "mps:latitude":35.111671,
+    "mps:longitude":33.565774,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u0531\u0575\u056b\u0561"
+    ],
+    "name:dut_x_preferred":[
+        "Agia"
+    ],
+    "name:ell_x_preferred":[
+        "Agi\u00e1"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03b3\u03b9\u03ac"
+    ],
+    "name:eng_x_preferred":[
+        "Ayia Kebir"
+    ],
+    "name:eng_x_variant":[
+        "Agia",
+        "Ayakebir",
+        "Dilekkaya"
+    ],
+    "name:ger_x_preferred":[
+        "Dilekkaya"
+    ],
+    "name:gre_x_preferred":[
+        "\u0391\u03b3\u03b9\u03ac"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u06af\u06cc\u0627\u060c \u0633\u06cc\u067e\u0631\u0627\u0633"
+    ],
+    "name:pol_x_preferred":[
+        "Ajia"
+    ],
+    "name:por_x_preferred":[
+        "Agia"
+    ],
+    "name:tur_x_preferred":[
+        "Dilekkaya"
+    ],
+    "name:und_x_preferred":[
+        "Ayia"
+    ],
+    "name:unk_x_variant":[
+        "Ayia Kebir"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u06af\u06cc\u0627\u060c \u0642\u0628\u0631\u0635"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u039b\u03b5\u03c5\u03ba\u03c9\u03c3\u03af\u03b1",
+    "qs:a1_alt":"Lefkosia",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:la":"\u0391\u03b3\u03b9\u03ac (A\u03b3\u03af\u03b1 \u039a\u03b5\u03c0\u03ae\u03c1)",
+    "qs:la_lc":"*CY1124",
+    "qs:level":"locality",
+    "qs:loc":"\u0391\u03b3\u03b9\u03ac",
+    "qs:loc_alt":"Agia",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682397,
+        85681187,
+        85632375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06ef077e-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":146758,
+        "gp:id":841170,
+        "qs:id":1273401,
+        "wd:id":"Q957516"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"174b6c8a2a3c617d4727ba76262d8676",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":101803485,
+            "region_id":85682397
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "disputed_id":85632375,
+            "locality_id":101803485,
+            "region_id":85681187
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632375,
+            "disputed_id":85632375,
+            "locality_id":101803485,
+            "region_id":85681187
+        }
+    ],
+    "wof:id":101803485,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1513944677,
+    "wof:name":"\u0391\u03b3\u03b9\u03ac",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.5575813620141,
+    35.10515262143099,
+    33.57041621028577,
+    35.12211099685192
+],
+  "geometry": {"coordinates":[[[33.5690849187551,35.12156021809972],[33.56793235655863,35.11810606559629],[33.56898552988889,35.11783067342731],[33.56869740359537,35.11696713256185],[33.56975055969212,35.11669173221117],[33.56831002440765,35.11237400765231],[33.57041621028577,35.11182320894784],[33.57012811180562,35.11095966378059],[33.56907503281093,35.11123506532766],[33.568210829132,35.1086444027747],[33.56610471538602,35.10919514720575],[33.56581668873673,35.1083315802145],[33.5647636326695,35.10860693068105],[33.56361166832016,35.10515262143099],[33.56255864831917,35.1054279447651],[33.56313458925553,35.10715511219462],[33.55997542590171,35.10798103310248],[33.55968748243049,35.10711743932444],[33.5575813620141,35.10766798582176],[33.55815721627619,35.10939518592346],[33.56026337933258,35.1088446242685],[33.56170329589884,35.113162540921],[33.56275642087945,35.11288722318369],[33.56304444473915,35.11375079488812],[33.56409757381198,35.11347546138705],[33.5661140944556,35.11952036364119],[33.56506089074736,35.11979572368034],[33.56534899432341,35.12065927448793],[33.56640220869531,35.12038391065715],[33.56697846707499,35.12211099685192],[33.5690849187551,35.12156021809972]]],"type":"Polygon"}
+}

@@ -1,0 +1,125 @@
+{
+  "id": 1125945227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.15833,34.81667,33.15833,34.81667",
+    "geom:latitude":34.81667,
+    "geom:longitude":33.15833,
+    "gn:gn_country":"CY",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":282,
+    "gn:population":282,
+    "iso:country":"CY",
+    "lbl:latitude":34.81667,
+    "lbl:longitude":33.15833,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arm_x_preferred":[
+        "\u053f\u0565\u056c\u0561\u056f\u056b"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u0435\u043b\u0430\u043a\u0438"
+    ],
+    "name:cze_x_preferred":[
+        "Kellaki"
+    ],
+    "name:dut_x_preferred":[
+        "Kellaki"
+    ],
+    "name:ell_x_preferred":[
+        "Kell\u00e1ki"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03b5\u03bb\u03bb\u03ac\u03ba\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Kellaki"
+    ],
+    "name:gre_x_preferred":[
+        "\u039a\u03b5\u03bb\u03bb\u03ac\u03ba\u03b9"
+    ],
+    "name:pol_x_preferred":[
+        "Kielaki"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0435\u043b\u043b\u0430\u043a\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Kell\u00e1ki"
+    ],
+    "name:unk_x_variant":[
+        "Cellaci"
+    ],
+    "qs_pg:aaroncc":"CY",
+    "qs_pg:gn_country":"CY",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":146507,
+    "qs_pg:gn_pop":282,
+    "qs_pg:name":"Kellaki",
+    "qs_pg:name_adm0":"Cyprus",
+    "qs_pg:name_adm1":"Limassol District",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":4,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":184447,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":26812346,
+    "qs_pg:woe_id":841366,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":26812346,
+    "woe:name_adm0":"Cyprus",
+    "woe:name_adm1":"Limassol District",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":146507,
+        "gp:id":841366,
+        "qs_pg:id":184447,
+        "wd:id":"Q6385632"
+    },
+    "wof:country":"CY",
+    "wof:created":1497297257,
+    "wof:geomhash":"ca6566afa7214dedf94d526076b61ea3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":1125945227,
+            "region_id":85682411
+        }
+    ],
+    "wof:id":1125945227,
+    "wof:lastmodified":1553816649,
+    "wof:name":"Kellaki",
+    "wof:parent_id":85682411,
+    "wof:placetype":"locality",
+    "wof:population":282,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.15833,
+    34.81667,
+    33.15833,
+    34.81667
+],
+  "geometry": {"coordinates":[33.15833,34.81667],"type":"Point"}
+}

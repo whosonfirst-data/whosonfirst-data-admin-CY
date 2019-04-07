@@ -1,0 +1,125 @@
+{
+  "id": 101804621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00003,
+    "geom:area_square_m":300039.421244,
+    "geom:bbox":"32.4710716349,35.0255680786,32.4805661145,35.0320101141",
+    "geom:latitude":35.028353,
+    "geom:longitude":32.475578,
+    "gn:population":51,
+    "iso:country":"CY",
+    "lbl:latitude":35.027998,
+    "lbl:longitude":32.475506,
+    "mps:latitude":35.027998,
+    "mps:longitude":32.475506,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u054a\u0565\u056c\u0561\u0569\u0578\u0582\u057d\u0561"
+    ],
+    "name:bul_x_preferred":[
+        "\u041f\u0435\u043b\u0430\u0442\u0443\u0441\u0430"
+    ],
+    "name:dut_x_preferred":[
+        "Pelathousa"
+    ],
+    "name:ell_x_preferred":[
+        "Pelatho\u00fasa"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03b5\u03bb\u03b1\u03b8\u03bf\u03cd\u03c3\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Pelathousa"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a0\u03b5\u03bb\u03b1\u03b8\u03bf\u03cd\u03c3\u03b1"
+    ],
+    "name:hye_x_preferred":[
+        "\u054a\u0565\u056c\u0561\u0569\u0578\u0582\u057d\u0561"
+    ],
+    "name:pol_x_preferred":[
+        "Pelatusa"
+    ],
+    "name:und_x_colloquial":[
+        "Karaakac",
+        "Pelatusa"
+    ],
+    "name:und_x_variant":[
+        "Karaak\u0327a\u00e7",
+        "Pel\u00e2tusa"
+    ],
+    "name:unk_x_variant":[
+        "Karaa\u011fa\u00e7"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u03a0\u03ac\u03c6\u03bf\u03c2",
+    "qs:a1_alt":"Pafos",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:la":"\u03a0\u03b5\u03bb\u03b1\u03b8\u03bf\u03cd\u03c3\u03b1",
+    "qs:la_lc":"*CY6360",
+    "qs:level":"locality",
+    "qs:loc":"\u03a0\u03b5\u03bb\u03b1\u03b8\u03bf\u03cd\u03c3\u03b1",
+    "qs:loc_alt":"Pelathousa",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":21,
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06ef535a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":146199,
+        "gp:id":841597,
+        "qs:id":940337,
+        "qs_pg:id":940337,
+        "wd:id":"Q7161212",
+        "wk:page":"Pelathousa"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"a2b8dc3d5c4b466ca76593efb8544553",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":101804621,
+            "region_id":85682401
+        }
+    ],
+    "wof:id":101804621,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527642745,
+    "wof:name":"\u03a0\u03b5\u03bb\u03b1\u03b8\u03bf\u03cd\u03c3\u03b1",
+    "wof:parent_id":85682401,
+    "wof:placetype":"locality",
+    "wof:population":51,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.47107163493092,
+    35.02556807862021,
+    32.48056611451511,
+    35.03201011414211
+],
+  "geometry": {"coordinates":[[[32.47478505150264,35.031484654682],[32.47451077996755,35.03061665612222],[32.47556573928534,35.03035391197062],[32.47529146641034,35.02948591454663],[32.48056611451511,35.0281720314627],[32.47974319010046,35.02556807862021],[32.47552361451267,35.0266191656591],[32.47524936886674,35.02575116190616],[32.47313956513665,35.02627662600344],[32.47341378905844,35.02714463700306],[32.47235886691681,35.02740735463084],[32.47290732159991,35.02914337641278],[32.47185237145538,35.02940608925735],[32.47212660221635,35.03027410003989],[32.47107163493092,35.03053680447744],[32.47134586434981,35.03140481639582],[32.47240084249961,35.03114210833496],[32.4726750923063,35.03201011414211],[32.47478505150264,35.031484654682]]],"type":"Polygon"}
+}

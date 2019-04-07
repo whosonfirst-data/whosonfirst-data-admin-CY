@@ -1,0 +1,80 @@
+{
+  "id": 101837449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000035,
+    "geom:bbox":"32.5223347495,34.9138326561,32.5345384979,34.919485031",
+    "geom:latitude":34.91708,
+    "geom:longitude":32.528439,
+    "iso:country":"CY",
+    "lbl:latitude":34.916602,
+    "lbl:longitude":32.528023,
+    "mps:latitude":34.916602,
+    "mps:longitude":32.528023,
+    "mz:hierarchy_label":1,
+    "name:ell_x_preferred":[
+        "Thrini\u00e1"
+    ],
+    "name:ell_x_variant":[
+        "\u0398\u03c1\u03b9\u03bd\u03b9\u03ac"
+    ],
+    "name:unk_x_variant":[
+        "Drynia"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u03a0\u03ac\u03c6\u03bf\u03c2",
+    "qs:a1_alt":"Pafos",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:la":"\u039b\u03ac\u03c3\u03b1",
+    "qs:la_lc":"*CY6307",
+    "qs:level":"locality",
+    "qs:loc":"\u0398\u03c1\u03af\u03bd\u03b9\u03b1",
+    "qs:loc_alt":"Thrinia",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":146655,
+        "gp:id":841519,
+        "qs:id":3
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"7b023abd6cb98c777e925b6b0e9229f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":101837449,
+            "region_id":85682401
+        }
+    ],
+    "wof:id":101837449,
+    "wof:lastmodified":1501212532,
+    "wof:name":"\u0398\u03c1\u03af\u03bd\u03b9\u03b1",
+    "wof:parent_id":85682401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.52233474951083,
+    34.91383265608073,
+    32.53453849790117,
+    34.91948503100548
+],
+  "geometry": {"coordinates":[[[32.52233474951083,34.91849151488861],[32.52585374334706,34.91948503100548],[32.53005107157605,34.91843585317145],[32.53032521087255,34.91930382365678],[32.53453849790117,34.91825043588085],[32.53426431538639,34.9173824798799],[32.53321101381954,34.9176458412141],[32.53293685161464,34.91677787909447],[32.53188355459451,34.91704122480007],[32.53133528030668,34.91530528582723],[32.53028199863786,34.91556861228389],[32.52973378397365,34.91383265608073],[32.52552068117365,34.91488581287308],[32.525794740538,34.91575380670366],[32.52474143839652,34.91601706950314],[32.52501549645774,34.91688506445712],[32.52396217725573,34.91714831886878],[32.52423623401364,34.91801631494616],[32.52233474951083,34.91849151488861]]],"type":"Polygon"}
+}

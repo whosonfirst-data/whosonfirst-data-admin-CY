@@ -1,0 +1,117 @@
+{
+  "id": 101803413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000049,
+    "geom:area_square_m":500067.308064,
+    "geom:bbox":"33.1208173574,35.0379195516,33.1343043896,35.045328896",
+    "geom:latitude":35.041808,
+    "geom:longitude":33.127456,
+    "gn:population":742,
+    "iso:country":"CY",
+    "lbl:latitude":35.042121,
+    "lbl:longitude":33.125873,
+    "mps:latitude":35.042121,
+    "mps:longitude":33.125873,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Mitser\u00f3"
+    ],
+    "name:dut_x_preferred":[
+        "Mitsero"
+    ],
+    "name:ell_x_preferred":[
+        "Mitser\u00f3"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03b9\u03c4\u03c3\u03b5\u03c1\u03cc"
+    ],
+    "name:eng_x_preferred":[
+        "Mitsero"
+    ],
+    "name:gre_x_preferred":[
+        "\u039c\u03b9\u03c4\u03c3\u03b5\u03c1\u03cc"
+    ],
+    "name:pol_x_preferred":[
+        "Mitsero"
+    ],
+    "name:swe_x_preferred":[
+        "Mitser\u00f3"
+    ],
+    "name:tur_x_preferred":[
+        "M\u0131tsero"
+    ],
+    "name:unk_x_variant":[
+        "Mitseron"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u039b\u03b5\u03c5\u03ba\u03c9\u03c3\u03af\u03b1",
+    "qs:a1_alt":"Lefkosia",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:la":"\u039c\u03b9\u03c4\u03c3\u03b5\u03c1\u03cc",
+    "qs:la_lc":"*CY1213",
+    "qs:level":"locality",
+    "qs:loc":"\u039c\u03b9\u03c4\u03c3\u03b5\u03c1\u03cc",
+    "qs:loc_alt":"Mitsero",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":29,
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06ef4496-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":146296,
+        "gp:id":841522,
+        "qs:id":940326,
+        "qs_pg:id":940326,
+        "wd:id":"Q6882951",
+        "wk:page":"Mitsero"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"8092dbe11cf0182fe17d0fb0690e8b90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":101803413,
+            "region_id":85682397
+        }
+    ],
+    "wof:id":101803413,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527642761,
+    "wof:name":"\u039c\u03b9\u03c4\u03c3\u03b5\u03c1\u03cc",
+    "wof:parent_id":85682397,
+    "wof:placetype":"locality",
+    "wof:population":742,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.1208173573782,
+    35.03791955161711,
+    33.13430438961427,
+    35.04532889598147
+],
+  "geometry": {"coordinates":[[[33.12538851847529,35.04505865250889],[33.12510629159289,35.0441932157305],[33.12826648679317,35.04338242452991],[33.12854874586264,35.04424785014749],[33.13276229219349,35.04316661246816],[33.13247999021348,35.04230120173366],[33.1335333499635,35.0420308660598],[33.13325104703262,35.0411654564831],[33.13430438961427,35.04089511254062],[33.13373979162691,35.03916429313909],[33.12847312156543,35.04051585574848],[33.12762645878161,35.03791955161711],[33.12551981003389,35.03846007041466],[33.12608419920946,35.04019095727733],[33.1208173573782,35.04154208164505],[33.12166385350508,35.04413844851609],[33.12271726693837,35.04386823646462],[33.12299946258815,35.04473368324494],[33.12405288031096,35.04446345548303],[33.12433509646382,35.04532889598147],[33.12538851847529,35.04505865250889]]],"type":"Polygon"}
+}

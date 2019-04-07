@@ -1,0 +1,124 @@
+{
+  "id": 101846009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000048,
+    "geom:area_square_m":490055.62493,
+    "geom:bbox":"32.6520341895,35.1630710694,32.6621494531,35.1730663674",
+    "geom:latitude":35.167585,
+    "geom:longitude":32.657797,
+    "gn:population":129,
+    "iso:country":"CY",
+    "lbl:latitude":35.167765,
+    "lbl:longitude":32.658295,
+    "mps:latitude":35.167765,
+    "mps:longitude":32.658295,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u054a\u056b\u0563\u0565\u0576\u056b\u0561"
+    ],
+    "name:dut_x_preferred":[
+        "Pigenia"
+    ],
+    "name:ell_x_preferred":[
+        "Pig\u00e9nia"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03b7\u03b3\u03ad\u03bd\u03b9\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Piyenia"
+    ],
+    "name:eng_x_variant":[
+        "Agios Theodoros Tillirias",
+        "Pigenia"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a0\u03b7\u03b3\u03b1\u03af\u03bd\u03b9\u03b1"
+    ],
+    "name:pol_x_preferred":[
+        "Pijenia"
+    ],
+    "name:swe_x_preferred":[
+        "Pig\u00e9nia"
+    ],
+    "name:und_x_colloquial":[
+        "Pigaenia"
+    ],
+    "name:und_x_variant":[
+        "Pig\u00e6nia"
+    ],
+    "name:unk_x_variant":[
+        "Pienia"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u039b\u03b5\u03c5\u03ba\u03c9\u03c3\u03af\u03b1",
+    "qs:a1_alt":"Lefkosia",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:la":"\u03a0\u03b7\u03b3\u03ad\u03bd\u03b9\u03b1",
+    "qs:la_lc":"*CY1460",
+    "qs:level":"locality",
+    "qs:loc":"\u03a0\u03b7\u03b3\u03ad\u03bd\u03b9\u03b1",
+    "qs:loc_alt":"Pigenia",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-near-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":30,
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06ef5bde-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":146147,
+        "gp:id":841641,
+        "qs:id":405604,
+        "qs_pg:id":405604,
+        "wd:id":"Q11816998",
+        "wk:page":"Pigenia"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"41017e4823dcb36dbe409c5c9ac42ca0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":101846009,
+            "region_id":85682397
+        }
+    ],
+    "wof:id":101846009,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527714708,
+    "wof:name":"\u03a0\u03b7\u03b3\u03ad\u03bd\u03b9\u03b1",
+    "wof:parent_id":85682397,
+    "wof:placetype":"locality",
+    "wof:population":129,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.65203418948317,
+    35.16307106940695,
+    32.66214945306155,
+    35.17306636744581
+],
+  "geometry": {"coordinates":[[[32.65820162292516,35.17106732264926],[32.66137065945668,35.17027247329531],[32.66109313116669,35.16940542464835],[32.66214945306155,35.16914045444526],[32.66020694886993,35.16307106940695],[32.6580944510506,35.16360094646973],[32.65837190096181,35.16446801632065],[32.65203418948317,35.16605738050851],[32.65258898764364,35.16779155665853],[32.65364531056503,35.16752668540369],[32.65392273498873,35.16839376605805],[32.65497906242956,35.16812887909771],[32.65581142619789,35.17073009503866],[32.6568677799238,35.17046518504441],[32.65770026312634,35.17306636744581],[32.65875664313808,35.17280143441582],[32.65820162292516,35.17106732264926]]],"type":"Polygon"}
+}

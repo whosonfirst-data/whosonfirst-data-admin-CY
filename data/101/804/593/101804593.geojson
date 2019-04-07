@@ -1,0 +1,120 @@
+{
+  "id": 101804593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000052,
+    "geom:area_square_m":530089.827806,
+    "geom:bbox":"32.6161143419,34.8520564996,32.6236208212,34.8676007501",
+    "geom:latitude":34.858751,
+    "geom:longitude":32.620309,
+    "gn:population":71,
+    "iso:country":"CY",
+    "lbl:latitude":34.86004,
+    "lbl:longitude":32.620052,
+    "mps:latitude":34.86004,
+    "mps:longitude":32.620052,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u054a\u0565\u0576\u057f\u0561\u056c\u056b\u0561"
+    ],
+    "name:bul_x_preferred":[
+        "\u041f\u0435\u043d\u0434\u0430\u043b\u0438\u044f"
+    ],
+    "name:dut_x_preferred":[
+        "Pentalia"
+    ],
+    "name:ell_x_preferred":[
+        "Pentali\u00e1"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03b5\u03bd\u03c4\u03b1\u03bb\u03b9\u03ac"
+    ],
+    "name:eng_x_preferred":[
+        "Pendalia"
+    ],
+    "name:eng_x_variant":[
+        "Pentalia"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a0\u03b5\u03bd\u03c4\u03b1\u03bb\u03b9\u03ac"
+    ],
+    "name:hye_x_preferred":[
+        "\u054a\u0565\u0576\u057f\u0561\u056c\u056b\u0561"
+    ],
+    "name:pol_x_preferred":[
+        "Pendalia"
+    ],
+    "name:unk_x_variant":[
+        "Pendelya"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u03a0\u03ac\u03c6\u03bf\u03c2",
+    "qs:a1_alt":"Pafos",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:la":"\u03a0\u03b5\u03bd\u03c4\u03b1\u03bb\u03b9\u03ac",
+    "qs:la_lc":"*CY6222",
+    "qs:level":"locality",
+    "qs:loc":"\u03a0\u03b5\u03bd\u03c4\u03b1\u03bb\u03b9\u03ac",
+    "qs:loc_alt":"Pentalia",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":20,
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06ef53f0-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":146196,
+        "gp:id":841600,
+        "qs:id":405580,
+        "qs_pg:id":405580,
+        "wd:id":"Q7165011",
+        "wk:page":"Pentalia"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"c3178774261e1e792d53c9995609bbf6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":101804593,
+            "region_id":85682401
+        }
+    ],
+    "wof:id":101804593,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527642743,
+    "wof:name":"\u03a0\u03b5\u03bd\u03c4\u03b1\u03bb\u03b9\u03ac",
+    "wof:parent_id":85682401,
+    "wof:placetype":"locality",
+    "wof:population":71,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.61611434185284,
+    34.85205649955395,
+    32.62362082118568,
+    34.86760075009738
+],
+  "geometry": {"coordinates":[[[32.62362082118568,34.86220481052919],[32.62279628886472,34.85960168692895],[32.62174398540878,34.85986603849074],[32.62091957103911,34.85726288142467],[32.62302410712743,34.85673418807903],[32.62219971385645,34.85413103020113],[32.62114748122087,34.85439537198567],[32.6205979548082,34.85265991359961],[32.61954573743117,34.85292423613771],[32.61927099925708,34.85205649955395],[32.61611434185284,34.85284938433972],[32.61721322252691,34.85632035915],[32.61826549095912,34.8560560617039],[32.61908978366046,34.85865925558994],[32.61803748294489,34.85892356391912],[32.61913663007306,34.86239446849265],[32.620188973837,34.86213014565118],[32.62101346641487,34.86473328685634],[32.6199610903617,34.86499762058349],[32.62078563632781,34.86760075009738],[32.62183804467332,34.86733640548363],[32.62156317573329,34.86646870178328],[32.62261556705135,34.86620434880518],[32.62234069686821,34.86533664622522],[32.62339307115957,34.86507228488313],[32.62256848544502,34.862469172977],[32.62362082118568,34.86220481052919]]],"type":"Polygon"}
+}

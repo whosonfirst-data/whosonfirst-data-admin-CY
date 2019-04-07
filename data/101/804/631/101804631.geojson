@@ -1,0 +1,113 @@
+{
+  "id": 101804631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00004,
+    "geom:area_square_m":410078.544983,
+    "geom:bbox":"33.3313922164,34.7939789993,33.3426546426,34.8021671557",
+    "geom:latitude":34.797677,
+    "geom:longitude":33.336091,
+    "gn:population":531,
+    "iso:country":"CY",
+    "lbl:latitude":34.797436,
+    "lbl:longitude":33.336006,
+    "mps:latitude":34.797436,
+    "mps:longitude":33.336006,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u053d\u0578\u056b\u0580\u0578\u056f\u0578\u056b\u057f\u056b\u0561"
+    ],
+    "name:bul_x_preferred":[
+        "\u0425\u0438\u0440\u043e\u043a\u0438\u0442\u0438\u044f"
+    ],
+    "name:dut_x_preferred":[
+        "Choirokoitia"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03bf\u03b9\u03c1\u03bf\u03ba\u03bf\u03b9\u03c4\u03af\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Khirokitia"
+    ],
+    "name:eng_x_variant":[
+        "Choirokoitia"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a7\u03bf\u03b9\u03c1\u03bf\u03ba\u03bf\u03b9\u03c4\u03af\u03b1"
+    ],
+    "name:hye_x_preferred":[
+        "\u053d\u0578\u056b\u0580\u0578\u056f\u0578\u056b\u057f\u056b\u0561"
+    ],
+    "name:unk_x_variant":[
+        "Hirokitiya"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u039b\u03ac\u03c1\u03bd\u03b1\u03ba\u03b1",
+    "qs:a1_alt":"Larnaka",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:la":"\u03a7\u03bf\u03b9\u03c1\u03bf\u03bao\u03b9\u03c4\u03af\u03b1",
+    "qs:la_lc":"*CY4304",
+    "qs:level":"locality",
+    "qs:loc":"\u03a7\u03bf\u03b9\u03c1\u03bf\u03ba\u03bf\u03b9\u03c4\u03af\u03b1",
+    "qs:loc_alt":"Choirokoitia",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":64,
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06ef7826-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":146491,
+        "gp:id":841375,
+        "qs:id":1349429,
+        "qs_pg:id":1349429,
+        "wd:id":"Q5104086"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"e9a7a18b2d891ebd58542d0808091c56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":101804631,
+            "region_id":85682407
+        }
+    ],
+    "wof:id":101804631,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527642756,
+    "wof:name":"\u03a7\u03bf\u03b9\u03c1\u03bf\u03ba\u03bf\u03b9\u03c4\u03af\u03b1",
+    "wof:parent_id":85682407,
+    "wof:placetype":"locality",
+    "wof:population":531,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.33139221642392,
+    34.79397899926073,
+    33.34265464255964,
+    34.80216715574477
+],
+  "geometry": {"coordinates":[[[33.33950599442221,34.79652678297111],[33.34265464255964,34.79570898641407],[33.34208864052579,34.79397899926073],[33.33474185320023,34.7958869719659],[33.33445894089175,34.79502194842013],[33.33235982224107,34.79556696860749],[33.33320852495933,34.79816205381945],[33.33215892426728,34.79843455718424],[33.33244183411307,34.79929958412959],[33.33139221642392,34.79957207928317],[33.33224097278389,34.80216715574477],[33.33538990186474,34.80134960094472],[33.33510694156297,34.8004845892263],[33.33615656117678,34.80021205081192],[33.33587360005561,34.79934704022713],[33.33902238865858,34.7985293645437],[33.33873940555429,34.79766436254425],[33.33978897834402,34.7973917838371],[33.33950599442221,34.79652678297111]]],"type":"Polygon"}
+}

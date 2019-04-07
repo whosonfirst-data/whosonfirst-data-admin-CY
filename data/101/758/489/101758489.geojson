@@ -1,0 +1,129 @@
+{
+  "id": 101758489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000043,
+    "geom:area_square_m":432921.232621,
+    "geom:bbox":"32.4667083911,34.7580004226,32.4782128551,34.7653924908",
+    "geom:latitude":34.761574,
+    "geom:longitude":32.47295,
+    "gn:population":230,
+    "iso:country":"CY",
+    "lbl:latitude":34.76234,
+    "lbl:longitude":32.472863,
+    "mps:latitude":34.76234,
+    "mps:longitude":32.472863,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u0531\u0575\u056b\u0561 \u0544\u0561\u0580\u056b\u0576\u0578\u0582\u0564\u0561"
+    ],
+    "name:bul_x_preferred":[
+        "\u0410\u0433\u0438\u044f \u041c\u0430\u0440\u0438\u043d\u0443\u0434\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Ag\u00eda Marino\u00fada"
+    ],
+    "name:dut_x_preferred":[
+        "Ayia Marinoudha"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03b3\u03af\u03b1 \u039c\u03b1\u03c1\u03b9\u03bd\u03bf\u03cd\u03b4\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "Ag\u00eda Marino\u00fada"
+    ],
+    "name:eng_x_preferred":[
+        "Ayia Marinoudha"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u062c\u06cc\u0627 \u0645\u0627\u0631\u06cc\u0646\u0648\u062f\u0627"
+    ],
+    "name:gre_x_preferred":[
+        "\u0391\u03b3\u03af\u03b1 \u039c\u03b1\u03c1\u03b9\u03bd\u03bf\u03cd\u03b4\u03b1"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u0575\u056b\u0561 \u0544\u0561\u0580\u056b\u0576\u0578\u0582\u0564\u0561"
+    ],
+    "name:per_x_preferred":[
+        "\u0627\u062c\u06cc\u0627 \u0645\u0627\u0631\u06cc\u0646\u0648\u062f\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Ajia Marinuda"
+    ],
+    "name:swe_x_preferred":[
+        "Ag\u00eda Marino\u00fada"
+    ],
+    "name:tur_x_preferred":[
+        "Agia Marinouda"
+    ],
+    "name:unk_x_variant":[
+        "Marinoudha"
+    ],
+    "name:urd_x_preferred":[
+        "\u0622\u0626\u06cc\u0627 \u0645\u0627\u0631\u06cc\u0646\u0648\u062f\u0627"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u03a0\u03ac\u03c6\u03bf\u03c2",
+    "qs:a1_alt":"Pafos",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:id":0,
+    "qs:la":"\u03a7\u03bb\u03ce\u03c1\u03b1\u03ba\u03b1\u03c2",
+    "qs:la_lc":"*CY6020",
+    "qs:level":"locality",
+    "qs:loc":"\u0391\u03b3\u03af\u03b1 \u039c\u03b1\u03c1\u03b9\u03bd\u03bf\u03cd\u03b4\u03b1",
+    "qs:loc_alt":"Agia Marinouda",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"suburbs point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":22,
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":146749,
+        "gp:id":841782,
+        "qs:id":514661,
+        "wd:id":"Q4818326",
+        "wk:page":"Agia Marinouda"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"95b00654b2c3a7f53821e396200a096d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":101758489,
+            "region_id":85682401
+        }
+    ],
+    "wof:id":101758489,
+    "wof:lastmodified":1527689311,
+    "wof:name":"\u0391\u03b3\u03af\u03b1 \u039c\u03b1\u03c1\u03b9\u03bd\u03bf\u03cd\u03b4\u03b1",
+    "wof:parent_id":85682401,
+    "wof:placetype":"locality",
+    "wof:population":230,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.46670839109566,
+    34.7580004225876,
+    32.47821285507024,
+    34.76539249082407
+],
+  "geometry": {"coordinates":[[[32.46727580249126,34.76180744274683],[32.46670839109566,34.76288552439865],[32.46742652395784,34.76270626596283],[32.46769880166738,34.76357473642571],[32.46980166190832,34.76304967530842],[32.47034628862377,34.76478659436521],[32.47139773095893,34.76452403863425],[32.47167006921296,34.76539249082407],[32.47482439130357,34.76460474092482],[32.47455202079061,34.76373629952724],[32.47560343834238,34.76347369585386],[32.47505870410049,34.76173681276924],[32.47821285507024,34.76094895142433],[32.47739572766858,34.7583436404629],[32.4752930310537,34.75886887175955],[32.47502069561079,34.7580004225876],[32.47081527104825,34.7590507269781],[32.47135986535477,34.7607876516023],[32.46727580249126,34.76180744274683]]],"type":"Polygon"}
+}

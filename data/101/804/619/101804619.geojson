@@ -1,0 +1,86 @@
+{
+  "id": 101804619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000034,
+    "geom:area_square_m":340051.66215,
+    "geom:bbox":"32.4005328127,34.9324002013,32.4134889371,34.9376107849",
+    "geom:latitude":34.935027,
+    "geom:longitude":32.407141,
+    "gn:population":113,
+    "iso:country":"CY",
+    "lbl:latitude":34.935453,
+    "lbl:longitude":32.405423,
+    "mps:latitude":34.935453,
+    "mps:longitude":32.405423,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "P\u00e1no Ar\u00f3des"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03ac\u03bd\u03c9 \u0391\u03c1\u03cc\u03b4\u03b5\u03c2"
+    ],
+    "name:unk_x_variant":[
+        "Yukar\u0131 Kalkanl\u0131"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u03a0\u03ac\u03c6\u03bf\u03c2",
+    "qs:a1_alt":"Pafos",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:la":"\u03a0\u03ac\u03bd\u03c9 \u0391\u03c1\u03cc\u03b4\u03b5\u03c2",
+    "qs:la_lc":"*CY6351",
+    "qs:level":"locality",
+    "qs:loc":"\u03a0\u03ac\u03bd\u03c9 \u0391\u03c1\u03cc\u03b4\u03b5\u03c2",
+    "qs:loc_alt":"Pano Arodes",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":146226,
+        "gp:id":841342,
+        "qs:id":514231
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"42d89a4b24db03a02a4323cd2453f241",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":101804619,
+            "region_id":85682401
+        }
+    ],
+    "wof:id":101804619,
+    "wof:lastmodified":1505338038,
+    "wof:name":"\u03a0\u03ac\u03bd\u03c9 \u0391\u03c1\u03cc\u03b4\u03b5\u03c2",
+    "wof:parent_id":85682401,
+    "wof:placetype":"locality",
+    "wof:population":113,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.40053281269729,
+    34.93240020125694,
+    32.41348893706925,
+    34.93761078488342
+],
+  "geometry": {"coordinates":[[[32.40427687408055,34.93761078488342],[32.4084924526947,34.93656317352594],[32.40876525663219,34.93743158102347],[32.41192690766582,34.93664573549631],[32.41138124422889,34.93490893964838],[32.41348893706925,34.9343849969602],[32.41321609787656,34.93351660252171],[32.41110842670918,34.93404053799946],[32.41083561865537,34.9331721338674],[32.40662024488176,34.93421984618948],[32.40634748964044,34.9333514251561],[32.40529364145573,34.93361331958738],[32.40502090651512,34.9327448924671],[32.40291321312964,34.93326863806726],[32.40264050932717,34.93240020125694],[32.40053281269729,34.93292389157739],[32.40080549482343,34.93379233559472],[32.40185935709144,34.93353049284013],[32.40213205951761,34.93439893077186],[32.4031859263942,34.93413707239523],[32.40427687408055,34.93761078488342]]],"type":"Polygon"}
+}

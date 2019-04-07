@@ -1,0 +1,130 @@
+{
+  "id": 101803359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00003,
+    "geom:area_square_m":300020.261181,
+    "geom:bbox":"32.960925554,35.2929178199,32.9736838137,35.3001115376",
+    "geom:latitude":35.297562,
+    "geom:longitude":32.965937,
+    "iso:country":"CY",
+    "lbl:latitude":35.297564,
+    "lbl:longitude":32.964874,
+    "mps:latitude":35.297564,
+    "mps:longitude":32.964874,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Ag\u00eda Eir\u00edni"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03b3\u03af\u03b1 \u0395\u03b9\u03c1\u03ae\u03bd\u03b7"
+    ],
+    "name:eng_x_preferred":[
+        "Ayairini"
+    ],
+    "name:eng_x_variant":[
+        "Agia Eirini",
+        "Akdeniz",
+        "Ayia Irmi",
+        "Irmi"
+    ],
+    "name:und_x_colloquial":[
+        "Ay Irini"
+    ],
+    "name:und_x_preferred":[
+        "Ay \u1e2erini"
+    ],
+    "name:und_x_variant":[
+        "Ayia Irini"
+    ],
+    "name:unk_x_variant":[
+        "Irmi"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u039a\u03b5\u03c1\u03cd\u03bd\u03b5\u03b9\u03b1",
+    "qs:a1_alt":"Keryneia",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:la":"\u0391\u03b3\u03af\u03b1 \u0395\u03b9\u03c1\u03ae\u03bd\u03b7 (\u039a\u03b5\u03c1\u03cd\u03bd\u03b5\u03b9\u03b1\u03c2)",
+    "qs:la_lc":"*CY2128",
+    "qs:level":"locality",
+    "qs:loc":"\u0391\u03b3\u03af\u03b1 \u0395\u03b9\u03c1\u03ae\u03bd\u03b7",
+    "qs:loc_alt":"Agia Eirini",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682393,
+        85632375,
+        85681187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06ef07e2-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":146754,
+        "gp:id":841172,
+        "qs:id":9,
+        "wd:id":"Q4692496",
+        "wk:page":"Agia Eirini, Kyrenia"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"63158fee20133a7cdaf22de236831ab8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "disputed_id":85632375,
+            "locality_id":101803359,
+            "region_id":85682393
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632375,
+            "disputed_id":85632375,
+            "locality_id":101803359,
+            "region_id":85682393
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "disputed_id":85632375,
+            "locality_id":101803359,
+            "region_id":85681187
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632375,
+            "disputed_id":85632375,
+            "locality_id":101803359,
+            "region_id":85681187
+        }
+    ],
+    "wof:id":101803359,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1501212542,
+    "wof:name":"\u0391\u03b3\u03af\u03b1 \u0395\u03b9\u03c1\u03ae\u03bd\u03b7",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.96092555398525,
+    35.29291781986598,
+    32.97368381368977,
+    35.3001115375867
+],
+  "geometry": {"coordinates":[[[32.967340397177,35.3001115375867],[32.97368381368977,35.29849992427614],[32.97340155829028,35.29763430857469],[32.96917268336023,35.29870875072862],[32.96889048124507,35.29784311759545],[32.96783325717337,35.2981116943028],[32.96755107573517,35.2972460549085],[32.96649385605019,35.29751461584999],[32.96564740318172,35.29491767127132],[32.96670459025898,35.29464912149729],[32.96614031563604,35.29291781986598],[32.96402597847469,35.29345489248294],[32.96487233990433,35.29605186345543],[32.96170068773284,35.29685741555528],[32.96198279520888,35.29772307863658],[32.96092555398525,35.29799157563792],[32.96148977660943,35.29972290163198],[32.96466154606202,35.29891735216415],[32.96494370469645,35.29978300018831],[32.96705820699412,35.29924589954578],[32.967340397177,35.3001115375867]]],"type":"Polygon"}
+}

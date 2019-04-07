@@ -1,0 +1,110 @@
+{
+  "id": 1125862723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.46667,34.75417,32.46667,34.75417",
+    "geom:latitude":34.75417,
+    "geom:longitude":32.46667,
+    "gn:gn_country":"CY",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":264,
+    "gn:population":264,
+    "iso:country":"CY",
+    "lbl:latitude":34.75417,
+    "lbl:longitude":32.46667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:bul_x_preferred":[
+        "\u041a\u043e\u043b\u043e\u043d\u0438"
+    ],
+    "name:dut_x_preferred":[
+        "Koloni"
+    ],
+    "name:eng_x_preferred":[
+        "Koloni"
+    ],
+    "name:gre_x_preferred":[
+        "\u039a\u03bf\u03bb\u03ce\u03bd\u03b7"
+    ],
+    "name:pol_x_preferred":[
+        "Koloni"
+    ],
+    "name:swe_x_preferred":[
+        "Koloni"
+    ],
+    "name:unk_x_variant":[
+        "Yol\u00fcst\u00fc"
+    ],
+    "qs_pg:aaroncc":"CY",
+    "qs_pg:gn_country":"CY",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":146452,
+    "qs_pg:gn_pop":264,
+    "qs_pg:name":"Koloni",
+    "qs_pg:name_adm0":"Cyprus",
+    "qs_pg:name_adm1":"Paphos District",
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":188,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":2,
+    "qs_pg:qs_id":208412,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":26812346,
+    "qs_pg:woe_id":841401,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":26812346,
+    "woe:name_adm0":"Cyprus",
+    "woe:name_adm1":"Paphos District",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":146452,
+        "gp:id":841401,
+        "qs_pg:id":208412,
+        "wd:id":"Q6427511"
+    },
+    "wof:country":"CY",
+    "wof:created":1497293899,
+    "wof:geomhash":"6c60284bae9481b51f0cdb60352ba9d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":1125862723,
+            "region_id":85682401
+        }
+    ],
+    "wof:id":1125862723,
+    "wof:lastmodified":1553816581,
+    "wof:name":"Koloni",
+    "wof:parent_id":85682401,
+    "wof:placetype":"locality",
+    "wof:population":264,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.46667,
+    34.75417,
+    32.46667,
+    34.75417
+],
+  "geometry": {"coordinates":[32.46667,34.75417],"type":"Point"}
+}

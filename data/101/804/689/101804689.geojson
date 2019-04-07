@@ -1,0 +1,122 @@
+{
+  "id": 101804689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000051,
+    "geom:area_square_m":520093.261193,
+    "geom:bbox":"32.7655676496,34.8366151601,32.7753089489,34.844616752",
+    "geom:latitude":34.840614,
+    "geom:longitude":32.770944,
+    "iso:country":"CY",
+    "lbl:latitude":34.840524,
+    "lbl:longitude":32.770944,
+    "mps:latitude":34.840524,
+    "mps:longitude":32.770944,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0410\u0440\u0441\u043e\u0441"
+    ],
+    "name:ceb_x_preferred":[
+        "\u00c1rsos"
+    ],
+    "name:dut_x_preferred":[
+        "Arsos"
+    ],
+    "name:ell_x_preferred":[
+        "\u0386\u03c1\u03c3\u03bf\u03c2 \u039b\u03b5\u03bc\u03b5\u03c3\u03bf\u03cd"
+    ],
+    "name:ell_x_variant":[
+        "\u00c1rsos",
+        "\u0386\u03c1\u03c3\u03bf\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Arsos"
+    ],
+    "name:eng_x_variant":[
+        "Yigitler"
+    ],
+    "name:gre_x_preferred":[
+        "\u0386\u03c1\u03c3\u03bf\u03c2"
+    ],
+    "name:pol_x_preferred":[
+        "Arsos"
+    ],
+    "name:swe_x_preferred":[
+        "\u00c1rsos"
+    ],
+    "name:und_x_colloquial":[
+        "Arcoz"
+    ],
+    "name:und_x_variant":[
+        "Ar\u00e7oz"
+    ],
+    "name:unk_x_variant":[
+        "Yigitler"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u039b\u03b5\u03bc\u03b5\u03c3\u03cc\u03c2",
+    "qs:a1_alt":"Lemesos",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:la":"\u0386\u03c1\u03c3\u03bf\u03c2 (\u039b\u03b5\u03bc\u03b5\u03c3\u03bf\u03cd)",
+    "qs:la_lc":"*CY5322",
+    "qs:level":"locality",
+    "qs:loc":"\u0386\u03c1\u03c3\u03bf\u03c2",
+    "qs:loc_alt":"Arsos",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":34.840556,
+    "wd:longitude":32.769167,
+    "wd:wordcount":14,
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06ef03aa-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":146783,
+        "gp:id":841150,
+        "qs:id":940291,
+        "wd:id":"Q4796609",
+        "wk:page":"Arsos, Limassol"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"8d87a2ff86a54366b9795e47c32013d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":101804689,
+            "region_id":85682411
+        }
+    ],
+    "wof:id":101804689,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527642746,
+    "wof:name":"\u0386\u03c1\u03c3\u03bf\u03c2",
+    "wof:parent_id":85682411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.76556764955342,
+    34.83661516011239,
+    32.77530894885251,
+    34.84461675202749
+],
+  "geometry": {"coordinates":[[[32.77458827146842,34.84381850910188],[32.77403520815221,34.84208420595047],[32.77508687541342,34.84181810831353],[32.77425732004554,34.83921664558301],[32.77530894885251,34.83895054691294],[32.77475593834367,34.83721623308958],[32.77370433097644,34.83748232446266],[32.7734278507935,34.83661516011239],[32.76711813880524,34.83821143490508],[32.7673945546652,34.83907862114239],[32.76634290326353,34.83934462866154],[32.76661931796707,34.8402118160206],[32.76556764955342,34.84047781520752],[32.76584406310019,34.84134500368822],[32.7668957422369,34.84107900085371],[32.7677250724451,34.84368054019819],[32.76877677745955,34.84341451444016],[32.76905325072073,34.84428168552176],[32.77115666332003,34.84374959076877],[32.77143316759589,34.84461675202749],[32.77458827146842,34.84381850910188]]],"type":"Polygon"}
+}

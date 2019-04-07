@@ -1,0 +1,98 @@
+{
+  "id": 1126002263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.35,35.0125,33.35,35.0125",
+    "geom:latitude":35.0125,
+    "geom:longitude":33.35,
+    "gn:gn_country":"CY",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":122,
+    "gn:population":122,
+    "iso:country":"CY",
+    "lbl:latitude":35.0125,
+    "lbl:longitude":33.35,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Kotsiatis"
+    ],
+    "name:eng_x_preferred":[
+        "Kotsiatis"
+    ],
+    "name:gre_x_preferred":[
+        "\u039a\u03bf\u03c4\u03c3\u03b9\u03ac\u03c4\u03b7\u03c2"
+    ],
+    "name:pol_x_preferred":[
+        "Kotsiatis"
+    ],
+    "name:swe_x_preferred":[
+        "Kotsiatis"
+    ],
+    "name:tur_x_preferred":[
+        "Ko\u00e7yata\u011f\u0131"
+    ],
+    "name:unk_x_variant":[
+        "Ko\u00e7\u00e7at"
+    ],
+    "qs_pg:aaroncc":"CY",
+    "qs_pg:gn_country":"CY",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":146458,
+    "qs_pg:gn_pop":122,
+    "qs_pg:name":"Kochati",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":514346,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":146458,
+        "qs_pg:id":514346,
+        "wd:id":"Q6434250"
+    },
+    "wof:country":"CY",
+    "wof:created":1497299717,
+    "wof:geomhash":"9406dbce7cbd1fa8596af98aa7553703",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":1126002263,
+            "region_id":85682397
+        }
+    ],
+    "wof:id":1126002263,
+    "wof:lastmodified":1553816691,
+    "wof:name":"Kochati",
+    "wof:parent_id":85682397,
+    "wof:placetype":"locality",
+    "wof:population":122,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.35,
+    35.0125,
+    33.35,
+    35.0125
+],
+  "geometry": {"coordinates":[33.35,35.0125],"type":"Point"}
+}

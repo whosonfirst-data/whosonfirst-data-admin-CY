@@ -1,0 +1,119 @@
+{
+  "id": 101803601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00003,
+    "geom:area_square_m":300053.885556,
+    "geom:bbox":"33.4727333296,34.8252987955,33.4807402338,34.831623742",
+    "geom:latitude":34.828442,
+    "geom:longitude":33.476566,
+    "iso:country":"CY",
+    "lbl:latitude":34.828094,
+    "lbl:longitude":33.476233,
+    "mps:latitude":34.828094,
+    "mps:longitude":33.476233,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u0531\u057a\u056c\u0561\u0576\u057f\u0561"
+    ],
+    "name:bul_x_preferred":[
+        "\u0410\u043f\u043b\u0430\u043d\u0434\u0430"
+    ],
+    "name:dut_x_preferred":[
+        "Aplanta"
+    ],
+    "name:ell_x_preferred":[
+        "Apl\u00e1nta"
+    ],
+    "name:ell_x_variant":[
+        "\u0391\u03c0\u03bb\u03ac\u03bd\u03c4\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Aplanda"
+    ],
+    "name:eng_x_variant":[
+        "Aplanta"
+    ],
+    "name:gre_x_preferred":[
+        "\u0391\u03c0\u03bb\u03ac\u03bd\u03c4\u03b1"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u057a\u056c\u0561\u0576\u057f\u0561"
+    ],
+    "name:pol_x_preferred":[
+        "Aplanda"
+    ],
+    "name:und_x_colloquial":[
+        "Aplanda Chiftlik"
+    ],
+    "name:und_x_variant":[
+        "Apl\u00e1nda Chiftl\u00edk"
+    ],
+    "name:unk_x_variant":[
+        "Apl\u00e1nda Chiftl\u00edk"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u039b\u03ac\u03c1\u03bd\u03b1\u03ba\u03b1",
+    "qs:a1_alt":"Larnaka",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:la":"\u0391\u03c0\u03bb\u03ac\u03bd\u03c4\u03b1",
+    "qs:la_lc":"*CY4123",
+    "qs:level":"locality",
+    "qs:loc":"\u0391\u03c0\u03bb\u03ac\u03bd\u03c4\u03b1",
+    "qs:loc_alt":"Aplanta",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":71,
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06ef00da-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":146804,
+        "gp:id":841134,
+        "qs:id":405456,
+        "wd:id":"Q4779947",
+        "wk:page":"Aplanta"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"c8d42557ef5cfcee0c09f613aeaa4ea1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":101803601,
+            "region_id":85682407
+        }
+    ],
+    "wof:id":101803601,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527642769,
+    "wof:name":"\u0391\u03c0\u03bb\u03ac\u03bd\u03c4\u03b1",
+    "wof:parent_id":85682407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.47273332960305,
+    34.82529879549099,
+    33.48074023378274,
+    34.83162374201879
+],
+  "geometry": {"coordinates":[[[33.48074023378274,34.8310753148877],[33.48045530988566,34.83021093518653],[33.47940568850953,34.83048515096851],[33.47855100747603,34.82789198496681],[33.47960059716138,34.82761778043323],[33.47903083781341,34.82588899755581],[33.47798126925352,34.82616319459106],[33.47769641488128,34.82529879549099],[33.4734981183264,34.82639544932135],[33.47378293044608,34.82725986341615],[33.47273332960305,34.82753400079275],[33.47358779321632,34.83012723867637],[33.47463742575349,34.82985309005397],[33.47492227717362,34.83071749371783],[33.47597191381806,34.83044332941415],[33.47625678562974,34.83130772672132],[33.47835606067474,34.83075935481838],[33.47864096344313,34.83162374201879],[33.48074023378274,34.8310753148877]]],"type":"Polygon"}
+}

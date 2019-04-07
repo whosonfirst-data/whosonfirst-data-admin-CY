@@ -1,0 +1,123 @@
+{
+  "id": 101849053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.111721,34.879105,33.111721,34.879105",
+    "geom:latitude":34.879105,
+    "geom:longitude":33.111721,
+    "gn:population":141,
+    "iso:country":"CY",
+    "lbl:latitude":34.879105,
+    "lbl:longitude":33.111721,
+    "mps:latitude":34.879105,
+    "mps:longitude":33.111721,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0421\u0438\u043a\u043e\u043f\u0435\u0442\u0440\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Syk\u00f3petra"
+    ],
+    "name:dut_x_preferred":[
+        "Sykopetra"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03c5\u03ba\u03cc\u03c0\u03b5\u03c4\u03c1\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "Syk\u00f3petra"
+    ],
+    "name:eng_x_preferred":[
+        "Sykopetra"
+    ],
+    "name:fre_x_preferred":[
+        "Syk\u00f3petra"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a3\u03c5\u03ba\u03cc\u03c0\u03b5\u03c4\u03c1\u03b1"
+    ],
+    "name:pol_x_preferred":[
+        "Sikopetra"
+    ],
+    "name:swe_x_preferred":[
+        "Syk\u00f3petra"
+    ],
+    "name:unk_x_variant":[
+        "Sikopetra"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u039b\u03b5\u03bc\u03b5\u03c3\u03cc\u03c2",
+    "qs:a1_alt":"Lemesos",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u03a3\u03c5\u03ba\u03cc\u03c0\u03b5\u03c4\u03c1\u03b1",
+    "qs:loc_alt":"Sykopetra",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":34.878333,
+    "wd:longitude":33.112222,
+    "wd:wordcount":20,
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06ef67fa-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":146051,
+        "gp:id":841714,
+        "qs:id":405616,
+        "qs_pg:id":405616,
+        "wd:id":"Q7660529",
+        "wk:page":"Sykopetra"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"747ad459374f2a417e23b21ac2bfd101",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":101849053,
+            "region_id":85682411
+        }
+    ],
+    "wof:id":101849053,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1544740757,
+    "wof:name":"\u03a3\u03c5\u03ba\u03cc\u03c0\u03b5\u03c4\u03c1\u03b1",
+    "wof:parent_id":85682411,
+    "wof:placetype":"locality",
+    "wof:population":141,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.111721,
+    34.879105,
+    33.111721,
+    34.879105
+],
+  "geometry": {"coordinates":[33.111721,34.879105],"type":"Point"}
+}

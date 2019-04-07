@@ -1,0 +1,93 @@
+{
+  "id": 1343763089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.3199,35.31152,33.3199,35.31152",
+    "geom:latitude":35.31152,
+    "geom:longitude":33.3199,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"10182652",
+    "gn:asciiname":"Templ Stoou",
+    "gn:country_code":"CY",
+    "gn:dem":308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":20140,
+    "gn:latitude":35.31152,
+    "gn:longitude":33.3199,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Templ Stoou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Nicosia",
+    "iso:country":"CY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Templestowe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85681187,
+        85632375,
+        85682393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":20140
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"ce4aaaf1eac19475c5c7ba31385df73a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "disputed_id":85632375,
+            "locality_id":1343763089,
+            "region_id":85681187
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632375,
+            "disputed_id":85632375,
+            "locality_id":1343763089,
+            "region_id":85681187
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "disputed_id":85632375,
+            "locality_id":1343763089,
+            "region_id":85682393
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632375,
+            "disputed_id":85632375,
+            "locality_id":1343763089,
+            "region_id":85682393
+        }
+    ],
+    "wof:id":1343763089,
+    "wof:lastmodified":1537619240,
+    "wof:name":"Templ Stoou",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.3199,
+    35.31152,
+    33.3199,
+    35.31152
+],
+  "geometry": {"coordinates":[33.3199,35.31152],"type":"Point"}
+}

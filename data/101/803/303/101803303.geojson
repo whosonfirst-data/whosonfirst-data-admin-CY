@@ -1,0 +1,127 @@
+{
+  "id": 101803303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000047,
+    "geom:area_square_m":470022.363644,
+    "geom:bbox":"34.0199187189,35.3958797579,34.0284913155,35.4038925983",
+    "geom:latitude":35.399784,
+    "geom:longitude":34.024318,
+    "iso:country":"CY",
+    "lbl:latitude":35.399795,
+    "lbl:longitude":34.024318,
+    "mps:latitude":35.399795,
+    "mps:longitude":34.024318,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Liv\u00e1dia"
+    ],
+    "name:ell_x_variant":[
+        "\u039b\u03b9\u03b2\u03ac\u03b4\u03b9\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Livadya"
+    ],
+    "name:eng_x_variant":[
+        "Livadia",
+        "Livatya"
+    ],
+    "name:und_x_colloquial":[
+        "Sazlikoey",
+        "Sazlikoy"
+    ],
+    "name:und_x_preferred":[
+        "Livadhia"
+    ],
+    "name:und_x_variant":[
+        "Sazlik\u00f6y"
+    ],
+    "name:unk_x_variant":[
+        "Sazl\u0131k\u00f6y"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u0391\u03bc\u03bc\u03cc\u03c7\u03c9\u03c3\u03c4\u03bf\u03c2",
+    "qs:a1_alt":"Ammochostos",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:la":"\u039b\u03b9\u03b2\u03ac\u03b4\u03b9\u03b1 (\u0391\u03bc\u03bc\u03bf\u03c7\u03ce\u03c3\u03c4\u03bf\u03c5)",
+    "qs:la_lc":"*CY3334",
+    "qs:level":"locality",
+    "qs:loc":"\u039b\u03b9\u03b2\u03ac\u03b4\u03b9\u03b1",
+    "qs:loc_alt":"Livadia",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682389,
+        85632375,
+        85681187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06ef3a46-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":146370,
+        "gp:id":841463,
+        "qs:id":1273462
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"721171ea289a49bb0a8b21f7b6cb430c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "disputed_id":85632375,
+            "locality_id":101803303,
+            "region_id":85682389
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632375,
+            "disputed_id":85632375,
+            "locality_id":101803303,
+            "region_id":85682389
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "disputed_id":85632375,
+            "locality_id":101803303,
+            "region_id":85681187
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632375,
+            "disputed_id":85632375,
+            "locality_id":101803303,
+            "region_id":85681187
+        }
+    ],
+    "wof:id":101803303,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1501212519,
+    "wof:name":"\u039b\u03b9\u03b2\u03ac\u03b4\u03b9\u03b1",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.01991871890294,
+    35.39587975787862,
+    34.02849131554865,
+    35.40389259830516
+],
+  "geometry": {"coordinates":[[[34.02304480553835,35.40389259830516],[34.02726756671552,35.40276936912443],[34.02697171412012,35.40190817703575],[34.028027376799,35.40162734365322],[34.02743568099447,35.39990495926526],[34.02849131554865,35.39962412166869],[34.02730800417851,35.39617933649674],[34.02519681368284,35.39674096860131],[34.0249010327949,35.39587975787862],[34.02173422826854,35.39672210445622],[34.02202997713539,35.3975833268392],[34.01991871890294,35.39814483905013],[34.02169329908941,35.403312164098],[34.0227489956464,35.40303139066611],[34.02304480553835,35.40389259830516]]],"type":"Polygon"}
+}

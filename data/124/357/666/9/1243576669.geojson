@@ -1,0 +1,79 @@
+{
+  "id": 1243576669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.77882,34.7305,32.77882,34.7305",
+    "geom:latitude":34.7305,
+    "geom:longitude":32.77882,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Prastio",
+    "gn:country_code":"CY",
+    "gn:dem":369,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":146126,
+    "gn:latitude":34.7305,
+    "gn:longitude":32.77882,
+    "gn:modification_date":"2014-03-05",
+    "gn:name":"Prasti\u00f3",
+    "gn:population":0,
+    "gn:timezone":"Asia/Nicosia",
+    "iso:country":"CY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Prasti\u00f3"
+    ],
+    "name:ell_x_variant":[
+        "\u03a0\u03c1\u03b1\u03c3\u03c4\u03b9\u03cc"
+    ],
+    "name:und_x_variant":[
+        "\u00c7elikta\u015f",
+        "Prastion",
+        "Prasyo",
+        "Prastyo",
+        "Prastio Evdhimou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":146126,
+        "wk:page":"Prastio_%28Avdimou%29"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"3124d0e032a63da483b78d9b61f087c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":1243576669,
+            "region_id":85682411
+        }
+    ],
+    "wof:id":1243576669,
+    "wof:lastmodified":1537619242,
+    "wof:name":"Prastio",
+    "wof:parent_id":85682411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.77882,
+    34.7305,
+    32.77882,
+    34.7305
+],
+  "geometry": {"coordinates":[32.77882,34.7305],"type":"Point"}
+}

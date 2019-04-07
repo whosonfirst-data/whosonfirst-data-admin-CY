@@ -1,0 +1,93 @@
+{
+  "id": 1226366639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.73717,35.16787,32.73717,35.16787",
+    "geom:latitude":35.16787,
+    "geom:longitude":32.73717,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Limnitis",
+    "gn:country_code":"CY",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":146378,
+    "gn:latitude":35.16787,
+    "gn:longitude":32.73717,
+    "gn:modification_date":"2015-02-05",
+    "gn:name":"Limn\u00edtis",
+    "gn:population":0,
+    "gn:timezone":"Asia/Nicosia",
+    "iso:country":"CY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Limn\u00edtis"
+    ],
+    "name:ell_x_variant":[
+        "\u039b\u03b9\u03bc\u03bd\u03af\u03c4\u03b7\u03c2"
+    ],
+    "name:und_x_variant":[
+        "Ye\u015fil\u0131rmak",
+        "Limniti",
+        "Limnidi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85681187,
+        85632375,
+        85682397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":146378,
+        "wk:page":"Limnitis"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"33e6a54343781d7ab7f1524a0cfd6463",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "disputed_id":85632375,
+            "locality_id":1226366639,
+            "region_id":85681187
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632375,
+            "disputed_id":85632375,
+            "locality_id":1226366639,
+            "region_id":85681187
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":1226366639,
+            "region_id":85682397
+        }
+    ],
+    "wof:id":1226366639,
+    "wof:lastmodified":1537619244,
+    "wof:name":"Limnitis",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.73717,
+    35.16787,
+    32.73717,
+    35.16787
+],
+  "geometry": {"coordinates":[32.73717,35.16787],"type":"Point"}
+}

@@ -1,0 +1,127 @@
+{
+  "id": 101803513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00003,
+    "geom:area_square_m":300030.745109,
+    "geom:bbox":"32.954108133,35.1725824839,32.9628340501,35.1791197247",
+    "geom:latitude":35.175578,
+    "geom:longitude":32.958086,
+    "iso:country":"CY",
+    "lbl:latitude":35.175509,
+    "lbl:longitude":32.958152,
+    "mps:latitude":35.175509,
+    "mps:longitude":32.958152,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Nikitas"
+    ],
+    "name:ell_x_preferred":[
+        "Nik\u00edtas"
+    ],
+    "name:ell_x_variant":[
+        "\u039d\u03b9\u03ba\u03ae\u03c4\u03b1\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Nikitas"
+    ],
+    "name:gre_x_preferred":[
+        "\u039d\u03b9\u03ba\u03ae\u03c4\u03b1\u03c2"
+    ],
+    "name:per_x_preferred":[
+        "\u0646\u06cc\u06a9\u06cc\u062a\u0627\u0633"
+    ],
+    "name:pol_x_preferred":[
+        "Nikitas"
+    ],
+    "name:spa_x_preferred":[
+        "Nikitas"
+    ],
+    "name:swe_x_preferred":[
+        "Nik\u00edtas"
+    ],
+    "name:tur_x_preferred":[
+        "G\u00fcne\u015fk\u00f6y"
+    ],
+    "name:unk_x_variant":[
+        "G\u00fcne\u015fk\u00f6y"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u06cc\u06a9\u06cc\u062a\u0627\u0633"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u039b\u03b5\u03c5\u03ba\u03c9\u03c3\u03af\u03b1",
+    "qs:a1_alt":"Lefkosia",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:la":"\u039d\u03b9\u03ba\u03ae\u03c4\u03b1\u03c2",
+    "qs:la_lc":"*CY1354",
+    "qs:level":"locality",
+    "qs:loc":"\u039d\u03b9\u03ba\u03ae\u03c4\u03b1\u03c2",
+    "qs:loc_alt":"Nikitas",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682397,
+        85681187,
+        85632375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":146265,
+        "gp:id":841548,
+        "qs:id":1273492,
+        "wd:id":"Q4809508",
+        "wk:page":"Nikitas"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"892e22433498bf45dba1a4ea0051e9af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":101803513,
+            "region_id":85682397
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "disputed_id":85632375,
+            "locality_id":101803513,
+            "region_id":85681187
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632375,
+            "disputed_id":85632375,
+            "locality_id":101803513,
+            "region_id":85681187
+        }
+    ],
+    "wof:id":101803513,
+    "wof:lastmodified":1553815513,
+    "wof:name":"\u039d\u03b9\u03ba\u03ae\u03c4\u03b1\u03c2",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.95410813301083,
+    35.17258248390971,
+    32.96283405008489,
+    35.1791197246979
+],
+  "geometry": {"coordinates":[[[32.95839961650012,35.17771707496502],[32.96051088066912,35.1771802573972],[32.96022967719603,35.17631438943442],[32.96128528879643,35.17604596632475],[32.96072288948943,35.17431423019741],[32.96283405008489,35.17377736274648],[32.96255284343243,35.17291149829117],[32.96044170447493,35.1734483583237],[32.96016052921908,35.17258248390971],[32.95593821728482,35.17365604486434],[32.95621934926243,35.17452193411339],[32.95410813301083,35.17505864986856],[32.95495152256262,35.17765632463011],[32.95600716637307,35.17738796163837],[32.95656949650873,35.1791197246979],[32.95868080809066,35.17858294780672],[32.95839961650012,35.17771707496502]]],"type":"Polygon"}
+}

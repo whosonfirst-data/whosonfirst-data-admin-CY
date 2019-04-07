@@ -1,0 +1,114 @@
+{
+  "id": 101849087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.79388,34.932442,32.79388,34.932442",
+    "geom:latitude":34.932442,
+    "geom:longitude":32.79388,
+    "gn:population":68,
+    "iso:country":"CY",
+    "lbl:latitude":34.932442,
+    "lbl:longitude":32.79388,
+    "mps:latitude":34.932442,
+    "mps:longitude":32.79388,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0422\u0440\u0438\u0441 \u0415\u043b\u0438\u0435\u0441"
+    ],
+    "name:dut_x_preferred":[
+        "Treis Elies"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c1\u03b5\u03b9\u03c2 \u0395\u03bb\u03b9\u03ad\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "Tre\u00eds Eli\u00e9s",
+        "\u03a4\u03c1\u03b5\u03af\u03c2 \u0395\u03bb\u03b9\u03ad\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Treis Elies"
+    ],
+    "name:fre_x_preferred":[
+        "Tris Eli\u00e9s"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a4\u03c1\u03b5\u03b9\u03c2 \u0395\u03bb\u03b9\u03ad\u03c2"
+    ],
+    "name:pol_x_preferred":[
+        "Tris Elies"
+    ],
+    "name:unk_x_variant":[
+        "Tris Eli\u00e6s"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u039b\u03b5\u03bc\u03b5\u03c3\u03cc\u03c2",
+    "qs:a1_alt":"Lemesos",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u03a4\u03c1\u03b5\u03af\u03c2 \u0395\u03bb\u03b9\u03ad\u03c2",
+    "qs:loc_alt":"Treis Elies",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":34.931944,
+    "wd:longitude":32.793333,
+    "wd:wordcount":170,
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":146020,
+        "gp:id":841740,
+        "qs:id":405625,
+        "qs_pg:id":405625,
+        "wd:id":"Q779408",
+        "wk:page":"Treis Elies"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"c2db72d8006f67afa25ef7f7ca8f4aef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":101849087,
+            "region_id":85682411
+        }
+    ],
+    "wof:id":101849087,
+    "wof:lastmodified":1544740772,
+    "wof:name":"\u03a4\u03c1\u03b5\u03af\u03c2 \u0395\u03bb\u03b9\u03ad\u03c2",
+    "wof:parent_id":85682411,
+    "wof:placetype":"locality",
+    "wof:population":68,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.79388,
+    34.932442,
+    32.79388,
+    34.932442
+],
+  "geometry": {"coordinates":[32.79388,34.932442],"type":"Point"}
+}

@@ -1,0 +1,132 @@
+{
+  "id": 101837409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000066,
+    "geom:area_square_m":671738.333524,
+    "geom:bbox":"33.1739043632,35.0273488608,33.1878118795,35.0396417618",
+    "geom:latitude":35.032059,
+    "geom:longitude":33.181619,
+    "iso:country":"CY",
+    "lbl:latitude":35.032142,
+    "lbl:longitude":33.181144,
+    "mps:latitude":35.032142,
+    "mps:longitude":33.181144,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Malo\u00fanta"
+    ],
+    "name:dut_x_preferred":[
+        "Malounta"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03bb\u03bf\u03cd\u03bd\u03c4\u03b1 \u039b\u03b5\u03c5\u03ba\u03c9\u03c3\u03af\u03b1\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "Malo\u00fanta",
+        "\u039c\u03b1\u03bb\u03bf\u03cd\u03bd\u03c4\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Malounda"
+    ],
+    "name:eng_x_variant":[
+        "Malounta L/sias",
+        "Malounta"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0644\u0648\u0646\u062a\u0627"
+    ],
+    "name:gre_x_preferred":[
+        "\u039c\u03b1\u03bb\u03bf\u03cd\u03bd\u03c4\u03b1"
+    ],
+    "name:per_x_preferred":[
+        "\u0645\u0627\u0644\u0648\u0646\u062a\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Malunda"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043b\u0443\u043d\u0434\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Malounta"
+    ],
+    "name:swe_x_preferred":[
+        "Malounta"
+    ],
+    "name:tur_x_preferred":[
+        "Malounta"
+    ],
+    "name:unk_x_variant":[
+        "Malunda"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0627\u0644\u0648\u0646\u062a\u0627"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u039b\u03b5\u03c5\u03ba\u03c9\u03c3\u03af\u03b1",
+    "qs:a1_alt":"Lefkosia",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:la":"\u039c\u03b1\u03bb\u03bf\u03cd\u03bd\u03c4\u03b1",
+    "qs:la_lc":"*CY1208",
+    "qs:level":"locality",
+    "qs:loc":"\u039c\u03b1\u03bb\u03bf\u03cd\u03bd\u03c4\u03b1",
+    "qs:loc_alt":"Malounta",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":35.034444,
+    "wd:longitude":33.181944,
+    "wd:wordcount":38,
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06ef3d16-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":146349,
+        "gp:id":841478,
+        "qs:id":405557,
+        "wd:id":"Q6744561",
+        "wk:page":"Malounta"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"c81d038080545db660923feebe2d9061",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":101837409,
+            "region_id":85682397
+        }
+    ],
+    "wof:id":101837409,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527715304,
+    "wof:name":"\u039c\u03b1\u03bb\u03bf\u03cd\u03bd\u03c4\u03b1",
+    "wof:parent_id":85682397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.17390436324877,
+    35.02734886083721,
+    33.18781187949139,
+    35.03964176179193
+],
+  "geometry": {"coordinates":[[[33.18010940721416,35.02734886083721],[33.17390436324877,35.02932072849762],[33.17404392137541,35.02974789269695],[33.17509700187765,35.02947708497828],[33.17566245551927,35.03120760882052],[33.17671555099815,35.03093678166499],[33.1769983032134,35.03180203600732],[33.17805140295542,35.03153119314044],[33.17918255255927,35.0349921699185],[33.18128881839584,35.03445041841525],[33.18298596509635,35.03964176179193],[33.18403915261968,35.03937084569634],[33.1837562596404,35.03850563195073],[33.18480942999594,35.03823470759721],[33.18452653609654,35.03736949501047],[33.18557968928519,35.03709856239971],[33.18388246725772,35.03190725529089],[33.18704169529212,35.03109445264812],[33.1867588270934,35.03022923698632],[33.18781187949139,35.0299582825312],[33.18752901037499,35.02909306802758],[33.18647596868664,35.02936401875507],[33.18591028124592,35.02763357458343],[33.18380422135556,35.02817542517772],[33.18408703876111,35.02904065600268],[33.18092786841873,35.0298533531938],[33.18010940721416,35.02734886083721]]],"type":"Polygon"}
+}

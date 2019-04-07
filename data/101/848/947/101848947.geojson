@@ -1,0 +1,122 @@
+{
+  "id": 101848947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.678696,34.800724,32.678696,34.800724",
+    "geom:latitude":34.800724,
+    "geom:longitude":32.678696,
+    "gn:population":86,
+    "iso:country":"CY",
+    "lbl:latitude":34.800724,
+    "lbl:longitude":32.678696,
+    "mps:latitude":34.800724,
+    "mps:longitude":32.678696,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u054f\u0580\u0561\u056d\u056b\u057a\u0565\u0564\u0578\u0582\u056c\u0561"
+    ],
+    "name:bul_x_preferred":[
+        "\u0422\u0440\u0430\u0445\u0438\u043f\u0435\u0434\u0443\u043b\u0430"
+    ],
+    "name:dut_x_preferred":[
+        "Trachypedoula"
+    ],
+    "name:ell_x_preferred":[
+        "Trachyp\u00e9doula"
+    ],
+    "name:ell_x_variant":[
+        "\u03a4\u03c1\u03b1\u03c7\u03c5\u03c0\u03ad\u03b4\u03bf\u03c5\u03bb\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Trakhypedhoula"
+    ],
+    "name:eng_x_variant":[
+        "Trachypedoula",
+        "Trakhypedoula"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a4\u03c1\u03b1\u03c7\u03c5\u03c0\u03ad\u03b4\u03bf\u03c5\u03bb\u03b1"
+    ],
+    "name:hye_x_preferred":[
+        "\u054f\u0580\u0561\u056d\u056b\u057a\u0565\u0564\u0578\u0582\u056c\u0561"
+    ],
+    "name:pol_x_preferred":[
+        "Trachipedula"
+    ],
+    "name:unk_x_variant":[
+        "Trahipedula"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u03a0\u03ac\u03c6\u03bf\u03c2",
+    "qs:a1_alt":"Pafos",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u03a4\u03c1\u03b1\u03c7\u03c5\u03c0\u03ad\u03b4\u03bf\u03c5\u03bb\u03b1",
+    "qs:loc_alt":"Trachypedoula",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":20,
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06ef6b6a-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":146031,
+        "gp:id":841731,
+        "qs:id":1273534,
+        "qs_pg:id":1273534,
+        "wd:id":"Q7831404",
+        "wk:page":"Trachypedoula"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"c799ad51564019f25ab58ca180de0a76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":101848947,
+            "region_id":85682401
+        }
+    ],
+    "wof:id":101848947,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1544740709,
+    "wof:name":"\u03a4\u03c1\u03b1\u03c7\u03c5\u03c0\u03ad\u03b4\u03bf\u03c5\u03bb\u03b1",
+    "wof:parent_id":85682401,
+    "wof:placetype":"locality",
+    "wof:population":86,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.678696,
+    34.800724,
+    32.678696,
+    34.800724
+],
+  "geometry": {"coordinates":[32.678696,34.800724],"type":"Point"}
+}

@@ -1,0 +1,123 @@
+{
+  "id": 101850051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.260246,35.222557,33.260246,35.222557",
+    "geom:latitude":35.222557,
+    "geom:longitude":33.260246,
+    "iso:country":"CY",
+    "lbl:latitude":35.222557,
+    "lbl:longitude":33.260246,
+    "mps:latitude":35.222557,
+    "mps:longitude":33.260246,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Kanli"
+    ],
+    "name:ell_x_preferred":[
+        "Kanl\u00ed"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03b1\u03bd\u03bb\u03af"
+    ],
+    "name:eng_x_preferred":[
+        "Kanli"
+    ],
+    "name:gre_x_preferred":[
+        "\u039a\u03b1\u03bd\u03bb\u03af"
+    ],
+    "name:per_x_preferred":[
+        "\u06a9\u0627\u0646\u0644\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Kanli"
+    ],
+    "name:swe_x_preferred":[
+        "Kanl\u00ed"
+    ],
+    "name:unk_x_variant":[
+        "Kanl\u0131k\u00f6y"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0627\u0646\u0644\u06cc"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u039b\u03b5\u03c5\u03ba\u03c9\u03c3\u03af\u03b1",
+    "qs:a1_alt":"Lefkosia",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u039a\u03b1\u03bd\u03bb\u03af",
+    "qs:loc_alt":"Kanli",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85681187,
+        85632375,
+        85682397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":146559,
+        "gp:id":841323,
+        "qs:id":9,
+        "wd:id":"Q6363803",
+        "wk:page":"Kanli"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"3d7f333fff77e62e0b334b1f4e9b51ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "disputed_id":85632375,
+            "locality_id":101850051,
+            "region_id":85681187
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632375,
+            "disputed_id":85632375,
+            "locality_id":101850051,
+            "region_id":85681187
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":101850051,
+            "region_id":85682397
+        }
+    ],
+    "wof:id":101850051,
+    "wof:lastmodified":1553815543,
+    "wof:name":"\u039a\u03b1\u03bd\u03bb\u03af",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.260246,
+    35.222557,
+    33.260246,
+    35.222557
+],
+  "geometry": {"coordinates":[33.260246,35.222557],"type":"Point"}
+}

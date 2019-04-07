@@ -1,0 +1,117 @@
+{
+  "id": 1125954467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.45,34.95417,32.45,34.95417",
+    "geom:latitude":34.95417,
+    "geom:longitude":32.45,
+    "gn:gn_country":"CY",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":32,
+    "gn:population":32,
+    "iso:country":"CY",
+    "lbl:latitude":34.95417,
+    "lbl:longitude":32.45,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:arm_x_preferred":[
+        "\u053f\u0561\u057f\u0578 \u0531\u056f\u0578\u0582\u0580\u0564\u0561\u056c\u056b\u0561"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u0430\u0442\u043e \u0410\u043a\u0443\u0440\u0434\u0430\u043b\u0438\u044f"
+    ],
+    "name:dut_x_preferred":[
+        "Kato Akourdhalia"
+    ],
+    "name:ell_x_preferred":[
+        "K\u00e1to Akourd\u00e1leia"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03ac\u03c4\u03c9 \u0391\u03ba\u03bf\u03c5\u03c1\u03b4\u03ac\u03bb\u03b5\u03b9\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Kato Akourdalia"
+    ],
+    "name:eng_x_variant":[
+        "Kato Akourdhalia"
+    ],
+    "name:gre_x_preferred":[
+        "\u039a\u03ac\u03c4\u03c9 \u0391\u03ba\u03bf\u03c5\u03c1\u03b4\u03ac\u03bb\u03b9\u03b1"
+    ],
+    "name:pol_x_preferred":[
+        "Kato Akurdalia"
+    ],
+    "name:unk_x_variant":[
+        "A\u015fa\u011f\u0131kardali"
+    ],
+    "qs_pg:aaroncc":"CY",
+    "qs_pg:gn_country":"CY",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":146533,
+    "qs_pg:gn_pop":32,
+    "qs_pg:name":"Kato Akourdhalia",
+    "qs_pg:name_adm0":"Cyprus",
+    "qs_pg:name_adm1":"Paphos District",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":1,
+    "qs_pg:qs_id":405522,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":26812346,
+    "qs_pg:woe_id":841339,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "woe:adm0_id":26812346,
+    "woe:name_adm0":"Cyprus",
+    "woe:name_adm1":"Paphos District",
+    "woe:placetype":"Town",
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":146533,
+        "gp:id":841339,
+        "qs_pg:id":405522,
+        "wd:id":"Q6377736"
+    },
+    "wof:country":"CY",
+    "wof:created":1497297573,
+    "wof:geomhash":"3e62e44e5a0da119481997d4eab24784",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":1125954467,
+            "region_id":85682401
+        }
+    ],
+    "wof:id":1125954467,
+    "wof:lastmodified":1513944665,
+    "wof:name":"Kato Akourdhalia",
+    "wof:parent_id":85682401,
+    "wof:placetype":"locality",
+    "wof:population":32,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.45,
+    34.95417,
+    32.45,
+    34.95417
+],
+  "geometry": {"coordinates":[32.45,34.95417],"type":"Point"}
+}

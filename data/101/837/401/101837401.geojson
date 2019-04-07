@@ -1,0 +1,124 @@
+{
+  "id": 101837401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000213,
+    "geom:area_square_m":2157819.157334,
+    "geom:bbox":"33.38100433,35.0007540947,33.40618594,35.0177515131",
+    "geom:latitude":35.009803,
+    "geom:longitude":33.392803,
+    "iso:country":"CY",
+    "lbl:latitude":35.009683,
+    "lbl:longitude":33.391944,
+    "mps:latitude":35.009683,
+    "mps:longitude":33.391944,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Pera Chorio"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03ad\u03c1\u03b1 \u03a7\u03c9\u03c1\u03b9\u03cc"
+    ],
+    "name:ell_x_variant":[
+        "P\u00e9ra Chori\u00f3"
+    ],
+    "name:eng_x_preferred":[
+        "Perakhorio"
+    ],
+    "name:eng_x_variant":[
+        "Perachorio",
+        "Pera Chorio"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0631\u0627 \u06a9\u0648\u0631\u06cc\u0648"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a0\u03ad\u03c1\u03b1 \u03a7\u03c9\u03c1\u03b9\u03cc"
+    ],
+    "name:nno_x_preferred":[
+        "P\u00e9ra Khori\u00f3"
+    ],
+    "name:per_x_preferred":[
+        "\u067e\u0631\u0627 \u06a9\u0648\u0631\u06cc\u0648"
+    ],
+    "name:pol_x_preferred":[
+        "Pera Chorio"
+    ],
+    "name:spa_x_preferred":[
+        "Pera Chorio"
+    ],
+    "name:tur_x_preferred":[
+        "Pera Hor\u0131o"
+    ],
+    "name:unk_x_variant":[
+        "Pera Chorion"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u06cc\u0631\u0627 \u062e\u0648\u0631\u06cc\u0648"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u039b\u03b5\u03c5\u03ba\u03c9\u03c3\u03af\u03b1",
+    "qs:a1_alt":"Lefkosia",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:la":"\u0394\u03ac\u03bb\u03b9",
+    "qs:la_lc":"*CY1107",
+    "qs:level":"locality",
+    "qs:loc":"\u03a0\u03ad\u03c1\u03b1 \u03a7\u03c9\u03c1\u03b9\u03cc",
+    "qs:loc_alt":"Pera Chorio",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-multi-in-poly-resolved",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:latitude":35.011667,
+    "wd:longitude":33.390278,
+    "wd:wordcount":154,
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06ef5454-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":146191,
+        "gp:id":841603,
+        "qs:id":889848,
+        "wd:id":"Q3563309"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"c2c7bfa9f019f732ee090bb39a9762de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":101837401,
+            "region_id":85682397
+        }
+    ],
+    "wof:id":101837401,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527715302,
+    "wof:name":"\u03a0\u03ad\u03c1\u03b1 \u03a7\u03c9\u03c1\u03b9\u03cc",
+    "wof:parent_id":85682397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.38100432998885,
+    35.00075409465859,
+    33.40618593999403,
+    35.01775151314462
+],
+  "geometry": {"coordinates":[[[33.40544709694791,35.01237011856864],[33.40618593999403,35.0098386838236],[33.40597340916077,35.0091949048072],[33.40492122636527,35.00946836060831],[33.40463589017827,35.00860397774647],[33.40147933476885,35.00942426208007],[33.40090875591056,35.00769546602942],[33.39775220595737,35.00851562012537],[33.39661129444261,35.00505795181135],[33.39871558234302,35.00451122442746],[33.39814514314008,35.00278238972362],[33.3983751273874,35.00272263212207],[33.39404914917458,35.00075409465859],[33.39413327648822,35.00100913500472],[33.39202905615889,35.00155575304217],[33.3923141879867,35.00242019825038],[33.38600130726968,35.00405978769913],[33.38628638502826,35.00492425283858],[33.38418201821128,35.00547069442871],[33.38646282464532,35.01238638224311],[33.3854105462367,35.0126596151207],[33.38569568074615,35.01352406818199],[33.38148645953419,35.01461689502526],[33.38205667284916,35.01634582340489],[33.38100432998885,35.01661900770227],[33.3812894407738,35.01748347175749],[33.38339414132292,35.01693708368441],[33.3836627977505,35.01775151314462],[33.40544709694791,35.01237011856864]]],"type":"Polygon"}
+}

@@ -1,0 +1,118 @@
+{
+  "id": 101804701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00003,
+    "geom:area_square_m":300046.049694,
+    "geom:bbox":"32.7815636013,34.9221125929,32.786662539,34.9324480554",
+    "geom:latitude":34.926934,
+    "geom:longitude":32.783997,
+    "gn:population":97,
+    "iso:country":"CY",
+    "lbl:latitude":34.926786,
+    "lbl:longitude":32.784596,
+    "mps:latitude":34.926786,
+    "mps:longitude":32.784596,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041a\u0430\u043c\u0438\u043d\u0430\u0440\u0438\u044f"
+    ],
+    "name:dut_x_preferred":[
+        "Kaminaria"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03bc\u03b9\u03bd\u03ac\u03c1\u03b9\u03b1"
+    ],
+    "name:ell_x_variant":[
+        "Kamin\u00e1ria"
+    ],
+    "name:eng_x_preferred":[
+        "Kaminaria"
+    ],
+    "name:eng_x_variant":[
+        "Kaminara",
+        "Kaminarka",
+        "Kominarga"
+    ],
+    "name:gre_x_preferred":[
+        "\u039a\u03b1\u03bc\u03b9\u03bd\u03ac\u03c1\u03b9\u03b1"
+    ],
+    "name:pol_x_preferred":[
+        "Kaminaria"
+    ],
+    "name:unk_x_variant":[
+        "Kominarga"
+    ],
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u039b\u03b5\u03bc\u03b5\u03c3\u03cc\u03c2",
+    "qs:a1_alt":"Lemesos",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:la":"\u039a\u03b1\u03bc\u03b9\u03bd\u03ac\u03c1\u03b9\u03b1",
+    "qs:la_lc":"*CY5343",
+    "qs:level":"locality",
+    "qs:loc":"\u039a\u03b1\u03bc\u03b9\u03bd\u03ac\u03c1\u03b9\u03b1",
+    "qs:loc_alt":"Kaminaria",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural point-in-poly",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:latitude":34.928611,
+    "wd:longitude":32.783889,
+    "wd:wordcount":21,
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fct:id":"06ef20ec-8f76-11e1-848f-cfd5bf3ef515",
+        "gn:id":146561,
+        "gp:id":841321,
+        "qs:id":313445,
+        "qs_pg:id":313445,
+        "wd:id":"Q6358153",
+        "wk:page":"Kaminaria"
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"9ce2eb5659c9eb9b51cb82968ec3e7d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":101804701,
+            "region_id":85682411
+        }
+    ],
+    "wof:id":101804701,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1527642743,
+    "wof:name":"\u039a\u03b1\u03bc\u03b9\u03bd\u03ac\u03c1\u03b9\u03b1",
+    "wof:parent_id":85682411,
+    "wof:placetype":"locality",
+    "wof:population":97,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.78156360131442,
+    34.92211259292571,
+    32.78666253898757,
+    34.93244805537478
+],
+  "geometry": {"coordinates":[[[32.78666253898757,34.92791513472991],[32.78499895228771,34.92271331960706],[32.7839462411435,34.92297957461159],[32.78366902105626,34.92211259292571],[32.78156360131442,34.92264505964158],[32.78294969023773,34.92697997939734],[32.78189691711697,34.92724621305734],[32.78356047619161,34.93244805537478],[32.78566614518013,34.93191553215479],[32.78455698133422,34.92844767665053],[32.78666253898757,34.92791513472991]]],"type":"Polygon"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 101849059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.97597,34.644531,32.97597,34.644531",
+    "geom:latitude":34.644531,
+    "geom:longitude":32.97597,
+    "iso:country":"CY",
+    "lbl:latitude":34.644531,
+    "lbl:longitude":32.97597,
+    "mps:latitude":34.644531,
+    "mps:longitude":32.97597,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:a1":"*\u039b\u03b5\u03bc\u03b5\u03c3\u03cc\u03c2",
+    "qs:a1_alt":"Lemesos",
+    "qs:a1r":"0",
+    "qs:adm0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"\u03a4\u03c3\u03b5\u03c1\u03ba\u03ad\u03b6\u03bf\u03b9",
+    "qs:loc_alt":"Tserkezoi",
+    "qs:pop":0,
+    "qs:source":"NCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"buffered point",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:geom_via":"quattroshapes",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85682411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":841729,
+        "qs:id":8
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"cd414007c8d6b2a781cb6af7a156111e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "locality_id":101849059,
+            "region_id":85682411
+        }
+    ],
+    "wof:id":101849059,
+    "wof:lastmodified":1544740760,
+    "wof:name":"\u03a4\u03c3\u03b5\u03c1\u03ba\u03ad\u03b6\u03bf\u03b9",
+    "wof:parent_id":85682411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.97597,
+    34.644531,
+    32.97597,
+    34.644531
+],
+  "geometry": {"coordinates":[32.97597,34.644531],"type":"Point"}
+}

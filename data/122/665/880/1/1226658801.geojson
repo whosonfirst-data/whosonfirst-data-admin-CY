@@ -1,0 +1,99 @@
+{
+  "id": 1226658801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.53363,35.28538,33.53363,35.28538",
+    "geom:latitude":35.28538,
+    "geom:longitude":33.53363,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Chalevga",
+    "gn:country_code":"CY",
+    "gn:dem":618,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":146590,
+    "gn:latitude":35.28538,
+    "gn:longitude":33.53363,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Chal\u00e9vga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Famagusta",
+    "iso:country":"CY",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "Chal\u00e9vga"
+    ],
+    "name:ell_x_variant":[
+        "\u03a7\u03b1\u03bb\u03b5\u03cd\u03b3\u03b1"
+    ],
+    "name:und_x_variant":[
+        "Alevkaya",
+        "Halevga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632437,
+        85681187,
+        85632375,
+        85682393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":146590
+    },
+    "wof:country":"CY",
+    "wof:geomhash":"c170a3e331f95ea1a03a1ebe5039c27e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "disputed_id":85632375,
+            "locality_id":1226658801,
+            "region_id":85681187
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632375,
+            "disputed_id":85632375,
+            "locality_id":1226658801,
+            "region_id":85681187
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632437,
+            "disputed_id":85632375,
+            "locality_id":1226658801,
+            "region_id":85682393
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632375,
+            "disputed_id":85632375,
+            "locality_id":1226658801,
+            "region_id":85682393
+        }
+    ],
+    "wof:id":1226658801,
+    "wof:lastmodified":1537619246,
+    "wof:name":"Chalevga",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.53363,
+    35.28538,
+    33.53363,
+    35.28538
+],
+  "geometry": {"coordinates":[33.53363,35.28538],"type":"Point"}
+}
