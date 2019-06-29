@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000024,
-    "geom:area_square_m":244587.611232,
+    "geom:area_square_m":244587.611231,
     "geom:bbox":"32.8213425619,34.9818627818,32.8292726594,34.9886888055",
     "geom:latitude":34.984652,
     "geom:longitude":32.824911,
@@ -23,9 +23,6 @@
     "name:deu_x_preferred":[
         "Moutoullas"
     ],
-    "name:dut_x_preferred":[
-        "Moutoullas"
-    ],
     "name:ell_x_preferred":[
         "\u039c\u03bf\u03c5\u03c4\u03bf\u03c5\u03bb\u03bb\u03ac\u03c2"
     ],
@@ -38,17 +35,11 @@
     "name:fas_x_preferred":[
         "\u0645\u0648\u062a\u0648\u0644\u0627\u0633"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Moutoullas"
     ],
-    "name:ger_x_preferred":[
+    "name:nld_x_preferred":[
         "Moutoullas"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03bf\u03c5\u03c4\u03bf\u03c5\u03bb\u03bb\u03ac\u03c2"
-    ],
-    "name:per_x_preferred":[
-        "\u0645\u0648\u062a\u0648\u0644\u0627\u0633"
     ],
     "name:pol_x_preferred":[
         "Mutulas"
@@ -117,7 +108,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527715302,
+    "wof:lastmodified":1561769737,
     "wof:name":"\u039c\u03bf\u03c5\u03c4\u03bf\u03c5\u03bb\u03bb\u03ac\u03c2",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

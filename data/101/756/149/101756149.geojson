@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001106,
-    "geom:area_square_m":11181523.856708,
+    "geom:area_square_m":11181523.856707,
     "geom:bbox":"33.368107,35.1379181609,33.4203309329,35.1883505431",
     "geom:latitude":35.156118,
     "geom:longitude":33.394681,
@@ -16,14 +16,8 @@
     "mps:longitude":33.392108,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u0531\u0563\u056c\u0561\u0576\u0571\u056b\u0561"
-    ],
     "name:bel_x_variant":[
         "\u0410\u0433\u043b\u044f\u043d\u0442\u044b\u044f"
-    ],
-    "name:dut_x_preferred":[
-        "Aglandjia"
     ],
     "name:ell_x_preferred":[
         "\u0391\u03b3\u03bb\u03b1\u03bd\u03c4\u03b6\u03b9\u03ac"
@@ -37,20 +31,20 @@
     "name:fra_x_preferred":[
         "Aglantsia"
     ],
-    "name:fre_x_preferred":[
-        "Aglantsia"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03b3\u03bb\u03b1\u03bd\u03c4\u03b6\u03b9\u03ac"
-    ],
     "name:hye_x_preferred":[
         "\u0531\u0563\u056c\u0561\u0576\u057f\u0566\u056b\u0561"
+    ],
+    "name:hye_x_variant":[
+        "\u0531\u0563\u056c\u0561\u0576\u0571\u056b\u0561"
     ],
     "name:ita_x_preferred":[
         "Aglantzia"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0410\u0433\u043b\u0430\u043d\u0455\u0438\u0458\u0430"
+    ],
+    "name:nld_x_preferred":[
+        "Aglandjia"
     ],
     "name:nno_x_preferred":[
         "Aglandzi\u00e1"
@@ -60,9 +54,6 @@
     ],
     "name:nor_x_preferred":[
         "Aglantzia"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u06af\u0644\u0627\u0646\u062f\u062c\u06cc\u0627"
     ],
     "name:pol_x_preferred":[
         "Aglandzia"
@@ -118,7 +109,7 @@
         }
     ],
     "wof:id":101756149,
-    "wof:lastmodified":1527696573,
+    "wof:lastmodified":1561769733,
     "wof:name":"\u0391\u03b3\u03bb\u03b1\u03bd\u03c4\u03b6\u03b9\u03ac",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

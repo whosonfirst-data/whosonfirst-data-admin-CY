@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000082,
-    "geom:area_square_m":830118.705141,
+    "geom:area_square_m":830118.70514,
     "geom:bbox":"32.8856095075,35.058232605,32.8975276019,35.0784253939",
     "geom:latitude":35.067754,
     "geom:longitude":32.890593,
@@ -20,14 +20,14 @@
     "name:ceb_x_preferred":[
         "K\u00e1to Fl\u00e1sou"
     ],
-    "name:dut_x_preferred":[
-        "Flasou"
+    "name:ell_x_preferred":[
+        "\u03a6\u03bb\u03ac\u03c3\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
         "Flasou"
     ],
-    "name:gre_x_preferred":[
-        "\u03a6\u03bb\u03ac\u03c3\u03bf\u03c5"
+    "name:nld_x_preferred":[
+        "Flasou"
     ],
     "name:pol_x_preferred":[
         "Kato Flasu"
@@ -76,7 +76,7 @@
         }
     ],
     "wof:id":101803469,
-    "wof:lastmodified":1527642769,
+    "wof:lastmodified":1561769728,
     "wof:name":"\u03a6\u03bb\u03ac\u03c3\u03bf\u03c5",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000365,
-    "geom:area_square_m":3690455.393121,
+    "geom:area_square_m":3690455.393119,
     "geom:bbox":"33.4168724499,35.0686854527,33.4518045505,35.0941652874",
     "geom:latitude":35.079682,
     "geom:longitude":33.432928,
@@ -17,12 +17,6 @@
     "mps:longitude":33.431208,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u0531\u0575\u0578\u057d \u054d\u0578\u0566\u0578\u0574\u0565\u0576\u0578\u057d"
-    ],
-    "name:dut_x_preferred":[
-        "Agios Sozomenos"
-    ],
     "name:ell_x_preferred":[
         "\u00c1gios Soz\u00f3menos"
     ],
@@ -44,14 +38,11 @@
     "name:fas_x_preferred":[
         "\u0627\u06af\u06cc\u0648\u0627\u0633 \u0633\u0648\u0632\u0648\u0645\u0646\u0627\u0633"
     ],
-    "name:gre_x_preferred":[
-        "\u0386\u03b3\u03b9\u03bf\u03c2 \u03a3\u03c9\u03b6\u03cc\u03bc\u03b5\u03bd\u03bf\u03c2"
-    ],
     "name:hye_x_preferred":[
         "\u0531\u0575\u0578\u057d \u054d\u0578\u0566\u0578\u0574\u0565\u0576\u0578\u057d"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u06af\u06cc\u0648\u0627\u0633 \u0633\u0648\u0632\u0648\u0645\u0646\u0627\u0633"
+    "name:nld_x_preferred":[
+        "Agios Sozomenos"
     ],
     "name:pol_x_preferred":[
         "Ajos Sozomenos"
@@ -114,7 +105,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527714716,
+    "wof:lastmodified":1561769733,
     "wof:name":"\u0386\u03b3\u03b9\u03bf\u03c2 \u03a3\u03c9\u03b6\u03cc\u03bc\u03b5\u03bd\u03bf\u03c2",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

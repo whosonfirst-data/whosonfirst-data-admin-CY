@@ -23,9 +23,6 @@
     "name:ceb_x_preferred":[
         "Monagro\u00falli"
     ],
-    "name:dut_x_preferred":[
-        "Monagroulli"
-    ],
     "name:ell_x_preferred":[
         "\u039c\u03bf\u03bd\u03b1\u03b3\u03c1\u03bf\u03cd\u03bb\u03bb\u03b9"
     ],
@@ -35,8 +32,8 @@
     "name:eng_x_preferred":[
         "Monagroulli"
     ],
-    "name:gre_x_preferred":[
-        "\u039c\u03bf\u03bd\u03b1\u03b3\u03c1\u03bf\u03cd\u03bb\u03bb\u03b9"
+    "name:nld_x_preferred":[
+        "Monagroulli"
     ],
     "name:pol_x_preferred":[
         "Monagruli"
@@ -90,7 +87,7 @@
         }
     ],
     "wof:id":101875243,
-    "wof:lastmodified":1527642575,
+    "wof:lastmodified":1561769715,
     "wof:name":"\u039c\u03bf\u03bd\u03b1\u03b3\u03c1\u03bf\u03cd\u03bb\u03bb\u03b9",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

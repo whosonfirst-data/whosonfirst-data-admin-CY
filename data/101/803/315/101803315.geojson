@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000072,
-    "geom:area_square_m":730031.550947,
+    "geom:area_square_m":730031.550946,
     "geom:bbox":"34.1235454716,35.4187194008,34.1361530572,35.4325056656",
     "geom:latitude":35.425944,
     "geom:longitude":34.13058,
@@ -16,14 +16,11 @@
     "mps:longitude":34.132156,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u053f\u0578\u0574\u0561 \u057f\u0578\u0582 \u0545\u0561\u056c\u0578\u0582"
-    ],
     "name:bul_x_preferred":[
         "\u041a\u043e\u043c\u0430 \u0442\u0443 \u042f\u043b\u0443"
     ],
-    "name:dut_x_preferred":[
-        "Koma tou Gialou"
+    "name:deu_x_preferred":[
+        "Koma tou Gialou/Kumyal\u0131"
     ],
     "name:ell_x_preferred":[
         "K\u00f3ma tou Gialo\u00fa"
@@ -44,11 +41,11 @@
         "Kumyali",
         "Koma tou Gialou"
     ],
-    "name:ger_x_preferred":[
-        "Koma tou Gialou/Kumyal\u0131"
+    "name:hye_x_preferred":[
+        "\u053f\u0578\u0574\u0561 \u057f\u0578\u0582 \u0545\u0561\u056c\u0578\u0582"
     ],
-    "name:gre_x_preferred":[
-        "\u039a\u03ce\u03bc\u03b1 \u03c4\u03bf\u03c5 \u0393\u03b9\u03b1\u03bb\u03bf\u03cd"
+    "name:nld_x_preferred":[
+        "Koma tou Gialou"
     ],
     "name:pol_x_preferred":[
         "Koma tu Jalu"
@@ -130,7 +127,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1513944717,
+    "wof:lastmodified":1561769726,
     "wof:name":"\u039a\u03ce\u03bc\u03b1 \u03c4\u03bf\u03c5 \u0393\u03b9\u03b1\u03bb\u03bf\u03cd",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

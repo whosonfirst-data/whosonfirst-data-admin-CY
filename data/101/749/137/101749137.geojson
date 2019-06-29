@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000919,
-    "geom:area_square_m":9295353.593622,
+    "geom:area_square_m":9295353.593627,
     "geom:bbox":"33.909191,35.090294,33.9698255,35.1451795",
     "geom:latitude":35.117143,
     "geom:longitude":33.939065,
@@ -21,13 +21,7 @@
     "name:ara_x_preferred":[
         "\u0641\u0627\u0645\u0627\u063a\u0648\u0633\u062a\u0627"
     ],
-    "name:arm_x_preferred":[
-        "\u0556\u0561\u0574\u0561\u0563\u0578\u0582\u057d\u057f\u0561"
-    ],
     "name:aze_x_preferred":[
-        "Famagusta"
-    ],
-    "name:baq_x_preferred":[
         "Famagusta"
     ],
     "name:ben_x_preferred":[
@@ -39,19 +33,13 @@
     "name:cat_x_preferred":[
         "Famagusta"
     ],
-    "name:chi_x_preferred":[
-        "\u6cd5\u9a6c\u53e4\u65af\u5854"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Famagusta"
     ],
     "name:dan_x_preferred":[
         "Famagusta"
     ],
     "name:deu_x_preferred":[
-        "Famagusta"
-    ],
-    "name:dut_x_preferred":[
         "Famagusta"
     ],
     "name:ell_x_preferred":[
@@ -72,6 +60,9 @@
     "name:est_x_preferred":[
         "Famagusta"
     ],
+    "name:eus_x_preferred":[
+        "Famagusta"
+    ],
     "name:fas_x_preferred":[
         "\u0641\u0627\u0645\u0627\u06af\u0648\u0633\u062a\u0627"
     ],
@@ -81,20 +72,8 @@
     "name:fra_x_preferred":[
         "Famagouste"
     ],
-    "name:fre_x_preferred":[
-        "Famagouste"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e4\u10d0\u10db\u10d0\u10d2\u10e3\u10e1\u10e2\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Famagusta"
-    ],
     "name:glg_x_preferred":[
         "Famagusta"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03bc\u03bc\u03cc\u03c7\u03c9\u03c3\u03c4\u03bf\u03c2"
     ],
     "name:grn_x_preferred":[
         "Famagusta"
@@ -150,7 +129,7 @@
     "name:mar_x_preferred":[
         "\u092b\u0945\u0917\u094d\u0930\u0941\u0938\u094d\u0924\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Famagusta"
     ],
     "name:nep_x_preferred":[
@@ -167,9 +146,6 @@
     ],
     "name:oci_x_preferred":[
         "Famagosta"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0627\u0645\u0627\u06af\u0648\u0633\u062a\u0627"
     ],
     "name:pnb_x_preferred":[
         "\u0641\u0627\u0645\u0627\u06af\u0648\u0633\u062a\u0627"
@@ -189,7 +165,7 @@
     "name:sin_x_preferred":[
         "\u0dc6\u0db8\u0d9c\u0dc3\u0dca\u0da7\u0dcf"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Gazima\u011fusa"
     ],
     "name:spa_x_preferred":[
@@ -412,7 +388,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1513944687,
+    "wof:lastmodified":1561769731,
     "wof:name":"\u0391\u03bc\u03bc\u03cc\u03c7\u03c9\u03c3\u03c4\u03bf\u03c2",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

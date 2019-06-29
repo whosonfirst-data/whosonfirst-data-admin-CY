@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000093,
-    "geom:area_square_m":943945.58277,
+    "geom:area_square_m":943945.582769,
     "geom:bbox":"33.2543550957,35.0534164869,33.2684969301,35.0692311739",
     "geom:latitude":35.060797,
     "geom:longitude":33.261286,
@@ -20,11 +20,11 @@
     "name:ceb_x_preferred":[
         "Psimolofou"
     ],
-    "name:dut_x_preferred":[
-        "Psimolofou"
-    ],
     "name:ell_x_preferred":[
         "\u03a8\u03b9\u03bc\u03bf\u03bb\u03cc\u03c6\u03bf\u03c5"
+    ],
+    "name:ell_x_variant":[
+        "\u03a8\u03b7\u03bc\u03bf\u03bb\u03cc\u03c6\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
         "Psomolophou"
@@ -39,14 +39,8 @@
     "name:fra_x_preferred":[
         "Psimolofou"
     ],
-    "name:fre_x_preferred":[
+    "name:nld_x_preferred":[
         "Psimolofou"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a8\u03b7\u03bc\u03bf\u03bb\u03cc\u03c6\u03bf\u03c5"
-    ],
-    "name:per_x_preferred":[
-        "\u067e\u0633\u0648\u0645\u0648\u0644\u0648\u0641\u0648"
     ],
     "name:pol_x_preferred":[
         "Psimolofu"
@@ -115,7 +109,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527715311,
+    "wof:lastmodified":1561769738,
     "wof:name":"\u03a8\u03b9\u03bc\u03bf\u03bb\u03cc\u03c6\u03bf\u03c5",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

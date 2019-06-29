@@ -16,14 +16,12 @@
     "mps:longitude":32.750639,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Variseia"
-    ],
     "name:ell_x_preferred":[
         "Var\u00edseia"
     ],
     "name:ell_x_variant":[
-        "\u0392\u03b1\u03c1\u03af\u03c3\u03b5\u03b9\u03b1"
+        "\u0392\u03b1\u03c1\u03af\u03c3\u03b5\u03b9\u03b1",
+        "\u0392\u03b1\u03c1\u03af\u03c3\u03b9\u03b1"
     ],
     "name:eng_x_preferred":[
         "Varisha"
@@ -34,11 +32,8 @@
     "name:fas_x_preferred":[
         "\u0648\u0631\u06cc\u0633\u06cc\u0627"
     ],
-    "name:gre_x_preferred":[
-        "\u0392\u03b1\u03c1\u03af\u03c3\u03b9\u03b1"
-    ],
-    "name:per_x_preferred":[
-        "\u0648\u0631\u06cc\u0633\u06cc\u0627"
+    "name:nld_x_preferred":[
+        "Variseia"
     ],
     "name:pol_x_preferred":[
         "Warisia"
@@ -100,7 +95,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527642586,
+    "wof:lastmodified":1561769718,
     "wof:name":"\u0392\u03b1\u03c1\u03af\u03c3\u03b5\u03b9\u03b1",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

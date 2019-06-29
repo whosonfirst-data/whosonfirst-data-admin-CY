@@ -23,9 +23,6 @@
     "name:ceb_x_preferred":[
         "Skar\u00ednou"
     ],
-    "name:dut_x_preferred":[
-        "Skarinou"
-    ],
     "name:ell_x_preferred":[
         "\u03a3\u03ba\u03b1\u03c1\u03af\u03bd\u03bf\u03c5"
     ],
@@ -40,8 +37,8 @@
         "Skarino",
         "Skarinu"
     ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03ba\u03b1\u03c1\u03af\u03bd\u03bf\u03c5"
+    "name:nld_x_preferred":[
+        "Skarinou"
     ],
     "name:pol_x_preferred":[
         "Skarinu"
@@ -103,7 +100,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527642755,
+    "wof:lastmodified":1561769723,
     "wof:name":"\u03a3\u03ba\u03b1\u03c1\u03af\u03bd\u03bf\u03c5",
     "wof:parent_id":85682407,
     "wof:placetype":"locality",

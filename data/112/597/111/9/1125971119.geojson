@@ -19,26 +19,24 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:arm_x_preferred":[
-        "\u0531\u0575\u0578\u057d \u053b\u057d\u056b\u0564\u0578\u0580\u0578\u057d"
-    ],
     "name:bul_x_preferred":[
         "\u0410\u0433\u0438\u043e\u0441 \u0418\u0441\u0438\u0434\u043e\u0440\u043e\u0441"
-    ],
-    "name:dut_x_preferred":[
-        "Ayios Isidhoros"
     ],
     "name:ell_x_preferred":[
         "\u00c1gios Is\u00eddoros"
     ],
     "name:ell_x_variant":[
-        "\u0386\u03b3\u03b9\u03bf\u03c2 \u0399\u03c3\u03af\u03b4\u03c9\u03c1\u03bf\u03c2"
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u0399\u03c3\u03af\u03b4\u03c9\u03c1\u03bf\u03c2",
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u0399\u03c3\u03af\u03b4\u03c9\u03c1\u03bf\u03c2 \u03a0\u03ac\u03c6\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
         "Ayios Isidhoros"
     ],
-    "name:gre_x_preferred":[
-        "\u0386\u03b3\u03b9\u03bf\u03c2 \u0399\u03c3\u03af\u03b4\u03c9\u03c1\u03bf\u03c2 \u03a0\u03ac\u03c6\u03bf\u03c5"
+    "name:hye_x_preferred":[
+        "\u0531\u0575\u0578\u057d \u053b\u057d\u056b\u0564\u0578\u0580\u0578\u057d"
+    ],
+    "name:nld_x_preferred":[
+        "Ayios Isidhoros"
     ],
     "name:pol_x_preferred":[
         "Ajos Isidoros"
@@ -93,7 +91,7 @@
         }
     ],
     "wof:id":1125971119,
-    "wof:lastmodified":1513944664,
+    "wof:lastmodified":1561769739,
     "wof:name":"Ayios Isidhoros",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

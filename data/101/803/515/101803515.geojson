@@ -16,9 +16,6 @@
     "mps:longitude":32.94018,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Syrianochori"
-    ],
     "name:ell_x_preferred":[
         "Syrianoch\u00f3ri"
     ],
@@ -33,11 +30,11 @@
         "Siryanohori",
         "Syrianochori"
     ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03c5\u03c1\u03b9\u03b1\u03bd\u03bf\u03c7\u03ce\u03c1\u03b9"
-    ],
     "name:hun_x_preferred":[
         "Yayla"
+    ],
+    "name:nld_x_preferred":[
+        "Syrianochori"
     ],
     "name:pol_x_preferred":[
         "Sirianochori"
@@ -116,7 +113,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1513944759,
+    "wof:lastmodified":1561769731,
     "wof:name":"\u03a3\u03c5\u03c1\u03b9\u03b1\u03bd\u03bf\u03c7\u03ce\u03c1\u03b9",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

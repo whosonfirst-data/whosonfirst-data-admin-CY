@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00059,
-    "geom:area_square_m":5959368.39406,
+    "geom:area_square_m":5959368.394059,
     "geom:bbox":"33.3565272175,35.1958666364,33.3974616308,35.2288444184",
     "geom:latitude":35.21265,
     "geom:longitude":33.376672,
@@ -18,9 +18,6 @@
     "mz:is_current":1,
     "name:ceb_x_preferred":[
         "M\u00e1ndres"
-    ],
-    "name:dut_x_preferred":[
-        "Mandres"
     ],
     "name:ell_x_preferred":[
         "\u03a7\u03b1\u03bc\u03af\u03c4 \u039c\u03ac\u03bd\u03c4\u03c1\u03b5\u03c2"
@@ -44,14 +41,11 @@
     "name:fas_x_preferred":[
         "\u0647\u0645\u06cc\u062a\u06a9\u0648\u06cc"
     ],
-    "name:gre_x_preferred":[
-        "\u03a7\u03b1\u03bc\u03af\u03c4 \u039c\u03ac\u03bd\u03c4\u03c1\u03b5\u03c2"
+    "name:nld_x_preferred":[
+        "Mandres"
     ],
     "name:nno_x_preferred":[
         "M\u00e1ndres"
-    ],
-    "name:per_x_preferred":[
-        "\u0647\u0645\u06cc\u062a\u06a9\u0648\u06cc"
     ],
     "name:pol_x_preferred":[
         "Mandres"
@@ -138,7 +132,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1513944732,
+    "wof:lastmodified":1561769732,
     "wof:name":"\u039c\u03ac\u03bd\u03b4\u03c1\u03b5\u03c2",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000027,
-    "geom:area_square_m":270035.393614,
+    "geom:area_square_m":270035.393613,
     "geom:bbox":"32.8002277499,34.9977971077,32.8092135146,35.0045968918",
     "geom:latitude":35.001188,
     "geom:longitude":32.805094,
@@ -19,9 +19,6 @@
     "mz:is_current":1,
     "name:ceb_x_preferred":[
         "Geraki\u00e9s"
-    ],
-    "name:dut_x_preferred":[
-        "Gerakies"
     ],
     "name:ell_x_preferred":[
         "Geraki\u00e9s"
@@ -38,11 +35,8 @@
     "name:fas_x_preferred":[
         "\u06af\u0631\u0627\u06a9\u0627\u06cc\u0633"
     ],
-    "name:gre_x_preferred":[
-        "\u0393\u03b5\u03c1\u03b1\u03ba\u03b9\u03ad\u03c2"
-    ],
-    "name:per_x_preferred":[
-        "\u06af\u0631\u0627\u06a9\u0627\u06cc\u0633"
+    "name:nld_x_preferred":[
+        "Gerakies"
     ],
     "name:pol_x_preferred":[
         "Jerakies"
@@ -116,7 +110,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527642761,
+    "wof:lastmodified":1561769724,
     "wof:name":"\u0393\u03b5\u03c1\u03b1\u03ba\u03b9\u03ad\u03c2",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

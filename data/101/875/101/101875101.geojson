@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000217,
-    "geom:area_square_m":2198918.795717,
+    "geom:area_square_m":2198918.795713,
     "geom:bbox":"32.7395797657,35.1381401089,32.7543619124,35.1563470658",
     "geom:latitude":35.147175,
     "geom:longitude":32.74655,
@@ -16,9 +16,6 @@
     "mps:longitude":32.747148,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Loutros"
-    ],
     "name:ell_x_preferred":[
         "Loutr\u00f3s"
     ],
@@ -28,8 +25,8 @@
     "name:eng_x_preferred":[
         "Lutro"
     ],
-    "name:gre_x_preferred":[
-        "\u039b\u03bf\u03c5\u03c4\u03c1\u03cc\u03c2"
+    "name:nld_x_preferred":[
+        "Loutros"
     ],
     "name:pol_x_preferred":[
         "Lutros"
@@ -111,7 +108,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1513944731,
+    "wof:lastmodified":1561769717,
     "wof:name":"\u039b\u03bf\u03c5\u03c4\u03c1\u03cc\u03c2",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

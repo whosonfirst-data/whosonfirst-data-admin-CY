@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.110441,
-    "geom:area_square_m":1119851832.060043,
+    "geom:area_square_m":1119851832.059926,
     "geom:bbox":"33.127323,34.7150615,33.9022485,35.1171875",
     "geom:latitude":34.912362,
     "geom:longitude":33.488184,
@@ -27,9 +27,6 @@
     "name:ara_x_preferred":[
         "\u0645\u0646\u0637\u0642\u0629 \u0644\u0627\u0631\u0646\u0643\u0627"
     ],
-    "name:arm_x_preferred":[
-        "\u053c\u0561\u0580\u0576\u0561\u056f\u0561\u0575\u056b \u0577\u0580\u057b\u0561\u0576"
-    ],
     "name:ben_x_preferred":[
         "\u09b2\u09be\u09b0\u09cd\u09a8\u09be\u0995\u09be \u099c\u09c7\u09b2\u09be"
     ],
@@ -39,17 +36,14 @@
     "name:cat_x_preferred":[
         "Districte de L\u00e0rnaca"
     ],
-    "name:chi_x_preferred":[
-        "\u62c9\u7eb3\u5361\u533a"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Larnaka"
     ],
     "name:dan_x_preferred":[
         "Larnaca District"
     ],
-    "name:dut_x_preferred":[
-        "Larnaca"
+    "name:deu_x_preferred":[
+        "Bezirk Larnaka"
     ],
     "name:ell_x_preferred":[
         "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u039b\u03ac\u03c1\u03bd\u03b1\u03ba\u03b1\u03c2"
@@ -62,20 +56,17 @@
         "Larnaka",
         "Larnaca"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u0644\u0627\u0631\u0646\u0627\u06a9\u0627"
+    ],
     "name:fin_x_preferred":[
         "Larnakan alue"
     ],
     "name:fra_x_preferred":[
         "Larnaca"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "district de Larnaca"
-    ],
-    "name:ger_x_preferred":[
-        "Bezirk Larnaka"
-    ],
-    "name:gre_x_preferred":[
-        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u039b\u03ac\u03c1\u03bd\u03b1\u03ba\u03b1\u03c2"
     ],
     "name:guj_x_preferred":[
         "\u0ab2\u0abe\u0ab0\u0acd\u0aa8\u0abe\u0a95\u0abe \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
@@ -85,6 +76,9 @@
     ],
     "name:hin_x_preferred":[
         "\u0932\u093e\u0930\u094d\u0928\u093e\u0915\u093e \u091c\u093f\u0932\u093e"
+    ],
+    "name:hye_x_preferred":[
+        "\u053c\u0561\u0580\u0576\u0561\u056f\u0561\u0575\u056b \u0577\u0580\u057b\u0561\u0576"
     ],
     "name:ind_x_preferred":[
         "Distrik Larnaca"
@@ -113,17 +107,17 @@
     "name:mar_x_preferred":[
         "\u0932\u093e\u0930\u094d\u0928\u093e\u0915\u093e \u091c\u093f\u0932\u094d\u0939\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Daerah Larnaca"
+    ],
+    "name:nld_x_preferred":[
+        "Larnaca"
     ],
     "name:nno_x_preferred":[
         "Distriktet L\u00e1rnaka"
     ],
     "name:nob_x_preferred":[
         "Larnaka"
-    ],
-    "name:per_x_preferred":[
-        "\u0646\u0627\u062d\u06cc\u0647 \u0644\u0627\u0631\u0646\u0627\u06a9\u0627"
     ],
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u0644\u0631\u0646\u0627\u06a9\u0627"
@@ -134,7 +128,7 @@
     "name:por_x_preferred":[
         "Larnaca"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Larnaca"
     ],
     "name:rus_x_preferred":[
@@ -181,6 +175,9 @@
     ],
     "name:war_x_preferred":[
         "Larnaca"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u7eb3\u5361\u533a"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"CYP",
@@ -301,7 +298,7 @@
         "ell",
         "tur"
     ],
-    "wof:lastmodified":1553814871,
+    "wof:lastmodified":1561769713,
     "wof:name":"\u039b\u03ac\u03c1\u03bd\u03b1\u03ba\u03b1",
     "wof:parent_id":85632437,
     "wof:placetype":"region",

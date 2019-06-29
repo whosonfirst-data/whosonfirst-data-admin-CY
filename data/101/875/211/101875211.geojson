@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000165,
-    "geom:area_square_m":1668436.729489,
+    "geom:area_square_m":1668436.729491,
     "geom:bbox":"32.4348023068,34.9704010772,32.4496836815,34.9861473067",
     "geom:latitude":34.977881,
     "geom:longitude":32.441731,
@@ -16,14 +16,8 @@
     "mps:longitude":32.441128,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u053d\u0578\u056c\u056b"
-    ],
     "name:bul_x_preferred":[
         "\u0425\u043e\u043b\u0438"
-    ],
-    "name:dut_x_preferred":[
-        "Choli"
     ],
     "name:ell_x_preferred":[
         "Ch\u00f3li"
@@ -39,11 +33,11 @@
         "Koili",
         "Choli"
     ],
-    "name:gre_x_preferred":[
-        "\u03a7\u03cc\u03bb\u03b7"
-    ],
     "name:hye_x_preferred":[
         "\u053d\u0578\u056c\u056b"
+    ],
+    "name:nld_x_preferred":[
+        "Choli"
     ],
     "name:pol_x_preferred":[
         "Choli"
@@ -97,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527642574,
+    "wof:lastmodified":1561769714,
     "wof:name":"\u03a7\u03cc\u03bb\u03b7",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

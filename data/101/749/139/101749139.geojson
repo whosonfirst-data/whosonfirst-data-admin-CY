@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000178,
-    "geom:area_square_m":1795086.486803,
+    "geom:area_square_m":1795086.486802,
     "geom:bbox":"33.3069765,35.3288115,33.3301735,35.34301",
     "geom:latitude":35.335973,
     "geom:longitude":33.317681,
@@ -21,25 +21,16 @@
     "name:ara_x_preferred":[
         "\u063a\u0631\u0646\u0629"
     ],
-    "name:arm_x_preferred":[
-        "\u053f\u056b\u0580\u0565\u0576\u056b\u0561"
-    ],
-    "name:baq_x_preferred":[
-        "Kirenia"
-    ],
     "name:bul_x_preferred":[
         "\u041a\u0438\u0440\u0435\u043d\u0438\u044f"
     ],
     "name:cat_x_preferred":[
         "Girne"
     ],
-    "name:chi_x_preferred":[
-        "\u51ef\u91cc\u5c3c\u4e9a"
-    ],
     "name:deu_x_preferred":[
         "Kyrenia"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_variant":[
         "Girne"
     ],
     "name:ell_x_preferred":[
@@ -66,20 +57,11 @@
     "name:fin_x_preferred":[
         "Kyrenia"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Kyrenia"
     ],
     "name:gag_x_preferred":[
         "Girne"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10d8\u10e0\u10d4\u10dc\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Girne"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03b5\u03c1\u03cd\u03bd\u03b5\u03b9\u03b1"
     ],
     "name:heb_x_preferred":[
         "\u05e7\u05d9\u05e8\u05e0\u05d9\u05d4"
@@ -117,14 +99,14 @@
     "name:nld_x_preferred":[
         "Kyrenia"
     ],
+    "name:nld_x_variant":[
+        "Girne"
+    ],
     "name:nno_x_preferred":[
         "Kyr\u00ednia p\u00e5 Kypros"
     ],
     "name:nob_x_preferred":[
         "Kyrenia"
-    ],
-    "name:per_x_preferred":[
-        "\u06a9\u0627\u06cc\u0631\u0646\u06cc\u0627"
     ],
     "name:pnb_x_preferred":[
         "\u06a9\u06cc\u0631\u06cc\u0646\u06cc\u0627"
@@ -138,9 +120,6 @@
     "name:ron_x_preferred":[
         "Kyrenia"
     ],
-    "name:rum_x_preferred":[
-        "Kyrenia"
-    ],
     "name:rus_x_preferred":[
         "\u041a\u0438\u0440\u0435\u043d\u0438\u044f"
     ],
@@ -150,7 +129,7 @@
     "name:sco_x_preferred":[
         "Kyrenia"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Girne"
     ],
     "name:spa_x_preferred":[
@@ -348,7 +327,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1513944712,
+    "wof:lastmodified":1561769731,
     "wof:name":"\u039a\u03b5\u03c1\u03cd\u03bd\u03b5\u03b9\u03b1",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

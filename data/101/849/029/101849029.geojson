@@ -23,9 +23,6 @@
     "name:ceb_x_preferred":[
         "Foinik\u00e1ria"
     ],
-    "name:dut_x_preferred":[
-        "Foinikaria"
-    ],
     "name:ell_x_preferred":[
         "\u03a6\u03bf\u03b9\u03bd\u03b9\u03ba\u03ac\u03c1\u03b9\u03b1"
     ],
@@ -41,11 +38,11 @@
         "Finikarya",
         "Foinikaria"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Finik\u00e1ria"
     ],
-    "name:gre_x_preferred":[
-        "\u03a6\u03bf\u03b9\u03bd\u03b9\u03ba\u03ac\u03c1\u03b9\u03b1"
+    "name:nld_x_preferred":[
+        "Foinikaria"
     ],
     "name:pol_x_preferred":[
         "Finikaria"
@@ -108,7 +105,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1544740747,
+    "wof:lastmodified":1561769736,
     "wof:name":"\u03a6\u03bf\u03b9\u03bd\u03b9\u03ba\u03ac\u03c1\u03b9\u03b1",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

@@ -25,9 +25,6 @@
     "name:bul_x_preferred":[
         "\u041a\u0430\u0442\u043e \u041f\u043e\u043b\u0435\u043c\u0438\u0434\u0438\u044f"
     ],
-    "name:dut_x_preferred":[
-        "Kato Polemidia"
-    ],
     "name:ell_x_preferred":[
         "\u039a\u03ac\u03c4\u03c9 \u03a0\u03bf\u03bb\u03b5\u03bc\u03af\u03b4\u03b9\u03b1"
     ],
@@ -46,14 +43,11 @@
     "name:fra_x_preferred":[
         "K\u00e1to Polem\u00eddia"
     ],
-    "name:fre_x_preferred":[
-        "K\u00e1to Polem\u00eddia"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03ac\u03c4\u03c9 \u03a0\u03bf\u03bb\u03b5\u03bc\u03af\u03b4\u03b9\u03b1"
-    ],
     "name:ita_x_preferred":[
         "Kat\u014d Polemidia"
+    ],
+    "name:nld_x_preferred":[
+        "Kato Polemidia"
     ],
     "name:nno_x_preferred":[
         "K\u00e1to Polem\u00eddia"
@@ -63,9 +57,6 @@
     ],
     "name:nor_x_preferred":[
         "Kato Polemidia"
-    ],
-    "name:per_x_preferred":[
-        "\u06a9\u0627\u062a\u0648 \u067e\u0648\u0644\u0645\u06cc\u062f\u06cc\u0627"
     ],
     "name:pol_x_preferred":[
         "Kato Polemidia"
@@ -145,7 +136,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527696565,
+    "wof:lastmodified":1561769733,
     "wof:name":"\u039a\u03ac\u03c4\u03c9 \u03a0\u03bf\u03bb\u03b5\u03bc\u03af\u03b4\u03b9\u03b1",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

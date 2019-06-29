@@ -167,9 +167,6 @@
     "name:cym_x_preferred":[
         "Cyprus"
     ],
-    "name:cze_x_preferred":[
-        "Kypr"
-    ],
     "name:dan_x_preferred":[
         "Cypern"
     ],
@@ -177,7 +174,6 @@
         "Republik Zypern"
     ],
     "name:deu_x_variant":[
-        "Republik Zypern",
         "Zypern"
     ],
     "name:diq_x_preferred":[
@@ -632,9 +628,6 @@
     "name:rue_x_preferred":[
         "\u0426\u0456\u043f\u0440\u0443\u0441"
     ],
-    "name:rum_x_preferred":[
-        "Cipru"
-    ],
     "name:run_x_preferred":[
         "Izinga rya Shipure"
     ],
@@ -855,8 +848,7 @@
         "\u8cfd\u666e\u52d2\u65af"
     ],
     "name:zho_x_variant":[
-        "\u585e\u6d66\u8def\u65af",
-        "\u8cfd\u666e\u52d2\u65af"
+        "\u585e\u6d66\u8def\u65af"
     ],
     "name:zho_yue_x_preferred":[
         "\u585e\u6d66\u8def\u65af"
@@ -1013,7 +1005,7 @@
         "ell",
         "tur"
     ],
-    "wof:lastmodified":1544059106,
+    "wof:lastmodified":1561769712,
     "wof:name":"Cyprus",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000243,
-    "geom:area_square_m":2468863.454101,
+    "geom:area_square_m":2468863.454102,
     "geom:bbox":"32.785829168,34.802108917,32.8037334353,34.8203120422",
     "geom:latitude":34.810966,
     "geom:longitude":32.795069,
@@ -19,9 +19,6 @@
     "mz:is_current":1,
     "name:bul_x_preferred":[
         "\u041a\u0438\u0441\u0443\u0441\u0430"
-    ],
-    "name:dut_x_preferred":[
-        "Kissousa"
     ],
     "name:ell_x_preferred":[
         "\u039a\u03b9\u03c3\u03c3\u03bf\u03cd\u03c3\u03b1"
@@ -37,8 +34,8 @@
         "Kissusa",
         "Kisusa"
     ],
-    "name:gre_x_preferred":[
-        "\u039a\u03b9\u03c3\u03c3\u03bf\u03cd\u03c3\u03b1"
+    "name:nld_x_preferred":[
+        "Kissousa"
     ],
     "name:pol_x_preferred":[
         "Kisusa"
@@ -96,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527642583,
+    "wof:lastmodified":1561769717,
     "wof:name":"\u039a\u03b9\u03c3\u03c3\u03bf\u03cd\u03c3\u03b1",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

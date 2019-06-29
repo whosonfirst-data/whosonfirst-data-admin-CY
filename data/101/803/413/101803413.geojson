@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000049,
-    "geom:area_square_m":500067.308064,
+    "geom:area_square_m":500067.308063,
     "geom:bbox":"33.1208173574,35.0379195516,33.1343043896,35.045328896",
     "geom:latitude":35.041808,
     "geom:longitude":33.127456,
@@ -20,9 +20,6 @@
     "name:ceb_x_preferred":[
         "Mitser\u00f3"
     ],
-    "name:dut_x_preferred":[
-        "Mitsero"
-    ],
     "name:ell_x_preferred":[
         "Mitser\u00f3"
     ],
@@ -32,8 +29,8 @@
     "name:eng_x_preferred":[
         "Mitsero"
     ],
-    "name:gre_x_preferred":[
-        "\u039c\u03b9\u03c4\u03c3\u03b5\u03c1\u03cc"
+    "name:nld_x_preferred":[
+        "Mitsero"
     ],
     "name:pol_x_preferred":[
         "Mitsero"
@@ -96,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527642761,
+    "wof:lastmodified":1561769725,
     "wof:name":"\u039c\u03b9\u03c4\u03c3\u03b5\u03c1\u03cc",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

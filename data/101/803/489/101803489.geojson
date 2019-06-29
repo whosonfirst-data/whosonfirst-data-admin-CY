@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000054,
-    "geom:area_square_m":550056.242237,
+    "geom:area_square_m":550056.242238,
     "geom:bbox":"33.5353064504,35.167662109,33.5551512721,35.1773134874",
     "geom:latitude":35.172783,
     "geom:longitude":33.545809,
@@ -16,9 +16,6 @@
     "mps:longitude":33.549943,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Mora"
-    ],
     "name:ell_x_preferred":[
         "M\u00f3ra"
     ],
@@ -28,11 +25,11 @@
     "name:eng_x_preferred":[
         "Mora"
     ],
-    "name:gre_x_preferred":[
-        "\u039c\u03cc\u03c1\u03b1"
-    ],
     "name:heb_x_preferred":[
         "\u05de\u05d5\u05e8\u05d4"
+    ],
+    "name:nld_x_preferred":[
+        "Mora"
     ],
     "name:pol_x_preferred":[
         "Mora"
@@ -115,7 +112,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1553815513,
+    "wof:lastmodified":1561769728,
     "wof:name":"\u039c\u03bf\u03c1\u03ac",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

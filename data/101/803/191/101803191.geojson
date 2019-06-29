@@ -16,14 +16,8 @@
     "mps:longitude":33.834188,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u054d\u057f\u056b\u056c\u056b"
-    ],
     "name:bul_x_preferred":[
         "\u0421\u0442\u0438\u043b\u0438"
-    ],
-    "name:dut_x_preferred":[
-        "Stylloi"
     ],
     "name:ell_x_preferred":[
         "St\u00fdlloi"
@@ -41,8 +35,11 @@
         "Stylloi",
         "Stylos"
     ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03c4\u03cd\u03bb\u03bb\u03bf\u03b9"
+    "name:hye_x_preferred":[
+        "\u054d\u057f\u056b\u056c\u056b"
+    ],
+    "name:nld_x_preferred":[
+        "Stylloi"
     ],
     "name:pol_x_preferred":[
         "Stili"
@@ -121,7 +118,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1513944758,
+    "wof:lastmodified":1561769727,
     "wof:name":"\u03a3\u03c4\u03cd\u03bb\u03bb\u03bf\u03b9",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

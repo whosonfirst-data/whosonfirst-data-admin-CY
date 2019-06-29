@@ -16,28 +16,26 @@
     "mps:longitude":33.583641,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u0531\u0586\u0561\u0576\u056b\u0561"
-    ],
     "name:bul_x_preferred":[
         "\u0410\u0444\u0430\u043d\u0438\u044f"
-    ],
-    "name:dut_x_preferred":[
-        "Aphania"
     ],
     "name:ell_x_preferred":[
         "Af\u00e1nteia"
     ],
     "name:ell_x_variant":[
-        "\u0391\u03c6\u03ac\u03bd\u03c4\u03b5\u03b9\u03b1"
+        "\u0391\u03c6\u03ac\u03bd\u03c4\u03b5\u03b9\u03b1",
+        "\u0391\u03c6\u03ac\u03bd\u03b5\u03b9\u03b1"
     ],
     "name:eng_x_preferred":[
         "Aphania"
     ],
-    "name:gre_x_preferred":[
-        "\u0391\u03c6\u03ac\u03bd\u03b5\u03b9\u03b1"
+    "name:hye_x_preferred":[
+        "\u0531\u0586\u0561\u0576\u056b\u0561"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Aphania"
+    ],
+    "name:nld_x_preferred":[
         "Aphania"
     ],
     "name:nno_x_preferred":[
@@ -122,7 +120,7 @@
         }
     ],
     "wof:id":101803245,
-    "wof:lastmodified":1553815512,
+    "wof:lastmodified":1561769725,
     "wof:name":"\u0391\u03c6\u03ac\u03bd\u03c4\u03b5\u03b9\u03b1",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

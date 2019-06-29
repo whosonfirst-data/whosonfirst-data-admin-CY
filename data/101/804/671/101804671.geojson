@@ -23,9 +23,6 @@
     "name:ceb_x_preferred":[
         "Avd\u00edmou"
     ],
-    "name:dut_x_preferred":[
-        "Avdimou"
-    ],
     "name:ell_x_preferred":[
         "\u0391\u03c5\u03b4\u03ae\u03bc\u03bf\u03c5"
     ],
@@ -39,8 +36,8 @@
         "Avdimou",
         "Evdim"
     ],
-    "name:gre_x_preferred":[
-        "\u0391\u03c5\u03b4\u03ae\u03bc\u03bf\u03c5"
+    "name:nld_x_preferred":[
+        "Avdimou"
     ],
     "name:pol_x_preferred":[
         "Awdimu"
@@ -112,7 +109,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527642753,
+    "wof:lastmodified":1561769722,
     "wof:name":"\u0391\u03c5\u03b4\u03ae\u03bc\u03bf\u03c5",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

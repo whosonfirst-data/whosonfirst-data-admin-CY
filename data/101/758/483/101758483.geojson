@@ -16,14 +16,8 @@
     "mps:longitude":33.258779,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u053f\u0561\u0580\u0574\u056b"
-    ],
     "name:bul_x_preferred":[
         "\u041a\u0430\u0440\u043c\u0438"
-    ],
-    "name:dut_x_preferred":[
-        "Karmi"
     ],
     "name:ell_x_preferred":[
         "K\u00e1rmi"
@@ -38,11 +32,14 @@
         "Karaman",
         "Karmi"
     ],
-    "name:gre_x_preferred":[
-        "\u039a\u03ac\u03c1\u03bc\u03b9"
+    "name:hye_x_preferred":[
+        "\u053f\u0561\u0580\u0574\u056b"
     ],
     "name:lit_x_preferred":[
         "Karmis"
+    ],
+    "name:nld_x_preferred":[
+        "Karmi"
     ],
     "name:nno_x_preferred":[
         "K\u00e1rmi"
@@ -127,7 +124,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1553815480,
+    "wof:lastmodified":1561769731,
     "wof:name":"\u039a\u03ac\u03c1\u03bc\u03b9",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000095,
-    "geom:area_square_m":960151.805415,
+    "geom:area_square_m":960151.805414,
     "geom:bbox":"32.9628605791,34.8914054262,32.9779310902,34.9020081935",
     "geom:latitude":34.896808,
     "geom:longitude":32.969379,
@@ -23,9 +23,6 @@
     "name:ceb_x_preferred":[
         "Pel\u00e9ndri"
     ],
-    "name:dut_x_preferred":[
-        "Pelendri"
-    ],
     "name:ell_x_preferred":[
         "\u03a0\u03b5\u03bb\u03ad\u03bd\u03b4\u03c1\u03b9"
     ],
@@ -38,14 +35,14 @@
     "name:eng_x_variant":[
         "Pelendri"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Pelendri"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03b5\u03bb\u03ad\u03bd\u03b4\u03c1\u03b9"
     ],
     "name:jpn_x_preferred":[
         "\u30da\u30ec\u30f3\u30c9\u30a5\u30ea"
+    ],
+    "name:nld_x_preferred":[
+        "Pelendri"
     ],
     "name:pol_x_preferred":[
         "Pelendri"
@@ -111,7 +108,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527642749,
+    "wof:lastmodified":1561769722,
     "wof:name":"\u03a0\u03b5\u03bb\u03ad\u03bd\u03b4\u03c1\u03b9",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

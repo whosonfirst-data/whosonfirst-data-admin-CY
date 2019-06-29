@@ -17,17 +17,11 @@
     "mps:longitude":33.01701,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u0531\u0583\u057d\u056b\u0578\u0582"
-    ],
     "name:bul_x_preferred":[
         "\u0410\u043f\u0441\u0438\u0443"
     ],
     "name:ceb_x_preferred":[
         "Apsio\u00fa"
-    ],
-    "name:dut_x_preferred":[
-        "Apsiou"
     ],
     "name:ell_x_preferred":[
         "\u0391\u03c8\u03b9\u03bf\u03cd"
@@ -43,11 +37,11 @@
         "Kato Aspiou",
         "Pano Aspiou"
     ],
-    "name:gre_x_preferred":[
-        "\u0391\u03c8\u03b9\u03bf\u03cd"
-    ],
     "name:hye_x_preferred":[
         "\u0531\u0583\u057d\u056b\u0578\u0582"
+    ],
+    "name:nld_x_preferred":[
+        "Apsiou"
     ],
     "name:pol_x_preferred":[
         "Apsiu"
@@ -110,7 +104,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1544740742,
+    "wof:lastmodified":1561769736,
     "wof:name":"\u0391\u03c8\u03b9\u03bf\u03cd",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

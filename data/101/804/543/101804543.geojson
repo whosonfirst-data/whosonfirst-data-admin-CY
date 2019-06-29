@@ -23,9 +23,6 @@
     "name:deu_x_preferred":[
         "Pedoulas"
     ],
-    "name:dut_x_preferred":[
-        "Pedoulas"
-    ],
     "name:ell_x_preferred":[
         "Pedoul\u00e1s"
     ],
@@ -41,14 +38,8 @@
     "name:fas_x_preferred":[
         "\u067e\u062f\u0648\u0644\u0627\u0633"
     ],
-    "name:ger_x_preferred":[
+    "name:nld_x_preferred":[
         "Pedoulas"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03b5\u03b4\u03bf\u03c5\u03bb\u03ac\u03c2"
-    ],
-    "name:per_x_preferred":[
-        "\u067e\u062f\u0648\u0644\u0627\u0633"
     ],
     "name:pol_x_preferred":[
         "Pedulas"
@@ -117,7 +108,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527642749,
+    "wof:lastmodified":1561769722,
     "wof:name":"\u03a0\u03b5\u03b4\u03bf\u03c5\u03bb\u03ac\u03c2",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

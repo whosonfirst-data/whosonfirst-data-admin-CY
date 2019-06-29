@@ -17,17 +17,11 @@
     "mps:longitude":32.690415,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u054d\u0561\u056c\u0561\u0574\u056b\u0578\u0582"
-    ],
     "name:bul_x_preferred":[
         "\u0421\u0430\u043b\u0430\u043c\u0438\u0443"
     ],
     "name:ceb_x_preferred":[
         "Salamio\u00fa"
-    ],
-    "name:dut_x_preferred":[
-        "Salamiou"
     ],
     "name:ell_x_preferred":[
         "Salamio\u00fa"
@@ -38,11 +32,11 @@
     "name:eng_x_preferred":[
         "Salamiou"
     ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b1\u03bb\u03b1\u03bc\u03b9\u03bf\u03cd"
-    ],
     "name:hye_x_preferred":[
         "\u054d\u0561\u056c\u0561\u0574\u056b\u0578\u0582"
+    ],
+    "name:nld_x_preferred":[
+        "Salamiou"
     ],
     "name:pol_x_preferred":[
         "Salamiu"
@@ -103,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1544740710,
+    "wof:lastmodified":1561769734,
     "wof:name":"\u03a3\u03b1\u03bb\u03b1\u03bc\u03b9\u03bf\u03cd",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

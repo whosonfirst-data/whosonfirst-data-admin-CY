@@ -17,14 +17,8 @@
     "mps:longitude":33.065426,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u0531\u0575\u0578\u057d \u053f\u0578\u0576\u057d\u057f\u0561\u0576\u057f\u056b\u0576\u0578\u057d"
-    ],
     "name:bul_x_preferred":[
         "\u0410\u0433\u0438\u043e\u0441 \u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\u043e\u0441"
-    ],
-    "name:dut_x_preferred":[
-        "Ayios Konstantinos"
     ],
     "name:ell_x_preferred":[
         "\u0386\u03b3\u03b9\u03bf\u03c2 \u039a\u03c9\u03bd\u03c3\u03c4\u03b1\u03bd\u03c4\u03af\u03bd\u03bf\u03c2 \u039b\u03b5\u03bc\u03b5\u03c3\u03bf\u03cd"
@@ -42,11 +36,11 @@
         "St Konstantinos",
         "St. Konstantinos"
     ],
-    "name:gre_x_preferred":[
-        "\u0386\u03b3\u03b9\u03bf\u03c2 \u039a\u03c9\u03bd\u03c3\u03c4\u03b1\u03bd\u03c4\u03af\u03bd\u03bf\u03c2"
-    ],
     "name:hye_x_preferred":[
         "\u0531\u0575\u0578\u057d \u053f\u0578\u0576\u057d\u057f\u0561\u0576\u057f\u056b\u0576\u0578\u057d"
+    ],
+    "name:nld_x_preferred":[
+        "Ayios Konstantinos"
     ],
     "name:pol_x_preferred":[
         "Ajos Konstantinos"
@@ -105,7 +99,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1544740756,
+    "wof:lastmodified":1561769736,
     "wof:name":"\u0386\u03b3\u03b9\u03bf\u03c2 \u039a\u03c9\u03bd\u03c3\u03c4\u03b1\u03bd\u03c4\u03af\u03bd\u03bf\u03c2",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

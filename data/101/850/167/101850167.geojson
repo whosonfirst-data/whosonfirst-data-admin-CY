@@ -16,29 +16,24 @@
     "mps:longitude":32.371388,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u0556\u0561\u057d\u056c\u056b"
-    ],
     "name:bul_x_preferred":[
         "\u0424\u0430\u0441\u043b\u0438"
-    ],
-    "name:dut_x_preferred":[
-        "Phasli"
     ],
     "name:ell_x_preferred":[
         "F\u00e1sli"
     ],
     "name:ell_x_variant":[
-        "\u03a6\u03ac\u03c3\u03bb\u03b9"
+        "\u03a6\u03ac\u03c3\u03bb\u03b9",
+        "\u03a6\u03b1\u03c3\u03bb\u03af"
     ],
     "name:eng_x_preferred":[
         "Phasli"
     ],
-    "name:gre_x_preferred":[
-        "\u03a6\u03b1\u03c3\u03bb\u03af"
-    ],
     "name:hye_x_preferred":[
         "\u0556\u0561\u057d\u056c\u056b"
+    ],
+    "name:nld_x_preferred":[
+        "Phasli"
     ],
     "name:pol_x_preferred":[
         "Fas"
@@ -89,7 +84,7 @@
         }
     ],
     "wof:id":101850167,
-    "wof:lastmodified":1544741290,
+    "wof:lastmodified":1561769719,
     "wof:name":"\u03a6\u03ac\u03c3\u03bb\u03b9",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

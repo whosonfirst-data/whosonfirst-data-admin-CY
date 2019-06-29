@@ -22,9 +22,6 @@
     "name:cat_x_preferred":[
         "Maratha"
     ],
-    "name:dut_x_preferred":[
-        "Maratha"
-    ],
     "name:ell_x_preferred":[
         "Mar\u00e1tha"
     ],
@@ -34,8 +31,8 @@
     "name:eng_x_preferred":[
         "Marata"
     ],
-    "name:gre_x_preferred":[
-        "\u039c\u03b1\u03c1\u03ac\u03b8\u03b1"
+    "name:nld_x_preferred":[
+        "Maratha"
     ],
     "name:pol_x_preferred":[
         "Marata"
@@ -125,7 +122,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1544741244,
+    "wof:lastmodified":1561769719,
     "wof:name":"\u039c\u03ac\u03c1\u03b1\u03b8\u03b1",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

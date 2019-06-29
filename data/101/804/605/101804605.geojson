@@ -17,17 +17,11 @@
     "mps:longitude":32.47527,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u0533\u056b\u0578\u056c\u0578\u0582"
-    ],
     "name:bul_x_preferred":[
         "\u0413\u0438\u043e\u043b\u0443"
     ],
     "name:ceb_x_preferred":[
         "Gi\u00f3lou"
-    ],
-    "name:dut_x_preferred":[
-        "Yiolou"
     ],
     "name:ell_x_preferred":[
         "\u0393\u03b9\u03cc\u03bb\u03bf\u03c5"
@@ -45,14 +39,11 @@
     "name:fas_x_preferred":[
         "\u06af\u06cc\u0648\u0644\u0648"
     ],
-    "name:gre_x_preferred":[
-        "\u0393\u03b9\u03cc\u03bb\u03bf\u03c5"
-    ],
     "name:hye_x_preferred":[
         "\u0533\u056b\u0578\u056c\u0578\u0582"
     ],
-    "name:per_x_preferred":[
-        "\u06af\u06cc\u0648\u0644\u0648"
+    "name:nld_x_preferred":[
+        "Yiolou"
     ],
     "name:pol_x_preferred":[
         "Jolu"
@@ -120,7 +111,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527642747,
+    "wof:lastmodified":1561769721,
     "wof:name":"\u0393\u03b9\u03cc\u03bb\u03bf\u03c5",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

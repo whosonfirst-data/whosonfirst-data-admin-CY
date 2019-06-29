@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00009,
-    "geom:area_square_m":912869.228577,
+    "geom:area_square_m":912869.228579,
     "geom:bbox":"33.2716206211,35.0800036515,33.2888134294,35.0910706256",
     "geom:latitude":35.086276,
     "geom:longitude":33.280418,
@@ -19,9 +19,6 @@
     "mz:is_current":1,
     "name:ceb_x_preferred":[
         "K\u00e1to Defter\u00e1"
-    ],
-    "name:dut_x_preferred":[
-        "Dheftera"
     ],
     "name:ell_x_preferred":[
         "\u0394\u03b5\u03c5\u03c4\u03b5\u03c1\u03ac"
@@ -41,14 +38,11 @@
     "name:fas_x_preferred":[
         "\u062f\u0641\u062a\u0631\u0627"
     ],
-    "name:gre_x_preferred":[
-        "\u0394\u03b5\u03c5\u03c4\u03b5\u03c1\u03ac"
+    "name:nld_x_preferred":[
+        "Dheftera"
     ],
     "name:nno_x_preferred":[
         "Devter\u00e1"
-    ],
-    "name:per_x_preferred":[
-        "\u062f\u0641\u062a\u0631\u0627"
     ],
     "name:pol_x_preferred":[
         "Kato Deftera"
@@ -122,7 +116,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527715301,
+    "wof:lastmodified":1561769737,
     "wof:name":"\u039a\u03ac\u03c4\u03c9 \u0394\u03b5\u03c5\u03c4\u03b5\u03c1\u03ac",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

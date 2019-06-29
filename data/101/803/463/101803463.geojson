@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000058,
-    "geom:area_square_m":590071.504804,
+    "geom:area_square_m":590071.504803,
     "geom:bbox":"33.1399750612,35.1070928426,33.1517272923,35.1205050815",
     "geom:latitude":35.113187,
     "geom:longitude":33.145557,
@@ -17,20 +17,15 @@
     "mps:longitude":33.145557,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u0544\u0565\u0576\u056b\u056f\u0578"
-    ],
     "name:ceb_x_preferred":[
         "M\u00e9niko"
-    ],
-    "name:dut_x_preferred":[
-        "Meniko"
     ],
     "name:ell_x_preferred":[
         "M\u00e9niko"
     ],
     "name:ell_x_variant":[
-        "\u039c\u03ad\u03bd\u03b9\u03ba\u03bf"
+        "\u039c\u03ad\u03bd\u03b9\u03ba\u03bf",
+        "\u039c\u03ad\u03bd\u03bf\u03b9\u03ba\u03bf"
     ],
     "name:eng_x_preferred":[
         "Meniko"
@@ -38,14 +33,11 @@
     "name:fas_x_preferred":[
         "\u0645\u0646\u06cc\u06a9\u0648"
     ],
-    "name:gre_x_preferred":[
-        "\u039c\u03ad\u03bd\u03bf\u03b9\u03ba\u03bf"
-    ],
     "name:hye_x_preferred":[
         "\u0544\u0565\u0576\u056b\u056f\u0578"
     ],
-    "name:per_x_preferred":[
-        "\u0645\u0646\u06cc\u06a9\u0648"
+    "name:nld_x_preferred":[
+        "Meniko"
     ],
     "name:pol_x_preferred":[
         "Meniko"
@@ -110,7 +102,7 @@
         }
     ],
     "wof:id":101803463,
-    "wof:lastmodified":1527642763,
+    "wof:lastmodified":1561769725,
     "wof:name":"\u039c\u03ad\u03bd\u03b9\u03ba\u03bf",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

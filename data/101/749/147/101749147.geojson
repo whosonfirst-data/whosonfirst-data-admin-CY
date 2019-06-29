@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002787,
-    "geom:area_square_m":28336668.309848,
+    "geom:area_square_m":28336668.309855,
     "geom:bbox":"32.9943395036,34.640058144,33.1349361444,34.7180709493",
     "geom:latitude":34.684838,
     "geom:longitude":33.048752,
@@ -21,13 +21,7 @@
     "name:ara_x_preferred":[
         "\u0644\u064a\u0645\u0627\u0633\u0648\u0644"
     ],
-    "name:arm_x_preferred":[
-        "\u053c\u056b\u0574\u0561\u057d\u0578\u056c"
-    ],
     "name:aze_x_preferred":[
-        "Limasol"
-    ],
-    "name:baq_x_preferred":[
         "Limasol"
     ],
     "name:bel_x_preferred":[
@@ -48,23 +42,17 @@
     "name:ces_x_preferred":[
         "Lemesos"
     ],
-    "name:chi_x_preferred":[
-        "\u5229\u9a6c\u7d22\u5c14"
-    ],
     "name:chv_x_preferred":[
         "\u041b\u0438\u043c\u0430\u0441\u043e\u043b"
     ],
-    "name:cze_x_preferred":[
-        "Lemesos"
+    "name:cym_x_preferred":[
+        "Limassol"
     ],
     "name:dan_x_preferred":[
         "Limassol"
     ],
     "name:deu_x_preferred":[
         "Limassol"
-    ],
-    "name:dut_x_preferred":[
-        "Limasol"
     ],
     "name:ell_x_preferred":[
         "Lemes\u00f3s"
@@ -85,6 +73,9 @@
     "name:est_x_preferred":[
         "Limassol"
     ],
+    "name:eus_x_preferred":[
+        "Limasol"
+    ],
     "name:fas_x_preferred":[
         "\u0644\u06cc\u0645\u0627\u0633\u0648\u0644"
     ],
@@ -94,20 +85,8 @@
     "name:fra_x_preferred":[
         "Limassol"
     ],
-    "name:fre_x_preferred":[
-        "Limassol"
-    ],
-    "name:geo_x_preferred":[
-        "\u10da\u10d8\u10db\u10d0\u10e1\u10dd\u10da\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Limassol"
-    ],
     "name:glg_x_preferred":[
         "Limassol"
-    ],
-    "name:gre_x_preferred":[
-        "\u039b\u03b5\u03bc\u03b5\u03c3\u03cc\u03c2"
     ],
     "name:guj_x_preferred":[
         "\u0ab2\u0abf\u0aae\u0abe\u0ab8\u0acb\u0ab2"
@@ -127,10 +106,10 @@
     "name:hye_x_preferred":[
         "\u053c\u056b\u0574\u0561\u057d\u0578\u056c"
     ],
-    "name:ice_x_preferred":[
+    "name:ind_x_preferred":[
         "Limassol"
     ],
-    "name:ind_x_preferred":[
+    "name:isl_x_preferred":[
         "Limassol"
     ],
     "name:ita_x_preferred":[
@@ -163,16 +142,16 @@
     "name:lit_x_preferred":[
         "Limasolis"
     ],
-    "name:mac_x_preferred":[
-        "\u041b\u0438\u043c\u0430\u0441\u043e\u043b"
-    ],
     "name:mal_x_preferred":[
         "\u0d32\u0d3f\u0d2e\u0d38\u0d4d\u0d38\u0d4b\u0d7e"
     ],
     "name:mar_x_preferred":[
         "\u0932\u093e\u0908\u092e\u093e\u0938\u0949\u0932"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u041b\u0438\u043c\u0430\u0441\u043e\u043b"
+    ],
+    "name:msa_x_preferred":[
         "Limassol"
     ],
     "name:nld_x_preferred":[
@@ -187,9 +166,6 @@
     "name:oss_x_preferred":[
         "\u041b\u0438\u043c\u0430\u0441\u043e\u043b"
     ],
-    "name:per_x_preferred":[
-        "\u0644\u06cc\u0645\u0627\u0633\u0648\u0644"
-    ],
     "name:pnb_x_preferred":[
         "\u0644\u06cc\u0645\u0627\u0633\u0648\u0644"
     ],
@@ -202,9 +178,6 @@
     "name:ron_x_preferred":[
         "Limassol"
     ],
-    "name:rum_x_preferred":[
-        "Limassol"
-    ],
     "name:rus_x_preferred":[
         "\u041b\u0438\u043c\u0430\u0441\u043e\u043b"
     ],
@@ -214,7 +187,7 @@
     "name:sin_x_preferred":[
         "\u0dbd\u0dd2\u0db8\u0dcf\u0dc3\u0ddc\u0dbd\u0dca"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Lemes\u00f3s"
     ],
     "name:slv_x_preferred":[
@@ -261,9 +234,6 @@
         "Limassol"
     ],
     "name:war_x_preferred":[
-        "Limassol"
-    ],
-    "name:wel_x_preferred":[
         "Limassol"
     ],
     "name:zho_x_preferred":[
@@ -410,7 +380,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1513944725,
+    "wof:lastmodified":1561769731,
     "wof:name":"\u039b\u03b5\u03bc\u03b5\u03c3\u03cc\u03c2",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

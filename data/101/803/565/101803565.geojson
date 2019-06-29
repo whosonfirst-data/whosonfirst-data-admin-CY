@@ -19,9 +19,6 @@
     "name:bul_x_preferred":[
         "\u041f\u0435\u0442\u0440\u043e\u0444\u0430\u043d\u0438"
     ],
-    "name:dut_x_preferred":[
-        "Petrofani"
-    ],
     "name:ell_x_preferred":[
         "Petrof\u00e1ni"
     ],
@@ -35,8 +32,8 @@
         "Petrofan",
         "Petrofani"
     ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03b5\u03c4\u03c1\u03bf\u03c6\u03ac\u03bd\u03b9"
+    "name:nld_x_preferred":[
+        "Petrofani"
     ],
     "name:pol_x_preferred":[
         "Petrofani"
@@ -97,7 +94,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527642767,
+    "wof:lastmodified":1561769727,
     "wof:name":"\u03a0\u03b5\u03c4\u03c1\u03bf\u03c6\u03ac\u03bd\u03b9",
     "wof:parent_id":85682407,
     "wof:placetype":"locality",

@@ -19,9 +19,6 @@
     "name:ceb_x_preferred":[
         "Malo\u00fanta"
     ],
-    "name:dut_x_preferred":[
-        "Malounta"
-    ],
     "name:ell_x_preferred":[
         "\u039c\u03b1\u03bb\u03bf\u03cd\u03bd\u03c4\u03b1 \u039b\u03b5\u03c5\u03ba\u03c9\u03c3\u03af\u03b1\u03c2"
     ],
@@ -39,11 +36,8 @@
     "name:fas_x_preferred":[
         "\u0645\u0627\u0644\u0648\u0646\u062a\u0627"
     ],
-    "name:gre_x_preferred":[
-        "\u039c\u03b1\u03bb\u03bf\u03cd\u03bd\u03c4\u03b1"
-    ],
-    "name:per_x_preferred":[
-        "\u0645\u0627\u0644\u0648\u0646\u062a\u0627"
+    "name:nld_x_preferred":[
+        "Malounta"
     ],
     "name:pol_x_preferred":[
         "Malunda"
@@ -113,7 +107,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527715304,
+    "wof:lastmodified":1561769737,
     "wof:name":"\u039c\u03b1\u03bb\u03bf\u03cd\u03bd\u03c4\u03b1",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

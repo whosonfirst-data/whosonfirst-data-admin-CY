@@ -26,9 +26,6 @@
     "name:deu_x_preferred":[
         "Omodos"
     ],
-    "name:dut_x_preferred":[
-        "Omodos"
-    ],
     "name:ell_x_preferred":[
         "\u038c\u03bc\u03bf\u03b4\u03bf\u03c2"
     ],
@@ -40,12 +37,6 @@
     ],
     "name:eng_x_variant":[
         "Omodos"
-    ],
-    "name:ger_x_preferred":[
-        "Omodos"
-    ],
-    "name:gre_x_preferred":[
-        "\u038c\u03bc\u03bf\u03b4\u03bf\u03c2"
     ],
     "name:nld_x_preferred":[
         "Omodos"
@@ -111,7 +102,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1544740770,
+    "wof:lastmodified":1561769736,
     "wof:name":"\u038c\u03bc\u03bf\u03b4\u03bf\u03c2",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

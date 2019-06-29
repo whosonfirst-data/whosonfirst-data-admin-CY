@@ -23,9 +23,6 @@
     "name:ceb_x_preferred":[
         "Limn\u00e1tis"
     ],
-    "name:dut_x_preferred":[
-        "Limnatis"
-    ],
     "name:ell_x_preferred":[
         "\u039b\u03b9\u03bc\u03bd\u03ac\u03c4\u03b7\u03c2"
     ],
@@ -38,8 +35,8 @@
     "name:eng_x_variant":[
         "Linnatis"
     ],
-    "name:gre_x_preferred":[
-        "\u039b\u03b9\u03bc\u03bd\u03ac\u03c4\u03b7\u03c2"
+    "name:nld_x_preferred":[
+        "Limnatis"
     ],
     "name:pol_x_preferred":[
         "Limnatis"
@@ -103,7 +100,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1544740744,
+    "wof:lastmodified":1561769735,
     "wof:name":"\u039b\u03b9\u03bc\u03bd\u03ac\u03c4\u03b7\u03c2",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

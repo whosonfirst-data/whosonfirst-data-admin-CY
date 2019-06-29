@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000259,
-    "geom:area_square_m":2628684.92796,
+    "geom:area_square_m":2628684.927956,
     "geom:bbox":"32.7972185108,34.8150943416,32.8154216606,34.8332976517",
     "geom:latitude":34.824228,
     "geom:longitude":32.806349,
@@ -20,9 +20,6 @@
     "name:bul_x_preferred":[
         "\u041f\u043e\u0442\u0430\u043c\u0438\u0443"
     ],
-    "name:dut_x_preferred":[
-        "Potamiou"
-    ],
     "name:ell_x_preferred":[
         "\u03a0\u03bf\u03c4\u03b1\u03bc\u03b9\u03bf\u03cd"
     ],
@@ -36,11 +33,11 @@
         "Bodamyu",
         "Potamyu"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Potamio\u00fa"
     ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03bf\u03c4\u03b1\u03bc\u03b9\u03bf\u03cd"
+    "name:nld_x_preferred":[
+        "Potamiou"
     ],
     "name:pol_x_preferred":[
         "Potamiu"
@@ -98,7 +95,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527642582,
+    "wof:lastmodified":1561769717,
     "wof:name":"\u03a0\u03bf\u03c4\u03b1\u03bc\u03b9\u03bf\u03cd",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

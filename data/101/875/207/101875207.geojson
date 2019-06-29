@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000237,
-    "geom:area_square_m":2399354.421205,
+    "geom:area_square_m":2399354.421204,
     "geom:bbox":"32.4514495077,34.9300150028,32.4696544989,34.9469652926",
     "geom:latitude":34.938393,
     "geom:longitude":32.460364,
@@ -17,14 +17,8 @@
     "mps:longitude":32.460191,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u0544\u056b\u056c\u056b\u0578\u0582"
-    ],
     "name:bul_x_preferred":[
         "\u041c\u0438\u043b\u0438\u0443"
-    ],
-    "name:dut_x_preferred":[
-        "Miliou"
     ],
     "name:ell_x_preferred":[
         "Milio\u00fa"
@@ -38,14 +32,11 @@
     "name:fas_x_preferred":[
         "\u0645\u0627\u06cc\u0644\u06cc\u0648"
     ],
-    "name:gre_x_preferred":[
-        "\u039c\u03b7\u03bb\u03b9\u03bf\u03cd"
-    ],
     "name:hye_x_preferred":[
         "\u0544\u056b\u056c\u056b\u0578\u0582"
     ],
-    "name:per_x_preferred":[
-        "\u0645\u0627\u06cc\u0644\u06cc\u0648"
+    "name:nld_x_preferred":[
+        "Miliou"
     ],
     "name:pol_x_preferred":[
         "Miliu"
@@ -107,7 +98,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527642584,
+    "wof:lastmodified":1561769718,
     "wof:name":"\u039c\u03b7\u03bb\u03b9\u03bf\u03cd",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

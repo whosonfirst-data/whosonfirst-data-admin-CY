@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000926,
-    "geom:area_square_m":9363707.772522,
+    "geom:area_square_m":9363707.772524,
     "geom:bbox":"33.2975592755,35.1598438447,33.353817,35.1880818849",
     "geom:latitude":35.175986,
     "geom:longitude":33.3256,
@@ -16,28 +16,29 @@
     "mps:longitude":33.325179,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u0531\u0575\u0578\u057d \u0534\u0578\u0574\u0565\u057f\u056b\u0578\u057d"
-    ],
-    "name:dut_x_preferred":[
-        "Ayios Dhometios"
-    ],
     "name:ell_x_preferred":[
         "\u00c1gios Dom\u00e9tios"
     ],
     "name:ell_x_variant":[
-        "\u0386\u03b3\u03b9\u03bf\u03c2 \u0394\u03bf\u03bc\u03ad\u03c4\u03b9\u03bf\u03c2"
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u0394\u03bf\u03bc\u03ad\u03c4\u03b9\u03bf\u03c2",
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u0394\u03bf\u03bc\u03ad\u03c4\u03b9\u03bf\u03c2 \u039b\u03b5\u03c5\u03ba\u03c9\u03c3\u03af\u03b1\u03c2"
     ],
     "name:eng_x_preferred":[
         "Ayios Dhometios"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0622\u06af\u06cc\u0648\u0633 \u062f\u0648\u0645\u062a\u06cc\u0648\u0633"
+    ],
+    "name:fra_x_preferred":[
         "Ayios Dometios"
     ],
-    "name:gre_x_preferred":[
-        "\u0386\u03b3\u03b9\u03bf\u03c2 \u0394\u03bf\u03bc\u03ad\u03c4\u03b9\u03bf\u03c2 \u039b\u03b5\u03c5\u03ba\u03c9\u03c3\u03af\u03b1\u03c2"
+    "name:hye_x_preferred":[
+        "\u0531\u0575\u0578\u057d \u0534\u0578\u0574\u0565\u057f\u056b\u0578\u057d"
     ],
     "name:ita_x_preferred":[
+        "Ayios Dhometios"
+    ],
+    "name:nld_x_preferred":[
         "Ayios Dhometios"
     ],
     "name:nno_x_preferred":[
@@ -45,9 +46,6 @@
     ],
     "name:nob_x_preferred":[
         "Agios Dometios"
-    ],
-    "name:per_x_preferred":[
-        "\u0622\u06af\u06cc\u0648\u0633 \u062f\u0648\u0645\u062a\u06cc\u0648\u0633"
     ],
     "name:pol_x_preferred":[
         "Ajos Dometios"
@@ -120,7 +118,7 @@
         }
     ],
     "wof:id":101756147,
-    "wof:lastmodified":1513944669,
+    "wof:lastmodified":1561769733,
     "wof:name":"\u0386\u03b3\u03b9\u03bf\u03c2 \u0394\u03bf\u03bc\u03ad\u03c4\u03b9\u03bf\u03c2",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

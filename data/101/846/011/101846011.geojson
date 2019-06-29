@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000026,
-    "geom:area_square_m":260036.640509,
+    "geom:area_square_m":260036.640508,
     "geom:bbox":"32.466204602,34.994581557,32.472066694,35.0020514678",
     "geom:latitude":34.998216,
     "geom:longitude":32.469267,
@@ -17,17 +17,11 @@
     "mps:longitude":32.469312,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u054d\u057f\u0565\u0576\u056b"
-    ],
     "name:bul_x_preferred":[
         "\u0421\u0442\u0435\u043d\u0438"
     ],
     "name:ceb_x_preferred":[
         "Sten\u00ed"
-    ],
-    "name:dut_x_preferred":[
-        "Steni"
     ],
     "name:ell_x_preferred":[
         "Sten\u00ed"
@@ -41,11 +35,11 @@
     "name:eng_x_variant":[
         "Sieni"
     ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03c4\u03b5\u03bd\u03ae"
-    ],
     "name:hye_x_preferred":[
         "\u054d\u057f\u0565\u0576\u056b"
+    ],
+    "name:nld_x_preferred":[
+        "Steni"
     ],
     "name:pol_x_preferred":[
         "Steni"
@@ -102,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527714714,
+    "wof:lastmodified":1561769733,
     "wof:name":"\u03a3\u03c4\u03b5\u03bd\u03ae",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

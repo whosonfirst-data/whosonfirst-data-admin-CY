@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000248,
-    "geom:area_square_m":2517437.770043,
+    "geom:area_square_m":2517437.770046,
     "geom:bbox":"32.7018859341,34.7029735067,32.7197159436,34.7211755704",
     "geom:latitude":34.711939,
     "geom:longitude":32.710602,
@@ -17,14 +17,8 @@
     "mps:longitude":32.710433,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u054a\u056c\u0561\u057f\u0561\u0576\u056b\u057d\u057f\u0565\u0575\u0561"
-    ],
     "name:bul_x_preferred":[
         "\u041f\u043b\u0430\u0442\u0430\u043d\u0438\u0441\u0442\u0438\u044f"
-    ],
-    "name:dut_x_preferred":[
-        "Platanisteia"
     ],
     "name:ell_x_preferred":[
         "\u03a0\u03bb\u03b1\u03c4\u03b1\u03bd\u03af\u03c3\u03ba\u03b9\u03b1"
@@ -39,11 +33,14 @@
     "name:eng_x_variant":[
         "Platanisteia"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Platan\u00edstia"
     ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03bb\u03b1\u03c4\u03b1\u03bd\u03af\u03c3\u03ba\u03b9\u03b1"
+    "name:hye_x_preferred":[
+        "\u054a\u056c\u0561\u057f\u0561\u0576\u056b\u057d\u057f\u0565\u0575\u0561"
+    ],
+    "name:nld_x_preferred":[
+        "Platanisteia"
     ],
     "name:pol_x_preferred":[
         "Platanistia"
@@ -109,7 +106,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527642586,
+    "wof:lastmodified":1561769718,
     "wof:name":"\u03a0\u03bb\u03b1\u03c4\u03b1\u03bd\u03af\u03c3\u03c4\u03b5\u03b9\u03b1",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

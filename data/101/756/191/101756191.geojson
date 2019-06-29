@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000768,
-    "geom:area_square_m":7806591.551241,
+    "geom:area_square_m":7806591.55124,
     "geom:bbox":"32.9292373084,34.6739293308,32.9858671427,34.7088226008",
     "geom:latitude":34.692415,
     "geom:longitude":32.9592,
@@ -29,9 +29,6 @@
     "name:ceb_x_preferred":[
         "\u00ddpsonas"
     ],
-    "name:dut_x_preferred":[
-        "Ypsonas"
-    ],
     "name:ell_x_preferred":[
         "\u038e\u03c8\u03c9\u03bd\u03b1\u03c2"
     ],
@@ -50,17 +47,11 @@
     "name:fra_x_preferred":[
         "\u00ddpsonas"
     ],
-    "name:fre_x_preferred":[
-        "\u00ddpsonas"
-    ],
-    "name:gre_x_preferred":[
-        "\u038e\u03c8\u03c9\u03bd\u03b1\u03c2"
+    "name:nld_x_preferred":[
+        "Ypsonas"
     ],
     "name:nno_x_preferred":[
         "\u00ddpsonas"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u06cc\u067e\u0633\u0648\u0646\u06cc\u0632"
     ],
     "name:pol_x_preferred":[
         "Ipsonas"
@@ -135,7 +126,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527696564,
+    "wof:lastmodified":1561769732,
     "wof:name":"\u038e\u03c8\u03c9\u03bd\u03b1\u03c2",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

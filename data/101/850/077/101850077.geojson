@@ -19,9 +19,6 @@
     "name:bul_x_preferred":[
         "\u041a\u0440\u0438\u043d\u0438"
     ],
-    "name:dut_x_preferred":[
-        "Krini"
-    ],
     "name:ell_x_preferred":[
         "Krin\u00ed"
     ],
@@ -35,8 +32,8 @@
         "Kirni",
         "Krini"
     ],
-    "name:gre_x_preferred":[
-        "\u039a\u03c1\u03b7\u03bd\u03af"
+    "name:nld_x_preferred":[
+        "Krini"
     ],
     "name:pol_x_preferred":[
         "Krini"
@@ -126,7 +123,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1553815543,
+    "wof:lastmodified":1561769719,
     "wof:name":"\u039a\u03c1\u03b7\u03bd\u03af",
     "wof:parent_id":-4,
     "wof:placetype":"locality",
