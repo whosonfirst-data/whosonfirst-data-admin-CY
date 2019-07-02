@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000116,
-    "geom:area_square_m":1170125.272039,
+    "geom:area_square_m":1170125.272038,
     "geom:bbox":"32.8663217039,35.1465550207,32.8920003268,35.1610257463",
     "geom:latitude":35.153823,
     "geom:longitude":32.879882,
@@ -16,23 +16,21 @@
     "mps:longitude":32.884356,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Pentageia"
-    ],
     "name:ell_x_preferred":[
         "Pent\u00e1geia"
     ],
     "name:ell_x_variant":[
-        "\u03a0\u03b5\u03bd\u03c4\u03ac\u03b3\u03b5\u03b9\u03b1"
+        "\u03a0\u03b5\u03bd\u03c4\u03ac\u03b3\u03b5\u03b9\u03b1",
+        "\u03a0\u03b5\u03bd\u03c4\u03ac\u03b3\u03c5\u03b9\u03b1"
     ],
     "name:eng_x_preferred":[
         "Pentageia"
     ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03b5\u03bd\u03c4\u03ac\u03b3\u03c5\u03b9\u03b1"
-    ],
-    "name:per_x_preferred":[
+    "name:fas_x_preferred":[
         "\u067e\u062a\u0627\u06af\u06cc\u0627"
+    ],
+    "name:nld_x_preferred":[
+        "Pentageia"
     ],
     "name:pol_x_preferred":[
         "Pendaja"
@@ -108,7 +106,7 @@
         }
     ],
     "wof:id":101803381,
-    "wof:lastmodified":1553815513,
+    "wof:lastmodified":1561769731,
     "wof:name":"\u03a0\u03b5\u03bd\u03c4\u03ac\u03b3\u03b5\u03b9\u03b1",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

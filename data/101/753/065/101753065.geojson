@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000182,
-    "geom:area_square_m":1851392.979194,
+    "geom:area_square_m":1851392.979193,
     "geom:bbox":"32.4386222292,34.8033163357,32.4648800235,34.8262415092",
     "geom:latitude":34.813582,
     "geom:longitude":32.451934,
@@ -17,17 +17,11 @@
     "mps:longitude":32.455017,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u0544\u0565\u057d\u0578\u0575\u056b"
-    ],
     "name:bul_x_preferred":[
         "\u041c\u0435\u0441\u043e\u0433\u0438"
     ],
     "name:ceb_x_preferred":[
         "Mes\u00f3gi"
-    ],
-    "name:dut_x_preferred":[
-        "Mesogi"
     ],
     "name:ell_x_preferred":[
         "Mes\u00f3gi"
@@ -38,11 +32,11 @@
     "name:eng_x_preferred":[
         "Mesoyi"
     ],
-    "name:gre_x_preferred":[
-        "\u039c\u03b5\u03c3\u03cc\u03b3\u03b7"
-    ],
     "name:hye_x_preferred":[
         "\u0544\u0565\u057d\u0578\u0575\u056b"
+    ],
+    "name:nld_x_preferred":[
+        "Mesogi"
     ],
     "name:pol_x_preferred":[
         "Mesongi"
@@ -102,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527641912,
+    "wof:lastmodified":1561769713,
     "wof:name":"\u039c\u03b5\u03c3\u03cc\u03b3\u03b7",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

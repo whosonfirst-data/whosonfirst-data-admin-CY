@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000114,
-    "geom:area_square_m":1160242.923013,
+    "geom:area_square_m":1160242.923012,
     "geom:bbox":"32.4835124043,34.7316980333,32.5082695409,34.7412740212",
     "geom:latitude":34.736956,
     "geom:longitude":32.497424,
@@ -17,17 +17,11 @@
     "mps:longitude":32.498456,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u0531\u056d\u0565\u056c\u056b\u0561"
-    ],
     "name:bul_x_preferred":[
         "\u0410\u0445\u0435\u043b\u0438\u044f"
     ],
     "name:ceb_x_preferred":[
         "Ach\u00e9leia"
-    ],
-    "name:dut_x_preferred":[
-        "Akhelia"
     ],
     "name:ell_x_preferred":[
         "\u0391\u03c7\u03ad\u03bb\u03b5\u03b9\u03b1"
@@ -44,14 +38,11 @@
     "name:fas_x_preferred":[
         "\u0627\u062e\u0644\u06cc\u0627"
     ],
-    "name:gre_x_preferred":[
-        "\u0391\u03c7\u03ad\u03bb\u03b5\u03b9\u03b1"
-    ],
     "name:hye_x_preferred":[
         "\u0531\u056d\u0565\u056c\u056b\u0561"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u062e\u0644\u06cc\u0627"
+    "name:nld_x_preferred":[
+        "Akhelia"
     ],
     "name:pol_x_preferred":[
         "Achelia"
@@ -120,7 +111,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527642750,
+    "wof:lastmodified":1561769722,
     "wof:name":"\u0391\u03c7\u03ad\u03bb\u03b5\u03b9\u03b1",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

@@ -20,9 +20,6 @@
     "name:bul_x_preferred":[
         "\u041a\u0430\u043f\u0438\u043b\u0438\u043e"
     ],
-    "name:dut_x_preferred":[
-        "Kapilio"
-    ],
     "name:ell_x_preferred":[
         "\u039a\u03b1\u03c0\u03b7\u03bb\u03b5\u03b9\u03cc"
     ],
@@ -35,8 +32,8 @@
     "name:eng_x_variant":[
         "Kapileio"
     ],
-    "name:gre_x_preferred":[
-        "\u039a\u03b1\u03c0\u03b7\u03bb\u03b5\u03b9\u03cc"
+    "name:nld_x_preferred":[
+        "Kapilio"
     ],
     "name:pol_x_preferred":[
         "Kapilio"
@@ -98,7 +95,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1544740745,
+    "wof:lastmodified":1561769735,
     "wof:name":"\u039a\u03b1\u03c0\u03b7\u03bb\u03b5\u03b9\u03cc",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

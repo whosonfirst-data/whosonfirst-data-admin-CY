@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000061,
-    "geom:area_square_m":620038.651827,
+    "geom:area_square_m":620038.651828,
     "geom:bbox":"34.018185069,35.3618239202,34.0339710013,35.3715596991",
     "geom:latitude":35.366132,
     "geom:longitude":34.027767,
@@ -16,14 +16,11 @@
     "mps:longitude":34.027886,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u0531\u0575\u0578\u057d \u0539\u0565\u0578\u0564\u0578\u0580\u0578\u057d"
-    ],
     "name:bul_x_preferred":[
         "\u0410\u0433\u0438\u043e\u0441 \u0422\u0435\u043e\u0434\u043e\u0440\u043e\u0441"
     ],
-    "name:dut_x_preferred":[
-        "Ayios Theodhoros"
+    "name:deu_x_preferred":[
+        "Ayios Theodoros/\u00c7ay\u0131rova"
     ],
     "name:ell_x_preferred":[
         "\u00c1gios The\u00f3doros"
@@ -45,14 +42,14 @@
         "St Theodoros",
         "St. Theodoros"
     ],
-    "name:ger_x_preferred":[
-        "Ayios Theodoros/\u00c7ay\u0131rova"
-    ],
-    "name:gre_x_preferred":[
-        "\u0386\u03b3\u03b9\u03bf\u03c2 \u0398\u03b5\u03cc\u03b4\u03c9\u03c1\u03bf\u03c2"
-    ],
-    "name:per_x_preferred":[
+    "name:fas_x_preferred":[
         "\u0686\u0627\u06cc\u06cc\u0631\u0648\u0648\u0627"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u0575\u0578\u057d \u0539\u0565\u0578\u0564\u0578\u0580\u0578\u057d"
+    ],
+    "name:nld_x_preferred":[
+        "Ayios Theodhoros"
     ],
     "name:pol_x_preferred":[
         "Ajos Teodoros"
@@ -141,7 +138,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1553815512,
+    "wof:lastmodified":1561769725,
     "wof:name":"\u0386\u03b3\u03b9\u03bf\u03c2 \u0398\u03b5\u03cc\u03b4\u03c9\u03c1\u03bf\u03c2",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

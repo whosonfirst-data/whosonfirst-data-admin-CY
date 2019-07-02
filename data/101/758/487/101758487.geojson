@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000117,
-    "geom:area_square_m":1179010.415258,
+    "geom:area_square_m":1179010.41526,
     "geom:bbox":"33.1637209328,35.3310372836,33.1814830624,35.3458014882",
     "geom:latitude":35.338361,
     "geom:longitude":33.172368,
@@ -18,14 +18,11 @@
     "mps:longitude":33.172503,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u053c\u0561\u057a\u056b\u057f\u0578\u057d"
-    ],
     "name:cat_x_preferred":[
         "Lapatos"
     ],
-    "name:dut_x_preferred":[
-        "Lapithos"
+    "name:deu_x_preferred":[
+        "Lapta"
     ],
     "name:ell_x_preferred":[
         "L\u00e1pithos"
@@ -36,16 +33,19 @@
     "name:eng_x_preferred":[
         "Lapta"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0644\u0627\u067e\u06cc\u062a\u0648\u0633"
+    ],
+    "name:fra_x_preferred":[
         "Lapithos"
     ],
-    "name:ger_x_preferred":[
-        "Lapta"
-    ],
-    "name:gre_x_preferred":[
-        "\u039b\u03ac\u03c0\u03b7\u03b8\u03bf\u03c2"
+    "name:hye_x_preferred":[
+        "\u053c\u0561\u057a\u056b\u057f\u0578\u057d"
     ],
     "name:ita_x_preferred":[
+        "Lapithos"
+    ],
+    "name:nld_x_preferred":[
         "Lapithos"
     ],
     "name:nno_x_preferred":[
@@ -53,9 +53,6 @@
     ],
     "name:nob_x_preferred":[
         "Lapithos"
-    ],
-    "name:per_x_preferred":[
-        "\u0644\u0627\u067e\u06cc\u062a\u0648\u0633"
     ],
     "name:pol_x_preferred":[
         "Lapitos"
@@ -143,7 +140,7 @@
         }
     ],
     "wof:id":101758487,
-    "wof:lastmodified":1513944718,
+    "wof:lastmodified":1561769731,
     "wof:name":"\u039b\u03ac\u03c0\u03b7\u03b8\u03bf\u03c2",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

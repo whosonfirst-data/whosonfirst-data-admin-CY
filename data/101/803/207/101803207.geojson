@@ -19,9 +19,6 @@
     "name:bul_x_preferred":[
         "\u041a\u0443\u043a\u043b\u0438\u044f"
     ],
-    "name:dut_x_preferred":[
-        "Kouklia"
-    ],
     "name:ell_x_preferred":[
         "Ko\u00faklia"
     ],
@@ -30,6 +27,9 @@
     ],
     "name:eng_x_preferred":[
         "Kukla"
+    ],
+    "name:nld_x_preferred":[
+        "Kouklia"
     ],
     "name:pol_x_preferred":[
         "Kuklia"
@@ -121,7 +121,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1513944715,
+    "wof:lastmodified":1561769728,
     "wof:name":"\u039a\u03bf\u03cd\u03ba\u03bb\u03b9\u03b1",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

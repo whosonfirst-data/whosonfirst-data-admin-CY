@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000035,
-    "geom:area_square_m":350022.735013,
+    "geom:area_square_m":350022.735014,
     "geom:bbox":"33.9250003161,35.3242429459,33.9323850618,35.3336763495",
     "geom:latitude":35.329107,
     "geom:longitude":33.928971,
@@ -16,14 +16,12 @@
     "mps:longitude":33.928355,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Beyk\u00f6y"
-    ],
     "name:ell_x_preferred":[
         "\u00c1gios II\u00edas"
     ],
     "name:ell_x_variant":[
-        "\u0386\u03b3\u03b9\u03bf\u03c2 \u0397\u03bb\u03af\u03b1\u03c2"
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u0397\u03bb\u03af\u03b1\u03c2",
+        "\u039c\u03c0\u03ad\u03b7 \u039a\u03b9\u03bf\u03b3\u03b9\u03bf\u03cd"
     ],
     "name:eng_x_preferred":[
         "Ayilia"
@@ -37,8 +35,8 @@
         "St. Elias",
         "Beyk\u00f6y"
     ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03ad\u03b7 \u039a\u03b9\u03bf\u03b3\u03b9\u03bf\u03cd"
+    "name:nld_x_preferred":[
+        "Beyk\u00f6y"
     ],
     "name:pol_x_preferred":[
         "Beikii"
@@ -129,7 +127,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1513944669,
+    "wof:lastmodified":1561769725,
     "wof:name":"\u0386\u03b3\u03b9\u03bf\u03c2 \u0397\u03bb\u03af\u03b1\u03c2",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

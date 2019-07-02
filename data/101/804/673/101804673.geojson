@@ -17,17 +17,11 @@
     "mps:longitude":32.734382,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u0531\u0576\u0578\u0575\u056b\u0580\u0561"
-    ],
     "name:bul_x_preferred":[
         "\u0410\u043d\u043e\u0433\u0438\u0440\u0430"
     ],
     "name:ceb_x_preferred":[
         "An\u00f3gyra"
-    ],
-    "name:dut_x_preferred":[
-        "Anogyra"
     ],
     "name:ell_x_preferred":[
         "\u0391\u03bd\u03ce\u03b3\u03c5\u03c1\u03b1"
@@ -42,11 +36,11 @@
         "Anogyra",
         "Anoyra"
     ],
-    "name:gre_x_preferred":[
-        "\u0391\u03bd\u03ce\u03b3\u03c5\u03c1\u03b1"
-    ],
     "name:hye_x_preferred":[
         "\u0531\u0576\u0578\u0575\u056b\u0580\u0561"
+    ],
+    "name:nld_x_preferred":[
+        "Anogyra"
     ],
     "name:pol_x_preferred":[
         "Anojira"
@@ -114,7 +108,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527642746,
+    "wof:lastmodified":1561769721,
     "wof:name":"\u0391\u03bd\u03ce\u03b3\u03c5\u03c1\u03b1",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

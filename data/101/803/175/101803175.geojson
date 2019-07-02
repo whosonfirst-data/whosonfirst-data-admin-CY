@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000194,
-    "geom:area_square_m":1960266.045204,
+    "geom:area_square_m":1960266.045206,
     "geom:bbox":"33.8805131022,34.9985530224,33.9037987602,35.0213050197",
     "geom:latitude":35.008215,
     "geom:longitude":33.892323,
@@ -17,17 +17,11 @@
     "mps:longitude":33.893293,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u053c\u056b\u0578\u057a\u0565\u057f\u0580\u056b"
-    ],
     "name:bul_x_preferred":[
         "\u041b\u0438\u043e\u043f\u0435\u0442\u0440\u0438"
     ],
     "name:ceb_x_preferred":[
         "Liop\u00e9tri"
-    ],
-    "name:dut_x_preferred":[
-        "Liopetri"
     ],
     "name:ell_x_preferred":[
         "\u039b\u03b9\u03bf\u03c0\u03ad\u03c4\u03c1\u03b9"
@@ -47,20 +41,14 @@
     "name:fra_x_preferred":[
         "Liop\u00e9tri"
     ],
-    "name:fre_x_preferred":[
-        "Liop\u00e9tri"
-    ],
-    "name:gre_x_preferred":[
-        "\u039b\u03b9\u03bf\u03c0\u03ad\u03c4\u03c1\u03b9"
-    ],
     "name:hye_x_preferred":[
         "\u053c\u056b\u0578\u057a\u0565\u057f\u0580\u056b"
     ],
+    "name:nld_x_preferred":[
+        "Liopetri"
+    ],
     "name:nno_x_preferred":[
         "Liop\u00e9tri"
-    ],
-    "name:per_x_preferred":[
-        "\u0644\u06cc\u0648\u067e\u062a\u0631\u06cc"
     ],
     "name:pol_x_preferred":[
         "Liopetri"
@@ -137,7 +125,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527642765,
+    "wof:lastmodified":1561769726,
     "wof:name":"\u039b\u03b9\u03bf\u03c0\u03ad\u03c4\u03c1\u03b9",
     "wof:parent_id":85682389,
     "wof:placetype":"locality",

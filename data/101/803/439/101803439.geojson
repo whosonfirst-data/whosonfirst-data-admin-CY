@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00003,
-    "geom:area_square_m":300046.253988,
+    "geom:area_square_m":300046.253989,
     "geom:bbox":"33.0377876985,34.9303224534,33.044941941,34.937461012",
     "geom:latitude":34.933892,
     "geom:longitude":33.041365,
@@ -17,14 +17,8 @@
     "mps:longitude":33.041365,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u0531\u056c\u0578\u0576\u0561"
-    ],
     "name:ceb_x_preferred":[
         "\u00c1lona"
-    ],
-    "name:dut_x_preferred":[
-        "Alona"
     ],
     "name:ell_x_preferred":[
         "\u0386\u03bb\u03c9\u03bd\u03b1"
@@ -38,14 +32,11 @@
     "name:fas_x_preferred":[
         "\u0627\u0644\u0648\u0646\u0627\u060c \u0633\u06cc\u067e\u0631\u0627\u0633"
     ],
-    "name:gre_x_preferred":[
-        "\u0386\u03bb\u03c9\u03bd\u03b1"
-    ],
     "name:hye_x_preferred":[
         "\u0531\u056c\u0578\u0576\u0561"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0644\u0648\u0646\u0627\u060c \u0633\u06cc\u067e\u0631\u0627\u0633"
+    "name:nld_x_preferred":[
+        "Alona"
     ],
     "name:pol_x_preferred":[
         "Alona"
@@ -110,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527642763,
+    "wof:lastmodified":1561769725,
     "wof:name":"\u0386\u03bb\u03c9\u03bd\u03b1",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

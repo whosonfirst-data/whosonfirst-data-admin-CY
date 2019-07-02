@@ -23,9 +23,6 @@
     "name:ceb_x_preferred":[
         "Mouttagi\u00e1ka"
     ],
-    "name:dut_x_preferred":[
-        "Mouttagiaka"
-    ],
     "name:ell_x_preferred":[
         "\u039c\u03bf\u03c5\u03c4\u03c4\u03b1\u03b3\u03b9\u03ac\u03ba\u03b1"
     ],
@@ -42,11 +39,11 @@
         "Mutlayaka",
         "Mutluyaka"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Mouttagi\u00e1ka"
     ],
-    "name:gre_x_preferred":[
-        "\u039c\u03bf\u03c5\u03c4\u03c4\u03b1\u03b3\u03b9\u03ac\u03ba\u03b1"
+    "name:nld_x_preferred":[
+        "Mouttagiaka"
     ],
     "name:nno_x_preferred":[
         "Mouttaj\u00e1ka"
@@ -111,7 +108,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527689358,
+    "wof:lastmodified":1561769732,
     "wof:name":"\u039c\u03bf\u03c5\u03c4\u03c4\u03b1\u03b3\u03b9\u03ac\u03ba\u03b1",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

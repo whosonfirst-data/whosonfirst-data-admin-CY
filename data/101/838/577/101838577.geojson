@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000111,
-    "geom:area_square_m":1122601.601041,
+    "geom:area_square_m":1122601.601043,
     "geom:bbox":"33.5053382777,35.2122337637,33.5189519276,35.2336536869",
     "geom:latitude":35.224316,
     "geom:longitude":33.513399,
@@ -16,17 +16,12 @@
     "mps:longitude":33.513509,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u0537\u057a\u056b\u056d\u0578"
-    ],
-    "name:dut_x_preferred":[
-        "Epicho"
-    ],
     "name:ell_x_preferred":[
         "Epich\u00f3"
     ],
     "name:ell_x_variant":[
-        "\u0395\u03c0\u03b9\u03c7\u03cc"
+        "\u0395\u03c0\u03b9\u03c7\u03cc",
+        "\u0395\u03c0\u03b7\u03c7\u03ce"
     ],
     "name:eng_x_preferred":[
         "Epicho"
@@ -36,8 +31,11 @@
         "Aboukhor",
         "Cihangir"
     ],
-    "name:gre_x_preferred":[
-        "\u0395\u03c0\u03b7\u03c7\u03ce"
+    "name:hye_x_preferred":[
+        "\u0537\u057a\u056b\u056d\u0578"
+    ],
+    "name:nld_x_preferred":[
+        "Epicho"
     ],
     "name:pol_x_preferred":[
         "Epicho"
@@ -114,7 +112,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1553815536,
+    "wof:lastmodified":1561769737,
     "wof:name":"\u0395\u03c0\u03b9\u03c7\u03cc",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

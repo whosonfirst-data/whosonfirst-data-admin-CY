@@ -19,9 +19,6 @@
     "name:bul_x_preferred":[
         "\u041a\u0430\u043b\u043e\u0433\u0440\u0435\u0430"
     ],
-    "name:dut_x_preferred":[
-        "Kalograia"
-    ],
     "name:ell_x_preferred":[
         "Kalogra\u00eda"
     ],
@@ -31,8 +28,8 @@
     "name:eng_x_preferred":[
         "Kalograia"
     ],
-    "name:gre_x_preferred":[
-        "\u039a\u03b1\u03bb\u03bf\u03b3\u03c1\u03b1\u03af\u03b1"
+    "name:nld_x_preferred":[
+        "Kalograia"
     ],
     "name:pol_x_preferred":[
         "Kalogria"
@@ -107,7 +104,7 @@
         }
     ],
     "wof:id":101803363,
-    "wof:lastmodified":1513944704,
+    "wof:lastmodified":1561769724,
     "wof:name":"\u039a\u03b1\u03bb\u03bf\u03b3\u03c1\u03b1\u03af\u03b1",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

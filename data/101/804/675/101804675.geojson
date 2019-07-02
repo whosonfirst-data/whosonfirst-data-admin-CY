@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00026,
-    "geom:area_square_m":2640567.389919,
+    "geom:area_square_m":2640567.38992,
     "geom:bbox":"32.6847848864,34.6546245504,32.7057295777,34.679644379",
     "geom:latitude":34.668075,
     "geom:longitude":32.697304,
@@ -23,9 +23,6 @@
     "name:ceb_x_preferred":[
         "Pisso\u00fari"
     ],
-    "name:dut_x_preferred":[
-        "Pissouri"
-    ],
     "name:ell_x_preferred":[
         "\u03a0\u03b9\u03c3\u03c3\u03bf\u03cd\u03c1\u03b9"
     ],
@@ -38,20 +35,14 @@
     "name:fas_x_preferred":[
         "\u067e\u06cc\u0633\u0648\u0631\u06cc"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Pisso\u00fari"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03b9\u03c3\u03c3\u03bf\u03cd\u03c1\u03b9"
     ],
     "name:jpn_x_preferred":[
         "\u30d4\u30c3\u30bd\u30a6\u30ea"
     ],
     "name:nld_x_preferred":[
         "Pissouri"
-    ],
-    "name:per_x_preferred":[
-        "\u067e\u06cc\u0633\u0648\u0631\u06cc"
     ],
     "name:pol_x_preferred":[
         "Pisuri"
@@ -122,7 +113,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527642745,
+    "wof:lastmodified":1561769721,
     "wof:name":"\u03a0\u03b9\u03c3\u03c3\u03bf\u03cd\u03c1\u03b9",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

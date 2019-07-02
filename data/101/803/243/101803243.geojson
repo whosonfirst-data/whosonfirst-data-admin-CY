@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00033,
-    "geom:area_square_m":3340351.637558,
+    "geom:area_square_m":3340351.63756,
     "geom:bbox":"33.594316159,35.1412679278,33.623915912,35.1632601214",
     "geom:latitude":35.15413,
     "geom:longitude":33.609069,
@@ -16,20 +16,15 @@
     "mps:longitude":33.606378,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u0531\u057d\u056b\u0561"
-    ],
     "name:bul_x_preferred":[
         "\u0410\u0441\u0438\u044f"
-    ],
-    "name:dut_x_preferred":[
-        "Asha"
     ],
     "name:ell_x_preferred":[
         "\u00c1skeia"
     ],
     "name:ell_x_variant":[
-        "\u0386\u03c3\u03ba\u03b5\u03b9\u03b1"
+        "\u0386\u03c3\u03ba\u03b5\u03b9\u03b1",
+        "\u0386\u03c3\u03c3\u03b9\u03b1"
     ],
     "name:eng_x_preferred":[
         "Asha"
@@ -38,10 +33,13 @@
         "Pasha Keuy",
         "Rasa Koy"
     ],
-    "name:gre_x_preferred":[
-        "\u0386\u03c3\u03c3\u03b9\u03b1"
+    "name:hye_x_preferred":[
+        "\u0531\u057d\u056b\u0561"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Asha"
+    ],
+    "name:nld_x_preferred":[
         "Asha"
     ],
     "name:nno_x_preferred":[
@@ -138,7 +136,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1553815512,
+    "wof:lastmodified":1561769725,
     "wof:name":"\u0386\u03c3\u03ba\u03b5\u03b9\u03b1",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

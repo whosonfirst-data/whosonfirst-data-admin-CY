@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000028,
-    "geom:area_square_m":280015.243805,
+    "geom:area_square_m":280015.243806,
     "geom:bbox":"33.8543149741,35.3934029056,33.8608262758,35.4008306071",
     "geom:latitude":35.397271,
     "geom:longitude":33.857575,
@@ -16,14 +16,11 @@
     "mps:longitude":33.857575,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u0556\u056c\u0561\u0574\u0578\u0582\u0564\u056b"
-    ],
     "name:bul_x_preferred":[
         "\u0424\u043b\u0430\u043c\u0443\u0434\u0438"
     ],
-    "name:dut_x_preferred":[
-        "Flamoudi"
+    "name:deu_x_preferred":[
+        "Flamoudi/Mersinlik"
     ],
     "name:ell_x_preferred":[
         "Flamo\u00fadi"
@@ -38,14 +35,14 @@
         "Flamoudi",
         "Flamudi"
     ],
-    "name:ger_x_preferred":[
-        "Flamoudi/Mersinlik"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a6\u03bb\u03b1\u03bc\u03bf\u03cd\u03b4\u03b9"
-    ],
-    "name:per_x_preferred":[
+    "name:fas_x_preferred":[
         "\u0641\u0644\u0627\u0645\u0648\u062f\u06cc"
+    ],
+    "name:hye_x_preferred":[
+        "\u0556\u056c\u0561\u0574\u0578\u0582\u0564\u056b"
+    ],
+    "name:nld_x_preferred":[
+        "Flamoudi"
     ],
     "name:pol_x_preferred":[
         "Flamudi"
@@ -139,7 +136,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1553815512,
+    "wof:lastmodified":1561769728,
     "wof:name":"\u03a6\u03bb\u03b1\u03bc\u03bf\u03cd\u03b4\u03b9",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

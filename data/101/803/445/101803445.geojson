@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000039,
-    "geom:area_square_m":390046.471155,
+    "geom:area_square_m":390046.471156,
     "geom:bbox":"33.011089783,35.0739066818,33.0175555912,35.0834306888",
     "geom:latitude":35.078537,
     "geom:longitude":33.014417,
@@ -19,9 +19,6 @@
     "mz:is_current":1,
     "name:ceb_x_preferred":[
         "Vyzaki\u00e1"
-    ],
-    "name:dut_x_preferred":[
-        "Vyzakia"
     ],
     "name:ell_x_preferred":[
         "\u0392\u03c5\u03b6\u03b1\u03ba\u03b9\u03ac"
@@ -38,8 +35,8 @@
         "Vizacia",
         "Vyzakia"
     ],
-    "name:gre_x_preferred":[
-        "\u0392\u03c5\u03b6\u03b1\u03ba\u03b9\u03ac"
+    "name:nld_x_preferred":[
+        "Vyzakia"
     ],
     "name:pol_x_preferred":[
         "Wizakia"
@@ -107,7 +104,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527642768,
+    "wof:lastmodified":1561769728,
     "wof:name":"\u0392\u03c5\u03b6\u03b1\u03ba\u03b9\u03ac",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

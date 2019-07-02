@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000105,
-    "geom:area_square_m":1060119.208103,
+    "geom:area_square_m":1060119.208102,
     "geom:bbox":"33.2058097217,35.1089533377,33.2193921268,35.1232331891",
     "geom:latitude":35.115751,
     "geom:longitude":33.212225,
@@ -16,14 +16,8 @@
     "mps:longitude":33.212328,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u0531\u0575\u056b \u054f\u0580\u056b\u0574\u056b\u057f\u056b\u0561\u057d"
-    ],
     "name:ceb_x_preferred":[
         "\u00c1gioi Trimithi\u00e1s"
-    ],
-    "name:dut_x_preferred":[
-        "Ayii Trimithias"
     ],
     "name:ell_x_preferred":[
         "\u0386\u03b3\u03b9\u03bf\u03b9 \u03a4\u03c1\u03b9\u03bc\u03b9\u03b8\u03b9\u03ac\u03c2"
@@ -44,14 +38,14 @@
     "name:fas_x_preferred":[
         "\u0627\u062c\u06cc\u0648\u06cc \u062a\u0631\u06cc\u0645\u06cc\u062a\u06cc\u0627\u0633"
     ],
-    "name:gre_x_preferred":[
-        "\u0386\u03b3\u03b9\u03bf\u03b9 \u03a4\u03c1\u03b9\u03bc\u03b9\u03b8\u03b9\u03ac\u03c2"
-    ],
     "name:hye_x_preferred":[
         "\u0531\u0575\u056b \u054f\u0580\u056b\u0574\u056b\u0569\u056b\u0561\u057d"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u062c\u06cc\u0648\u06cc \u062a\u0631\u06cc\u0645\u06cc\u062a\u06cc\u0627\u0633"
+    "name:hye_x_variant":[
+        "\u0531\u0575\u056b \u054f\u0580\u056b\u0574\u056b\u057f\u056b\u0561\u057d"
+    ],
+    "name:nld_x_preferred":[
+        "Ayii Trimithias"
     ],
     "name:pol_x_preferred":[
         "Ajii Trimitias"
@@ -115,7 +109,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527642768,
+    "wof:lastmodified":1561769728,
     "wof:name":"\u0391\u03b3\u03af\u03bf\u03b9 \u03a4\u03c1\u03b9\u03bc\u03b9\u03b8\u03b9\u03ac\u03c2",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

@@ -23,9 +23,6 @@
     "name:ceb_x_preferred":[
         "Syk\u00f3petra"
     ],
-    "name:dut_x_preferred":[
-        "Sykopetra"
-    ],
     "name:ell_x_preferred":[
         "\u03a3\u03c5\u03ba\u03cc\u03c0\u03b5\u03c4\u03c1\u03b1"
     ],
@@ -35,11 +32,11 @@
     "name:eng_x_preferred":[
         "Sykopetra"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Syk\u00f3petra"
     ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03c5\u03ba\u03cc\u03c0\u03b5\u03c4\u03c1\u03b1"
+    "name:nld_x_preferred":[
+        "Sykopetra"
     ],
     "name:pol_x_preferred":[
         "Sikopetra"
@@ -102,7 +99,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1544740757,
+    "wof:lastmodified":1561769735,
     "wof:name":"\u03a3\u03c5\u03ba\u03cc\u03c0\u03b5\u03c4\u03c1\u03b1",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

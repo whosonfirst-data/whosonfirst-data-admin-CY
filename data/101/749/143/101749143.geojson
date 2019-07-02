@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00167,
-    "geom:area_square_m":16960252.652785,
+    "geom:area_square_m":16960252.652801,
     "geom:bbox":"32.4004252421,34.7346855674,32.4546002705,34.8039537493",
     "geom:latitude":34.774372,
     "geom:longitude":32.42702,
@@ -20,14 +20,8 @@
     "name:ara_x_preferred":[
         "\u0628\u0627\u0641\u0648\u0633"
     ],
-    "name:arm_x_preferred":[
-        "\u054a\u0561\u0586\u0578\u057d"
-    ],
     "name:aze_x_preferred":[
         "Paphos"
-    ],
-    "name:baq_x_preferred":[
-        "Pafos"
     ],
     "name:ben_x_preferred":[
         "\u09aa\u09be\u09ab\u09cb\u09b8"
@@ -44,19 +38,16 @@
     "name:cat_x_preferred":[
         "Pafos"
     ],
-    "name:chi_x_preferred":[
-        "\u5e15\u798f\u65af"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Pafos"
+    ],
+    "name:cym_x_preferred":[
+        "Paphos"
     ],
     "name:dan_x_preferred":[
         "Pafos"
     ],
     "name:deu_x_preferred":[
-        "Paphos"
-    ],
-    "name:dut_x_preferred":[
         "Paphos"
     ],
     "name:ell_x_preferred":[
@@ -74,26 +65,20 @@
     "name:est_x_preferred":[
         "Paphos"
     ],
+    "name:eus_x_preferred":[
+        "Pafos"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u0641\u0648\u0633"
+    ],
     "name:fin_x_preferred":[
         "Pafos"
     ],
     "name:fra_x_preferred":[
         "Paphos"
     ],
-    "name:fre_x_preferred":[
-        "Paphos"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10d0\u10e4\u10dd\u10e1\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Paphos"
-    ],
     "name:glg_x_preferred":[
         "Paphos"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03ac\u03c6\u03bf\u03c2"
     ],
     "name:guj_x_preferred":[
         "\u0aaa\u0ac7\u0aab\u0acb\u0ab8"
@@ -110,6 +95,9 @@
     "name:hun_x_preferred":[
         "P\u00e1fosz"
     ],
+    "name:hye_x_preferred":[
+        "\u054a\u0561\u0586\u0578\u057d"
+    ],
     "name:ind_x_preferred":[
         "Paphos"
     ],
@@ -121,6 +109,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0caa\u0cc6\u0caa\u0ccb\u0cb8\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10de\u10d0\u10e4\u10dd\u10e1\u10d8"
     ],
     "name:kor_x_preferred":[
         "\ud30c\ud3ec\uc2a4"
@@ -137,17 +128,17 @@
     "name:lit_x_preferred":[
         "Pafosas"
     ],
-    "name:mac_x_preferred":[
-        "\u041f\u0430\u0444\u043e\u0441"
-    ],
     "name:mar_x_preferred":[
         "\u092a\u0945\u092b\u0949\u0938"
     ],
-    "name:may_x_preferred":[
-        "Paphos"
+    "name:mkd_x_preferred":[
+        "\u041f\u0430\u0444\u043e\u0441"
     ],
     "name:mon_x_preferred":[
         "\u041f\u0430\u0444\u043e\u0441"
+    ],
+    "name:msa_x_preferred":[
+        "Paphos"
     ],
     "name:nep_x_preferred":[
         "\u092a\u092b\u094b\u0938"
@@ -164,9 +155,6 @@
     "name:nor_x_preferred":[
         "Pafos"
     ],
-    "name:per_x_preferred":[
-        "\u067e\u0627\u0641\u0648\u0633"
-    ],
     "name:pnb_x_preferred":[
         "\u067e\u0627\u0641\u0648\u0633"
     ],
@@ -176,7 +164,7 @@
     "name:por_x_preferred":[
         "Pafos"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Paphos"
     ],
     "name:rus_x_preferred":[
@@ -191,7 +179,7 @@
     "name:sin_x_preferred":[
         "\u0db4\u0dcf\u0db4\u0ddc\u0dc3\u0dca"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Pafos"
     ],
     "name:slv_x_preferred":[
@@ -243,8 +231,8 @@
     "name:war_x_preferred":[
         "Paphos"
     ],
-    "name:wel_x_preferred":[
-        "Paphos"
+    "name:zho_x_preferred":[
+        "\u5e15\u798f\u65af"
     ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
     "qs:a1":"*\u03a0\u03ac\u03c6\u03bf\u03c2",
@@ -299,7 +287,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527686420,
+    "wof:lastmodified":1561769731,
     "wof:name":"\u03a0\u03ac\u03c6\u03bf\u03c2",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

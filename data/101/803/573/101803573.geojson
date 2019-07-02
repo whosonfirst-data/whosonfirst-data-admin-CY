@@ -23,9 +23,6 @@
     "name:ceb_x_preferred":[
         "Psevd\u00e1s"
     ],
-    "name:dut_x_preferred":[
-        "Psevdas"
-    ],
     "name:ell_x_preferred":[
         "\u03a8\u03b5\u03c5\u03b4\u03ac\u03c2"
     ],
@@ -40,8 +37,8 @@
         "Psevda",
         "Psevdas"
     ],
-    "name:gre_x_preferred":[
-        "\u03a8\u03b5\u03c5\u03b4\u03ac\u03c2"
+    "name:nld_x_preferred":[
+        "Psevdas"
     ],
     "name:pol_x_preferred":[
         "Psewdas"
@@ -103,7 +100,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527642765,
+    "wof:lastmodified":1561769726,
     "wof:name":"\u03a8\u03b5\u03c5\u03b4\u03ac\u03c2",
     "wof:parent_id":85682407,
     "wof:placetype":"locality",

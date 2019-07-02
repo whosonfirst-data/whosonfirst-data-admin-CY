@@ -17,17 +17,11 @@
     "mps:longitude":33.493709,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u0531\u056c\u0565\u0569\u0580\u056b\u056f\u0578"
-    ],
     "name:bul_x_preferred":[
         "\u0410\u043b\u0435\u0442\u0440\u0438\u043a\u043e"
     ],
     "name:ceb_x_preferred":[
         "Alethrik\u00f3"
-    ],
-    "name:dut_x_preferred":[
-        "Alethriko"
     ],
     "name:ell_x_preferred":[
         "\u0391\u03bb\u03b5\u03b8\u03c1\u03b9\u03ba\u03cc"
@@ -45,14 +39,11 @@
     "name:fas_x_preferred":[
         "\u0627\u0644\u062a\u0631\u06cc\u06a9\u0648"
     ],
-    "name:gre_x_preferred":[
-        "\u0391\u03bb\u03b5\u03b8\u03c1\u03b9\u03ba\u03cc"
-    ],
     "name:hye_x_preferred":[
         "\u0531\u056c\u0565\u0569\u0580\u056b\u056f\u0578"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0644\u062a\u0631\u06cc\u06a9\u0648"
+    "name:nld_x_preferred":[
+        "Alethriko"
     ],
     "name:pol_x_preferred":[
         "Aletriko"
@@ -114,7 +105,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527642760,
+    "wof:lastmodified":1561769724,
     "wof:name":"\u0391\u03bb\u03b5\u03b8\u03c1\u03b9\u03ba\u03cc",
     "wof:parent_id":85682407,
     "wof:placetype":"locality",

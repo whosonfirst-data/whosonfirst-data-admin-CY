@@ -23,14 +23,12 @@
     "name:deu_x_preferred":[
         "Potamia"
     ],
-    "name:dut_x_preferred":[
-        "Potamia"
-    ],
     "name:ell_x_preferred":[
         "Potami\u00e1"
     ],
     "name:ell_x_variant":[
-        "\u03a0\u03bf\u03c4\u03b1\u03bc\u03b9\u03ac"
+        "\u03a0\u03bf\u03c4\u03b1\u03bc\u03b9\u03ac",
+        "\u03a0\u03bf\u03c4\u03b1\u03bc\u03b9\u03ac \u039b\u03b5\u03c5\u03ba\u03c9\u03c3\u03af\u03b1\u03c2"
     ],
     "name:eng_x_preferred":[
         "Potamia"
@@ -39,11 +37,8 @@
         "Bodamya",
         "Potamya"
     ],
-    "name:ger_x_preferred":[
+    "name:nld_x_preferred":[
         "Potamia"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03bf\u03c4\u03b1\u03bc\u03b9\u03ac \u039b\u03b5\u03c5\u03ba\u03c9\u03c3\u03af\u03b1\u03c2"
     ],
     "name:pol_x_preferred":[
         "Potamia"
@@ -110,7 +105,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527642761,
+    "wof:lastmodified":1561769724,
     "wof:name":"\u03a0\u03bf\u03c4\u03b1\u03bc\u03b9\u03ac",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

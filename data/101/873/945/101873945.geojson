@@ -20,9 +20,6 @@
     "name:ceb_x_preferred":[
         "Kamp\u00ed"
     ],
-    "name:dut_x_preferred":[
-        "Kampi"
-    ],
     "name:ell_x_preferred":[
         "Kamp\u00ed"
     ],
@@ -37,8 +34,8 @@
         "Kampi Farmaka",
         "Kampi"
     ],
-    "name:gre_x_preferred":[
-        "\u039a\u03b1\u03bc\u03c0\u03af"
+    "name:nld_x_preferred":[
+        "Kampi"
     ],
     "name:pol_x_preferred":[
         "Kambi"
@@ -99,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1544751558,
+    "wof:lastmodified":1561769714,
     "wof:name":"\u039a\u03b1\u03bc\u03c0\u03af",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

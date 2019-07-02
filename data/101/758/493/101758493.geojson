@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000188,
-    "geom:area_square_m":1914131.379397,
+    "geom:area_square_m":1914131.379395,
     "geom:bbox":"33.0731091283,34.7080078553,33.0894928639,34.7268618424",
     "geom:latitude":34.716503,
     "geom:longitude":33.081324,
@@ -25,9 +25,6 @@
     "name:ceb_x_preferred":[
         "Germas\u00f3geia"
     ],
-    "name:dut_x_preferred":[
-        "Yermasoyia"
-    ],
     "name:ell_x_preferred":[
         "\u0393\u03b5\u03c1\u03bc\u03b1\u03c3\u03cc\u03b3\u03b5\u03b9\u03b1"
     ],
@@ -43,17 +40,14 @@
     "name:fra_x_preferred":[
         "Yermas\u00f3yia"
     ],
-    "name:fre_x_preferred":[
-        "Yermas\u00f3yia"
-    ],
-    "name:gre_x_preferred":[
-        "\u0393\u03b5\u03c1\u03bc\u03b1\u03c3\u03cc\u03b3\u03b5\u03b9\u03b1"
-    ],
     "name:ita_x_preferred":[
         "Germasogeia"
     ],
     "name:lit_x_preferred":[
         "Jermasoja"
+    ],
+    "name:nld_x_preferred":[
+        "Yermasoyia"
     ],
     "name:nno_x_preferred":[
         "Jermas\u00f3ja"
@@ -119,7 +113,7 @@
         }
     ],
     "wof:id":101758493,
-    "wof:lastmodified":1527689311,
+    "wof:lastmodified":1561769731,
     "wof:name":"\u0393\u03b5\u03c1\u03bc\u03b1\u03c3\u03cc\u03b3\u03b5\u03b9\u03b1",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

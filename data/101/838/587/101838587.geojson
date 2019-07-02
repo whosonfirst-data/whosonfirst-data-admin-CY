@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000032,
-    "geom:area_square_m":327238.440195,
+    "geom:area_square_m":327238.440194,
     "geom:bbox":"33.4956244337,35.2319780617,33.5044794062,35.2398162429",
     "geom:latitude":35.236025,
     "geom:longitude":33.500552,
@@ -16,20 +16,18 @@
     "mps:longitude":33.500988,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Beyk\u00f6y"
-    ],
     "name:ell_x_preferred":[
         "B\u00e9\u00efkio\u00ef"
     ],
     "name:ell_x_variant":[
-        "\u039c\u03c0\u03ad\u03ca\u03ba\u03b9\u03bf\u03ca"
+        "\u039c\u03c0\u03ad\u03ca\u03ba\u03b9\u03bf\u03ca",
+        "\u039c\u03c0\u03ad\u03b7 \u039a\u03b9\u03bf\u03b3\u03b9\u03bf\u03cd"
     ],
     "name:eng_x_preferred":[
         "Beyk\u00f6y"
     ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03ad\u03b7 \u039a\u03b9\u03bf\u03b3\u03b9\u03bf\u03cd"
+    "name:nld_x_preferred":[
+        "Beyk\u00f6y"
     ],
     "name:pol_x_preferred":[
         "Beikii"
@@ -110,7 +108,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1513944738,
+    "wof:lastmodified":1561769737,
     "wof:name":"\u039c\u03c0\u03ad\u03ca\u03ba\u03ca\u03bf\u03b9",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

@@ -23,9 +23,6 @@
     "name:ceb_x_preferred":[
         "Apesi\u00e1"
     ],
-    "name:dut_x_preferred":[
-        "Apesia"
-    ],
     "name:ell_x_preferred":[
         "\u0391\u03c0\u03b1\u03b9\u03c3\u03b9\u03ac"
     ],
@@ -39,8 +36,8 @@
     "name:eng_x_variant":[
         "Apesia"
     ],
-    "name:gre_x_preferred":[
-        "\u0391\u03c0\u03b1\u03b9\u03c3\u03b9\u03ac"
+    "name:nld_x_preferred":[
+        "Apesia"
     ],
     "name:pol_x_preferred":[
         "Apesia"
@@ -108,7 +105,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527642753,
+    "wof:lastmodified":1561769722,
     "wof:name":"\u0391\u03c0\u03b5\u03c3\u03b9\u03ac",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

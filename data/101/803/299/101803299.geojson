@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000045,
-    "geom:area_square_m":450025.537429,
+    "geom:area_square_m":450025.53743,
     "geom:bbox":"34.0732116871,35.3912790687,34.0805999839,35.4015942173",
     "geom:latitude":35.396968,
     "geom:longitude":34.076855,
@@ -19,14 +19,15 @@
     "name:bul_x_preferred":[
         "\u0422\u0430\u0432\u0440\u043e\u0441"
     ],
-    "name:dut_x_preferred":[
-        "Tavros"
+    "name:deu_x_preferred":[
+        "Tavrou/Pamuklu"
     ],
     "name:ell_x_preferred":[
         "T\u00e1vrou"
     ],
     "name:ell_x_variant":[
-        "\u03a4\u03b1\u03cd\u03c1\u03bf\u03c5"
+        "\u03a4\u03b1\u03cd\u03c1\u03bf\u03c5",
+        "\u03a4\u03b1\u03cd\u03c1\u03bf\u03c2"
     ],
     "name:eng_x_preferred":[
         "Pamuklu"
@@ -35,11 +36,8 @@
         "Tavrou",
         "Tavros"
     ],
-    "name:ger_x_preferred":[
-        "Tavrou/Pamuklu"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03b1\u03cd\u03c1\u03bf\u03c2"
+    "name:nld_x_preferred":[
+        "Tavros"
     ],
     "name:pol_x_preferred":[
         "Tawros"
@@ -121,7 +119,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1553815513,
+    "wof:lastmodified":1561769729,
     "wof:name":"\u03a4\u03b1\u03cd\u03c1\u03bf\u03c5",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

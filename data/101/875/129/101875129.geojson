@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000259,
-    "geom:area_square_m":2625036.275627,
+    "geom:area_square_m":2625036.275628,
     "geom:bbox":"33.0375835558,34.9370224278,33.0554698099,34.955226458",
     "geom:latitude":34.946124,
     "geom:longitude":33.046411,
@@ -19,9 +19,6 @@
     "mz:is_current":1,
     "name:ceb_x_preferred":[
         "Platanist\u00e1sa"
-    ],
-    "name:dut_x_preferred":[
-        "Platanistasa"
     ],
     "name:ell_x_preferred":[
         "\u03a0\u03bb\u03b1\u03c4\u03b1\u03bd\u03b9\u03c3\u03c4\u03ac\u03c3\u03b1"
@@ -38,11 +35,8 @@
     "name:fas_x_preferred":[
         "\u067e\u0644\u0627\u062a\u0627\u0646\u06cc\u0633\u062a\u0627\u0633\u0627"
     ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03bb\u03b1\u03c4\u03b1\u03bd\u03b9\u03c3\u03c4\u03ac\u03c3\u03b1"
-    ],
-    "name:per_x_preferred":[
-        "\u067e\u0644\u0627\u062a\u0627\u0646\u06cc\u0633\u062a\u0627\u0633\u0627"
+    "name:nld_x_preferred":[
+        "Platanistasa"
     ],
     "name:pol_x_preferred":[
         "Platanistasa"
@@ -109,7 +103,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527642578,
+    "wof:lastmodified":1561769716,
     "wof:name":"\u03a0\u03bb\u03b1\u03c4\u03b1\u03bd\u03b9\u03c3\u03c4\u03ac\u03c3\u03b1",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

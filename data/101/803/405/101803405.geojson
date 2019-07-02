@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000035,
-    "geom:area_square_m":350048.060522,
+    "geom:area_square_m":350048.060521,
     "geom:bbox":"33.1164791658,34.9921581462,33.1302399862,34.99843199",
     "geom:latitude":34.995853,
     "geom:longitude":33.121923,
@@ -16,17 +16,12 @@
     "mps:longitude":33.120203,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u0531\u0575\u0578\u057d \u0537\u057a\u056b\u0586\u0561\u0576\u056b\u0578\u057d"
-    ],
-    "name:dut_x_preferred":[
-        "Agios Epifanios"
-    ],
     "name:ell_x_preferred":[
         "\u00c1gios Epif\u00e1nios"
     ],
     "name:ell_x_variant":[
-        "\u0386\u03b3\u03b9\u03bf\u03c2 \u0395\u03c0\u03b9\u03c6\u03ac\u03bd\u03b9\u03bf\u03c2"
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u0395\u03c0\u03b9\u03c6\u03ac\u03bd\u03b9\u03bf\u03c2",
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u0395\u03c0\u03b9\u03c6\u03ac\u03bd\u03b5\u03b9\u03bf\u03c2"
     ],
     "name:eng_x_preferred":[
         "Ayios Epiphanios"
@@ -39,11 +34,14 @@
         "St. Epiphanios",
         "Agios Epifanios"
     ],
-    "name:gre_x_preferred":[
-        "\u0386\u03b3\u03b9\u03bf\u03c2 \u0395\u03c0\u03b9\u03c6\u03ac\u03bd\u03b5\u03b9\u03bf\u03c2"
-    ],
-    "name:per_x_preferred":[
+    "name:fas_x_preferred":[
         "\u0627\u06af\u06cc\u0648\u0627\u0633 \u0627\u067e\u06cc\u0641\u0627\u0646\u0648\u0627\u0633"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u0575\u0578\u057d \u0537\u057a\u056b\u0586\u0561\u0576\u056b\u0578\u057d"
+    ],
+    "name:nld_x_preferred":[
+        "Agios Epifanios"
     ],
     "name:pol_x_preferred":[
         "Ajos Epifanios"
@@ -113,7 +111,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1553815513,
+    "wof:lastmodified":1561769728,
     "wof:name":"\u0386\u03b3\u03b9\u03bf\u03c2 \u0395\u03c0\u03b9\u03c6\u03ac\u03bd\u03b9\u03bf\u03c2",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

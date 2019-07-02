@@ -23,9 +23,6 @@
     "name:ceb_x_preferred":[
         "Dier\u00f3na"
     ],
-    "name:dut_x_preferred":[
-        "Dierona"
-    ],
     "name:ell_x_preferred":[
         "\u0394\u03b9\u03b5\u03c1\u03ce\u03bd\u03b1"
     ],
@@ -39,8 +36,8 @@
         "Dierona",
         "Diyerona"
     ],
-    "name:gre_x_preferred":[
-        "\u0394\u03b9\u03b5\u03c1\u03ce\u03bd\u03b1"
+    "name:nld_x_preferred":[
+        "Dierona"
     ],
     "name:pol_x_preferred":[
         "Dierona"
@@ -103,7 +100,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1544740754,
+    "wof:lastmodified":1561769735,
     "wof:name":"\u0394\u03b9\u03b5\u03c1\u03ce\u03bd\u03b1",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

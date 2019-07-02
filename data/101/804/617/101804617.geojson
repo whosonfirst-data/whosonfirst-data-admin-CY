@@ -16,11 +16,11 @@
     "mps:longitude":32.368267,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u0546\u0565\u0578 \u053d\u0578\u0580\u056b\u0578"
-    ],
     "name:bul_x_preferred":[
         "\u041d\u0435\u043e \u0425\u043e\u0440\u0438\u043e"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03ad\u03bf \u03a7\u03c9\u03c1\u03b9\u03cc \u03a0\u03ac\u03c6\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
         "Neokhorio"
@@ -32,8 +32,8 @@
         "Yenije Keuy",
         "Neo Chorio"
     ],
-    "name:gre_x_preferred":[
-        "\u039d\u03ad\u03bf \u03a7\u03c9\u03c1\u03b9\u03cc \u03a0\u03ac\u03c6\u03bf\u03c5"
+    "name:hye_x_preferred":[
+        "\u0546\u0565\u0578 \u053d\u0578\u0580\u056b\u0578"
     ],
     "name:pol_x_preferred":[
         "Neo Chorio"
@@ -92,7 +92,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1553815514,
+    "wof:lastmodified":1561769721,
     "wof:name":"\u039d\u03ad\u03bf \u03a7\u03c9\u03c1\u03b9\u03cc",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

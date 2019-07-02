@@ -23,9 +23,6 @@
     "name:ceb_x_preferred":[
         "K\u00e1to Pl\u00e1tres"
     ],
-    "name:dut_x_preferred":[
-        "Platres"
-    ],
     "name:ell_x_preferred":[
         "\u039a\u03ac\u03c4\u03c9 \u03a0\u03bb\u03ac\u03c4\u03c1\u03b5\u03c2"
     ],
@@ -38,8 +35,8 @@
     "name:fin_x_preferred":[
         "Pl\u00e1tres"
     ],
-    "name:gre_x_preferred":[
-        "\u039a\u03ac\u03c4\u03c9 \u03a0\u03bb\u03ac\u03c4\u03c1\u03b5\u03c2"
+    "name:nld_x_preferred":[
+        "Platres"
     ],
     "name:pol_x_preferred":[
         "Kato Platres"
@@ -108,7 +105,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527715302,
+    "wof:lastmodified":1561769737,
     "wof:name":"\u039a\u03ac\u03c4\u03c9 \u03a0\u03bb\u03ac\u03c4\u03c1\u03b5\u03c2",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

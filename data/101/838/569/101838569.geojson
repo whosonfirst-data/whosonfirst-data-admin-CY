@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00009,
-    "geom:area_square_m":902352.979971,
+    "geom:area_square_m":902352.979972,
     "geom:bbox":"34.1433851881,35.4669314436,34.1582675543,35.4772445663",
     "geom:latitude":35.472351,
     "geom:longitude":34.150014,
@@ -19,6 +19,9 @@
     "name:bul_x_preferred":[
         "\u0412\u0430\u0441\u0438\u043b\u0438"
     ],
+    "name:deu_x_preferred":[
+        "Vasili/Gelincik"
+    ],
     "name:ell_x_preferred":[
         "Vas\u00edli"
     ],
@@ -28,17 +31,11 @@
     "name:eng_x_preferred":[
         "Vasili"
     ],
-    "name:fre_x_preferred":[
-        "Vasili"
-    ],
-    "name:ger_x_preferred":[
-        "Vasili/Gelincik"
-    ],
-    "name:gre_x_preferred":[
-        "\u0392\u03b1\u03c3\u03af\u03bb\u03b9"
-    ],
-    "name:per_x_preferred":[
+    "name:fas_x_preferred":[
         "\u0648\u0627\u0633\u06cc\u0644\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Vasili"
     ],
     "name:pol_x_preferred":[
         "Wasili"
@@ -121,7 +118,7 @@
         }
     ],
     "wof:id":101838569,
-    "wof:lastmodified":1513944693,
+    "wof:lastmodified":1561769736,
     "wof:name":"\u0392\u03b1\u03c3\u03af\u03bb\u03b9",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

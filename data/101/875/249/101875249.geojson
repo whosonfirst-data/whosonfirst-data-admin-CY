@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000228,
-    "geom:area_square_m":2310783.637083,
+    "geom:area_square_m":2310783.63708,
     "geom:bbox":"33.1721997617,34.8167159288,33.1887787512,34.834475336",
     "geom:latitude":34.825273,
     "geom:longitude":33.180528,
@@ -20,9 +20,6 @@
     "name:bul_x_preferred":[
         "\u041a\u043b\u043e\u043d\u0430\u0440\u0438"
     ],
-    "name:dut_x_preferred":[
-        "Klonari"
-    ],
     "name:ell_x_preferred":[
         "\u039a\u03bb\u03c9\u03bd\u03ac\u03c1\u03b9"
     ],
@@ -35,8 +32,8 @@
     "name:eng_x_variant":[
         "Klonan"
     ],
-    "name:gre_x_preferred":[
-        "\u039a\u03bb\u03c9\u03bd\u03ac\u03c1\u03b9"
+    "name:nld_x_preferred":[
+        "Klonari"
     ],
     "name:pol_x_preferred":[
         "Klonari"
@@ -91,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527642583,
+    "wof:lastmodified":1561769717,
     "wof:name":"\u039a\u03bb\u03c9\u03bd\u03ac\u03c1\u03b9",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

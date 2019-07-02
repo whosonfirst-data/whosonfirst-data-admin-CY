@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000044,
-    "geom:area_square_m":440045.713594,
+    "geom:area_square_m":440045.713593,
     "geom:bbox":"33.1426853383,35.1621978668,33.1565573461,35.1713904494",
     "geom:latitude":35.166717,
     "geom:longitude":33.148507,
@@ -20,9 +20,6 @@
     "name:ceb_x_preferred":[
         "D\u00e9neia"
     ],
-    "name:dut_x_preferred":[
-        "Deneia"
-    ],
     "name:ell_x_preferred":[
         "D\u00e9neia"
     ],
@@ -36,8 +33,8 @@
         "Deneia",
         "Denya"
     ],
-    "name:gre_x_preferred":[
-        "\u0394\u03ad\u03bd\u03b5\u03b9\u03b1"
+    "name:nld_x_preferred":[
+        "Deneia"
     ],
     "name:nno_x_preferred":[
         "D\u00e9nia"
@@ -109,7 +106,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527642763,
+    "wof:lastmodified":1561769725,
     "wof:name":"\u0394\u03ad\u03bd\u03b5\u03b9\u03b1",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

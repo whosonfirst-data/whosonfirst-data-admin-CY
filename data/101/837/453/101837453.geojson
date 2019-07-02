@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000045,
-    "geom:area_square_m":459654.800976,
+    "geom:area_square_m":459654.800975,
     "geom:bbox":"32.3888862284,34.9515187318,32.3983738652,34.9624703442",
     "geom:latitude":34.955867,
     "geom:longitude":32.394281,
@@ -17,23 +17,18 @@
     "mps:longitude":32.394229,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u053b\u0576\u056b\u0561"
-    ],
     "name:bul_x_preferred":[
         "\u0418\u043d\u0438\u044f"
     ],
     "name:ceb_x_preferred":[
         "\u00cdneia"
     ],
-    "name:dut_x_preferred":[
-        "Inia"
-    ],
     "name:ell_x_preferred":[
         "\u00cdneia"
     ],
     "name:ell_x_variant":[
-        "\u038a\u03bd\u03b5\u03b9\u03b1"
+        "\u038a\u03bd\u03b5\u03b9\u03b1",
+        "\u038a\u03bd\u03b9\u03b1"
     ],
     "name:eng_x_preferred":[
         "Inia"
@@ -44,14 +39,11 @@
     "name:fas_x_preferred":[
         "\u0627\u06cc\u0646\u0627\u06cc\u0627"
     ],
-    "name:gre_x_preferred":[
-        "\u038a\u03bd\u03b9\u03b1"
-    ],
     "name:hye_x_preferred":[
         "\u053b\u0576\u056b\u0561"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u06cc\u0646\u0627\u06cc\u0627"
+    "name:nld_x_preferred":[
+        "Inia"
     ],
     "name:pol_x_preferred":[
         "Inia"
@@ -123,7 +115,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527715304,
+    "wof:lastmodified":1561769738,
     "wof:name":"\u038a\u03bd\u03b5\u03b9\u03b1",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

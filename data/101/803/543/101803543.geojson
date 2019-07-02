@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000168,
-    "geom:area_square_m":1700183.049351,
+    "geom:area_square_m":1700183.04935,
     "geom:bbox":"33.7586153564,34.9868178913,33.7927180089,35.0012477866",
     "geom:latitude":34.993728,
     "geom:longitude":33.776075,
@@ -16,14 +16,11 @@
     "mps:longitude":33.773491,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u0555\u0580\u0574\u056b\u0564\u056b\u0561"
-    ],
     "name:bul_x_preferred":[
         "\u041e\u0440\u043c\u0438\u0434\u0438\u044f"
     ],
-    "name:dut_x_preferred":[
-        "Ormideia"
+    "name:ell_x_preferred":[
+        "\u039f\u03c1\u03bc\u03ae\u03b4\u03b5\u03b9\u03b1"
     ],
     "name:eng_x_preferred":[
         "Ormidhia"
@@ -33,23 +30,26 @@
         "Ormidya",
         "Ormitya"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0631\u0645\u06cc\u062f\u06cc\u0627"
+    ],
+    "name:fra_x_preferred":[
         "Ormidhia"
     ],
-    "name:gre_x_preferred":[
-        "\u039f\u03c1\u03bc\u03ae\u03b4\u03b5\u03b9\u03b1"
+    "name:hye_x_preferred":[
+        "\u0555\u0580\u0574\u056b\u0564\u056b\u0561"
     ],
     "name:ita_x_preferred":[
         "Ormidhia"
+    ],
+    "name:nld_x_preferred":[
+        "Ormideia"
     ],
     "name:nno_x_preferred":[
         "Orm\u00eddia"
     ],
     "name:nob_x_preferred":[
         "Ormidhia"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0648\u0631\u0645\u06cc\u062f\u06cc\u0627"
     ],
     "name:pol_x_preferred":[
         "Ormidia"
@@ -125,7 +125,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1513944741,
+    "wof:lastmodified":1561769726,
     "wof:name":"\u039f\u03c1\u03bc\u03af\u03b4\u03b5\u03b9\u03b1",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

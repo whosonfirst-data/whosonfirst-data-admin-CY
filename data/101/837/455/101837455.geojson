@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000063,
-    "geom:area_square_m":640509.209333,
+    "geom:area_square_m":640509.209334,
     "geom:bbox":"32.3916313136,34.9570739741,32.406919589,34.9648894949",
     "geom:latitude":34.961155,
     "geom:longitude":32.400162,
@@ -17,23 +17,18 @@
     "mps:longitude":32.400162,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u0534\u0580\u0578\u0582\u057d\u056b\u0561"
-    ],
     "name:bul_x_preferred":[
         "\u0414\u0440\u0443\u0441\u0438\u044f"
     ],
     "name:ceb_x_preferred":[
         "Dro\u00faseia"
     ],
-    "name:dut_x_preferred":[
-        "Dhrousha"
-    ],
     "name:ell_x_preferred":[
         "Dro\u00faseia"
     ],
     "name:ell_x_variant":[
-        "\u0394\u03c1\u03bf\u03cd\u03c3\u03b5\u03b9\u03b1"
+        "\u0394\u03c1\u03bf\u03cd\u03c3\u03b5\u03b9\u03b1",
+        "\u0394\u03c1\u03bf\u03cd\u03c3\u03b9\u03b1"
     ],
     "name:eng_x_preferred":[
         "Dhrousha"
@@ -42,11 +37,11 @@
         "Drousa",
         "Drouseia"
     ],
-    "name:gre_x_preferred":[
-        "\u0394\u03c1\u03bf\u03cd\u03c3\u03b9\u03b1"
-    ],
     "name:hye_x_preferred":[
         "\u0534\u0580\u0578\u0582\u057d\u056b\u0561"
+    ],
+    "name:nld_x_preferred":[
+        "Dhrousha"
     ],
     "name:pol_x_preferred":[
         "Drusia"
@@ -114,7 +109,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527715304,
+    "wof:lastmodified":1561769737,
     "wof:name":"\u0394\u03c1\u03bf\u03cd\u03c3\u03b5\u03b9\u03b1",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

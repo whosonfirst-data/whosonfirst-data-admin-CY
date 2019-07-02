@@ -20,9 +20,6 @@
     "name:ceb_x_preferred":[
         "Fteriko\u00fadi"
     ],
-    "name:dut_x_preferred":[
-        "Fterikoudi"
-    ],
     "name:ell_x_preferred":[
         "Fteriko\u00fadi"
     ],
@@ -32,8 +29,8 @@
     "name:eng_x_preferred":[
         "Fterikoudi"
     ],
-    "name:gre_x_preferred":[
-        "\u03a6\u03c4\u03b5\u03c1\u03b9\u03ba\u03bf\u03cd\u03b4\u03b9"
+    "name:nld_x_preferred":[
+        "Fterikoudi"
     ],
     "name:pol_x_preferred":[
         "Fterikudi"
@@ -88,7 +85,7 @@
         }
     ],
     "wof:id":101875117,
-    "wof:lastmodified":1527642580,
+    "wof:lastmodified":1561769716,
     "wof:name":"\u03a6\u03c4\u03b5\u03c1\u03b9\u03ba\u03bf\u03cd\u03b4\u03b9",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

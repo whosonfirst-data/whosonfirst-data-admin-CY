@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000353,
-    "geom:area_square_m":3590797.368245,
+    "geom:area_square_m":3590797.368247,
     "geom:bbox":"32.8197490053,34.6633559779,32.8518903484,34.6889704899",
     "geom:latitude":34.675299,
     "geom:longitude":32.83842,
@@ -20,9 +20,6 @@
     "name:bul_x_preferred":[
         "\u041f\u0430\u0440\u0430\u043c\u0430\u043b\u0438"
     ],
-    "name:dut_x_preferred":[
-        "Paramali"
-    ],
     "name:ell_x_preferred":[
         "Param\u00e1li"
     ],
@@ -32,8 +29,8 @@
     "name:eng_x_preferred":[
         "Paramali"
     ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03b1\u03c1\u03b1\u03bc\u03ac\u03bb\u03b9"
+    "name:nld_x_preferred":[
+        "Paramali"
     ],
     "name:pol_x_preferred":[
         "Paramali"
@@ -96,7 +93,7 @@
         }
     ],
     "wof:id":101911237,
-    "wof:lastmodified":1513944666,
+    "wof:lastmodified":1561769738,
     "wof:name":"Paramali",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

@@ -17,9 +17,6 @@
     "mps:longitude":32.720196,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u0531\u0580\u0574\u056b\u0576\u0578\u0582"
-    ],
     "name:bul_x_preferred":[
         "\u0410\u0440\u043c\u0438\u043d\u0443"
     ],
@@ -35,14 +32,8 @@
     "name:fas_x_preferred":[
         "\u0627\u0631\u0645\u06cc\u0646\u0648"
     ],
-    "name:gre_x_preferred":[
-        "\u0391\u03c1\u03bc\u03af\u03bd\u03bf\u03c5"
-    ],
     "name:hye_x_preferred":[
         "\u0531\u0580\u0574\u056b\u0576\u0578\u0582"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0631\u0645\u06cc\u0646\u0648"
     ],
     "name:pol_x_preferred":[
         "Arminu"
@@ -103,7 +94,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1544740713,
+    "wof:lastmodified":1561769734,
     "wof:name":"\u0391\u03c1\u03bc\u03af\u03bd\u03bf\u03c5",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

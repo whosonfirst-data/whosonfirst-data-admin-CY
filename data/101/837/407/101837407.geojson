@@ -19,9 +19,6 @@
     "name:bul_x_preferred":[
         "\u041a\u0430\u043b\u043e \u0425\u043e\u0440\u0438\u043e"
     ],
-    "name:dut_x_preferred":[
-        "Kalo Chorio"
-    ],
     "name:ell_x_preferred":[
         "Kal\u00f3n Chori\u00f3n"
     ],
@@ -33,8 +30,8 @@
     "name:eng_x_preferred":[
         "Kalo Chorio"
     ],
-    "name:gre_x_preferred":[
-        "\u039a\u03b1\u03bb\u03cc \u03a7\u03c9\u03c1\u03b9\u03cc"
+    "name:nld_x_preferred":[
+        "Kalo Chorio"
     ],
     "name:pol_x_preferred":[
         "Kalo Chorio"
@@ -81,7 +78,7 @@
         }
     ],
     "wof:id":101837407,
-    "wof:lastmodified":1553815535,
+    "wof:lastmodified":1561769738,
     "wof:name":"\u039a\u03b1\u03bb\u03cc \u03a7\u03c9\u03c1\u03b9\u03cc",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

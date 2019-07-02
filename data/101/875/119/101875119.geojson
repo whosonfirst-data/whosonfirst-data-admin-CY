@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000195,
-    "geom:area_square_m":1974528.050245,
+    "geom:area_square_m":1974528.050244,
     "geom:bbox":"33.0090519384,34.9309121284,33.0269288779,34.9475549946",
     "geom:latitude":34.938354,
     "geom:longitude":33.017073,
@@ -20,9 +20,6 @@
     "name:ceb_x_preferred":[
         "Pol\u00fdstypos"
     ],
-    "name:dut_x_preferred":[
-        "Polystypos"
-    ],
     "name:ell_x_preferred":[
         "Pol\u00fdstypos"
     ],
@@ -32,8 +29,8 @@
     "name:eng_x_preferred":[
         "Polystypos"
     ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03bf\u03bb\u03cd\u03c3\u03c4\u03c5\u03c0\u03bf\u03c2"
+    "name:nld_x_preferred":[
+        "Polystypos"
     ],
     "name:pol_x_preferred":[
         "Polistipos"
@@ -85,7 +82,7 @@
         }
     ],
     "wof:id":101875119,
-    "wof:lastmodified":1527642579,
+    "wof:lastmodified":1561769716,
     "wof:name":"\u03a0\u03bf\u03bb\u03cd\u03c3\u03c4\u03c5\u03c0\u03bf\u03c2",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

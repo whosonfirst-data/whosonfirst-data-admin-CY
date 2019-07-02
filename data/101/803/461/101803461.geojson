@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000144,
-    "geom:area_square_m":1460152.275593,
+    "geom:area_square_m":1460152.275594,
     "geom:bbox":"33.0262879051,35.132428545,33.0641259216,35.1428958837",
     "geom:latitude":35.137857,
     "geom:longitude":33.041783,
@@ -17,14 +17,8 @@
     "mps:longitude":33.038343,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u0531\u057d\u057f\u0580\u0578\u0574\u0565\u0580\u056b\u057f\u056b\u057d"
-    ],
     "name:ceb_x_preferred":[
         "Astromer\u00edtis"
-    ],
-    "name:dut_x_preferred":[
-        "Astromeritis"
     ],
     "name:ell_x_preferred":[
         "\u0391\u03c3\u03c4\u03c1\u03bf\u03bc\u03b5\u03c1\u03af\u03c4\u03b7\u03c2"
@@ -42,17 +36,14 @@
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0631\u0648\u0645\u0631\u06cc\u062a\u06cc\u0633"
     ],
-    "name:gre_x_preferred":[
-        "\u0391\u03c3\u03c4\u03c1\u03bf\u03bc\u03b5\u03c1\u03af\u03c4\u03b7\u03c2"
-    ],
     "name:hye_x_preferred":[
         "\u0531\u057d\u057f\u0580\u0578\u0574\u0565\u0580\u056b\u057f\u056b\u057d"
     ],
+    "name:nld_x_preferred":[
+        "Astromeritis"
+    ],
     "name:nno_x_preferred":[
         "Astromer\u00edtis"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0631\u0648\u0645\u0631\u06cc\u062a\u06cc\u0633"
     ],
     "name:pol_x_preferred":[
         "Astromeritis"
@@ -120,7 +111,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527642769,
+    "wof:lastmodified":1561769729,
     "wof:name":"\u0391\u03c3\u03c4\u03c1\u03bf\u03bc\u03b5\u03c1\u03af\u03c4\u03b7\u03c2",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

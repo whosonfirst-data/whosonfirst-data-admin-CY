@@ -20,9 +20,6 @@
     "name:ceb_x_preferred":[
         "Kokkinotrimithi\u00e1"
     ],
-    "name:dut_x_preferred":[
-        "Kokkinotrimithia"
-    ],
     "name:ell_x_preferred":[
         "\u039a\u03bf\u03ba\u03ba\u03b9\u03bd\u03bf\u03c4\u03c1\u03b9\u03bc\u03b9\u03b8\u03b9\u03ac"
     ],
@@ -35,10 +32,10 @@
     "name:eng_x_variant":[
         "Kokkinotrimithia"
     ],
-    "name:gre_x_preferred":[
-        "\u039a\u03bf\u03ba\u03ba\u03b9\u03bd\u03bf\u03c4\u03c1\u03b9\u03bc\u03b9\u03b8\u03b9\u03ac"
-    ],
     "name:ita_x_preferred":[
+        "Kokkinotrimithia"
+    ],
+    "name:nld_x_preferred":[
         "Kokkinotrimithia"
     ],
     "name:nno_x_preferred":[
@@ -115,7 +112,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527642769,
+    "wof:lastmodified":1561769729,
     "wof:name":"\u039a\u03bf\u03ba\u03ba\u03b9\u03bd\u03bf\u03c4\u03c1\u03b9\u03bc\u03b9\u03b8\u03b9\u03ac",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

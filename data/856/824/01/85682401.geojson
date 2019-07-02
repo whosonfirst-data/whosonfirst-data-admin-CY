@@ -27,23 +27,17 @@
     "name:ara_x_preferred":[
         "\u0645\u0646\u0637\u0642\u0629 \u0628\u0627\u0641\u0648\u0633"
     ],
-    "name:arm_x_preferred":[
-        "\u054a\u0561\u0586\u0578\u057d\u056b \u0577\u0580\u057b\u0561\u0576"
-    ],
     "name:bul_x_preferred":[
         "\u041f\u0430\u0444\u043e\u0441"
     ],
     "name:cat_x_preferred":[
         "Districte de Pafos"
     ],
-    "name:chi_x_preferred":[
-        "\u5e15\u798f\u65af\u533a"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Pafos"
     ],
-    "name:dut_x_preferred":[
-        "Paphos"
+    "name:deu_x_preferred":[
+        "Bezirk Paphos"
     ],
     "name:ell_x_preferred":[
         "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u03a0\u03ac\u03c6\u03bf\u03c5"
@@ -60,32 +54,32 @@
         "Pafos",
         "Paphos"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u067e\u0627\u0641\u0648\u0633"
+    ],
     "name:fin_x_preferred":[
         "Pafoksen alue"
     ],
     "name:fra_x_preferred":[
         "Paphos"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "district de Paphos"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10d0\u10e4\u10dd\u10e1\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Bezirk Paphos"
-    ],
-    "name:gre_x_preferred":[
-        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u03a0\u03ac\u03c6\u03bf\u03c5"
     ],
     "name:heb_x_preferred":[
         "\u05de\u05d7\u05d5\u05d6 \u05e4\u05d0\u05e4\u05d5\u05e1"
+    ],
+    "name:hye_x_preferred":[
+        "\u054a\u0561\u0586\u0578\u057d\u056b \u0577\u0580\u057b\u0561\u0576"
     ],
     "name:ita_x_preferred":[
         "distretto di Pafo"
     ],
     "name:jpn_x_preferred":[
         "\u30d1\u30d5\u30a9\u30b9\u5730\u533a"
+    ],
+    "name:kat_x_preferred":[
+        "\u10de\u10d0\u10e4\u10dd\u10e1\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
     ],
     "name:kor_x_preferred":[
         "\ud30c\ud3ec\uc2a4 \uad6c"
@@ -96,17 +90,17 @@
     "name:lit_x_preferred":[
         "Pafoso apygarda"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Daerah Paphos"
+    ],
+    "name:nld_x_preferred":[
+        "Paphos"
     ],
     "name:nno_x_preferred":[
         "Distriktet P\u00e1fos"
     ],
     "name:nob_x_preferred":[
         "Pafos"
-    ],
-    "name:per_x_preferred":[
-        "\u0646\u0627\u062d\u06cc\u0647 \u067e\u0627\u0641\u0648\u0633"
     ],
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u067e\u0627\u0641\u0648\u0633"
@@ -117,7 +111,7 @@
     "name:por_x_preferred":[
         "Pafos"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Districtul Paphos"
     ],
     "name:rus_x_preferred":[
@@ -152,6 +146,9 @@
     ],
     "name:war_x_preferred":[
         "Paphos"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e15\u798f\u65af\u533a"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"CYP",
@@ -271,7 +268,7 @@
         "ell",
         "tur"
     ],
-    "wof:lastmodified":1553550706,
+    "wof:lastmodified":1561769713,
     "wof:name":"\u03a0\u03ac\u03c6\u03bf\u03c2",
     "wof:parent_id":85632437,
     "wof:placetype":"region",

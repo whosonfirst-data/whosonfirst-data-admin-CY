@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000028,
-    "geom:area_square_m":280038.484936,
+    "geom:area_square_m":280038.484937,
     "geom:bbox":"32.8842024767,35.0229665033,32.8942451219,35.0315666148",
     "geom:latitude":35.027149,
     "geom:longitude":32.890119,
@@ -16,17 +16,12 @@
     "mps:longitude":32.890879,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u054f\u0565\u0574\u057e\u0580\u056b\u0561"
-    ],
-    "name:dut_x_preferred":[
-        "Temvria"
-    ],
     "name:ell_x_preferred":[
         "Temvri\u00e1"
     ],
     "name:ell_x_variant":[
-        "\u03a4\u03b5\u03bc\u03b2\u03c1\u03b9\u03ac"
+        "\u03a4\u03b5\u03bc\u03b2\u03c1\u03b9\u03ac",
+        "\u03a4\u03b5\u03bc\u03c0\u03c1\u03b9\u03ac"
     ],
     "name:eng_x_preferred":[
         "Tembria"
@@ -34,8 +29,11 @@
     "name:eng_x_variant":[
         "Temvria"
     ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03b5\u03bc\u03c0\u03c1\u03b9\u03ac"
+    "name:hye_x_preferred":[
+        "\u054f\u0565\u0574\u057e\u0580\u056b\u0561"
+    ],
+    "name:nld_x_preferred":[
+        "Temvria"
     ],
     "name:pol_x_preferred":[
         "Temwria"
@@ -90,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1513944760,
+    "wof:lastmodified":1561769726,
     "wof:name":"\u03a4\u03b5\u03bc\u03b2\u03c1\u03b9\u03ac",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

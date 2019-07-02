@@ -40,17 +40,8 @@
     "name:fra_x_preferred":[
         "Tseri"
     ],
-    "name:fre_x_preferred":[
-        "Tseri"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03c3\u03ad\u03c1\u03b9"
-    ],
     "name:nno_x_preferred":[
         "Ts\u00e9ri"
-    ],
-    "name:per_x_preferred":[
-        "\u062a\u0633\u0631\u06cc"
     ],
     "name:pol_x_preferred":[
         "Tseri"
@@ -119,7 +110,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527642768,
+    "wof:lastmodified":1561769728,
     "wof:name":"\u03a4\u03c3\u03ad\u03c1\u03b9",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

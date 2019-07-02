@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000039,
-    "geom:area_square_m":400078.523493,
+    "geom:area_square_m":400078.523494,
     "geom:bbox":"32.8487627981,34.7525314762,32.8655681268,34.7617384552",
     "geom:latitude":34.757239,
     "geom:longitude":32.857468,
@@ -23,9 +23,6 @@
     "name:ceb_x_preferred":[
         "P\u00e1no Kiv\u00eddes"
     ],
-    "name:dut_x_preferred":[
-        "Kivides"
-    ],
     "name:ell_x_preferred":[
         "\u039a\u03c5\u03b2\u03af\u03b4\u03b5\u03c2"
     ],
@@ -36,8 +33,8 @@
     "name:eng_x_preferred":[
         "Kivides"
     ],
-    "name:gre_x_preferred":[
-        "\u039a\u03c5\u03b2\u03af\u03b4\u03b5\u03c2"
+    "name:nld_x_preferred":[
+        "Kivides"
     ],
     "name:pol_x_preferred":[
         "Kato Kiwides"
@@ -94,7 +91,7 @@
         }
     ],
     "wof:id":101804677,
-    "wof:lastmodified":1527642754,
+    "wof:lastmodified":1561769722,
     "wof:name":"\u03a0\u03ac\u03bd\u03c9 \u039a\u03b9\u03b2\u03af\u03b4\u03b5\u03c2",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000251,
-    "geom:area_square_m":2545100.443745,
+    "geom:area_square_m":2545100.443744,
     "geom:bbox":"33.29586914,34.8415916737,33.3140711459,34.8597936705",
     "geom:latitude":34.850459,
     "geom:longitude":33.304767,
@@ -24,9 +24,6 @@
     "name:ceb_x_preferred":[
         "Kato Drys"
     ],
-    "name:dut_x_preferred":[
-        "Kato Drys"
-    ],
     "name:ell_x_preferred":[
         "\u039a\u03ac\u03c4\u03c9 \u0394\u03c1\u03c5\u03c2"
     ],
@@ -40,11 +37,11 @@
         "Kotodori",
         "Kato Drys"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "K\u00e1to Drys"
     ],
-    "name:gre_x_preferred":[
-        "\u039a\u03ac\u03c4\u03c9 \u0394\u03c1\u03c5\u03c2"
+    "name:nld_x_preferred":[
+        "Kato Drys"
     ],
     "name:pol_x_preferred":[
         "Kato Dris"
@@ -114,7 +111,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527642582,
+    "wof:lastmodified":1561769717,
     "wof:name":"\u039a\u03ac\u03c4\u03c9 \u0394\u03c1\u03c5\u03c2",
     "wof:parent_id":85682407,
     "wof:placetype":"locality",

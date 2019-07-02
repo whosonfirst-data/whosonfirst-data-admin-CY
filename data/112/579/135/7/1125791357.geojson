@@ -19,9 +19,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:dut_x_preferred":[
-        "Lympia"
-    ],
     "name:ell_x_preferred":[
         "L\u00fdmpia"
     ],
@@ -31,8 +28,8 @@
     "name:eng_x_preferred":[
         "Lympia"
     ],
-    "name:gre_x_preferred":[
-        "\u039b\u03cd\u03bc\u03c0\u03b9\u03b1"
+    "name:nld_x_preferred":[
+        "Lympia"
     ],
     "name:nno_x_preferred":[
         "L\u00fdmbia"
@@ -83,7 +80,7 @@
         }
     ],
     "wof:id":1125791357,
-    "wof:lastmodified":1553816536,
+    "wof:lastmodified":1561769740,
     "wof:name":"Lymbia",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",
