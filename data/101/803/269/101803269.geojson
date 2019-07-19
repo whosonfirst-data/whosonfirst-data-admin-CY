@@ -19,14 +19,21 @@
     "name:bul_x_preferred":[
         "\u0410\u0433\u0438\u043e\u0441 \u042f\u043a\u043e\u0432\u043e\u0441"
     ],
+    "name:ceb_x_preferred":[
+        "\u00c1gios I\u00e1kovos"
+    ],
     "name:ell_x_preferred":[
         "\u00c1gios I\u00e1kovos"
     ],
     "name:ell_x_variant":[
-        "\u0386\u03b3\u03b9\u03bf\u03c2 \u0399\u03ac\u03ba\u03c9\u03b2\u03bf\u03c2"
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u0399\u03ac\u03ba\u03c9\u03b2\u03bf\u03c2",
+        "\u0391\u03bb\u03c4\u03af\u03bd\u03bf\u03b2\u03b1"
     ],
     "name:eng_x_preferred":[
         "Ayios Iakovos"
+    ],
+    "name:eng_x_variant":[
+        "Agios Iakovos"
     ],
     "name:hye_x_preferred":[
         "\u0531\u0575\u0578\u057d \u0545\u0561\u056f\u0578\u057e\u0578\u057d"
@@ -43,8 +50,14 @@
     "name:swe_x_preferred":[
         "\u00c1gios I\u00e1kovos"
     ],
+    "name:tur_x_preferred":[
+        "Alt\u0131nova"
+    ],
     "name:unk_x_variant":[
         "Aynakofo"
+    ],
+    "name:urd_x_preferred":[
+        "\u0622\u0626\u06cc\u0648\u0633 \u0627\u06cc\u0627\u06a9\u0648\u0648\u0633"
     ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
     "qs:a1":"*\u0391\u03bc\u03bc\u03cc\u03c7\u03c9\u03c3\u03c4\u03bf\u03c2",
@@ -110,7 +123,7 @@
         }
     ],
     "wof:id":101803269,
-    "wof:lastmodified":1561769725,
+    "wof:lastmodified":1563574500,
     "wof:name":"\u0386\u03b3\u03b9\u03bf\u03c2 \u0399\u03ac\u03ba\u03c9\u03b2\u03bf\u03c2",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

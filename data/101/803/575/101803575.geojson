@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000041,
+    "geom:area_square_m":420067.819463,
     "geom:bbox":"33.4254208647,34.922819122,33.440990063,34.928322704",
     "geom:latitude":34.925896,
     "geom:longitude":33.432293,
@@ -21,6 +22,9 @@
     "name:ceb_x_preferred":[
         "Pyrg\u00e1"
     ],
+    "name:deu_x_preferred":[
+        "Pyrga"
+    ],
     "name:ell_x_preferred":[
         "\u03a0\u03c5\u03c1\u03b3\u03ac \u039b\u03ac\u03c1\u03bd\u03b1\u03ba\u03b1\u03c2"
     ],
@@ -34,8 +38,17 @@
     "name:eng_x_variant":[
         "Pirga"
     ],
+    "name:fra_x_preferred":[
+        "Pyrga"
+    ],
+    "name:hun_x_preferred":[
+        "Pyrga"
+    ],
     "name:hye_x_preferred":[
         "\u054a\u056b\u0580\u0563\u0561"
+    ],
+    "name:nld_x_preferred":[
+        "Pyrga"
     ],
     "name:pol_x_preferred":[
         "Pirga"
@@ -51,6 +64,9 @@
     ],
     "name:unk_x_variant":[
         "\u00c7aml\u0131bel"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u06cc\u0631\u06af\u0627"
     ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
     "qs:a1":"*\u039b\u03ac\u03c1\u03bd\u03b1\u03ba\u03b1",
@@ -102,7 +118,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527642764,
+    "wof:lastmodified":1563574505,
     "wof:name":"\u03a0\u03c5\u03c1\u03b3\u03ac",
     "wof:parent_id":85682407,
     "wof:placetype":"locality",

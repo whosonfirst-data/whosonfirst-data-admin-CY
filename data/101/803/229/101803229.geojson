@@ -23,7 +23,8 @@
         "G\u00e9nagra"
     ],
     "name:ell_x_variant":[
-        "\u0393\u03ad\u03bd\u03b1\u03b3\u03c1\u03b1"
+        "\u0393\u03ad\u03bd\u03b1\u03b3\u03c1\u03b1",
+        "\u039d\u03ad\u03c1\u03b3\u03ba\u03b9\u03c3\u03bb\u03b9"
     ],
     "name:eng_x_preferred":[
         "Genagra"
@@ -126,7 +127,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769724,
+    "wof:lastmodified":1563574486,
     "wof:name":"\u0393\u03ad\u03bd\u03b1\u03b3\u03c1\u03b1",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

@@ -41,11 +41,20 @@
     "name:eng_x_variant":[
         "Ypsona"
     ],
+    "name:eus_x_preferred":[
+        "Ypsonas"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u06cc\u067e\u0633\u0648\u0646\u06cc\u0632"
     ],
+    "name:fin_x_preferred":[
+        "\u00ddpsonas"
+    ],
     "name:fra_x_preferred":[
         "\u00ddpsonas"
+    ],
+    "name:ita_x_preferred":[
+        "Ypsonas"
     ],
     "name:nld_x_preferred":[
         "Ypsonas"
@@ -126,7 +135,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769732,
+    "wof:lastmodified":1563574566,
     "wof:name":"\u038e\u03c8\u03c9\u03bd\u03b1\u03c2",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

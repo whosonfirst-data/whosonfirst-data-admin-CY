@@ -23,6 +23,9 @@
     "name:bul_x_preferred":[
         "\u0420\u0438\u0437\u043e\u043a\u0430\u0440\u043f\u0430\u0441\u043e"
     ],
+    "name:ceb_x_preferred":[
+        "Rizok\u00e1rpaso"
+    ],
     "name:deu_x_preferred":[
         "Rizokarpaso"
     ],
@@ -30,7 +33,8 @@
         "Rizok\u00e1rpaso"
     ],
     "name:ell_x_variant":[
-        "\u03a1\u03b9\u03b6\u03bf\u03ba\u03ac\u03c1\u03c0\u03b1\u03c3\u03bf"
+        "\u03a1\u03b9\u03b6\u03bf\u03ba\u03ac\u03c1\u03c0\u03b1\u03c3\u03bf",
+        "\u039d\u03c4\u03b9\u03c0\u03ba\u03b1\u03c1\u03c0\u03ac\u03b6"
     ],
     "name:eng_x_preferred":[
         "Rizokarpaso"
@@ -44,6 +48,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0631\u06cc\u0632\u0648\u06a9\u0627\u0631\u067e\u0627\u0633\u0648"
+    ],
+    "name:fin_x_preferred":[
+        "Rizok\u00e1rpaso"
     ],
     "name:fra_x_preferred":[
         "Rizokarpaso"
@@ -166,7 +173,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769724,
+    "wof:lastmodified":1563574483,
     "wof:name":"\u03a1\u03b9\u03b6\u03bf\u03ba\u03ac\u03c1\u03c0\u03b1\u03c3\u03bf",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

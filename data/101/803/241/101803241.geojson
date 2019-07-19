@@ -23,7 +23,8 @@
         "Kn\u00f3dara"
     ],
     "name:ell_x_variant":[
-        "\u039a\u03bd\u03ce\u03b4\u03b1\u03c1\u03b1"
+        "\u039a\u03bd\u03ce\u03b4\u03b1\u03c1\u03b1",
+        "\u0393\u03ba\u03bf\u03bd\u03b5\u03bd\u03c4\u03ad\u03c1\u03b5"
     ],
     "name:eng_x_preferred":[
         "Knodara"
@@ -36,6 +37,9 @@
     ],
     "name:pol_x_preferred":[
         "Knodara"
+    ],
+    "name:tur_x_preferred":[
+        "G\u00f6nendere"
     ],
     "name:unk_x_variant":[
         "Conendere"
@@ -107,7 +111,7 @@
         }
     ],
     "wof:id":101803241,
-    "wof:lastmodified":1561769727,
+    "wof:lastmodified":1563574522,
     "wof:name":"\u039a\u03bd\u03ce\u03b4\u03b1\u03c1\u03b1",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

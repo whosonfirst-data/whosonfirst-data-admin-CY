@@ -20,10 +20,14 @@
         "Loutr\u00f3s"
     ],
     "name:ell_x_variant":[
-        "\u039b\u03bf\u03c5\u03c4\u03c1\u03cc\u03c2"
+        "\u039b\u03bf\u03c5\u03c4\u03c1\u03cc\u03c2",
+        "\u039c\u03c0\u03b1\u03bd\u03c4\u03b5\u03bc\u03bb\u03af\u03ba\u03b9\u03bf\u03ca"
     ],
     "name:eng_x_preferred":[
         "Lutro"
+    ],
+    "name:eng_x_variant":[
+        "Loutros"
     ],
     "name:nld_x_preferred":[
         "Loutros"
@@ -37,6 +41,9 @@
     "name:tur_x_preferred":[
         "Ba\u011fdemlik\u00f6y"
     ],
+    "name:tur_x_variant":[
+        "Bademlik\u00f6y"
+    ],
     "name:und_x_colloquial":[
         "Bademlikoey",
         "Bademlikoy"
@@ -49,6 +56,9 @@
     ],
     "name:unk_x_variant":[
         "Bademlik\u00f6y"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0648\u062a\u0631\u0648\u0633"
     ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
     "qs:a1":"*\u039b\u03b5\u03c5\u03ba\u03c9\u03c3\u03af\u03b1",
@@ -108,7 +118,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769717,
+    "wof:lastmodified":1563574415,
     "wof:name":"\u039b\u03bf\u03c5\u03c4\u03c1\u03cc\u03c2",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

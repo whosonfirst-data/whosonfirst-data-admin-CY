@@ -36,6 +36,9 @@
         "Avdimou",
         "Evdim"
     ],
+    "name:fra_x_preferred":[
+        "Avd\u00edmou"
+    ],
     "name:nld_x_preferred":[
         "Avdimou"
     ],
@@ -109,7 +112,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769722,
+    "wof:lastmodified":1563574466,
     "wof:name":"\u0391\u03c5\u03b4\u03ae\u03bc\u03bf\u03c5",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

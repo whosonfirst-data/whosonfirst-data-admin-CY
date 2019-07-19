@@ -19,6 +19,9 @@
     "name:bul_x_preferred":[
         "\u041b\u0438\u0442\u0440\u0430\u043d\u0433\u043e\u043c\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Lythr\u00e1gkomi"
+    ],
     "name:deu_x_preferred":[
         "Lythrangomi"
     ],
@@ -26,7 +29,8 @@
         "Lythr\u00e1gkomi"
     ],
     "name:ell_x_variant":[
-        "\u039b\u03c5\u03b8\u03c1\u03ac\u03b3\u03ba\u03c9\u03bc\u03b7"
+        "\u039b\u03c5\u03b8\u03c1\u03ac\u03b3\u03ba\u03c9\u03bc\u03b7",
+        "\u039c\u03c0\u03bf\u03bb\u03c4\u03b1\u03c3\u03bb\u03af"
     ],
     "name:eng_x_preferred":[
         "Litrangomi"
@@ -143,7 +147,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769730,
+    "wof:lastmodified":1563574545,
     "wof:name":"\u039b\u03c5\u03b8\u03c1\u03ac\u03b3\u03ba\u03c9\u03bc\u03b7",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

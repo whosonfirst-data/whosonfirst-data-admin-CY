@@ -37,6 +37,9 @@
         "Dimes",
         "Dymes"
     ],
+    "name:fra_x_preferred":[
+        "D\u00fdmes"
+    ],
     "name:nld_x_preferred":[
         "Dymes"
     ],
@@ -107,7 +110,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769717,
+    "wof:lastmodified":1563574416,
     "wof:name":"\u0394\u03cd\u03bc\u03b5\u03c2",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

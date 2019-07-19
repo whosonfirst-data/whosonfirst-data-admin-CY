@@ -23,6 +23,9 @@
     "name:ceb_x_preferred":[
         "\u00c1gios P\u00e1vlos"
     ],
+    "name:deu_x_preferred":[
+        "Agios Pavlos"
+    ],
     "name:ell_x_preferred":[
         "\u0386\u03b3\u03b9\u03bf\u03c2 \u03a0\u03b1\u03cd\u03bb\u03bf\u03c2 \u039b\u03b5\u03bc\u03b5\u03c3\u03bf\u03cd"
     ],
@@ -39,8 +42,14 @@
         "St Paylos",
         "St. Paylos"
     ],
+    "name:fra_x_preferred":[
+        "\u00c1gios P\u00e1vlos"
+    ],
     "name:hye_x_preferred":[
         "\u0531\u0575\u0578\u057d \u054a\u0561\u057e\u056c\u0578\u057d"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10d2\u10d8\u10dd\u10e1-\u10de\u10d0\u10d5\u10da\u10dd\u10e1\u10d8"
     ],
     "name:nld_x_preferred":[
         "Ayios Pavlos"
@@ -53,6 +62,9 @@
     ],
     "name:unk_x_variant":[
         "Ay Pavlo"
+    ],
+    "name:urd_x_preferred":[
+        "\u0622\u0626\u06cc\u0648\u0633 \u067e\u0627\u0648\u0644\u0648\u0633"
     ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
     "qs:a1":"*\u039b\u03b5\u03bc\u03b5\u03c3\u03cc\u03c2",
@@ -106,7 +118,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769735,
+    "wof:lastmodified":1563574591,
     "wof:name":"\u0386\u03b3\u03b9\u03bf\u03c2 \u03a0\u03ac\u03c5\u03bb\u03bf\u03c2",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

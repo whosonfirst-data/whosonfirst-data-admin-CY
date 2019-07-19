@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000163,
+    "geom:area_square_m":1657550.356862,
     "geom:bbox":"32.7333265015,34.8452503688,32.7497600163,34.8617592529",
     "geom:latitude":34.854345,
     "geom:longitude":32.74028,
@@ -15,11 +16,15 @@
     "mps:longitude":32.740124,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0424\u0438\u043b\u0443\u0441\u0430 \u041a\u0435\u043b\u043e\u043a\u0435\u0434\u0430\u0440\u043e\u043d"
+    ],
     "name:ell_x_preferred":[
         "Filo\u00fasa"
     ],
     "name:ell_x_variant":[
-        "\u03a6\u03b9\u03bb\u03bf\u03cd\u03c3\u03b1"
+        "\u03a6\u03b9\u03bb\u03bf\u03cd\u03c3\u03b1",
+        "\u03a6\u03b9\u03bb\u03bf\u03cd\u03c3\u03b1 \u039a\u03b5\u03bb\u03bf\u03ba\u03b5\u03b4\u03ac\u03c1\u03c9\u03bd"
     ],
     "name:eng_x_preferred":[
         "Philousa"
@@ -27,10 +32,23 @@
     "name:eng_x_variant":[
         "Filousa Chrysochous",
         "Filusa",
-        "Philousa Khrysokhou"
+        "Philousa Khrysokhou",
+        "Philousa Kelokedharon"
+    ],
+    "name:hye_x_preferred":[
+        "\u054a\u056b\u056c\u0578\u0582\u057d\u0561 \u053f\u0565\u056c\u0565\u056f\u0565\u0564\u0561\u0580\u0578\u0576"
+    ],
+    "name:nld_x_preferred":[
+        "Philousa Kelokedharon"
+    ],
+    "name:pol_x_preferred":[
+        "Filusa Kielokiedaron"
     ],
     "name:unk_x_variant":[
         "Philousa Kelokedhara"
+    ],
+    "name:urd_x_preferred":[
+        "\u0641\u06cc\u0644\u0648\u0633\u0627 \u06a9\u06cc\u0644\u0648\u06a9\u062f\u0627\u0631\u0648\u0646"
     ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
     "qs:a1":"*\u03a0\u03ac\u03c6\u03bf\u03c2",
@@ -75,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527642586,
+    "wof:lastmodified":1563574425,
     "wof:name":"\u03a6\u03b9\u03bb\u03bf\u03cd\u03c3\u03b1",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

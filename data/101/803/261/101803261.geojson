@@ -23,7 +23,8 @@
         "Trypim\u00e9ni"
     ],
     "name:ell_x_variant":[
-        "\u03a4\u03c1\u03c5\u03c0\u03b7\u03bc\u03ad\u03bd\u03b7"
+        "\u03a4\u03c1\u03c5\u03c0\u03b7\u03bc\u03ad\u03bd\u03b7",
+        "\u03a4\u03af\u03c1\u03bc\u03b5\u03bd"
     ],
     "name:eng_x_preferred":[
         "Delik"
@@ -44,6 +45,9 @@
     ],
     "name:pol_x_preferred":[
         "Tripimeni"
+    ],
+    "name:tur_x_preferred":[
+        "Tirmen"
     ],
     "name:und_x_preferred":[
         "Trypimeni"
@@ -122,7 +126,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769725,
+    "wof:lastmodified":1563574496,
     "wof:name":"\u03a4\u03c1\u03c5\u03c0\u03b7\u03bc\u03ad\u03bd\u03b7",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

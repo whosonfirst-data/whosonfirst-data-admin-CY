@@ -23,7 +23,8 @@
         "Al\u00f3da"
     ],
     "name:ell_x_variant":[
-        "\u0391\u03bb\u03cc\u03b4\u03b1"
+        "\u0391\u03bb\u03cc\u03b4\u03b1",
+        "\u0391\u03c4\u03bb\u03b9\u03bb\u03ac\u03c1"
     ],
     "name:eng_x_preferred":[
         "Altilar"
@@ -48,11 +49,17 @@
     "name:pol_x_preferred":[
         "Aloda"
     ],
+    "name:tur_x_preferred":[
+        "Atl\u0131lar"
+    ],
     "name:und_x_preferred":[
         "Aloa"
     ],
     "name:unk_x_variant":[
         "Atl\u0131lar"
+    ],
+    "name:urd_x_preferred":[
+        "\u0622\u0644\u0648\u062f\u0627"
     ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
     "qs:a1":"*\u0391\u03bc\u03bc\u03cc\u03c7\u03c9\u03c3\u03c4\u03bf\u03c2",
@@ -124,7 +131,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769719,
+    "wof:lastmodified":1563574434,
     "wof:name":"\u0391\u03bb\u03cc\u03b4\u03b1",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

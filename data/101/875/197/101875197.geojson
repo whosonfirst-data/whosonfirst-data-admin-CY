@@ -53,6 +53,9 @@
     "name:spa_x_preferred":[
         "Fyti"
     ],
+    "name:spa_x_variant":[
+        "Fiti"
+    ],
     "name:swe_x_preferred":[
         "F\u00fdti"
     ],
@@ -116,7 +119,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769716,
+    "wof:lastmodified":1563574414,
     "wof:name":"\u03a6\u03cd\u03c4\u03b7",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

@@ -21,7 +21,8 @@
     ],
     "name:ell_x_variant":[
         "\u0386\u03b3\u03b9\u03bf\u03c2 \u0397\u03bb\u03af\u03b1\u03c2",
-        "\u039c\u03c0\u03ad\u03b7 \u039a\u03b9\u03bf\u03b3\u03b9\u03bf\u03cd"
+        "\u039c\u03c0\u03ad\u03b7 \u039a\u03b9\u03bf\u03b3\u03b9\u03bf\u03cd",
+        "\u039c\u03c0\u03ad\u03ca\u03ba\u03b9\u03bf\u03ca"
     ],
     "name:eng_x_preferred":[
         "Ayilia"
@@ -33,13 +34,17 @@
         "Saint Elias",
         "St Elias",
         "St. Elias",
-        "Beyk\u00f6y"
+        "Beyk\u00f6y",
+        "Beykeuy"
     ],
     "name:nld_x_preferred":[
         "Beyk\u00f6y"
     ],
     "name:pol_x_preferred":[
         "Beikii"
+    ],
+    "name:tur_x_preferred":[
+        "Beyk\u00f6y"
     ],
     "name:und_x_colloquial":[
         "Beykoey",
@@ -127,7 +132,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769725,
+    "wof:lastmodified":1563574494,
     "wof:name":"\u0386\u03b3\u03b9\u03bf\u03c2 \u0397\u03bb\u03af\u03b1\u03c2",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

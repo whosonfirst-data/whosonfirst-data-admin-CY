@@ -32,6 +32,12 @@
     "name:eng_x_preferred":[
         "Mesoyi"
     ],
+    "name:eng_x_variant":[
+        "Mesogi"
+    ],
+    "name:fin_x_preferred":[
+        "Mes\u00f3gi"
+    ],
     "name:hye_x_preferred":[
         "\u0544\u0565\u057d\u0578\u0575\u056b"
     ],
@@ -46,6 +52,9 @@
     ],
     "name:unk_x_variant":[
         "Mesoyi"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u06cc\u0633\u0648\u06af\u06cc"
     ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
     "qs:a1":"*\u03a0\u03ac\u03c6\u03bf\u03c2",
@@ -96,7 +105,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769713,
+    "wof:lastmodified":1563574393,
     "wof:name":"\u039c\u03b5\u03c3\u03cc\u03b3\u03b7",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

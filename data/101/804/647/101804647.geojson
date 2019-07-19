@@ -36,6 +36,9 @@
     "name:eng_x_variant":[
         "Apesia"
     ],
+    "name:fra_x_preferred":[
+        "Apesi\u00e1"
+    ],
     "name:nld_x_preferred":[
         "Apesia"
     ],
@@ -105,7 +108,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769722,
+    "wof:lastmodified":1563574466,
     "wof:name":"\u0391\u03c0\u03b5\u03c3\u03b9\u03ac",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

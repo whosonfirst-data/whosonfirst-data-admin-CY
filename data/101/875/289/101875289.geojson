@@ -28,6 +28,9 @@
     "name:eng_x_preferred":[
         "Vikla"
     ],
+    "name:fra_x_preferred":[
+        "V\u00edkla"
+    ],
     "name:nld_x_preferred":[
         "Vikla"
     ],
@@ -80,7 +83,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769715,
+    "wof:lastmodified":1563574401,
     "wof:name":"\u0392\u03af\u03ba\u03bb\u03b1",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

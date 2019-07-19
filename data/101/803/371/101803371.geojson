@@ -23,7 +23,8 @@
         "Klep\u00edni"
     ],
     "name:ell_x_variant":[
-        "\u039a\u03bb\u03b5\u03c0\u03af\u03bd\u03b7"
+        "\u039a\u03bb\u03b5\u03c0\u03af\u03bd\u03b7",
+        "\u0391\u03c1\u03b1\u03c0\u03ba\u03cc\u03b9"
     ],
     "name:eng_x_preferred":[
         "Klepini"
@@ -39,6 +40,9 @@
     ],
     "name:pol_x_preferred":[
         "Klepini"
+    ],
+    "name:tur_x_preferred":[
+        "Arapk\u00f6y"
     ],
     "name:und_x_colloquial":[
         "Arapkoey",
@@ -127,7 +131,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561769726,
+    "wof:lastmodified":1563574507,
     "wof:name":"\u039a\u03bb\u03b5\u03c0\u03af\u03bd\u03b7",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

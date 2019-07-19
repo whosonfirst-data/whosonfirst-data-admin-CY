@@ -19,11 +19,15 @@
     "name:bul_x_preferred":[
         "\u0414\u0438\u043e\u0440\u0438\u043e\u0441"
     ],
+    "name:ceb_x_preferred":[
+        "Di\u00f3rios"
+    ],
     "name:ell_x_preferred":[
         "Di\u00f3rios"
     ],
     "name:ell_x_variant":[
-        "\u0394\u03b9\u03cc\u03c1\u03b9\u03bf\u03c2"
+        "\u0394\u03b9\u03cc\u03c1\u03b9\u03bf\u03c2",
+        "\u03a4\u03b5\u03c0\u03ad\u03bc\u03c0\u03b1\u03c3\u03b9"
     ],
     "name:eng_x_preferred":[
         "Yorgoz"
@@ -135,7 +139,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769727,
+    "wof:lastmodified":1563574514,
     "wof:name":"\u0394\u03b9\u03cc\u03c1\u03b9\u03bf\u03c2",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

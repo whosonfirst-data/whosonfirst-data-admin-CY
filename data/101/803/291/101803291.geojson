@@ -19,6 +19,9 @@
     "name:bul_x_preferred":[
         "\u0414\u0430\u0432\u043b\u043e\u0441"
     ],
+    "name:ceb_x_preferred":[
+        "Davl\u00f3s"
+    ],
     "name:deu_x_preferred":[
         "Davlos/Kapl\u0131ca"
     ],
@@ -26,7 +29,8 @@
         "Davl\u00f3s"
     ],
     "name:ell_x_variant":[
-        "\u0394\u03b1\u03c5\u03bb\u03cc\u03c2"
+        "\u0394\u03b1\u03c5\u03bb\u03cc\u03c2",
+        "\u039a\u03b1\u03c0\u03bb\u03af\u03c4\u03b6\u03b1"
     ],
     "name:eng_x_preferred":[
         "Davlos"
@@ -48,6 +52,9 @@
     ],
     "name:unk_x_variant":[
         "Kapl\u0131ca"
+    ],
+    "name:urd_x_preferred":[
+        "\u062f\u0627\u0648\u0644\u0648\u0633"
     ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
     "qs:a1":"*\u0391\u03bc\u03bc\u03cc\u03c7\u03c9\u03c3\u03c4\u03bf\u03c2",
@@ -112,7 +119,7 @@
         }
     ],
     "wof:id":101803291,
-    "wof:lastmodified":1561769729,
+    "wof:lastmodified":1563574532,
     "wof:name":"\u0394\u03b1\u03c5\u03bb\u03cc\u03c2",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

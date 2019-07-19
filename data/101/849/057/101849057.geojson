@@ -35,6 +35,9 @@
     "name:eng_x_variant":[
         "Zoopigi"
     ],
+    "name:fra_x_preferred":[
+        "Zoopig\u00ed"
+    ],
     "name:hye_x_preferred":[
         "\u0536\u0578\u0583\u056b\u056b"
     ],
@@ -109,7 +112,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769736,
+    "wof:lastmodified":1563574600,
     "wof:name":"\u0396\u03c9\u03bf\u03c0\u03b7\u03b3\u03ae",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

@@ -31,8 +31,17 @@
     "name:eng_x_preferred":[
         "Mesa Yitonia"
     ],
+    "name:eng_x_variant":[
+        "Mesa Geitonia"
+    ],
+    "name:eus_x_preferred":[
+        "Mesa Geitonia"
+    ],
     "name:fas_x_preferred":[
         "\u0645\u0633\u0627 \u06af\u06cc\u062a\u0648\u0646\u06cc\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "M\u00e9sa Geitoni\u00e1"
     ],
     "name:fra_x_preferred":[
         "M\u00e9sa Yitoni\u00e1"
@@ -42,6 +51,9 @@
     ],
     "name:nld_x_preferred":[
         "Mesa Yitonia"
+    ],
+    "name:nld_x_variant":[
+        "Mesa Jitonia"
     ],
     "name:nno_x_preferred":[
         "M\u00e9sa Jiton\u00eda"
@@ -63,6 +75,9 @@
     ],
     "name:unk_x_variant":[
         "Mesayitonya"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u06cc\u0633\u0627 \u06af\u0626\u06cc\u062a\u0648\u0646\u06cc\u0627"
     ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
     "qs:a1":"*\u039b\u03b5\u03bc\u03b5\u03c3\u03cc\u03c2",
@@ -104,7 +119,7 @@
         }
     ],
     "wof:id":101756197,
-    "wof:lastmodified":1561769732,
+    "wof:lastmodified":1563574567,
     "wof:name":"\u039c\u03ad\u03c3\u03b1 \u0393\u03b5\u03b9\u03c4\u03bf\u03bd\u03b9\u03ac",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

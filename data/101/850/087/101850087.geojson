@@ -19,12 +19,16 @@
     "name:bul_x_preferred":[
         "\u041b\u0438\u0432\u0435\u0440\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Liver\u00e1"
+    ],
     "name:ell_x_preferred":[
         "Liver\u00e1"
     ],
     "name:ell_x_variant":[
         "\u039b\u03b9\u03b2\u03b5\u03c1\u03ac",
-        "\u039b\u03b9\u03b2\u03b5\u03c1\u03ac \u039a\u03b5\u03c1\u03cd\u03bd\u03b5\u03b9\u03b1\u03c2"
+        "\u039b\u03b9\u03b2\u03b5\u03c1\u03ac \u039a\u03b5\u03c1\u03cd\u03bd\u03b5\u03b9\u03b1\u03c2",
+        "\u03a3\u03b1\u03bd\u03c4\u03c1\u03b1\u03b6\u03b1\u03bc\u03ba\u03cc\u03b9"
     ],
     "name:eng_x_preferred":[
         "Livera"
@@ -41,6 +45,9 @@
     "name:swe_x_preferred":[
         "Liver\u00e1"
     ],
+    "name:tur_x_preferred":[
+        "Sadrazamk\u00f6y"
+    ],
     "name:und_x_colloquial":[
         "Sadrazamkoey",
         "Sadrazamkoy"
@@ -53,6 +60,9 @@
     ],
     "name:unk_x_variant":[
         "Sadrazamk\u00f6y"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u06cc\u0648\u06cc\u0631\u0627"
     ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
     "qs:a1":"*\u039a\u03b5\u03c1\u03cd\u03bd\u03b5\u03b9\u03b1",
@@ -124,7 +134,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769720,
+    "wof:lastmodified":1563574441,
     "wof:name":"\u039b\u03b9\u03b2\u03b5\u03c1\u03ac",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

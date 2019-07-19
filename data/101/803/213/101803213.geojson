@@ -19,6 +19,9 @@
     "name:bul_x_preferred":[
         "\u0412\u0430\u0442\u0438\u043b\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Vatil\u00ed"
+    ],
     "name:ell_x_preferred":[
         "Vatil\u00ed"
     ],
@@ -35,6 +38,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0648\u062a\u06cc\u0644\u06cc"
+    ],
+    "name:fin_x_preferred":[
+        "Vatil\u00ed"
     ],
     "name:hye_x_preferred":[
         "\u054e\u0561\u057f\u056b\u056c\u056b"
@@ -53,6 +59,9 @@
     ],
     "name:swe_x_preferred":[
         "Vatil\u00ed"
+    ],
+    "name:tur_x_preferred":[
+        "Vadili"
     ],
     "name:und_x_preferred":[
         "Vatili"
@@ -131,7 +140,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769728,
+    "wof:lastmodified":1563574529,
     "wof:name":"\u0392\u03b1\u03c4\u03b9\u03bb\u03ae",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

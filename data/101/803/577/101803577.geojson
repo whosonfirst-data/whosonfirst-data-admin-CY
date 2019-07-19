@@ -23,6 +23,9 @@
     "name:ceb_x_preferred":[
         "K\u00f3rnos"
     ],
+    "name:deu_x_preferred":[
+        "Kornos"
+    ],
     "name:ell_x_preferred":[
         "\u039a\u03cc\u03c1\u03bd\u03bf\u03c2"
     ],
@@ -38,6 +41,12 @@
     ],
     "name:fas_x_preferred":[
         "\u06a9\u0648\u0631\u0646\u0648\u0633"
+    ],
+    "name:fin_x_preferred":[
+        "K\u00f3rnos"
+    ],
+    "name:hun_x_preferred":[
+        "Kornos"
     ],
     "name:hye_x_preferred":[
         "\u053f\u0578\u0580\u0576\u0578\u057d"
@@ -68,6 +77,9 @@
     ],
     "name:urd_x_preferred":[
         "\u06a9\u0648\u0631\u0646\u0648\u0633\u060c \u0642\u0628\u0631\u0635"
+    ],
+    "name:urd_x_variant":[
+        "\u06a9\u0648\u0631\u0646\u0648\u0633"
     ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
     "qs:a1":"*\u039b\u03ac\u03c1\u03bd\u03b1\u03ba\u03b1",
@@ -120,7 +132,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769730,
+    "wof:lastmodified":1563574545,
     "wof:name":"\u039a\u03cc\u03c1\u03bd\u03bf\u03c2",
     "wof:parent_id":85682407,
     "wof:placetype":"locality",

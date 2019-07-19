@@ -23,6 +23,9 @@
     "name:aze_x_preferred":[
         "Paphos"
     ],
+    "name:bel_x_preferred":[
+        "\u041f\u0430\u0444\u0430\u0441"
+    ],
     "name:ben_x_preferred":[
         "\u09aa\u09be\u09ab\u09cb\u09b8"
     ],
@@ -37,6 +40,9 @@
     ],
     "name:cat_x_preferred":[
         "Pafos"
+    ],
+    "name:ceb_x_preferred":[
+        "Paphos"
     ],
     "name:ces_x_preferred":[
         "Pafos"
@@ -98,6 +104,9 @@
     "name:hye_x_preferred":[
         "\u054a\u0561\u0586\u0578\u057d"
     ],
+    "name:ile_x_preferred":[
+        "Pafos"
+    ],
     "name:ind_x_preferred":[
         "Paphos"
     ],
@@ -128,6 +137,9 @@
     "name:lit_x_preferred":[
         "Pafosas"
     ],
+    "name:mal_x_preferred":[
+        "\u0d2a\u0d3e\u0d2b\u0d4b\u0d38\u0d4d"
+    ],
     "name:mar_x_preferred":[
         "\u092a\u0945\u092b\u0949\u0938"
     ],
@@ -139,6 +151,9 @@
     ],
     "name:msa_x_preferred":[
         "Paphos"
+    ],
+    "name:mya_x_preferred":[
+        "\u1015\u1031\u1038\u1016\u1031\u102c\u1037\u1005\u103a\u1019\u103c\u102d\u102f\u1037"
     ],
     "name:nep_x_preferred":[
         "\u092a\u092b\u094b\u0938"
@@ -192,6 +207,9 @@
         "\u041f\u0430\u0444\u043e\u0441"
     ],
     "name:swe_x_preferred":[
+        "Pafos"
+    ],
+    "name:szl_x_preferred":[
         "Pafos"
     ],
     "name:tam_x_preferred":[
@@ -287,7 +305,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769731,
+    "wof:lastmodified":1563574550,
     "wof:name":"\u03a0\u03ac\u03c6\u03bf\u03c2",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

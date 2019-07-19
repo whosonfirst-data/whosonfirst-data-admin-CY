@@ -23,7 +23,8 @@
         "S\u00ednta"
     ],
     "name:ell_x_variant":[
-        "\u03a3\u03af\u03bd\u03c4\u03b1"
+        "\u03a3\u03af\u03bd\u03c4\u03b1",
+        "\u0399\u03bd\u03bf\u03bd\u03bf\u03cd"
     ],
     "name:eng_x_preferred":[
         "Sinta"
@@ -47,6 +48,9 @@
     "name:pol_x_preferred":[
         "Sinda"
     ],
+    "name:tur_x_preferred":[
+        "\u0130n\u00f6n\u00fc"
+    ],
     "name:und_x_colloquial":[
         "Inoenue",
         "Inonu"
@@ -62,6 +66,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0633\u06cc\u0646\u062a\u0627\u060c \u0642\u0628\u0631\u0635"
+    ],
+    "name:urd_x_variant":[
+        "\u0633\u06cc\u0646\u062a\u0627"
     ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
     "qs:a1":"*\u0391\u03bc\u03bc\u03cc\u03c7\u03c9\u03c3\u03c4\u03bf\u03c2",
@@ -131,7 +138,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769725,
+    "wof:lastmodified":1563574492,
     "wof:name":"\u03a3\u03af\u03bd\u03c4\u03b1",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

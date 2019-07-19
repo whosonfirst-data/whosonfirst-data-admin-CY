@@ -23,6 +23,9 @@
     "name:ceb_x_preferred":[
         "Mosfilot\u00ed"
     ],
+    "name:deu_x_preferred":[
+        "Mosfiloti"
+    ],
     "name:ell_x_preferred":[
         "\u039c\u03bf\u03c3\u03c6\u03b9\u03bb\u03c9\u03c4\u03ae"
     ],
@@ -33,6 +36,12 @@
         "Mosphiloti"
     ],
     "name:eng_x_variant":[
+        "Mosfiloti"
+    ],
+    "name:fin_x_preferred":[
+        "Mosfilot\u00ed"
+    ],
+    "name:hun_x_preferred":[
         "Mosfiloti"
     ],
     "name:hye_x_preferred":[
@@ -49,6 +58,9 @@
     ],
     "name:unk_x_variant":[
         "Mosphiloti"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0648\u0633\u0641\u06cc\u0644\u0648\u062a\u06cc"
     ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
     "qs:a1":"*\u039b\u03ac\u03c1\u03bd\u03b1\u03ba\u03b1",
@@ -102,7 +114,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769729,
+    "wof:lastmodified":1563574538,
     "wof:name":"\u039c\u03bf\u03c3\u03c6\u03b9\u03bb\u03c9\u03c4\u03ae",
     "wof:parent_id":85682407,
     "wof:placetype":"locality",

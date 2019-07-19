@@ -19,6 +19,9 @@
     "name:bul_x_preferred":[
         "\u0422\u0430\u0432\u0440\u043e\u0441"
     ],
+    "name:ceb_x_preferred":[
+        "T\u00e1vrou"
+    ],
     "name:deu_x_preferred":[
         "Tavrou/Pamuklu"
     ],
@@ -27,7 +30,8 @@
     ],
     "name:ell_x_variant":[
         "\u03a4\u03b1\u03cd\u03c1\u03bf\u03c5",
-        "\u03a4\u03b1\u03cd\u03c1\u03bf\u03c2"
+        "\u03a4\u03b1\u03cd\u03c1\u03bf\u03c2",
+        "\u03a0\u03b1\u03bc\u03bf\u03c5\u03ba\u03bb\u03bf\u03cd"
     ],
     "name:eng_x_preferred":[
         "Pamuklu"
@@ -35,6 +39,9 @@
     "name:eng_x_variant":[
         "Tavrou",
         "Tavros"
+    ],
+    "name:hye_x_preferred":[
+        "\u054f\u0561\u057e\u0580\u0578\u057d"
     ],
     "name:nld_x_preferred":[
         "Tavros"
@@ -45,11 +52,17 @@
     "name:swe_x_preferred":[
         "T\u00e1vrou"
     ],
+    "name:tur_x_preferred":[
+        "Pamuklu"
+    ],
     "name:und_x_preferred":[
         "Tavros"
     ],
     "name:unk_x_variant":[
         "Pamuklu"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u0627\u0648\u0631\u0648\u0633"
     ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
     "qs:a1":"*\u0391\u03bc\u03bc\u03cc\u03c7\u03c9\u03c3\u03c4\u03bf\u03c2",
@@ -119,7 +132,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769729,
+    "wof:lastmodified":1563574538,
     "wof:name":"\u03a4\u03b1\u03cd\u03c1\u03bf\u03c5",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

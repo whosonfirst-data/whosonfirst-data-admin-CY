@@ -21,11 +21,17 @@
     "name:ara_x_preferred":[
         "\u0644\u064a\u0645\u0627\u0633\u0648\u0644"
     ],
+    "name:ast_x_preferred":[
+        "Limasol"
+    ],
     "name:aze_x_preferred":[
         "Limasol"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041b\u0456\u043c\u0430\u0441\u043e\u043b"
+    ],
+    "name:bel_x_variant":[
+        "\u041b\u0456\u043c\u0430\u0441\u043e\u043b"
     ],
     "name:ben_x_preferred":[
         "\u09b2\u09bf\u09ae\u09be\u09b8\u09b2"
@@ -37,6 +43,9 @@
         "\u041b\u0438\u043c\u0430\u0441\u043e\u043b"
     ],
     "name:cat_x_preferred":[
+        "Limassol"
+    ],
+    "name:ceb_x_preferred":[
         "Limassol"
     ],
     "name:ces_x_preferred":[
@@ -114,6 +123,9 @@
     ],
     "name:ita_x_preferred":[
         "Limisso"
+    ],
+    "name:ita_x_variant":[
+        "Limassol"
     ],
     "name:jpn_x_preferred":[
         "\u30ea\u30de\u30bd\u30fc\u30eb"
@@ -196,6 +208,9 @@
     "name:spa_x_preferred":[
         "Limassol"
     ],
+    "name:spa_x_variant":[
+        "Limasol"
+    ],
     "name:srp_x_preferred":[
         "\u041b\u0438\u043c\u0430\u0441\u043e\u043b"
     ],
@@ -229,6 +244,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0644\u06cc\u0645\u0627\u0633\u0648\u0644"
+    ],
+    "name:uzb_x_preferred":[
+        "Limasol"
     ],
     "name:vie_x_preferred":[
         "Limassol"
@@ -380,7 +398,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769731,
+    "wof:lastmodified":1563574556,
     "wof:name":"\u039b\u03b5\u03bc\u03b5\u03c3\u03cc\u03c2",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

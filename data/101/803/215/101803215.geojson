@@ -23,7 +23,8 @@
         "Strongyl\u00f3s"
     ],
     "name:ell_x_variant":[
-        "\u03a3\u03c4\u03c1\u03bf\u03b3\u03b3\u03c5\u03bb\u03cc\u03c2"
+        "\u03a3\u03c4\u03c1\u03bf\u03b3\u03b3\u03c5\u03bb\u03cc\u03c2",
+        "\u03a4\u03bf\u03c5\u03c1\u03bf\u03c5\u03bd\u03c4\u03c3\u03bb\u03bf\u03cd"
     ],
     "name:eng_x_preferred":[
         "Stroncilo"
@@ -41,6 +42,9 @@
     ],
     "name:pol_x_preferred":[
         "Strongilos"
+    ],
+    "name:tur_x_preferred":[
+        "Turun\u00e7lu"
     ],
     "name:und_x_colloquial":[
         "Turunclu"
@@ -125,7 +129,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769728,
+    "wof:lastmodified":1563574523,
     "wof:name":"\u03a3\u03c4\u03c1\u03bf\u03b3\u03b3\u03c5\u03bb\u03cc\u03c2",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

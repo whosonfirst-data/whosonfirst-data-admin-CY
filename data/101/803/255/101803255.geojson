@@ -19,14 +19,21 @@
     "name:bul_x_preferred":[
         "\u041a\u043e\u0440\u043d\u043e\u043a\u0438\u043f\u043e\u0441"
     ],
+    "name:ceb_x_preferred":[
+        "Korn\u00f3kipos"
+    ],
     "name:ell_x_preferred":[
         "Korn\u00f3kipos"
     ],
     "name:ell_x_variant":[
-        "\u039a\u03bf\u03c1\u03bd\u03cc\u03ba\u03b7\u03c0\u03bf\u03c2"
+        "\u039a\u03bf\u03c1\u03bd\u03cc\u03ba\u03b7\u03c0\u03bf\u03c2",
+        "\u0393\u03ba\u03b9\u03bf\u03c1\u03bd\u03ad\u03c4\u03c2"
     ],
     "name:eng_x_preferred":[
         "Keurnech"
+    ],
+    "name:eng_x_variant":[
+        "Kornokipos"
     ],
     "name:fas_x_preferred":[
         "\u06a9\u0648\u0631\u0646\u0648\u06a9\u06cc\u067e\u0648\u0633"
@@ -45,6 +52,9 @@
     ],
     "name:swe_x_preferred":[
         "Korn\u00f3kipos"
+    ],
+    "name:tur_x_preferred":[
+        "G\u00f6rne\u00e7"
     ],
     "name:und_x_colloquial":[
         "Goernec",
@@ -130,7 +140,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769729,
+    "wof:lastmodified":1563574537,
     "wof:name":"\u039a\u03bf\u03c1\u03bd\u03cc\u03ba\u03b7\u03c0\u03bf\u03c2",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

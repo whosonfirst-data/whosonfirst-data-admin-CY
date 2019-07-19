@@ -23,6 +23,9 @@
     "name:ceb_x_preferred":[
         "\u00c1gios Amvr\u00f3sios"
     ],
+    "name:deu_x_preferred":[
+        "Agios Amvrosios"
+    ],
     "name:ell_x_preferred":[
         "\u0386\u03b3\u03b9\u03bf\u03c2 \u0391\u03bc\u03b2\u03c1\u03cc\u03c3\u03b9\u03bf\u03c2 \u039b\u03b5\u03bc\u03b5\u03c3\u03bf\u03cd"
     ],
@@ -56,6 +59,9 @@
     ],
     "name:unk_x_variant":[
         "Ayios Evrosis"
+    ],
+    "name:urd_x_preferred":[
+        "\u0622\u0626\u06cc\u0648\u0633 \u0622\u0645\u0648\u0631\u0648\u0633\u06cc\u0648\u0633"
     ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
     "qs:a1":"*\u039b\u03b5\u03bc\u03b5\u03c3\u03cc\u03c2",
@@ -109,7 +115,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769736,
+    "wof:lastmodified":1563574595,
     "wof:name":"\u0386\u03b3\u03b9\u03bf\u03c2 \u0391\u03bc\u03b2\u03c1\u03cc\u03c3\u03b9\u03bf\u03c2",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

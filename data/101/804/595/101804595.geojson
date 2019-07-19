@@ -24,7 +24,8 @@
     ],
     "name:ell_x_variant":[
         "\u03a0\u03ac\u03bd\u03c9 \u03a0\u03b1\u03bd\u03b1\u03b3\u03af\u03b1",
-        "\u03a0\u03b1\u03bd\u03b1\u03b3\u03b9\u03ac \u03a0\u03ac\u03c6\u03bf\u03c5"
+        "\u03a0\u03b1\u03bd\u03b1\u03b3\u03b9\u03ac \u03a0\u03ac\u03c6\u03bf\u03c5",
+        "\u03a0\u03ac\u03bd\u03c9 \u03a0\u03b1\u03bd\u03b1\u03b3\u03b9\u03ac \u03a0\u03ac\u03c6\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
         "Pano Panayia"
@@ -40,6 +41,9 @@
     "name:hye_x_preferred":[
         "\u054a\u0561\u0576\u0561\u0575\u0561"
     ],
+    "name:ind_x_preferred":[
+        "Pano Panagia"
+    ],
     "name:jpn_x_preferred":[
         "\u30d1\u30ca\u30ae\u30a2"
     ],
@@ -52,6 +56,9 @@
     "name:rus_x_preferred":[
         "\u041f\u0430\u043d\u043e-\u041f\u0430\u043d\u0430\u0439\u044f"
     ],
+    "name:rus_x_variant":[
+        "\u041f\u0430\u043d\u0430\u0433\u0438\u044f"
+    ],
     "name:spa_x_preferred":[
         "Pano Panagia"
     ],
@@ -60,6 +67,9 @@
     ],
     "name:urd_x_preferred":[
         "\u067e\u0627\u0646\u0627\u06af\u06cc\u0627\u060c \u0642\u0628\u0631\u0635"
+    ],
+    "name:urd_x_variant":[
+        "\u067e\u0627\u0646\u0627\u06af\u06cc\u0627"
     ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
     "qs:a1":"*\u03a0\u03ac\u03c6\u03bf\u03c2",
@@ -111,7 +121,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769721,
+    "wof:lastmodified":1563574448,
     "wof:name":"\u03a0\u03ac\u03bd\u03c9 \u03a0\u03b1\u03bd\u03b1\u03b3\u03b9\u03ac",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

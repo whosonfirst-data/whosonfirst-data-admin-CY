@@ -23,6 +23,9 @@
     "name:ceb_x_preferred":[
         "Z\u00fdgi"
     ],
+    "name:deu_x_preferred":[
+        "Zygi"
+    ],
     "name:ell_x_preferred":[
         "\u0396\u03cd\u03b3\u03b9"
     ],
@@ -40,6 +43,12 @@
     ],
     "name:fas_x_preferred":[
         "\u0632\u0627\u06cc\u06af\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Zygi"
+    ],
+    "name:hun_x_preferred":[
+        "Zygi"
     ],
     "name:hye_x_preferred":[
         "\u0536\u056b\u056b"
@@ -122,7 +131,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769721,
+    "wof:lastmodified":1563574454,
     "wof:name":"\u0396\u03cd\u03b3\u03b9",
     "wof:parent_id":85682407,
     "wof:placetype":"locality",

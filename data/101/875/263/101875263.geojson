@@ -35,6 +35,9 @@
     "name:eng_x_variant":[
         "Doros"
     ],
+    "name:fra_x_preferred":[
+        "Dor\u00f3s"
+    ],
     "name:hye_x_preferred":[
         "\u0534\u0578\u0580\u0578\u057d"
     ],
@@ -100,7 +103,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769718,
+    "wof:lastmodified":1563574424,
     "wof:name":"\u0394\u03c9\u03c1\u03cc\u03c2",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

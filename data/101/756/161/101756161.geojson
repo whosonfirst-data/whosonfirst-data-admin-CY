@@ -21,7 +21,8 @@
     ],
     "name:ell_x_variant":[
         "\u03a4\u03c1\u03ac\u03c7\u03c9\u03bd\u03b1\u03c2",
-        "\u03a4\u03c1\u03ac\u03c7\u03c9\u03bd\u03b1\u03c2 \u039b\u03b5\u03c5\u03ba\u03c9\u03c3\u03af\u03b1\u03c2"
+        "\u03a4\u03c1\u03ac\u03c7\u03c9\u03bd\u03b1\u03c2 \u039b\u03b5\u03c5\u03ba\u03c9\u03c3\u03af\u03b1\u03c2",
+        "\u039a\u03b9\u03b6\u03b9\u03bb\u03ac\u03b9"
     ],
     "name:eng_x_preferred":[
         "Trachonas"
@@ -48,6 +49,9 @@
     "name:swe_x_preferred":[
         "Tr\u00e1chonas"
     ],
+    "name:tur_x_preferred":[
+        "K\u0131z\u0131lay"
+    ],
     "name:und_x_colloquial":[
         "Kizilbas",
         "Kizilbas-Gelibolu"
@@ -61,6 +65,9 @@
     ],
     "name:unk_x_variant":[
         "K\u0131z\u0131lba\u015f-Gelibolu"
+    ],
+    "name:urd_x_preferred":[
+        "\u0642\u0632\u0644\u0628\u0627\u0634"
     ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
     "qs:a1":"*\u039b\u03b5\u03c5\u03ba\u03c9\u03c3\u03af\u03b1",
@@ -122,7 +129,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769732,
+    "wof:lastmodified":1563574561,
     "wof:name":"\u03a4\u03c1\u03ac\u03c7\u03c9\u03bd\u03b1\u03c2",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

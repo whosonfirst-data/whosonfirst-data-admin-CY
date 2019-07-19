@@ -31,6 +31,9 @@
     "name:eng_x_preferred":[
         "Pano Amiantos"
     ],
+    "name:fra_x_preferred":[
+        "P\u00e1no Am\u00edandos"
+    ],
     "name:nld_x_preferred":[
         "Pano Amiantos"
     ],
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1125954681,
-    "wof:lastmodified":1561769739,
+    "wof:lastmodified":1563574630,
     "wof:name":"Pano Amiandos",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

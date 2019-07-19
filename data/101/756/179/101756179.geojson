@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00042,
-    "geom:area_square_m":4260174.2257,
+    "geom:area_square_m":4260174.225694,
     "geom:bbox":"33.6162713337,34.937023,33.6426626944,34.9701555351",
     "geom:latitude":34.952604,
     "geom:longitude":33.629442,
@@ -23,6 +23,9 @@
     "name:ceb_x_preferred":[
         "Liv\u00e1dia"
     ],
+    "name:deu_x_preferred":[
+        "Livadia"
+    ],
     "name:ell_x_preferred":[
         "\u0394\u03ae\u03bc\u03bf\u03c2 \u039b\u03b9\u03b2\u03b1\u03b4\u03b9\u03ce\u03bd"
     ],
@@ -38,11 +41,23 @@
         "Livadya",
         "Livatya"
     ],
+    "name:fin_x_preferred":[
+        "Liv\u00e1dia"
+    ],
     "name:fra_x_preferred":[
         "Liv\u00e1dia"
     ],
+    "name:hun_x_preferred":[
+        "Livadia"
+    ],
     "name:hye_x_preferred":[
         "\u053c\u056b\u057e\u0561\u0564\u056b\u0561"
+    ],
+    "name:ita_x_preferred":[
+        "Livadia"
+    ],
+    "name:nld_x_preferred":[
+        "Livadia"
     ],
     "name:nno_x_preferred":[
         "Liv\u00e1dia i L\u00e1rnaka"
@@ -50,11 +65,20 @@
     "name:pol_x_preferred":[
         "Liwadia"
     ],
+    "name:por_x_preferred":[
+        "Livadia"
+    ],
+    "name:ron_x_preferred":[
+        "Livadia"
+    ],
     "name:swe_x_preferred":[
         "Liv\u00e1dia"
     ],
     "name:unk_x_variant":[
         "Leivadia"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u06cc\u0648\u0627\u062f\u06cc\u0627"
     ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
     "qs:a1":"*\u039b\u03ac\u03c1\u03bd\u03b1\u03ba\u03b1",
@@ -105,7 +129,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527696571,
+    "wof:lastmodified":1563574572,
     "wof:name":"\u039b\u03b9\u03b2\u03ac\u03b4\u03b9\u03b1",
     "wof:parent_id":85682407,
     "wof:placetype":"locality",

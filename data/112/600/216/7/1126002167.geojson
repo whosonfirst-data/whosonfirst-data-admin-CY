@@ -43,6 +43,9 @@
     "name:unk_x_variant":[
         "Susuz"
     ],
+    "name:urd_x_preferred":[
+        "\u0633\u0648\u0633\u06a9\u06cc\u0648"
+    ],
     "qs_pg:aaroncc":"CY",
     "qs_pg:gn_country":"CY",
     "qs_pg:gn_fcode":"PPLQ",
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1126002167,
-    "wof:lastmodified":1561769740,
+    "wof:lastmodified":1563574637,
     "wof:name":"Souskiou",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

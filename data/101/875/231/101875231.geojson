@@ -45,11 +45,17 @@
     "name:tur_x_preferred":[
         "Tatl\u0131ca"
     ],
+    "name:tur_x_variant":[
+        "Zacharia"
+    ],
     "name:unk_x_variant":[
         "Zaharya"
     ],
     "name:urd_x_preferred":[
         "\u0698\u0627\u06a9\u062d\u0631\u06c1\u060c \u0642\u0628\u0631\u0635"
+    ],
+    "name:urd_x_variant":[
+        "\u0698\u0627\u06a9\u062d\u0631\u06c1"
     ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
     "qs:a1":"*\u03a0\u03ac\u03c6\u03bf\u03c2",
@@ -95,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769717,
+    "wof:lastmodified":1563574421,
     "wof:name":"\u0396\u03b1\u03c7\u03b1\u03c1\u03b9\u03ac",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

@@ -20,6 +20,9 @@
     "name:ceb_x_preferred":[
         "K\u00e1to Defter\u00e1"
     ],
+    "name:ceb_x_variant":[
+        "Defter\u00e1"
+    ],
     "name:ell_x_preferred":[
         "\u0394\u03b5\u03c5\u03c4\u03b5\u03c1\u03ac"
     ],
@@ -38,6 +41,9 @@
     "name:fas_x_preferred":[
         "\u062f\u0641\u062a\u0631\u0627"
     ],
+    "name:fin_x_preferred":[
+        "Defter\u00e1"
+    ],
     "name:nld_x_preferred":[
         "Dheftera"
     ],
@@ -47,11 +53,20 @@
     "name:pol_x_preferred":[
         "Kato Deftera"
     ],
+    "name:pol_x_variant":[
+        "Deftera"
+    ],
     "name:spa_x_preferred":[
         "Kato Deftera"
     ],
+    "name:spa_x_variant":[
+        "Deftera"
+    ],
     "name:swe_x_preferred":[
         "K\u00e1to Defter\u00e1"
+    ],
+    "name:swe_x_variant":[
+        "Defter\u00e1"
     ],
     "name:und_x_colloquial":[
         "Asaki Deftera",
@@ -116,7 +131,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769737,
+    "wof:lastmodified":1563574610,
     "wof:name":"\u039a\u03ac\u03c4\u03c9 \u0394\u03b5\u03c5\u03c4\u03b5\u03c1\u03ac",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

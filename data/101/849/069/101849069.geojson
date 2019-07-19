@@ -47,6 +47,9 @@
     "name:fra_x_preferred":[
         "Alassa"
     ],
+    "name:fra_x_variant":[
+        "\u00c1lassa"
+    ],
     "name:hye_x_preferred":[
         "\u0531\u056c\u0561\u057d\u0561"
     ],
@@ -55,6 +58,9 @@
     ],
     "name:pol_x_preferred":[
         "Alasa"
+    ],
+    "name:slv_x_preferred":[
+        "Alassa"
     ],
     "name:swe_x_preferred":[
         "\u00c1lassa"
@@ -120,7 +126,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769736,
+    "wof:lastmodified":1563574601,
     "wof:name":"\u0386\u03bb\u03b1\u03c3\u03c3\u03b1",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

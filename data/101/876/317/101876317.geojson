@@ -26,6 +26,9 @@
     "name:eng_x_preferred":[
         "Agios Epifanios"
     ],
+    "name:eng_x_variant":[
+        "Agios Epifanios Soleas"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u06af\u06cc\u0648\u0627\u0633 \u0627\u067e\u06cc\u0641\u0627\u0646\u0648\u0627\u0633"
     ],
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":101876317,
-    "wof:lastmodified":1561769735,
+    "wof:lastmodified":1563574588,
     "wof:name":"\u0386\u03b3\u03b9\u03bf\u03c2 \u0395\u03c0\u03b9\u03c6\u03ac\u03bd\u03b9\u03bf\u03c2",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

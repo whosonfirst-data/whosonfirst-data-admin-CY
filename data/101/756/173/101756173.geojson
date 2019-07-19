@@ -32,6 +32,9 @@
     "name:eng_x_preferred":[
         "Tremithousa"
     ],
+    "name:fin_x_preferred":[
+        "Tremitho\u00fasa"
+    ],
     "name:hye_x_preferred":[
         "\u054f\u0580\u0565\u0574\u056b\u0569\u0578\u0582\u057d\u0561"
     ],
@@ -46,6 +49,9 @@
     ],
     "name:unk_x_variant":[
         "Trimithusa"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u0631\u06cc\u0645\u06cc\u062a\u06be\u0648\u0633\u0627"
     ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
     "qs:a1":"*\u03a0\u03ac\u03c6\u03bf\u03c2",
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":101756173,
-    "wof:lastmodified":1561769732,
+    "wof:lastmodified":1563574562,
     "wof:name":"\u03a4\u03c1\u03b5\u03bc\u03b9\u03b8\u03bf\u03cd\u03c3\u03b1",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

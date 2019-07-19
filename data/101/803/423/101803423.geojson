@@ -38,6 +38,9 @@
     "name:pol_x_preferred":[
         "Episkopio"
     ],
+    "name:rus_x_preferred":[
+        "\u042d\u043f\u0438\u0441\u043a\u043e\u043f\u0438\u043e"
+    ],
     "name:swe_x_preferred":[
         "Episkopei\u00f3"
     ],
@@ -96,7 +99,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769725,
+    "wof:lastmodified":1563574494,
     "wof:name":"\u0395\u03c0\u03b9\u03c3\u03ba\u03bf\u03c0\u03b5\u03b9\u03cc",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

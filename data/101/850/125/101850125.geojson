@@ -44,6 +44,9 @@
     "name:unk_x_variant":[
         "Pa\u015fiammo"
     ],
+    "name:urd_x_preferred":[
+        "\u067e\u0627\u062e\u06cc\u0627\u0645\u0648\u0633"
+    ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
     "qs:a1":"*\u039b\u03b5\u03c5\u03ba\u03c9\u03c3\u03af\u03b1",
     "qs:a1_alt":"Lefkosia",
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":101850125,
-    "wof:lastmodified":1561769720,
+    "wof:lastmodified":1563574445,
     "wof:name":"\u03a0\u03b1\u03c7\u03cd\u03b1\u03bc\u03bc\u03bf\u03c2",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

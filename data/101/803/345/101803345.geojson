@@ -19,11 +19,15 @@
     "name:bul_x_preferred":[
         "\u0410\u0433\u0438\u043e\u0441 \u0415\u0440\u043c\u043e\u043b\u0430\u043e\u0441"
     ],
+    "name:ceb_x_preferred":[
+        "\u00c1gios Erm\u00f3laos"
+    ],
     "name:ell_x_preferred":[
         "\u00c1gios Erm\u00f3laos"
     ],
     "name:ell_x_variant":[
-        "\u0386\u03b3\u03b9\u03bf\u03c2 \u0395\u03c1\u03bc\u03cc\u03bb\u03b1\u03bf\u03c2"
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u0395\u03c1\u03bc\u03cc\u03bb\u03b1\u03bf\u03c2",
+        "\u03a3\u03b9\u03c1\u03af\u03bd\u03b5\u03b2\u03bb\u03ad\u03c1"
     ],
     "name:eng_x_preferred":[
         "Ayirmola"
@@ -50,6 +54,9 @@
     ],
     "name:swe_x_preferred":[
         "\u00c1gios Erm\u00f3laos"
+    ],
+    "name:tur_x_preferred":[
+        "\u015eirinevler"
     ],
     "name:und_x_colloquial":[
         "Sirinevler"
@@ -134,7 +141,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769730,
+    "wof:lastmodified":1563574540,
     "wof:name":"\u0386\u03b3\u03b9\u03bf\u03c2 \u0395\u03c1\u03bc\u03cc\u03bb\u03b1\u03bf\u03c2",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

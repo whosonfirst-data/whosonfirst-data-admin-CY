@@ -36,8 +36,14 @@
     "name:cat_x_preferred":[
         "Districte de Nic\u00f2sia"
     ],
+    "name:ceb_x_preferred":[
+        "Eparch\u00eda Lefkos\u00edas"
+    ],
     "name:ces_x_preferred":[
         "Nik\u00f3sie"
+    ],
+    "name:cym_x_preferred":[
+        "Ardal Nicosia"
     ],
     "name:deu_x_preferred":[
         "Bezirk Nikosia"
@@ -69,8 +75,17 @@
     "name:fra_x_variant":[
         "district de Nicosie"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d7\u05d5\u05d6 \u05e0\u05d9\u05e7\u05d5\u05e1\u05d9\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Nikosia ker\u00fclet"
+    ],
     "name:hye_x_preferred":[
         "\u0546\u056b\u056f\u0578\u057d\u056b\u0561\u0575\u056b \u0577\u0580\u057b\u0561\u0576"
+    ],
+    "name:ind_x_preferred":[
+        "Distrik Nicosia"
     ],
     "name:ita_x_preferred":[
         "distretto di Nicosia"
@@ -137,6 +152,9 @@
     ],
     "name:tur_x_preferred":[
         "Lefko\u015fa \u0130l\u00e7esi"
+    ],
+    "name:tur_x_variant":[
+        "Lefko\u015fa ili"
     ],
     "name:ukr_x_preferred":[
         "\u041d\u0456\u043a\u043e\u0441\u0456\u044f"
@@ -274,7 +292,7 @@
         "ell",
         "tur"
     ],
-    "wof:lastmodified":1561769713,
+    "wof:lastmodified":1563574387,
     "wof:name":"\u039b\u03b5\u03c5\u03ba\u03c9\u03c3\u03af\u03b1",
     "wof:parent_id":85632437,
     "wof:placetype":"region",

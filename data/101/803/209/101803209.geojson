@@ -23,7 +23,8 @@
         "Kont\u00e9a"
     ],
     "name:ell_x_variant":[
-        "\u039a\u03bf\u03bd\u03c4\u03ad\u03b1"
+        "\u039a\u03bf\u03bd\u03c4\u03ad\u03b1",
+        "\u03a4\u03bf\u03c5\u03c1\u03ba\u03bc\u03b5\u03bd\u03c4\u03cc\u03b9"
     ],
     "name:eng_x_preferred":[
         "Kondeya"
@@ -42,6 +43,9 @@
     ],
     "name:pol_x_preferred":[
         "Kondea"
+    ],
+    "name:tur_x_preferred":[
+        "T\u00fcrkmenk\u00f6y"
     ],
     "name:und_x_colloquial":[
         "Tuerkmenkoey",
@@ -127,7 +131,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769728,
+    "wof:lastmodified":1563574530,
     "wof:name":"\u039a\u03bf\u03bd\u03c4\u03ad\u03b1",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

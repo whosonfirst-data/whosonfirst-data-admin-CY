@@ -35,6 +35,9 @@
     "name:eng_x_variant":[
         "Louvara"
     ],
+    "name:fra_x_preferred":[
+        "Louvar\u00e1s"
+    ],
     "name:nld_x_preferred":[
         "Louvaras"
     ],
@@ -99,7 +102,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769722,
+    "wof:lastmodified":1563574468,
     "wof:name":"\u039b\u03bf\u03c5\u03b2\u03b1\u03c1\u03ac\u03c2",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

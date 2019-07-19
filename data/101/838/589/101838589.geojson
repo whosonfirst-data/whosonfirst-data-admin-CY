@@ -16,11 +16,15 @@
     "mps:longitude":33.548625,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "P\u00e9tra tou Digen\u00ed"
+    ],
     "name:ell_x_preferred":[
         "P\u00e9tra tou Digen\u00ed"
     ],
     "name:ell_x_variant":[
-        "\u03a0\u03ad\u03c4\u03c1\u03b1 \u03c4\u03bf\u03c5 \u0394\u03b9\u03b3\u03b5\u03bd\u03ae"
+        "\u03a0\u03ad\u03c4\u03c1\u03b1 \u03c4\u03bf\u03c5 \u0394\u03b9\u03b3\u03b5\u03bd\u03ae",
+        "\u0393\u03b5\u03bd\u03b9\u03c4\u03b6\u03ad\u03ba\u03b9\u03bf\u03ca"
     ],
     "name:eng_x_preferred":[
         "Yenije Keuy"
@@ -38,6 +42,9 @@
     "name:swe_x_preferred":[
         "P\u00e9tra tou Digen\u00ed"
     ],
+    "name:tur_x_preferred":[
+        "Yenicek\u00f6y"
+    ],
     "name:und_x_colloquial":[
         "Yenicekoey",
         "Yenicekoy"
@@ -50,6 +57,9 @@
     ],
     "name:unk_x_variant":[
         "Yenije Keuy"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u06cc\u062a\u0631\u0627 \u062a\u0648 \u062f\u06cc\u06af\u06cc\u0646\u06cc"
     ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
     "qs:a1":"*\u039b\u03b5\u03c5\u03ba\u03c9\u03c3\u03af\u03b1",
@@ -111,7 +121,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769737,
+    "wof:lastmodified":1563574605,
     "wof:name":"\u03a0\u03ad\u03c4\u03c1\u03b1 \u03c4\u03bf\u03c5 \u0394\u03b9\u03b3\u03b5\u03bd\u03ae",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

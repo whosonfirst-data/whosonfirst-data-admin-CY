@@ -36,6 +36,9 @@
         "Dimi",
         "Ovalik"
     ],
+    "name:fin_x_preferred":[
+        "T\u00edmi"
+    ],
     "name:hye_x_preferred":[
         "\u054f\u056b\u0574\u056b"
     ],
@@ -50,6 +53,9 @@
     ],
     "name:unk_x_variant":[
         "Oval\u0131k"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u06cc\u0645\u06cc"
     ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
     "qs:a1":"*\u03a0\u03ac\u03c6\u03bf\u03c2",
@@ -100,7 +106,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769721,
+    "wof:lastmodified":1563574449,
     "wof:name":"\u03a4\u03af\u03bc\u03b7",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

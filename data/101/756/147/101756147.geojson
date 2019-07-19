@@ -16,6 +16,9 @@
     "mps:longitude":33.325179,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:azb_x_preferred":[
+        "\u0622\u06af\u06cc\u0648\u0633 \u062f\u0626\u0645\u0648\u062a\u06cc\u0648\u0633"
+    ],
     "name:ell_x_preferred":[
         "\u00c1gios Dom\u00e9tios"
     ],
@@ -26,8 +29,14 @@
     "name:eng_x_preferred":[
         "Ayios Dhometios"
     ],
+    "name:eng_x_variant":[
+        "Agios Dometios"
+    ],
     "name:fas_x_preferred":[
         "\u0622\u06af\u06cc\u0648\u0633 \u062f\u0648\u0645\u062a\u06cc\u0648\u0633"
+    ],
+    "name:fin_x_preferred":[
+        "\u00c1gios Dom\u00e9tios"
     ],
     "name:fra_x_preferred":[
         "Ayios Dometios"
@@ -53,8 +62,14 @@
     "name:por_x_preferred":[
         "Agios Dometios"
     ],
+    "name:rus_x_preferred":[
+        "\u0410\u0439\u043e\u0441-\u0414\u043e\u043c\u0435\u0442\u0438\u043e\u0441"
+    ],
     "name:srp_x_preferred":[
         "\u0410\u0458\u043e\u0441 \u0414\u043e\u043c\u0435\u0442\u0438\u0458\u043e\u0441"
+    ],
+    "name:tur_x_preferred":[
+        "Aydemet"
     ],
     "name:unk_x_variant":[
         "Saint Dometios"
@@ -118,7 +133,7 @@
         }
     ],
     "wof:id":101756147,
-    "wof:lastmodified":1561769733,
+    "wof:lastmodified":1563574573,
     "wof:name":"\u0386\u03b3\u03b9\u03bf\u03c2 \u0394\u03bf\u03bc\u03ad\u03c4\u03b9\u03bf\u03c2",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

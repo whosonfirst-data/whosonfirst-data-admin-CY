@@ -20,6 +20,9 @@
     "name:bul_x_preferred":[
         "\u0425\u0438\u0440\u043e\u043a\u0438\u0442\u0438\u044f"
     ],
+    "name:deu_x_preferred":[
+        "Chirokitia"
+    ],
     "name:ell_x_preferred":[
         "\u03a7\u03bf\u03b9\u03c1\u03bf\u03ba\u03bf\u03b9\u03c4\u03af\u03b1"
     ],
@@ -27,6 +30,12 @@
         "Khirokitia"
     ],
     "name:eng_x_variant":[
+        "Choirokoitia"
+    ],
+    "name:fra_x_preferred":[
+        "Chirokit\u00eda"
+    ],
+    "name:hun_x_preferred":[
         "Choirokoitia"
     ],
     "name:hye_x_preferred":[
@@ -37,6 +46,9 @@
     ],
     "name:unk_x_variant":[
         "Hirokitiya"
+    ],
+    "name:urd_x_preferred":[
+        "\u062e\u0648\u06cc\u0631\u0648\u06a9\u0648\u06cc\u062a\u06cc\u0627"
     ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
     "qs:a1":"*\u039b\u03ac\u03c1\u03bd\u03b1\u03ba\u03b1",
@@ -86,7 +98,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769723,
+    "wof:lastmodified":1563574472,
     "wof:name":"\u03a7\u03bf\u03b9\u03c1\u03bf\u03ba\u03bf\u03b9\u03c4\u03af\u03b1",
     "wof:parent_id":85682407,
     "wof:placetype":"locality",

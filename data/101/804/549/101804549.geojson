@@ -35,6 +35,9 @@
     "name:fas_x_preferred":[
         "\u06a9\u06cc\u0633\u0648\u0646\u0631\u06af\u0627"
     ],
+    "name:fin_x_preferred":[
+        "Kiss\u00f3nerga"
+    ],
     "name:hye_x_preferred":[
         "\u053f\u056b\u057d\u0578\u0576\u0565\u0580\u0563\u0561"
     ],
@@ -110,7 +113,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769723,
+    "wof:lastmodified":1563574473,
     "wof:name":"\u039a\u03b9\u03c3\u03c3\u03cc\u03bd\u03b5\u03c1\u03b3\u03b1",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

@@ -29,7 +29,8 @@
         "P\u00e1no Akourd\u00e1leia"
     ],
     "name:ell_x_variant":[
-        "\u03a0\u03ac\u03bd\u03c9 \u0391\u03ba\u03bf\u03c5\u03c1\u03b4\u03ac\u03bb\u03b5\u03b9\u03b1"
+        "\u03a0\u03ac\u03bd\u03c9 \u0391\u03ba\u03bf\u03c5\u03c1\u03b4\u03ac\u03bb\u03b5\u03b9\u03b1",
+        "\u03a0\u03ac\u03bd\u03c9 \u0391\u03ba\u03bf\u03c5\u03c1\u03b4\u03ac\u03bb\u03b9\u03b1"
     ],
     "name:eng_x_preferred":[
         "Pano Akourdaleia"
@@ -45,6 +46,9 @@
     ],
     "name:unk_x_variant":[
         "Pano Akurdalya"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u0627\u0646\u0648 \u0622\u06a9\u0648\u0631\u062f\u0627\u0644\u0626\u06cc\u0627"
     ],
     "qs_pg:aaroncc":"CY",
     "qs_pg:gn_country":"CY",
@@ -93,7 +97,7 @@
         }
     ],
     "wof:id":1125954659,
-    "wof:lastmodified":1561769739,
+    "wof:lastmodified":1563574629,
     "wof:name":"Pano Akourdhalia",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

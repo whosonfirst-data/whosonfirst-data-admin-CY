@@ -19,6 +19,9 @@
     "name:bul_x_preferred":[
         "\u041a\u043e\u043c\u0430 \u0442\u0443 \u042f\u043b\u0443"
     ],
+    "name:ceb_x_preferred":[
+        "K\u00f3ma tou Gialo\u00fa"
+    ],
     "name:deu_x_preferred":[
         "Koma tou Gialou/Kumyal\u0131"
     ],
@@ -26,7 +29,8 @@
         "K\u00f3ma tou Gialo\u00fa"
     ],
     "name:ell_x_variant":[
-        "\u039a\u03ce\u03bc\u03b1 \u03c4\u03bf\u03c5 \u0393\u03b9\u03b1\u03bb\u03bf\u03cd"
+        "\u039a\u03ce\u03bc\u03b1 \u03c4\u03bf\u03c5 \u0393\u03b9\u03b1\u03bb\u03bf\u03cd",
+        "\u039a\u03bf\u03cd\u03bc\u03b3\u03b9\u03b1\u03bb\u03b9"
     ],
     "name:eng_x_preferred":[
         "Koma Tou Gialou"
@@ -53,11 +57,17 @@
     "name:swe_x_preferred":[
         "K\u00f3ma tou Gialo\u00fa"
     ],
+    "name:tur_x_preferred":[
+        "Kumyal\u0131"
+    ],
     "name:und_x_preferred":[
         "Koma Tou Yialou"
     ],
     "name:unk_x_variant":[
         "Kamyali"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0648\u0645\u0627 \u062a\u0648 \u06af\u06cc\u0627\u0644\u0648"
     ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
     "qs:a1":"*\u0391\u03bc\u03bc\u03cc\u03c7\u03c9\u03c3\u03c4\u03bf\u03c2",
@@ -127,7 +137,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769726,
+    "wof:lastmodified":1563574506,
     "wof:name":"\u039a\u03ce\u03bc\u03b1 \u03c4\u03bf\u03c5 \u0393\u03b9\u03b1\u03bb\u03bf\u03cd",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

@@ -33,6 +33,9 @@
         "Gerovasa",
         "Yerovasi"
     ],
+    "name:fra_x_preferred":[
+        "Gerov\u00e1sa-Tr\u00f3zena"
+    ],
     "name:nld_x_preferred":[
         "Gerovasa"
     ],
@@ -90,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769736,
+    "wof:lastmodified":1563574602,
     "wof:name":"\u0393\u03b5\u03c1\u03bf\u03b2\u03ac\u03c3\u03b1",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

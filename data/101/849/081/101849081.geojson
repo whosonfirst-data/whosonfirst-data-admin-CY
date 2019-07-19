@@ -38,6 +38,12 @@
     "name:eng_x_variant":[
         "Omodos"
     ],
+    "name:fin_x_preferred":[
+        "\u00d3modos"
+    ],
+    "name:fra_x_preferred":[
+        "\u00d3modos"
+    ],
     "name:nld_x_preferred":[
         "Omodos"
     ],
@@ -102,7 +108,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769736,
+    "wof:lastmodified":1563574597,
     "wof:name":"\u038c\u03bc\u03bf\u03b4\u03bf\u03c2",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

@@ -19,6 +19,9 @@
     "name:bul_x_preferred":[
         "\u0412\u0430\u0441\u0438\u043b\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Vas\u00edli"
+    ],
     "name:deu_x_preferred":[
         "Vasili/Gelincik"
     ],
@@ -26,7 +29,8 @@
         "Vas\u00edli"
     ],
     "name:ell_x_variant":[
-        "\u0392\u03b1\u03c3\u03af\u03bb\u03b9"
+        "\u0392\u03b1\u03c3\u03af\u03bb\u03b9",
+        "\u0393\u03ba\u03b5\u03bb\u03b9\u03bd\u03c4\u03c3\u03af"
     ],
     "name:eng_x_preferred":[
         "Vasili"
@@ -36,6 +40,9 @@
     ],
     "name:fra_x_preferred":[
         "Vasili"
+    ],
+    "name:hye_x_preferred":[
+        "\u054e\u0561\u057d\u056b\u056c\u056b"
     ],
     "name:pol_x_preferred":[
         "Wasili"
@@ -54,6 +61,9 @@
     ],
     "name:unk_x_variant":[
         "Gelincik"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u0627\u0633\u06cc\u0644\u06cc"
     ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
     "qs:a1":"*\u0391\u03bc\u03bc\u03cc\u03c7\u03c9\u03c3\u03c4\u03bf\u03c2",
@@ -118,7 +128,7 @@
         }
     ],
     "wof:id":101838569,
-    "wof:lastmodified":1561769736,
+    "wof:lastmodified":1563574602,
     "wof:name":"\u0392\u03b1\u03c3\u03af\u03bb\u03b9",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000128,
+    "geom:area_square_m":1295024.200591,
     "geom:bbox":"33.0130564014,34.9397389064,33.0256390775,34.955429048",
     "geom:latitude":34.948718,
     "geom:longitude":33.020567,
@@ -19,7 +20,8 @@
         "Liv\u00e1dia"
     ],
     "name:ell_x_variant":[
-        "\u039b\u03b9\u03b2\u03ac\u03b4\u03b9\u03b1"
+        "\u039b\u03b9\u03b2\u03ac\u03b4\u03b9\u03b1",
+        "\u039b\u03b9\u03b2\u03ac\u03b4\u03b9\u03b1 \u039b\u03b5\u03c5\u03ba\u03c9\u03c3\u03af\u03b1\u03c2"
     ],
     "name:eng_x_preferred":[
         "Livadhia"
@@ -28,10 +30,20 @@
         "Livadia Pitsylias",
         "Livadya",
         "Livatya",
-        "Sazlikoy"
+        "Sazlikoy",
+        "Livadia Lefkosias"
+    ],
+    "name:nld_x_preferred":[
+        "Livadia"
+    ],
+    "name:pol_x_preferred":[
+        "Liwadia"
     ],
     "name:unk_x_variant":[
         "Livadya"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u06cc\u0648\u0627\u062f\u06cc\u0627"
     ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
     "qs:a1":"*\u039b\u03b5\u03c5\u03ba\u03c9\u03c3\u03af\u03b1",
@@ -76,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527642587,
+    "wof:lastmodified":1563574427,
     "wof:name":"\u039b\u03b9\u03b2\u03ac\u03b4\u03b9\u03b1",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

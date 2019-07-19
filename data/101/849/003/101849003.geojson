@@ -20,6 +20,9 @@
     "name:bul_x_preferred":[
         "\u041c\u0435\u043b\u0438\u043d\u0438"
     ],
+    "name:deu_x_preferred":[
+        "Melini"
+    ],
     "name:ell_x_preferred":[
         "\u039c\u03b5\u03bb\u03af\u03bd\u03b7 \u039b\u03ac\u03c1\u03bd\u03b1\u03ba\u03b1\u03c2"
     ],
@@ -33,6 +36,9 @@
     "name:fas_x_preferred":[
         "\u0645\u0644\u06cc\u0646\u06cc"
     ],
+    "name:hun_x_preferred":[
+        "Melini"
+    ],
     "name:hye_x_preferred":[
         "\u0544\u0565\u056c\u056b\u0576\u056b"
     ],
@@ -41,6 +47,9 @@
     ],
     "name:pol_x_preferred":[
         "Melini"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u06cc\u0644\u06cc\u0646\u06cc"
     ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
     "qs:a1":"*\u039b\u03ac\u03c1\u03bd\u03b1\u03ba\u03b1",
@@ -90,7 +99,7 @@
         }
     ],
     "wof:id":101849003,
-    "wof:lastmodified":1561769736,
+    "wof:lastmodified":1563574599,
     "wof:name":"\u039c\u03b5\u03bb\u03af\u03bd\u03b7",
     "wof:parent_id":85682407,
     "wof:placetype":"locality",

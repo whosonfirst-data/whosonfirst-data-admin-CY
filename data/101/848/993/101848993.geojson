@@ -23,6 +23,9 @@
     "name:ceb_x_preferred":[
         "Mar\u00ed"
     ],
+    "name:deu_x_preferred":[
+        "Mari"
+    ],
     "name:ell_x_preferred":[
         "\u039c\u03b1\u03c1\u03af"
     ],
@@ -35,6 +38,9 @@
     "name:eng_x_variant":[
         "Tatli Sou",
         "Tatlisu"
+    ],
+    "name:hun_x_preferred":[
+        "Mari"
     ],
     "name:hye_x_preferred":[
         "\u0544\u0561\u0580\u056b"
@@ -56,6 +62,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0645\u0627\u0631\u06cc\u060c \u0642\u0628\u0631\u0635"
+    ],
+    "name:urd_x_variant":[
+        "\u0645\u0627\u0631\u06cc"
     ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
     "qs:a1":"*\u039b\u03ac\u03c1\u03bd\u03b1\u03ba\u03b1",
@@ -109,7 +118,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769734,
+    "wof:lastmodified":1563574582,
     "wof:name":"\u039c\u03b1\u03c1\u03af",
     "wof:parent_id":85682407,
     "wof:placetype":"locality",

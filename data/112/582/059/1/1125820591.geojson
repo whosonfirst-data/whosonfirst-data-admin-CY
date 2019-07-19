@@ -22,6 +22,9 @@
     "name:bul_x_preferred":[
         "\u0421\u0442\u0430\u0442\u043e\u0441-\u0410\u0433\u0438\u043e\u0441 \u0424\u043e\u0442\u0438\u043e\u0441"
     ],
+    "name:ceb_x_preferred":[
+        "Stat\u00f3s-\u00c1gios F\u00f3tios"
+    ],
     "name:ell_x_preferred":[
         "Stat\u00f3s-\u00c1gios F\u00f3tios"
     ],
@@ -45,6 +48,9 @@
     ],
     "name:unk_x_variant":[
         "Stato-Ayfoti"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u062a\u0627\u062a\u0648\u0633-\u0622\u0626\u06cc\u0648\u0633 \u0641\u0648\u062a\u06cc\u0648\u0633"
     ],
     "qs_pg:aaroncc":"CY",
     "qs_pg:gn_country":"CY",
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":1125820591,
-    "wof:lastmodified":1561769740,
+    "wof:lastmodified":1563574641,
     "wof:name":"Statos and Ayios Photios",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

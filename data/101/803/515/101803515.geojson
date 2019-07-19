@@ -20,7 +20,8 @@
         "Syrianoch\u00f3ri"
     ],
     "name:ell_x_variant":[
-        "\u03a3\u03c5\u03c1\u03b9\u03b1\u03bd\u03bf\u03c7\u03ce\u03c1\u03b9"
+        "\u03a3\u03c5\u03c1\u03b9\u03b1\u03bd\u03bf\u03c7\u03ce\u03c1\u03b9",
+        "\u0393\u03b9\u03b1\u03ca\u03bb\u03ac"
     ],
     "name:eng_x_preferred":[
         "Yayla"
@@ -53,6 +54,9 @@
     ],
     "name:unk_x_variant":[
         "Siryanohor"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06cc\u0631\u06cc\u0627\u0646\u0648\u062e\u0648\u0631\u06cc"
     ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
     "qs:a1":"*\u039b\u03b5\u03c5\u03ba\u03c9\u03c3\u03af\u03b1",
@@ -113,7 +117,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769731,
+    "wof:lastmodified":1563574547,
     "wof:name":"\u03a3\u03c5\u03c1\u03b9\u03b1\u03bd\u03bf\u03c7\u03ce\u03c1\u03b9",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

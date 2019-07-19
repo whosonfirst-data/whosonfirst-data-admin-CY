@@ -20,6 +20,9 @@
     "name:bul_x_preferred":[
         "\u0410\u0433\u0438\u043e\u0441 \u0422\u043e\u043c\u0430\u0441"
     ],
+    "name:deu_x_preferred":[
+        "Agios Thomas"
+    ],
     "name:ell_x_preferred":[
         "\u0386\u03b3\u03b9\u03bf\u03c2 \u0398\u03c9\u03bc\u03ac\u03c2"
     ],
@@ -34,8 +37,14 @@
         "Aytuma",
         "Mersinli"
     ],
+    "name:fra_x_preferred":[
+        "\u00c1gios Thom\u00e1s"
+    ],
     "name:hye_x_preferred":[
         "\u0531\u0575\u0578\u057d \u0539\u0578\u0574\u0561\u057d"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10d2\u10d8\u10dd\u10e1-\u10d7\u10dd\u10db\u10d0\u10e1\u10d8"
     ],
     "name:nld_x_preferred":[
         "Ayios Thomas"
@@ -51,6 +60,9 @@
     ],
     "name:unk_x_variant":[
         "Mersinli"
+    ],
+    "name:urd_x_preferred":[
+        "\u0622\u0626\u06cc\u0648\u0633 \u062a\u06be\u0648\u0645\u0627\u0633"
     ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
     "qs:a1":"*\u039b\u03b5\u03bc\u03b5\u03c3\u03cc\u03c2",
@@ -101,7 +113,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769715,
+    "wof:lastmodified":1563574403,
     "wof:name":"\u0386\u03b3\u03b9\u03bf\u03c2 \u0398\u03c9\u03bc\u03ac\u03c2",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

@@ -23,7 +23,8 @@
         "Avgol\u00edda"
     ],
     "name:ell_x_variant":[
-        "\u0391\u03c5\u03b3\u03bf\u03bb\u03af\u03b4\u03b1"
+        "\u0391\u03c5\u03b3\u03bf\u03bb\u03af\u03b4\u03b1",
+        "\u039a\u03bf\u03c5\u03c1\u03c4\u03bf\u03c5\u03bb\u03bf\u03cd\u03c2"
     ],
     "name:eng_x_preferred":[
         "Avgolidha"
@@ -56,6 +57,9 @@
     ],
     "name:unk_x_variant":[
         "Avgolidha"
+    ],
+    "name:urd_x_preferred":[
+        "\u0622\u0648\u06af\u0648\u0644\u06cc\u062f\u0627"
     ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
     "qs:a1":"*\u0391\u03bc\u03bc\u03cc\u03c7\u03c9\u03c3\u03c4\u03bf\u03c2",
@@ -125,7 +129,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769728,
+    "wof:lastmodified":1563574526,
     "wof:name":"\u0391\u03c5\u03b3\u03bf\u03bb\u03af\u03b4\u03b1",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

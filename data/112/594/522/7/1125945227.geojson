@@ -22,6 +22,9 @@
     "name:bul_x_preferred":[
         "\u041a\u0435\u043b\u0430\u043a\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Kell\u00e1ki"
+    ],
     "name:ces_x_preferred":[
         "Kellaki"
     ],
@@ -33,6 +36,9 @@
     ],
     "name:eng_x_preferred":[
         "Kellaki"
+    ],
+    "name:fra_x_preferred":[
+        "Kell\u00e1ki"
     ],
     "name:hye_x_preferred":[
         "\u053f\u0565\u056c\u0561\u056f\u056b"
@@ -101,7 +107,7 @@
         }
     ],
     "wof:id":1125945227,
-    "wof:lastmodified":1561769739,
+    "wof:lastmodified":1563574627,
     "wof:name":"Kellaki",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

@@ -44,6 +44,9 @@
     "name:unk_x_variant":[
         "Mel\u00e2dya"
     ],
+    "name:urd_x_preferred":[
+        "\u0645\u06cc\u0644\u0627\u062f\u06cc\u0627"
+    ],
     "qs_pg:aaroncc":"CY",
     "qs_pg:gn_country":"CY",
     "qs_pg:gn_fcode":"PPL",
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":1126021071,
-    "wof:lastmodified":1561769739,
+    "wof:lastmodified":1563574631,
     "wof:name":"Meladhia",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",
