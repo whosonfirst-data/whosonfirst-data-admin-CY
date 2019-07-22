@@ -49,6 +49,9 @@
     "name:unk_x_variant":[
         "Ulu\u00e7am"
     ],
+    "name:urd_x_preferred":[
+        "\u0645\u0627\u0631\u0648\u0646\u0627\u0633"
+    ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
     "qs:a1":"*\u03a0\u03ac\u03c6\u03bf\u03c2",
     "qs:a1_alt":"Pafos",
@@ -96,7 +99,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769735,
+    "wof:lastmodified":1563574587,
     "wof:name":"\u039c\u03ac\u03c1\u03c9\u03bd\u03b1\u03c2",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

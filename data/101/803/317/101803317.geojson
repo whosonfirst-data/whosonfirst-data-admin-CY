@@ -26,7 +26,8 @@
         "N\u00e9ta"
     ],
     "name:ell_x_variant":[
-        "\u039d\u03ad\u03c4\u03b1"
+        "\u039d\u03ad\u03c4\u03b1",
+        "\u03a4\u03b1\u03c3\u03bb\u03af\u03c4\u03b6\u03b1"
     ],
     "name:eng_x_preferred":[
         "Neta"
@@ -40,6 +41,9 @@
     "name:pol_x_preferred":[
         "Neta"
     ],
+    "name:tur_x_preferred":[
+        "Ta\u015fl\u0131ca"
+    ],
     "name:und_x_colloquial":[
         "Taslica"
     ],
@@ -48,6 +52,9 @@
     ],
     "name:unk_x_variant":[
         "Ta\u015fl\u0131ca"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u06cc\u062a\u0627"
     ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
     "qs:a1":"*\u0391\u03bc\u03bc\u03cc\u03c7\u03c9\u03c3\u03c4\u03bf\u03c2",
@@ -117,7 +124,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769730,
+    "wof:lastmodified":1563574544,
     "wof:name":"\u039d\u03ad\u03c4\u03b1",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

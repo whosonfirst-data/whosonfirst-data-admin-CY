@@ -34,6 +34,9 @@
         "Kissusa",
         "Kisusa"
     ],
+    "name:fra_x_preferred":[
+        "Kisso\u00fasa"
+    ],
     "name:nld_x_preferred":[
         "Kissousa"
     ],
@@ -93,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769717,
+    "wof:lastmodified":1563574420,
     "wof:name":"\u039a\u03b9\u03c3\u03c3\u03bf\u03cd\u03c3\u03b1",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

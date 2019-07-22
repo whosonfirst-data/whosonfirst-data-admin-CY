@@ -24,7 +24,8 @@
     ],
     "name:ell_x_variant":[
         "M\u00e1ndres",
-        "\u039c\u03ac\u03bd\u03b4\u03c1\u03b5\u03c2"
+        "\u039c\u03ac\u03bd\u03b4\u03c1\u03b5\u03c2",
+        "\u03a7\u03b1\u03bc\u03b9\u03c4\u03ba\u03b9\u03cc\u03b9"
     ],
     "name:eng_x_preferred":[
         "Hamidmandiralari"
@@ -36,10 +37,14 @@
         "Hamit Mandres",
         "Mandres Hamid",
         "Ramit Mandres",
-        "Mandres"
+        "Mandres",
+        "Mandres Lefkosias"
     ],
     "name:fas_x_preferred":[
         "\u0647\u0645\u06cc\u062a\u06a9\u0648\u06cc"
+    ],
+    "name:fin_x_preferred":[
+        "M\u00e1ntres"
     ],
     "name:nld_x_preferred":[
         "Mandres"
@@ -55,6 +60,9 @@
     ],
     "name:swe_x_preferred":[
         "M\u00e1ndres"
+    ],
+    "name:tur_x_preferred":[
+        "Hamitk\u00f6y"
     ],
     "name:und_x_colloquial":[
         "Hamitkoey",
@@ -132,7 +140,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769732,
+    "wof:lastmodified":1563574560,
     "wof:name":"\u039c\u03ac\u03bd\u03b4\u03c1\u03b5\u03c2",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

@@ -35,7 +35,17 @@
         "Fasoula Lemesou",
         "Fasula",
         "Pasoulla",
-        "Phasoulla"
+        "Phasoulla",
+        "Fasoula"
+    ],
+    "name:fra_x_preferred":[
+        "Faso\u00fala"
+    ],
+    "name:hye_x_preferred":[
+        "\u0556\u0561\u057d\u0578\u0582\u056c\u0561"
+    ],
+    "name:nld_x_preferred":[
+        "Fasoula"
     ],
     "name:pol_x_preferred":[
         "Fasula"
@@ -95,7 +105,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1544740739,
+    "wof:lastmodified":1563574596,
     "wof:name":"\u03a6\u03b1\u03c3\u03bf\u03cd\u03bb\u03b1",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

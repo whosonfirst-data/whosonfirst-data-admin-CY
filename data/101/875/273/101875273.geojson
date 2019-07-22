@@ -38,6 +38,9 @@
         "Malia",
         "Malya"
     ],
+    "name:fra_x_preferred":[
+        "Malli\u00e1"
+    ],
     "name:ita_x_preferred":[
         "Malia"
     ],
@@ -106,7 +109,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769714,
+    "wof:lastmodified":1563574400,
     "wof:name":"\u039c\u03b1\u03bb\u03b9\u03ac",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

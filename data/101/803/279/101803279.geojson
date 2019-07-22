@@ -19,6 +19,9 @@
     "name:bul_x_preferred":[
         "\u0424\u043b\u0430\u043c\u0443\u0434\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Flamo\u00fadi"
+    ],
     "name:deu_x_preferred":[
         "Flamoudi/Mersinlik"
     ],
@@ -26,7 +29,8 @@
         "Flamo\u00fadi"
     ],
     "name:ell_x_variant":[
-        "\u03a6\u03bb\u03b1\u03bc\u03bf\u03cd\u03b4\u03b9"
+        "\u03a6\u03bb\u03b1\u03bc\u03bf\u03cd\u03b4\u03b9",
+        "\u039c\u03b5\u03c1\u03c3\u03b9\u03bd\u03bb\u03af\u03ba"
     ],
     "name:eng_x_preferred":[
         "Mersinlik"
@@ -136,7 +140,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769728,
+    "wof:lastmodified":1563574523,
     "wof:name":"\u03a6\u03bb\u03b1\u03bc\u03bf\u03cd\u03b4\u03b9",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

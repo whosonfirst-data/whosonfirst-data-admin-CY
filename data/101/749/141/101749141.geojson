@@ -21,14 +21,23 @@
     "name:ace_x_preferred":[
         "Nikosia"
     ],
+    "name:afr_x_preferred":[
+        "Nicosia"
+    ],
     "name:amh_x_preferred":[
         "\u120c\u134d\u12ae\u12da\u12eb"
     ],
     "name:ara_x_preferred":[
         "\u0646\u064a\u0642\u0648\u0633\u064a\u0627"
     ],
+    "name:arg_x_preferred":[
+        "Nicosia"
+    ],
     "name:arz_x_preferred":[
         "\u0646\u064a\u0643\u0648\u0633\u064a\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Nicosia"
     ],
     "name:ava_x_preferred":[
         "\u041d\u0438\u043a\u043e\u0441\u0438\u044f"
@@ -39,11 +48,20 @@
     "name:aze_x_preferred":[
         "Nikosiya"
     ],
+    "name:bak_x_preferred":[
+        "\u041d\u0438\u043a\u043e\u0441\u0438\u044f"
+    ],
     "name:bar_x_preferred":[
         "Nikosia"
     ],
+    "name:bcl_x_preferred":[
+        "Nicosia"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041d\u0456\u043a\u0430\u0441\u0456\u044f"
+    ],
+    "name:bel_x_variant":[
+        "\u041d\u0456\u043a\u0430\u0441\u0456\u044f"
     ],
     "name:ben_x_preferred":[
         "\u09a8\u09bf\u0995\u09cb\u09b8\u09bf\u09af\u09bc\u09be"
@@ -63,6 +81,12 @@
     "name:cat_x_preferred":[
         "Nic\u00f2sia"
     ],
+    "name:cdo_x_preferred":[
+        "Nicosia"
+    ],
+    "name:ceb_x_preferred":[
+        "Nicosia"
+    ],
     "name:ces_x_preferred":[
         "Nik\u00f3sie"
     ],
@@ -71,6 +95,9 @@
     ],
     "name:ckb_x_preferred":[
         "\u0646\u06cc\u06a9\u06c6\u0633\u06cc\u0627"
+    ],
+    "name:crh_x_preferred":[
+        "Lefko\u015fa"
     ],
     "name:cym_x_preferred":[
         "Nicosia"
@@ -129,6 +156,12 @@
     "name:fry_x_preferred":[
         "Nikosia"
     ],
+    "name:gag_x_preferred":[
+        "Lefko\u015fa"
+    ],
+    "name:gla_x_preferred":[
+        "Nicosia"
+    ],
     "name:gle_x_preferred":[
         "Nicosia"
     ],
@@ -138,8 +171,20 @@
     "name:glg_x_preferred":[
         "Nicosia - \u039b\u03b5\u03c5\u03ba\u03c9\u03c3\u03af\u03b1"
     ],
+    "name:glg_x_variant":[
+        "Nicosia"
+    ],
     "name:glv_x_preferred":[
         "Lefkosia"
+    ],
+    "name:gsw_x_preferred":[
+        "Nikosia"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aa8\u0abf\u0a95\u0acb\u0ab8\u0abf\u0aaf\u0abe"
+    ],
+    "name:hak_x_preferred":[
+        "Nicosia"
     ],
     "name:hat_x_preferred":[
         "Nikozi"
@@ -168,8 +213,20 @@
     "name:hye_x_preferred":[
         "\u0546\u056b\u056f\u0578\u057d\u056b\u0561"
     ],
+    "name:hyw_x_preferred":[
+        "\u0546\u056b\u056f\u0578\u057d\u056b\u0561"
+    ],
     "name:ido_x_preferred":[
         "Nikosia"
+    ],
+    "name:ile_x_preferred":[
+        "Nicosia"
+    ],
+    "name:ilo_x_preferred":[
+        "Nicosia"
+    ],
+    "name:ina_x_preferred":[
+        "Nicosia"
     ],
     "name:ind_x_preferred":[
         "Nikosia"
@@ -189,8 +246,14 @@
     "name:kaa_x_preferred":[
         "Nikosiya"
     ],
+    "name:kaa_x_variant":[
+        "Arqa Nikosiya"
+    ],
     "name:kab_x_preferred":[
         "Niqusya"
+    ],
+    "name:kal_x_preferred":[
+        "Nicosia"
     ],
     "name:kan_x_preferred":[
         "\u0ca8\u0cbf\u0c95\u0ccb\u0cb8\u0cbf\u0caf"
@@ -219,6 +282,15 @@
     "name:lav_x_preferred":[
         "Nikosija"
     ],
+    "name:lfn_x_preferred":[
+        "Nicosia"
+    ],
+    "name:lij_x_preferred":[
+        "Nicosia"
+    ],
+    "name:lim_x_preferred":[
+        "Nicosia"
+    ],
     "name:lit_x_preferred":[
         "Nikosija"
     ],
@@ -230,6 +302,9 @@
     ],
     "name:ltz_x_preferred":[
         "Nikosia"
+    ],
+    "name:mai_x_preferred":[
+        "\u0928\u093f\u0915\u094b\u0938\u093f\u092f\u093e"
     ],
     "name:mal_x_preferred":[
         "\u0d28\u0d3f\u0d15\u0d4d\u0d15\u0d4b\u0d37\u0d4d\u0d2f"
@@ -246,14 +321,29 @@
     "name:mkd_x_preferred":[
         "\u041d\u0438\u043a\u043e\u0437\u0438\u0458\u0430"
     ],
+    "name:mlg_x_preferred":[
+        "Nicosia"
+    ],
     "name:mlt_x_preferred":[
         "Nikosija"
+    ],
+    "name:mri_x_preferred":[
+        "Nicosia"
+    ],
+    "name:msa_x_preferred":[
+        "Nicosia"
     ],
     "name:myv_x_preferred":[
         "\u041d\u0438\u043a\u043e\u0441\u0438\u044f \u043e\u0448"
     ],
     "name:mzn_x_preferred":[
         "\u0646\u06cc\u06a9\u0648\u0632\u06cc\u0627"
+    ],
+    "name:nah_x_preferred":[
+        "Nicosia"
+    ],
+    "name:nan_x_preferred":[
+        "Nicosia"
     ],
     "name:nap_x_preferred":[
         "Nicos\u00eca"
@@ -264,10 +354,16 @@
     "name:nep_x_preferred":[
         "\u0928\u093f\u0915\u094b\u091c\u094d\u092f\u093e"
     ],
+    "name:nep_x_variant":[
+        "\u0928\u093f\u0915\u094b\u0938\u093f\u092f\u093e"
+    ],
     "name:nld_x_preferred":[
         "Nicosia"
     ],
     "name:nno_x_preferred":[
+        "Nikosia"
+    ],
+    "name:nob_x_preferred":[
         "Nikosia"
     ],
     "name:nor_x_preferred":[
@@ -275,6 +371,15 @@
     ],
     "name:nov_x_preferred":[
         "Nikosia"
+    ],
+    "name:nrm_x_preferred":[
+        "Nicosie"
+    ],
+    "name:oci_x_preferred":[
+        "Nicosia"
+    ],
+    "name:olo_x_preferred":[
+        "Nikosii"
     ],
     "name:ori_x_preferred":[
         "\u0b28\u0b3f\u0b15\u0b4b\u0b38\u0b3f\u0b06"
@@ -284,6 +389,12 @@
     ],
     "name:pan_x_preferred":[
         "\u0a28\u0a3f\u0a15\u0a4b\u0a38\u0a40\u0a06"
+    ],
+    "name:pap_x_preferred":[
+        "Nicosia"
+    ],
+    "name:pih_x_preferred":[
+        "Nikosia"
     ],
     "name:pms_x_preferred":[
         "Nicos\u00eca"
@@ -300,8 +411,14 @@
     "name:por_x_preferred":[
         "Nic\u00f3sia"
     ],
+    "name:pus_x_preferred":[
+        "\u0646\u064a\u06a9\u0648\u0632\u064a\u0627"
+    ],
     "name:ron_x_preferred":[
         "Nicosia"
+    ],
+    "name:rup_x_preferred":[
+        "Lefcosia"
     ],
     "name:rus_x_preferred":[
         "\u041d\u0438\u043a\u043e\u0441\u0438\u044f"
@@ -309,11 +426,20 @@
     "name:sah_x_preferred":[
         "\u041d\u0438\u043a\u043e\u0441\u0438\u044f"
     ],
+    "name:sat_x_preferred":[
+        "\u1c71\u1c64\u1c60\u1c5a\u1c65\u1c64\u1c6d\u1c5f"
+    ],
     "name:scn_x_preferred":[
         "Nicus\u00eca"
     ],
+    "name:sco_x_preferred":[
+        "Nicosia"
+    ],
     "name:sgs_x_preferred":[
         "N\u0117kos\u0117j\u0117"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db1\u0dd2\u0d9a\u0ddc\u0dc3\u0dd2\u0dba\u0dcf"
     ],
     "name:slk_x_preferred":[
         "Nik\u00f3zia"
@@ -324,11 +450,20 @@
     "name:sme_x_preferred":[
         "Nikosia"
     ],
+    "name:sna_x_preferred":[
+        "Nicosia"
+    ],
     "name:spa_x_preferred":[
         "Nicosia"
     ],
     "name:sqi_x_preferred":[
         "Nikosia"
+    ],
+    "name:sqi_x_variant":[
+        "Nicosia"
+    ],
+    "name:srd_x_preferred":[
+        "Nicosia"
     ],
     "name:srp_x_preferred":[
         "\u041d\u0438\u043a\u043e\u0437\u0438\u0458\u0430"
@@ -336,11 +471,17 @@
     "name:stq_x_preferred":[
         "Nikosia"
     ],
+    "name:stq_x_variant":[
+        "Nicosia"
+    ],
     "name:swa_x_preferred":[
         "Nikosia"
     ],
     "name:swe_x_preferred":[
         "Nicosia"
+    ],
+    "name:szl_x_preferred":[
+        "\u0143ikozyjo"
     ],
     "name:tam_x_preferred":[
         "\u0ba8\u0bbf\u0b95\u0bcd\u0b95\u0bcb\u0b9a\u0bbf\u0baf\u0bbe"
@@ -348,8 +489,14 @@
     "name:tat_x_preferred":[
         "\u041d\u0438\u043a\u043e\u0441\u0438\u044f"
     ],
+    "name:tel_x_preferred":[
+        "\u0c28\u0c3f\u0c15\u0c4b\u0c38\u0c3f\u0c2f\u0c3e"
+    ],
     "name:tgk_x_preferred":[
         "\u041d\u0438\u043a\u043e\u0441\u0438\u044f"
+    ],
+    "name:tgl_x_preferred":[
+        "Nicosia"
     ],
     "name:tha_x_preferred":[
         "\u0e19\u0e34\u0e42\u0e04\u0e40\u0e0b\u0e35\u0e22"
@@ -385,11 +532,29 @@
     "name:vep_x_preferred":[
         "Nikosii"
     ],
+    "name:vie_x_preferred":[
+        "Nicosia"
+    ],
+    "name:vls_x_preferred":[
+        "Nicosia"
+    ],
     "name:vol_x_preferred":[
         "Lefkosia"
     ],
+    "name:war_x_preferred":[
+        "Nicosia"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5c3c\u79d1\u897f\u4e9a"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10dc\u10d8\u10e5\u10dd\u10d6\u10d8\u10d0"
+    ],
     "name:yid_x_preferred":[
         "\u05e0\u05d9\u05e7\u05d0\u05e1\u05d9\u05e2"
+    ],
+    "name:yor_x_preferred":[
+        "Nicosia"
     ],
     "name:yue_x_preferred":[
         "\u5c3c\u79d1\u897f\u4e9e"
@@ -557,7 +722,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769731,
+    "wof:lastmodified":1563574555,
     "wof:megacity":0,
     "wof:name":"\u039b\u03b5\u03c5\u03ba\u03c9\u03c3\u03af\u03b1",
     "wof:parent_id":-4,

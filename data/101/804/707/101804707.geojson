@@ -51,6 +51,9 @@
     "name:rus_x_preferred":[
         "\u0424\u0438\u043d\u0438"
     ],
+    "name:rus_x_variant":[
+        "\u0424\u043e\u0438\u043d\u0438"
+    ],
     "name:swe_x_preferred":[
         "Foin\u00ed"
     ],
@@ -109,7 +112,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769721,
+    "wof:lastmodified":1563574450,
     "wof:name":"\u03a6\u03bf\u03b9\u03bd\u03af",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

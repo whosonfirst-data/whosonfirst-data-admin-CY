@@ -26,7 +26,8 @@
         "\u00c1gios Efst\u00e1thios"
     ],
     "name:ell_x_variant":[
-        "\u0386\u03b3\u03b9\u03bf\u03c2 \u0395\u03c5\u03c3\u03c4\u03ac\u03b8\u03b9\u03bf\u03c2"
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u0395\u03c5\u03c3\u03c4\u03ac\u03b8\u03b9\u03bf\u03c2",
+        "\u0396\u03b5\u03ca\u03bc\u03c0\u03ad\u03ba\u03ba\u03bf\u03ca"
     ],
     "name:eng_x_preferred":[
         "Ayevstatios"
@@ -49,6 +50,12 @@
     "name:pol_x_preferred":[
         "Ajos Efstatios"
     ],
+    "name:rus_x_preferred":[
+        "\u0410\u0439\u043e\u0441-\u042d\u0444\u0441\u0442\u0430\u0442\u0438\u043e\u0441"
+    ],
+    "name:tur_x_preferred":[
+        "Zeybekk\u00f6y"
+    ],
     "name:und_x_colloquial":[
         "Zeybekkoey",
         "Zeybekkoy"
@@ -61,6 +68,9 @@
     ],
     "name:unk_x_variant":[
         "Zeybekk\u00f6y"
+    ],
+    "name:urd_x_preferred":[
+        "\u0622\u0626\u06cc\u0648\u0633 \u0627\u06cc\u0641\u062a\u0627\u062a\u06be\u06cc\u0648\u0633"
     ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
     "qs:a1":"*\u0391\u03bc\u03bc\u03cc\u03c7\u03c9\u03c3\u03c4\u03bf\u03c2",
@@ -130,7 +140,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769724,
+    "wof:lastmodified":1563574483,
     "wof:name":"\u0386\u03b3\u03b9\u03bf\u03c2 \u0395\u03c5\u03c3\u03c4\u03ac\u03b8\u03b9\u03bf\u03c2",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

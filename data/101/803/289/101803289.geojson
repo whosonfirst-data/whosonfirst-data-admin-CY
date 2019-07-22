@@ -19,6 +19,9 @@
     "name:bul_x_preferred":[
         "\u041e\u0432\u0433\u043e\u0440\u043e\u0441"
     ],
+    "name:ceb_x_preferred":[
+        "\u00d3vgoros"
+    ],
     "name:deu_x_preferred":[
         "Ergazi/Ovgoros"
     ],
@@ -26,7 +29,8 @@
         "\u00d3vgoros"
     ],
     "name:ell_x_variant":[
-        "\u038c\u03b2\u03b3\u03bf\u03c1\u03bf\u03c2"
+        "\u038c\u03b2\u03b3\u03bf\u03c1\u03bf\u03c2",
+        "\u0395\u03c1\u03b3\u03ba\u03ac\u03b6\u03b9"
     ],
     "name:eng_x_preferred":[
         "Ovgoros"
@@ -43,8 +47,14 @@
     "name:swe_x_preferred":[
         "\u00d3vgoros"
     ],
+    "name:tur_x_preferred":[
+        "Ergazi"
+    ],
     "name:unk_x_variant":[
         "Ergazi"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0648\u0648\u06af\u0648\u0631\u0648\u0633"
     ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
     "qs:a1":"*\u0391\u03bc\u03bc\u03cc\u03c7\u03c9\u03c3\u03c4\u03bf\u03c2",
@@ -110,7 +120,7 @@
         }
     ],
     "wof:id":101803289,
-    "wof:lastmodified":1561769725,
+    "wof:lastmodified":1563574491,
     "wof:name":"\u038c\u03b2\u03b3\u03bf\u03c1\u03bf\u03c2",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

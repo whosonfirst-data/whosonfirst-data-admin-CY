@@ -20,7 +20,8 @@
         "Xer\u00f3vounos"
     ],
     "name:ell_x_variant":[
-        "\u039e\u03b5\u03c1\u03cc\u03b2\u03bf\u03c5\u03bd\u03bf\u03c2"
+        "\u039e\u03b5\u03c1\u03cc\u03b2\u03bf\u03c5\u03bd\u03bf\u03c2",
+        "\u0393\u03b9\u03bf\u03c5\u03ba\u03b1\u03c1\u03af \u0393\u03b5\u03c3\u03af\u03bb\u03b9\u03c1\u03bc\u03b1\u03ba"
     ],
     "name:eng_x_preferred":[
         "Kserovuno"
@@ -44,11 +45,17 @@
     "name:spa_x_preferred":[
         "Xerovounos"
     ],
+    "name:tur_x_preferred":[
+        "Kurutepe"
+    ],
     "name:und_x_preferred":[
         "Xerovounos"
     ],
     "name:unk_x_variant":[
         "Kserovuno"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06cc\u0631\u0648\u0648\u0646\u0648\u0633"
     ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
     "qs:a1":"*\u039b\u03b5\u03c5\u03ba\u03c9\u03c3\u03af\u03b1",
@@ -109,7 +116,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769715,
+    "wof:lastmodified":1563574405,
     "wof:name":"\u039e\u03b5\u03c1\u03cc\u03b2\u03bf\u03c5\u03bd\u03bf\u03c2",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

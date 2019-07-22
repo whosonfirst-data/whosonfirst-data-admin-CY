@@ -23,7 +23,8 @@
         "Melo\u00fanta"
     ],
     "name:ell_x_variant":[
-        "\u039c\u03b5\u03bb\u03bf\u03cd\u03bd\u03c4\u03b1"
+        "\u039c\u03b5\u03bb\u03bf\u03cd\u03bd\u03c4\u03b1",
+        "\u039c\u03b1\u03bb\u03bb\u03b9\u03bd\u03c4\u03ac\u03b3\u03ba"
     ],
     "name:eng_x_preferred":[
         "Melounta"
@@ -39,6 +40,9 @@
     ],
     "name:pol_x_preferred":[
         "Melunda"
+    ],
+    "name:tur_x_preferred":[
+        "Mall\u0131da\u011f"
     ],
     "name:unk_x_variant":[
         "Malounda"
@@ -109,7 +113,7 @@
         }
     ],
     "wof:id":101803267,
-    "wof:lastmodified":1561769725,
+    "wof:lastmodified":1563574498,
     "wof:name":"\u039c\u03b5\u03bb\u03bf\u03cd\u03bd\u03c4\u03b1",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

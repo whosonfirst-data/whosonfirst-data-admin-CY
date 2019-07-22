@@ -24,7 +24,8 @@
     ],
     "name:ell_x_variant":[
         "\u039b\u03cd\u03c3\u03b7",
-        "\u039b\u03cd\u03c3\u03b7 \u0391\u03bc\u03bc\u03bf\u03c7\u03ce\u03c3\u03c4\u03bf\u03c5"
+        "\u039b\u03cd\u03c3\u03b7 \u0391\u03bc\u03bc\u03bf\u03c7\u03ce\u03c3\u03c4\u03bf\u03c5",
+        "\u0391\u03ba\u03bd\u03c4\u03bf\u03b3\u03ba\u03ac\u03bd"
     ],
     "name:eng_x_preferred":[
         "Lysi"
@@ -34,6 +35,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0644\u06cc\u0633\u06cc"
+    ],
+    "name:fin_x_preferred":[
+        "L\u00fdsi"
     ],
     "name:fra_x_preferred":[
         "Lysi"
@@ -76,6 +80,9 @@
     ],
     "name:unk_x_variant":[
         "Akdo\u011fan"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u06cc\u0633\u06cc"
     ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
     "qs:a1":"*\u0391\u03bc\u03bc\u03cc\u03c7\u03c9\u03c3\u03c4\u03bf\u03c2",
@@ -145,7 +152,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769724,
+    "wof:lastmodified":1563574487,
     "wof:name":"\u039b\u03cd\u03c3\u03b7",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

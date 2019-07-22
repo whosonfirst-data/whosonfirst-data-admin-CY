@@ -29,6 +29,9 @@
     "name:eng_x_preferred":[
         "Paramali"
     ],
+    "name:fra_x_preferred":[
+        "Param\u00e1li"
+    ],
     "name:nld_x_preferred":[
         "Paramali"
     ],
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":101911237,
-    "wof:lastmodified":1561769738,
+    "wof:lastmodified":1563574627,
     "wof:name":"Paramali",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

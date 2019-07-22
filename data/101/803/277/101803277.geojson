@@ -19,11 +19,15 @@
     "name:bul_x_preferred":[
         "\u0410\u0440\u0434\u0430\u043d\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "\u00c1rdana"
+    ],
     "name:ell_x_preferred":[
         "\u00c1rdana"
     ],
     "name:ell_x_variant":[
-        "\u0386\u03c1\u03b4\u03b1\u03bd\u03b1"
+        "\u0386\u03c1\u03b4\u03b1\u03bd\u03b1",
+        "\u0391\u03c1\u03bd\u03c4\u03b1\u03c7\u03ac\u03bd"
     ],
     "name:eng_x_preferred":[
         "Ardana"
@@ -57,6 +61,9 @@
     ],
     "name:unk_x_variant":[
         "Ardahan"
+    ],
+    "name:urd_x_preferred":[
+        "\u0622\u0631\u062f\u0627\u0646\u0627"
     ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
     "qs:a1":"*\u0391\u03bc\u03bc\u03cc\u03c7\u03c9\u03c3\u03c4\u03bf\u03c2",
@@ -126,7 +133,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769727,
+    "wof:lastmodified":1563574521,
     "wof:name":"\u0386\u03c1\u03b4\u03b1\u03bd\u03b1",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

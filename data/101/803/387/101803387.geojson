@@ -26,8 +26,14 @@
     "name:eng_x_preferred":[
         "Sia"
     ],
+    "name:fra_x_preferred":[
+        "Sia"
+    ],
     "name:hye_x_preferred":[
         "\u054d\u056b\u0561"
+    ],
+    "name:ita_x_preferred":[
+        "Sia"
     ],
     "name:nld_x_preferred":[
         "Sia"
@@ -35,11 +41,17 @@
     "name:pol_x_preferred":[
         "Sia"
     ],
+    "name:srd_x_preferred":[
+        "Sia"
+    ],
     "name:swe_x_preferred":[
         "Si\u00e1"
     ],
     "name:unk_x_variant":[
         "\u015ea"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06cc\u0627"
     ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
     "qs:a1":"*\u039b\u03b5\u03c5\u03ba\u03c9\u03c3\u03af\u03b1",
@@ -83,7 +95,7 @@
         }
     ],
     "wof:id":101803387,
-    "wof:lastmodified":1561769730,
+    "wof:lastmodified":1563574542,
     "wof:name":"\u03a3\u03b9\u03b1",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

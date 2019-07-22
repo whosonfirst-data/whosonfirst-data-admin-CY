@@ -26,7 +26,8 @@
         "Gal\u00e1teia"
     ],
     "name:ell_x_variant":[
-        "\u0393\u03b1\u03bb\u03ac\u03c4\u03b5\u03b9\u03b1"
+        "\u0393\u03b1\u03bb\u03ac\u03c4\u03b5\u03b9\u03b1",
+        "\u039c\u03b5\u03c7\u03bc\u03b5\u03c4\u03c3\u03af\u03ba"
     ],
     "name:eng_x_preferred":[
         "Galateia"
@@ -138,7 +139,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769723,
+    "wof:lastmodified":1563574478,
     "wof:name":"\u0393\u03b1\u03bb\u03ac\u03c4\u03b5\u03b9\u03b1",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

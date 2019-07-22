@@ -20,6 +20,9 @@
     "name:bul_x_preferred":[
         "\u041c\u0435\u043d\u043e\u044f"
     ],
+    "name:deu_x_preferred":[
+        "Menogeia"
+    ],
     "name:ell_x_preferred":[
         "\u039c\u03b5\u03bd\u03cc\u03b3\u03b9\u03b1"
     ],
@@ -34,6 +37,9 @@
         "Mennoya",
         "Menogeia",
         "Menoya"
+    ],
+    "name:hun_x_preferred":[
+        "Menogeia"
     ],
     "name:hye_x_preferred":[
         "\u0544\u0565\u0576\u0578\u0563\u056b\u0561"
@@ -53,6 +59,9 @@
     ],
     "name:unk_x_variant":[
         "Mennogeia"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u06cc\u0646\u0648\u06af\u06cc\u0627"
     ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
     "qs:a1":"*\u039b\u03ac\u03c1\u03bd\u03b1\u03ba\u03b1",
@@ -106,7 +115,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769734,
+    "wof:lastmodified":1563574586,
     "wof:name":"\u039c\u03b5\u03bd\u03cc\u03b3\u03b5\u03b9\u03b1",
     "wof:parent_id":85682407,
     "wof:placetype":"locality",

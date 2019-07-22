@@ -44,6 +44,9 @@
     "name:unk_x_variant":[
         "Tembriye"
     ],
+    "name:urd_x_preferred":[
+        "\u062a\u06cc\u0645\u0648\u0631\u06cc\u0627"
+    ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
     "qs:a1":"*\u039b\u03b5\u03c5\u03ba\u03c9\u03c3\u03af\u03b1",
     "qs:a1_alt":"Lefkosia",
@@ -88,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769726,
+    "wof:lastmodified":1563574501,
     "wof:name":"\u03a4\u03b5\u03bc\u03b2\u03c1\u03b9\u03ac",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

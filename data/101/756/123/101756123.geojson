@@ -27,7 +27,8 @@
     ],
     "name:ell_x_variant":[
         "\u039c\u03c0\u03ad\u03bb\u03b1\u03c0\u03b1\u03ca\u03c2",
-        "\u039c\u03c0\u03ad\u03bb\u03bb\u03b1-\u03a0\u03ac\u03b9\u03c2"
+        "\u039c\u03c0\u03ad\u03bb\u03bb\u03b1-\u03a0\u03ac\u03b9\u03c2",
+        "\u039c\u03c0\u03b5\u03ca\u03bb\u03ad\u03c1\u03bc\u03c0\u03b5\u03ca"
     ],
     "name:eng_x_preferred":[
         "Bellabayis"
@@ -41,6 +42,9 @@
         "\u0628\u0644\u0627\u067e\u0627\u06cc\u0633"
     ],
     "name:fin_x_preferred":[
+        "Bellapais"
+    ],
+    "name:fra_x_preferred":[
         "Bellapais"
     ],
     "name:hye_x_preferred":[
@@ -144,7 +148,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769733,
+    "wof:lastmodified":1563574570,
     "wof:name":"\u039c\u03c0\u03ad\u03bb\u03b1\u03c0\u03b1\u03ca\u03c2",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

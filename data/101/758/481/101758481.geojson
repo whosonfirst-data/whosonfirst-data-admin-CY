@@ -19,6 +19,9 @@
     "name:bul_x_preferred":[
         "\u0410\u0433\u0438\u0440\u0442\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Ag\u00edrda"
+    ],
     "name:ell_x_preferred":[
         "Ag\u00edrda"
     ],
@@ -51,6 +54,9 @@
     ],
     "name:swe_x_preferred":[
         "Ag\u00edrda"
+    ],
+    "name:tur_x_preferred":[
+        "A\u011f\u0131rda\u011f"
     ],
     "name:und_x_colloquial":[
         "Akirda",
@@ -136,7 +142,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769731,
+    "wof:lastmodified":1563574557,
     "wof:name":"\u0391\u03b3\u03af\u03c1\u03b4\u03b1",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

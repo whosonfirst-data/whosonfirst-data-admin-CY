@@ -23,7 +23,8 @@
         "Vas\u00edleia"
     ],
     "name:ell_x_variant":[
-        "\u0392\u03b1\u03c3\u03af\u03bb\u03b5\u03b9\u03b1"
+        "\u0392\u03b1\u03c3\u03af\u03bb\u03b5\u03b9\u03b1",
+        "\u039a\u03b1\u03c1\u03c4\u03c3\u03b9\u03b3\u03b9\u03ac\u03ba\u03b1"
     ],
     "name:eng_x_preferred":[
         "Vasilya"
@@ -46,6 +47,9 @@
     ],
     "name:pol_x_preferred":[
         "Wasilia"
+    ],
+    "name:tur_x_preferred":[
+        "Kar\u015f\u0131yaka"
     ],
     "name:und_x_preferred":[
         "Vasili"
@@ -123,7 +127,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769730,
+    "wof:lastmodified":1563574546,
     "wof:name":"\u0392\u03b1\u03c3\u03af\u03bb\u03b5\u03b9\u03b1",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

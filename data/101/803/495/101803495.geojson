@@ -20,7 +20,8 @@
         "Pala\u00edkythro"
     ],
     "name:ell_x_variant":[
-        "\u03a0\u03b1\u03bb\u03b1\u03af\u03ba\u03c5\u03b8\u03c1\u03bf"
+        "\u03a0\u03b1\u03bb\u03b1\u03af\u03ba\u03c5\u03b8\u03c1\u03bf",
+        "\u039c\u03c0\u03b1\u03bb\u03af\u03ba\u03b5\u03c3\u03b9\u03c1"
     ],
     "name:eng_x_preferred":[
         "Palaekythro"
@@ -37,11 +38,17 @@
     "name:pol_x_preferred":[
         "Palekitro"
     ],
+    "name:tur_x_preferred":[
+        "Bal\u0131kesir"
+    ],
     "name:und_x_preferred":[
         "Palekythro"
     ],
     "name:unk_x_variant":[
         "Balikitre"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u0627\u0644\u0626\u06cc\u06a9\u06cc\u062a\u06be\u0631\u0648"
     ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
     "qs:a1":"*\u039b\u03b5\u03c5\u03ba\u03c9\u03c3\u03af\u03b1",
@@ -102,7 +109,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769729,
+    "wof:lastmodified":1563574534,
     "wof:name":"\u03a0\u03b1\u03bb\u03b1\u03af\u03ba\u03c5\u03b8\u03c1\u03bf",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

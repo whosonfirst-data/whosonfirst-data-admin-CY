@@ -44,8 +44,14 @@
     "name:pol_x_preferred":[
         "Steni"
     ],
+    "name:rus_x_preferred":[
+        "\u0421\u0442\u0435\u043d\u0438"
+    ],
     "name:swe_x_preferred":[
         "Sten\u00ed"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u062a\u06cc\u0646\u06cc"
     ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
     "qs:a1":"*\u03a0\u03ac\u03c6\u03bf\u03c2",
@@ -96,7 +102,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769733,
+    "wof:lastmodified":1563574575,
     "wof:name":"\u03a3\u03c4\u03b5\u03bd\u03ae",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

@@ -41,11 +41,17 @@
     "name:pol_x_preferred":[
         "Polemi"
     ],
+    "name:rus_x_preferred":[
+        "\u041f\u043e\u043b\u0435\u043c\u0438"
+    ],
     "name:swe_x_preferred":[
         "Pol\u00e9mi"
     ],
     "name:unk_x_variant":[
         "Polem"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u0648\u0644\u06cc\u0645\u06cc"
     ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
     "qs:a1":"*\u03a0\u03ac\u03c6\u03bf\u03c2",
@@ -96,7 +102,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769722,
+    "wof:lastmodified":1563574461,
     "wof:name":"\u03a0\u03bf\u03bb\u03ad\u03bc\u03b9",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

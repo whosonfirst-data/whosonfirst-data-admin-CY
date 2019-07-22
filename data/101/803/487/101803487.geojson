@@ -16,12 +16,16 @@
     "mps:longitude":33.511503,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "T\u00fdmvou"
+    ],
     "name:ell_x_preferred":[
         "T\u00fdmvou"
     ],
     "name:ell_x_variant":[
         "\u03a4\u03cd\u03bc\u03b2\u03bf\u03c5",
-        "\u03a4\u03cd\u03bc\u03c0\u03bf\u03c5"
+        "\u03a4\u03cd\u03bc\u03c0\u03bf\u03c5",
+        "\u039a\u03b9\u03c1\u03ba\u03bb\u03ac\u03c1"
     ],
     "name:eng_x_preferred":[
         "Tymvou"
@@ -33,6 +37,9 @@
     ],
     "name:fas_x_preferred":[
         "\u062a\u06cc\u0645\u0648\u0648"
+    ],
+    "name:ita_x_preferred":[
+        "Tymbou"
     ],
     "name:jpn_x_preferred":[
         "\u30ad\u30eb\u30af\u30e9\u30eb"
@@ -51,6 +58,9 @@
     ],
     "name:swe_x_preferred":[
         "T\u00fdmvou"
+    ],
+    "name:tur_x_preferred":[
+        "K\u0131rklar"
     ],
     "name:und_x_preferred":[
         "Tymbou"
@@ -121,7 +131,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769728,
+    "wof:lastmodified":1563574527,
     "wof:name":"\u03a4\u03cd\u03bc\u03b2\u03bf\u03c5",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

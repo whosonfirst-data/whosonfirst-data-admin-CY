@@ -19,11 +19,15 @@
     "name:bul_x_preferred":[
         "\u041a\u0440\u0438\u043d\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Krin\u00ed"
+    ],
     "name:ell_x_preferred":[
         "Krin\u00ed"
     ],
     "name:ell_x_variant":[
-        "\u039a\u03c1\u03b7\u03bd\u03af"
+        "\u039a\u03c1\u03b7\u03bd\u03af",
+        "\u03a0\u03b9\u03bd\u03b1\u03c1\u03bc\u03c0\u03ac\u03c4\u03c3\u03b9"
     ],
     "name:eng_x_preferred":[
         "Kiran"
@@ -41,6 +45,9 @@
     "name:swe_x_preferred":[
         "Krin\u00ed"
     ],
+    "name:tur_x_preferred":[
+        "P\u0131narbas\u0131"
+    ],
     "name:und_x_colloquial":[
         "Pinarbasi"
     ],
@@ -52,6 +59,9 @@
     ],
     "name:unk_x_variant":[
         "Kiran"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0631\u06cc\u0646\u06cc"
     ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
     "qs:a1":"*\u039a\u03b5\u03c1\u03cd\u03bd\u03b5\u03b9\u03b1",
@@ -123,7 +133,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769719,
+    "wof:lastmodified":1563574431,
     "wof:name":"\u039a\u03c1\u03b7\u03bd\u03af",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

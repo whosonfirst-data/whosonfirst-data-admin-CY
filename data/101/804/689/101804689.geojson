@@ -35,6 +35,9 @@
     "name:eng_x_variant":[
         "Yigitler"
     ],
+    "name:fra_x_preferred":[
+        "\u00c1rsos"
+    ],
     "name:nld_x_preferred":[
         "Arsos"
     ],
@@ -100,7 +103,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769721,
+    "wof:lastmodified":1563574452,
     "wof:name":"\u0386\u03c1\u03c3\u03bf\u03c2",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

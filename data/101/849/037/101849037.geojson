@@ -32,6 +32,9 @@
     "name:eng_x_preferred":[
         "Asgata"
     ],
+    "name:fra_x_preferred":[
+        "Asg\u00e1ta"
+    ],
     "name:hye_x_preferred":[
         "\u0531\u057d\u0563\u0561\u057f\u0561"
     ],
@@ -99,7 +102,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769735,
+    "wof:lastmodified":1563574593,
     "wof:name":"\u0391\u03c3\u03b3\u03ac\u03c4\u03b1",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

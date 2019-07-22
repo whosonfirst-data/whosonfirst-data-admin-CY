@@ -36,6 +36,9 @@
     "name:fas_x_preferred":[
         "\u067e\u0648\u0645\u0648\u0633"
     ],
+    "name:hun_x_preferred":[
+        "P\u00f3mosz"
+    ],
     "name:hye_x_preferred":[
         "\u054a\u0578\u0574\u0578\u057d"
     ],
@@ -109,7 +112,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769724,
+    "wof:lastmodified":1563574486,
     "wof:name":"\u03a0\u03bf\u03bc\u03cc\u03c2",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

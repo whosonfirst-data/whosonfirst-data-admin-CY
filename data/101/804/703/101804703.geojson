@@ -33,6 +33,9 @@
     "name:eng_x_preferred":[
         "Lemithou"
     ],
+    "name:fra_x_preferred":[
+        "Lem\u00fdthou"
+    ],
     "name:nld_x_preferred":[
         "Lemithou"
     ],
@@ -96,7 +99,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769722,
+    "wof:lastmodified":1563574464,
     "wof:name":"\u039b\u03b5\u03bc\u03af\u03b8\u03bf\u03c5",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

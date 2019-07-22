@@ -38,6 +38,9 @@
     "name:fas_x_preferred":[
         "\u0644\u06cc\u0648\u067e\u062a\u0631\u06cc"
     ],
+    "name:fin_x_preferred":[
+        "Liop\u00e9tri"
+    ],
     "name:fra_x_preferred":[
         "Liop\u00e9tri"
     ],
@@ -64,6 +67,9 @@
     ],
     "name:unk_x_variant":[
         "Leopetra"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u06cc\u0648\u067e\u06cc\u062a\u0631\u06cc"
     ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
     "qs:a1":"*\u0391\u03bc\u03bc\u03cc\u03c7\u03c9\u03c3\u03c4\u03bf\u03c2",
@@ -125,7 +131,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769726,
+    "wof:lastmodified":1563574509,
     "wof:name":"\u039b\u03b9\u03bf\u03c0\u03ad\u03c4\u03c1\u03b9",
     "wof:parent_id":85682389,
     "wof:placetype":"locality",

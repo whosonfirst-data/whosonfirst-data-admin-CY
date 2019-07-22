@@ -23,10 +23,14 @@
         "Limni\u00e1"
     ],
     "name:ell_x_variant":[
-        "\u039b\u03b9\u03bc\u03bd\u03b9\u03ac"
+        "\u039b\u03b9\u03bc\u03bd\u03b9\u03ac",
+        "\u039c\u03bf\u03c1\u03bc\u03b5\u03bd\u03b5\u03ba\u03c3\u03ad"
     ],
     "name:eng_x_preferred":[
         "Limnya"
+    ],
+    "name:eng_x_variant":[
+        "Limnia"
     ],
     "name:hye_x_preferred":[
         "\u053c\u056b\u0574\u0576\u056b\u0561"
@@ -36,6 +40,9 @@
     ],
     "name:pol_x_preferred":[
         "Limnia"
+    ],
+    "name:tur_x_preferred":[
+        "Mormenek\u015fe"
     ],
     "name:und_x_colloquial":[
         "Mormenekse"
@@ -48,6 +55,9 @@
     ],
     "name:unk_x_variant":[
         "Limnya"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u06cc\u0645\u0646\u06cc\u0627"
     ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
     "qs:a1":"*\u0391\u03bc\u03bc\u03cc\u03c7\u03c9\u03c3\u03c4\u03bf\u03c2",
@@ -120,7 +130,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769737,
+    "wof:lastmodified":1563574605,
     "wof:name":"\u039b\u03b9\u03bc\u03bd\u03b9\u03ac",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

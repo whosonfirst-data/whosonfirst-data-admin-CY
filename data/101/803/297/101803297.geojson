@@ -26,7 +26,8 @@
         "Vokol\u00edda"
     ],
     "name:ell_x_variant":[
-        "\u0392\u03bf\u03ba\u03bf\u03bb\u03af\u03b4\u03b1"
+        "\u0392\u03bf\u03ba\u03bf\u03bb\u03af\u03b4\u03b1",
+        "\u039c\u03c0\u03ac\u03c6\u03c1\u03b1"
     ],
     "name:eng_x_preferred":[
         "Bafra"
@@ -46,6 +47,9 @@
     ],
     "name:unk_x_variant":[
         "Bafra"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u0648\u06a9\u0648\u0644\u06cc\u062f\u0627"
     ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
     "qs:a1":"*\u0391\u03bc\u03bc\u03cc\u03c7\u03c9\u03c3\u03c4\u03bf\u03c2",
@@ -115,7 +119,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769729,
+    "wof:lastmodified":1563574536,
     "wof:name":"\u0392\u03bf\u03ba\u03bf\u03bb\u03af\u03b4\u03b1",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

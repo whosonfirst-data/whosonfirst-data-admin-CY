@@ -45,6 +45,9 @@
     "name:unk_x_variant":[
         "Khrisohu"
     ],
+    "name:urd_x_preferred":[
+        "\u062e\u0631\u0627\u0626\u0633\u0648\u062e\u0648"
+    ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
     "qs:a1":"*\u03a0\u03ac\u03c6\u03bf\u03c2",
     "qs:a1_alt":"Pafos",
@@ -93,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769717,
+    "wof:lastmodified":1563574418,
     "wof:name":"\u03a7\u03c1\u03c5\u03c3\u03bf\u03c7\u03bf\u03cd",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

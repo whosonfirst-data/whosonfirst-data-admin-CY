@@ -35,8 +35,14 @@
     "name:eng_x_preferred":[
         "Erimi"
     ],
+    "name:fin_x_preferred":[
+        "Er\u00edmi"
+    ],
     "name:fra_x_preferred":[
         "Erimi"
+    ],
+    "name:fra_x_variant":[
+        "Er\u00edmi"
     ],
     "name:hun_x_preferred":[
         "Erimi"
@@ -107,7 +113,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769738,
+    "wof:lastmodified":1563574622,
     "wof:name":"\u0395\u03c1\u03ae\u03bc\u03b7",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

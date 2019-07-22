@@ -50,6 +50,9 @@
     "name:unk_x_variant":[
         "Gudi"
     ],
+    "name:urd_x_preferred":[
+        "\u06af\u0648\u062f\u06cc"
+    ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
     "qs:a1":"*\u03a0\u03ac\u03c6\u03bf\u03c2",
     "qs:a1_alt":"Pafos",
@@ -100,7 +103,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769715,
+    "wof:lastmodified":1563574402,
     "wof:name":"\u0393\u03bf\u03c5\u03b4\u03af",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

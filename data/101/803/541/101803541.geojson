@@ -23,6 +23,9 @@
     "name:ceb_x_preferred":[
         "P\u00fdla"
     ],
+    "name:deu_x_preferred":[
+        "Pyla"
+    ],
     "name:ell_x_preferred":[
         "\u03a0\u03cd\u03bb\u03b1"
     ],
@@ -40,6 +43,9 @@
         "\u067e\u0627\u06cc\u0644\u0627"
     ],
     "name:fra_x_preferred":[
+        "Pyla"
+    ],
+    "name:hun_x_preferred":[
         "Pyla"
     ],
     "name:hye_x_preferred":[
@@ -68,6 +74,9 @@
     ],
     "name:swe_x_preferred":[
         "Pyla"
+    ],
+    "name:tur_x_preferred":[
+        "Pile"
     ],
     "name:unk_x_variant":[
         "Pila"
@@ -124,7 +133,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769730,
+    "wof:lastmodified":1563574543,
     "wof:name":"\u03a0\u03cd\u03bb\u03b1",
     "wof:parent_id":85682407,
     "wof:placetype":"locality",

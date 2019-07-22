@@ -23,7 +23,8 @@
         "Mili\u00e1"
     ],
     "name:ell_x_variant":[
-        "\u039c\u03b7\u03bb\u03b9\u03ac"
+        "\u039c\u03b7\u03bb\u03b9\u03ac",
+        "\u039c\u03b7\u03bb\u03b9\u03ac \u0391\u03bc\u03bc\u03bf\u03c7\u03ce\u03c3\u03c4\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
         "Milya"
@@ -31,10 +32,14 @@
     "name:eng_x_variant":[
         "Milia",
         "Mylea",
-        "Yildirim"
+        "Yildirim",
+        "Milia Ammochostou"
     ],
     "name:fas_x_preferred":[
         "\u0645\u0627\u06cc\u0644\u06cc\u0627"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u056b\u056c\u056b\u0561"
     ],
     "name:nld_x_preferred":[
         "Milia"
@@ -45,6 +50,9 @@
     "name:spa_x_preferred":[
         "Milia"
     ],
+    "name:tur_x_preferred":[
+        "Y\u0131ld\u0131r\u0131m"
+    ],
     "name:und_x_preferred":[
         "Milea"
     ],
@@ -53,6 +61,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0645\u06cc\u0644\u06cc\u0627\u060c \u0641\u0627\u0645\u0627\u06af\u0648\u0633\u062a\u0627"
+    ],
+    "name:urd_x_variant":[
+        "\u0645\u06cc\u0644\u06cc\u0627"
     ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
     "qs:a1":"*\u0391\u03bc\u03bc\u03cc\u03c7\u03c9\u03c3\u03c4\u03bf\u03c2",
@@ -122,7 +133,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769728,
+    "wof:lastmodified":1563574529,
     "wof:name":"\u039c\u03b7\u03bb\u03b9\u03ac",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

@@ -22,6 +22,9 @@
     "name:bul_x_preferred":[
         "\u041a\u043e\u043b\u043e\u043d\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Koloni"
+    ],
     "name:ell_x_preferred":[
         "\u039a\u03bf\u03bb\u03ce\u03bd\u03b7"
     ],
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1125862723,
-    "wof:lastmodified":1561769739,
+    "wof:lastmodified":1563574632,
     "wof:name":"Koloni",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

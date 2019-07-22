@@ -19,6 +19,9 @@
     "name:bul_x_preferred":[
         "\u041c\u043e\u043d\u0430\u0440\u0433\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Monarg\u00e1"
+    ],
     "name:deu_x_preferred":[
         "Bo\u011faztepe/Monarga"
     ],
@@ -26,7 +29,8 @@
         "Monarg\u00e1"
     ],
     "name:ell_x_variant":[
-        "\u039c\u03bf\u03bd\u03b1\u03c1\u03b3\u03ac"
+        "\u039c\u03bf\u03bd\u03b1\u03c1\u03b3\u03ac",
+        "\u039c\u03c0\u03bf\u03b3\u03ac\u03b6\u03c4\u03b5\u03c0\u03b5"
     ],
     "name:eng_x_preferred":[
         "Monarga"
@@ -61,6 +65,9 @@
     ],
     "name:unk_x_variant":[
         "Bo\u011faztepe"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0648\u0646\u0631\u06af\u0627"
     ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
     "qs:a1":"*\u0391\u03bc\u03bc\u03cc\u03c7\u03c9\u03c3\u03c4\u03bf\u03c2",
@@ -132,7 +139,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561769715,
+    "wof:lastmodified":1563574403,
     "wof:name":"\u039c\u03bf\u03bd\u03b1\u03c1\u03b3\u03ac",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

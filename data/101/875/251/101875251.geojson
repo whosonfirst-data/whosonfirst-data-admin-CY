@@ -35,6 +35,9 @@
     "name:eng_x_preferred":[
         "Kellaki"
     ],
+    "name:fra_x_preferred":[
+        "Kell\u00e1ki"
+    ],
     "name:hye_x_preferred":[
         "\u053f\u0565\u056c\u0561\u056f\u056b"
     ],
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":101875251,
-    "wof:lastmodified":1561769715,
+    "wof:lastmodified":1563574405,
     "wof:name":"\u039a\u03b5\u03bb\u03bb\u03ac\u03ba\u03b9",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000041,
-    "geom:area_square_m":410041.359556,
+    "geom:area_square_m":410041.359557,
     "geom:bbox":"32.6767740141,35.1503746763,32.6921691584,35.156831162",
     "geom:latitude":35.154023,
     "geom:longitude":32.684013,
@@ -21,13 +21,42 @@
         "P\u00e1no P\u00fdrgos"
     ],
     "name:ell_x_variant":[
-        "\u03a0\u03ac\u03bd\u03c9 \u03a0\u03cd\u03c1\u03b3\u03bf\u03c2"
+        "\u03a0\u03ac\u03bd\u03c9 \u03a0\u03cd\u03c1\u03b3\u03bf\u03c2",
+        "\u03a0\u03cd\u03c1\u03b3\u03bf\u03c2 \u03a4\u03b7\u03bb\u03bb\u03c5\u03c1\u03af\u03b1\u03c2"
     ],
     "name:eng_x_preferred":[
         "Pano Pyrgos"
     ],
     "name:eng_x_variant":[
-        "Pyrgos Pano"
+        "Pyrgos Pano",
+        "Pyrgos"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u06cc\u0631\u06af\u0648\u0633"
+    ],
+    "name:fin_x_preferred":[
+        "K\u00e1to P\u00fdrgos"
+    ],
+    "name:nld_x_preferred":[
+        "Pyrgos"
+    ],
+    "name:pol_x_preferred":[
+        "Kato Pirgos"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0438\u0440\u0433\u043e\u0441"
+    ],
+    "name:snd_x_preferred":[
+        "\u067e\u0627\u064a\u0631\u06af\u0648\u0633"
+    ],
+    "name:spa_x_preferred":[
+        "Kato Pyrgos"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0648\u0648\u06af\u0648\u0631\u0648\u0633"
+    ],
+    "name:urd_x_variant":[
+        "\u067e\u0627\u06cc\u0631\u06af\u0648\u0633"
     ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
     "qs:a1":"*\u039b\u03b5\u03c5\u03ba\u03c9\u03c3\u03af\u03b1",
@@ -78,7 +107,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527642762,
+    "wof:lastmodified":1563574491,
     "wof:name":"\u03a0\u03ac\u03bd\u03c9 \u03a0\u03cd\u03c1\u03b3\u03bf\u03c2",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

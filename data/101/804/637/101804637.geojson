@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000035,
+    "geom:area_square_m":360067.87501,
     "geom:bbox":"33.3814529501,34.7937161829,33.3872381262,34.8069159939",
     "geom:latitude":34.799774,
     "geom:longitude":33.384479,
@@ -21,6 +22,9 @@
     "name:ceb_x_preferred":[
         "\u00c1gios The\u00f3doros"
     ],
+    "name:deu_x_preferred":[
+        "Agios Theodoros"
+    ],
     "name:ell_x_preferred":[
         "\u0386\u03b3\u03b9\u03bf\u03c2 \u0398\u03b5\u03cc\u03b4\u03c9\u03c1\u03bf\u03c2 \u03a3\u03ba\u03b1\u03c1\u03af\u03bd\u03bf\u03c5"
     ],
@@ -36,13 +40,26 @@
         "Aytotro",
         "Saint Theodoros",
         "St Theodoros",
-        "St. Theodoros"
+        "St. Theodoros",
+        "Agios Theodoros"
     ],
     "name:fas_x_preferred":[
         "\u0627\u06af\u06cc\u0648\u0627\u0633 \u062a\u0626\u0648\u062f\u0648\u0631\u0648\u0632\u060c \u0644\u0627\u0631\u0646\u0627\u06a9\u0627"
     ],
+    "name:fas_x_variant":[
+        "\u0627\u06af\u06cc\u0648\u0627\u0633 \u062a\u0626\u0648\u062f\u0648\u0631\u0648\u0632"
+    ],
+    "name:fra_x_preferred":[
+        "\u00c1gios The\u00f3doros"
+    ],
+    "name:hun_x_preferred":[
+        "Agios Theodoros"
+    ],
     "name:hye_x_preferred":[
         "\u0531\u0575\u0578\u057d \u0539\u0565\u0578\u0564\u0578\u0580\u0578\u057d"
+    ],
+    "name:nld_x_preferred":[
+        "Agios Theodoros"
     ],
     "name:pol_x_preferred":[
         "Ajos Teodoros"
@@ -63,6 +80,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0627\u06af\u06cc\u0648\u0627\u0633 \u062a\u06be\u06cc\u0648\u0688\u0648\u0631\u0648\u0632\u060c \u0644\u0627\u0631\u0646\u0627\u06a9\u0627"
+    ],
+    "name:urd_x_variant":[
+        "\u0627\u06af\u06cc\u0648\u0627\u0633 \u062a\u06be\u06cc\u0648\u0688\u0648\u0631\u0648\u0632"
     ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
     "qs:a1":"*\u039b\u03ac\u03c1\u03bd\u03b1\u03ba\u03b1",
@@ -111,7 +131,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527642755,
+    "wof:lastmodified":1563574470,
     "wof:name":"\u0386\u03b3\u03b9\u03bf\u03c2 \u0398\u03b5\u03cc\u03b4\u03c9\u03c1\u03bf\u03c2",
     "wof:parent_id":85682407,
     "wof:placetype":"locality",

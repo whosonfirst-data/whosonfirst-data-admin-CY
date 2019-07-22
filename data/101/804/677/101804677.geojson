@@ -28,16 +28,29 @@
     ],
     "name:ell_x_variant":[
         "P\u00e1no Kiv\u00eddes",
-        "\u03a0\u03ac\u03bd\u03c9 \u039a\u03b9\u03b2\u03af\u03b4\u03b5\u03c2"
+        "\u03a0\u03ac\u03bd\u03c9 \u039a\u03b9\u03b2\u03af\u03b4\u03b5\u03c2",
+        "\u03a0\u03ac\u03bd\u03c9 \u039a\u03c5\u03b2\u03af\u03b4\u03b5\u03c2"
     ],
     "name:eng_x_preferred":[
         "Kivides"
     ],
+    "name:eng_x_variant":[
+        "Pano Kivides"
+    ],
+    "name:fra_x_preferred":[
+        "P\u00e1no Kyv\u00eddes"
+    ],
     "name:nld_x_preferred":[
         "Kivides"
     ],
+    "name:nld_x_variant":[
+        "Pano Kivides"
+    ],
     "name:pol_x_preferred":[
         "Kato Kiwides"
+    ],
+    "name:pol_x_variant":[
+        "Pano Kiwides"
     ],
     "name:swe_x_preferred":[
         "P\u00e1no Kiv\u00eddes"
@@ -91,7 +104,7 @@
         }
     ],
     "wof:id":101804677,
-    "wof:lastmodified":1561769722,
+    "wof:lastmodified":1563574468,
     "wof:name":"\u03a0\u03ac\u03bd\u03c9 \u039a\u03b9\u03b2\u03af\u03b4\u03b5\u03c2",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

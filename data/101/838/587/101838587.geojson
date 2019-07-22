@@ -26,11 +26,17 @@
     "name:eng_x_preferred":[
         "Beyk\u00f6y"
     ],
+    "name:eng_x_variant":[
+        "Beykeuy"
+    ],
     "name:nld_x_preferred":[
         "Beyk\u00f6y"
     ],
     "name:pol_x_preferred":[
         "Beikii"
+    ],
+    "name:tur_x_preferred":[
+        "Beyk\u00f6y"
     ],
     "name:und_x_colloquial":[
         "Beykoey",
@@ -108,7 +114,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561769737,
+    "wof:lastmodified":1563574605,
     "wof:name":"\u039c\u03c0\u03ad\u03ca\u03ba\u03ca\u03bf\u03b9",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

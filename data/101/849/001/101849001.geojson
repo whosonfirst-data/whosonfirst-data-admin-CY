@@ -20,6 +20,9 @@
     "name:bul_x_preferred":[
         "\u041b\u0430\u044f"
     ],
+    "name:deu_x_preferred":[
+        "Lagia"
+    ],
     "name:ell_x_preferred":[
         "\u039b\u03ac\u03b3\u03b9\u03b1"
     ],
@@ -31,6 +34,9 @@
         "Layia"
     ],
     "name:eng_x_variant":[
+        "Lageia"
+    ],
+    "name:hun_x_preferred":[
         "Lageia"
     ],
     "name:hye_x_preferred":[
@@ -100,7 +106,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769735,
+    "wof:lastmodified":1563574594,
     "wof:name":"\u039b\u03ac\u03b3\u03b5\u03b9\u03b1",
     "wof:parent_id":85682407,
     "wof:placetype":"locality",

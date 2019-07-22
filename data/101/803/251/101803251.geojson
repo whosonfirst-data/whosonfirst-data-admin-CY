@@ -23,7 +23,8 @@
         "Vits\u00e1da"
     ],
     "name:ell_x_variant":[
-        "\u0392\u03b9\u03c4\u03c3\u03ac\u03b4\u03b1"
+        "\u0392\u03b9\u03c4\u03c3\u03ac\u03b4\u03b1",
+        "\u03a0\u03b9\u03bd\u03b1\u03c1\u03bb\u03af"
     ],
     "name:eng_x_preferred":[
         "Vitsada"
@@ -37,8 +38,14 @@
     "name:pol_x_preferred":[
         "Witsada"
     ],
+    "name:tur_x_preferred":[
+        "P\u0131narl\u0131"
+    ],
     "name:unk_x_variant":[
         "P\u0131narl\u0131"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u06cc\u062a\u0633\u0627\u062f\u0627"
     ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
     "qs:a1":"*\u0391\u03bc\u03bc\u03cc\u03c7\u03c9\u03c3\u03c4\u03bf\u03c2",
@@ -104,7 +111,7 @@
         }
     ],
     "wof:id":101803251,
-    "wof:lastmodified":1561769725,
+    "wof:lastmodified":1563574500,
     "wof:name":"\u0392\u03b9\u03c4\u03c3\u03ac\u03b4\u03b1",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

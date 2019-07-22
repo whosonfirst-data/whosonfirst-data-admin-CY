@@ -16,12 +16,16 @@
     "mps:longitude":33.513509,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Epich\u00f3"
+    ],
     "name:ell_x_preferred":[
         "Epich\u00f3"
     ],
     "name:ell_x_variant":[
         "\u0395\u03c0\u03b9\u03c7\u03cc",
-        "\u0395\u03c0\u03b7\u03c7\u03ce"
+        "\u0395\u03c0\u03b7\u03c7\u03ce",
+        "\u03a4\u03b6\u03b9\u03c7\u03b1\u03bd\u03b3\u03ba\u03af\u03c1"
     ],
     "name:eng_x_preferred":[
         "Epicho"
@@ -42,6 +46,9 @@
     ],
     "name:swe_x_preferred":[
         "Epich\u00f3"
+    ],
+    "name:tur_x_preferred":[
+        "Cihangir"
     ],
     "name:und_x_preferred":[
         "Epikho"
@@ -112,7 +119,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769737,
+    "wof:lastmodified":1563574608,
     "wof:name":"\u0395\u03c0\u03b9\u03c7\u03cc",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

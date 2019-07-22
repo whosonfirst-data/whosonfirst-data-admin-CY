@@ -20,6 +20,9 @@
     "name:bul_x_preferred":[
         "\u041f\u0435\u0440\u0433\u0430\u043c\u043e\u0441"
     ],
+    "name:ceb_x_preferred":[
+        "P\u00e9rgamos"
+    ],
     "name:deu_x_preferred":[
         "Beyarmudu/Pergamos"
     ],
@@ -28,7 +31,8 @@
     ],
     "name:ell_x_variant":[
         "\u03a0\u03ad\u03c1\u03b3\u03b1\u03bc\u03bf\u03c2",
-        "\u03a0\u03ad\u03c1\u03b3\u03b1\u03bco\u03c2"
+        "\u03a0\u03ad\u03c1\u03b3\u03b1\u03bco\u03c2",
+        "\u039c\u03c0\u03b5\u03b3\u03b9\u03b1\u03c1\u03bc\u03bf\u03c5\u03bd\u03c4\u03bf\u03cd"
     ],
     "name:eng_x_preferred":[
         "Pergamos"
@@ -36,6 +40,9 @@
     "name:eng_x_variant":[
         "Beyarmudu",
         "Pergama"
+    ],
+    "name:hun_x_preferred":[
+        "Pergamos"
     ],
     "name:hye_x_preferred":[
         "\u054a\u0565\u0580\u0563\u0561\u0574\u0578\u057d"
@@ -55,8 +62,14 @@
     "name:swe_x_preferred":[
         "P\u00e9rgamos"
     ],
+    "name:tur_x_preferred":[
+        "Beyarmudu"
+    ],
     "name:unk_x_variant":[
         "Beyarmudu"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u06cc\u0631\u06af\u0627\u0645\u0648\u0633"
     ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
     "qs:a1":"*\u039b\u03ac\u03c1\u03bd\u03b1\u03ba\u03b1",
@@ -117,7 +130,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769727,
+    "wof:lastmodified":1563574520,
     "wof:name":"\u03a0\u03ad\u03c1\u03b3\u03b1\u03bc\u03bf\u03c2",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

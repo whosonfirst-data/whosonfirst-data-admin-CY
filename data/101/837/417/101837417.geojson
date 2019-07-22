@@ -36,6 +36,9 @@
     "name:fas_x_preferred":[
         "\u067e\u0633\u0648\u0645\u0648\u0644\u0648\u0641\u0648"
     ],
+    "name:fin_x_preferred":[
+        "Psimol\u00f3fou"
+    ],
     "name:fra_x_preferred":[
         "Psimolofou"
     ],
@@ -109,7 +112,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769738,
+    "wof:lastmodified":1563574619,
     "wof:name":"\u03a8\u03b9\u03bc\u03bf\u03bb\u03cc\u03c6\u03bf\u03c5",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

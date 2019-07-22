@@ -17,6 +17,9 @@
     "mps:longitude":33.204591,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:cat_x_preferred":[
+        "Mammari"
+    ],
     "name:ceb_x_preferred":[
         "M\u00e1mmari"
     ],
@@ -32,6 +35,15 @@
     ],
     "name:fas_x_preferred":[
         "\u0645\u0627\u0645\u0627\u0631\u06cc"
+    ],
+    "name:fin_x_preferred":[
+        "M\u00e1mmari"
+    ],
+    "name:fra_x_preferred":[
+        "Mammari"
+    ],
+    "name:ita_x_preferred":[
+        "Mammari"
     ],
     "name:nld_x_preferred":[
         "Mammari"
@@ -99,7 +111,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769729,
+    "wof:lastmodified":1563574536,
     "wof:name":"\u039c\u03ac\u03bc\u03bc\u03b1\u03c1\u03b7",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

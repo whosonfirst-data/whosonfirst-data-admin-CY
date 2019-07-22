@@ -36,6 +36,12 @@
         "Palodeia",
         "Palodia"
     ],
+    "name:fin_x_preferred":[
+        "Pal\u00f3deia"
+    ],
+    "name:fra_x_preferred":[
+        "Pal\u00f3dia"
+    ],
     "name:nld_x_preferred":[
         "Palodeia"
     ],
@@ -100,7 +106,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769721,
+    "wof:lastmodified":1563574452,
     "wof:name":"\u03a0\u03b1\u03bb\u03cc\u03b4\u03b5\u03b9\u03b1",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

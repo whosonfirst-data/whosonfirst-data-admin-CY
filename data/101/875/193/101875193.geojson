@@ -48,6 +48,9 @@
     "name:unk_x_variant":[
         "Saint Dhimitrianos"
     ],
+    "name:urd_x_preferred":[
+        "\u0622\u0626\u06cc\u0648\u0633 \u062f\u06cc\u0645\u06cc\u062a\u0631\u06cc\u0627\u0646\u0648\u0633"
+    ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
     "qs:a1":"*\u03a0\u03ac\u03c6\u03bf\u03c2",
     "qs:a1_alt":"Pafos",
@@ -96,7 +99,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769714,
+    "wof:lastmodified":1563574398,
     "wof:name":"\u0386\u03b3\u03b9\u03bf\u03c2 \u0394\u03b7\u03bc\u03b7\u03c4\u03c1\u03b9\u03b1\u03bd\u03cc\u03c2",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

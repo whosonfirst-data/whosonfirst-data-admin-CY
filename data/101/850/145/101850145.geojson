@@ -54,6 +54,9 @@
     "name:unk_x_variant":[
         "Vroi\u015fa"
     ],
+    "name:urd_x_preferred":[
+        "\u0648\u0631\u0648\u06cc\u0633\u0627"
+    ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
     "qs:a1":"*\u039b\u03b5\u03c5\u03ba\u03c9\u03c3\u03af\u03b1",
     "qs:a1_alt":"Lefkosia",
@@ -101,7 +104,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769719,
+    "wof:lastmodified":1563574435,
     "wof:name":"\u03a6\u03c1\u03bf\u03b4\u03af\u03c3\u03b9\u03b1",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

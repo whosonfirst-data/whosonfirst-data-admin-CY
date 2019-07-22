@@ -51,6 +51,9 @@
     "name:unk_x_variant":[
         "Koraku"
     ],
+    "name:urd_x_preferred":[
+        "\u0642\u0631\u06c1 \u06a9\u0648"
+    ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
     "qs:a1":"*\u039b\u03b5\u03c5\u03ba\u03c9\u03c3\u03af\u03b1",
     "qs:a1_alt":"Lefkosia",
@@ -103,7 +106,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769728,
+    "wof:lastmodified":1563574530,
     "wof:name":"\u039a\u03bf\u03c1\u03ac\u03ba\u03bf\u03c5",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

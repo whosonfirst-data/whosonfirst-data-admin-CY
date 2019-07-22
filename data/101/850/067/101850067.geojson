@@ -20,7 +20,8 @@
         "Art\u00e9mi"
     ],
     "name:ell_x_variant":[
-        "\u0391\u03c1\u03c4\u03ad\u03bc\u03b9"
+        "\u0391\u03c1\u03c4\u03ad\u03bc\u03b9",
+        "\u0391\u03bd\u03c4\u03b1\u03bc\u03af"
     ],
     "name:eng_x_preferred":[
         "Artimi"
@@ -46,6 +47,9 @@
     ],
     "name:unk_x_variant":[
         "Artimi"
+    ],
+    "name:urd_x_preferred":[
+        "\u0622\u0631\u062a\u06cc\u0645\u06cc"
     ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
     "qs:a1":"*\u0391\u03bc\u03bc\u03cc\u03c7\u03c9\u03c3\u03c4\u03bf\u03c2",
@@ -117,7 +121,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769720,
+    "wof:lastmodified":1563574443,
     "wof:name":"\u0391\u03c1\u03c4\u03ad\u03bc\u03b9",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

@@ -27,6 +27,9 @@
     "name:cat_x_preferred":[
         "Girne"
     ],
+    "name:ceb_x_preferred":[
+        "Kyrenia"
+    ],
     "name:deu_x_preferred":[
         "Kyrenia"
     ],
@@ -72,8 +75,14 @@
     "name:hun_x_preferred":[
         "Ker\u00ednia"
     ],
+    "name:hun_x_variant":[
+        "Girne"
+    ],
     "name:hye_x_preferred":[
         "\u053f\u056b\u0580\u0565\u0576\u056b\u0561"
+    ],
+    "name:ind_x_preferred":[
+        "Kyrenia"
     ],
     "name:ita_x_preferred":[
         "Kyrenia"
@@ -156,6 +165,9 @@
     ],
     "name:urd_x_preferred":[
         "\u06a9\u06cc\u0631\u06cc\u0646\u06cc\u06c1"
+    ],
+    "name:vie_x_preferred":[
+        "Kyrenia"
     ],
     "name:war_x_preferred":[
         "Kyrenia"
@@ -327,7 +339,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769731,
+    "wof:lastmodified":1563574551,
     "wof:name":"\u039a\u03b5\u03c1\u03cd\u03bd\u03b5\u03b9\u03b1",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

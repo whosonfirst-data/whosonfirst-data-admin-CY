@@ -36,6 +36,9 @@
         "Anogyra",
         "Anoyra"
     ],
+    "name:fra_x_preferred":[
+        "An\u00f3gyra"
+    ],
     "name:hye_x_preferred":[
         "\u0531\u0576\u0578\u0575\u056b\u0580\u0561"
     ],
@@ -108,7 +111,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769721,
+    "wof:lastmodified":1563574453,
     "wof:name":"\u0391\u03bd\u03ce\u03b3\u03c5\u03c1\u03b1",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

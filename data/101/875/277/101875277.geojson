@@ -19,6 +19,9 @@
     "name:bul_x_preferred":[
         "\u041f\u0435\u0440\u0430 \u041f\u0435\u0434\u0438"
     ],
+    "name:dan_x_preferred":[
+        "Pera Pedi"
+    ],
     "name:ell_x_preferred":[
         "\u03a0\u03ad\u03c1\u03b1 \u03a0\u03b5\u03b4\u03af"
     ],
@@ -36,6 +39,9 @@
     ],
     "name:fra_x_preferred":[
         "P\u00e9ra Ped\u00ed"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05e8\u05d4 \u05e4\u05d3\u05d9"
     ],
     "name:jpn_x_preferred":[
         "\u30da\u30e9\u30fb\u30da\u30c7\u30a3\u6751"
@@ -100,7 +106,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769717,
+    "wof:lastmodified":1563574416,
     "wof:name":"\u03a0\u03ad\u03c1\u03b1 \u03a0\u03b5\u03b4\u03af",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

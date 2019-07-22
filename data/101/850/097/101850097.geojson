@@ -23,7 +23,8 @@
         "P\u00e1nagra"
     ],
     "name:ell_x_variant":[
-        "\u03a0\u03ac\u03bd\u03b1\u03b3\u03c1\u03b1"
+        "\u03a0\u03ac\u03bd\u03b1\u03b3\u03c1\u03b1",
+        "\u0393\u03ba\u03b5\u03c4\u03c3\u03b9\u03c4\u03ba\u03cc\u03b9"
     ],
     "name:eng_x_preferred":[
         "Panagra"
@@ -33,6 +34,9 @@
     ],
     "name:nld_x_preferred":[
         "Panagra"
+    ],
+    "name:tur_x_preferred":[
+        "Ge\u00e7itk\u00f6y"
     ],
     "name:und_x_colloquial":[
         "Gecitkoey",
@@ -46,6 +50,9 @@
     ],
     "name:unk_x_variant":[
         "Ge\u00e7itk\u00f6y"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u0627\u0646\u0627\u06af\u0631\u0627"
     ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
     "qs:a1":"*\u039a\u03b5\u03c1\u03cd\u03bd\u03b5\u03b9\u03b1",
@@ -118,7 +125,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561769719,
+    "wof:lastmodified":1563574435,
     "wof:name":"\u03a0\u03ac\u03bd\u03b1\u03b3\u03c1\u03b1",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

@@ -32,6 +32,9 @@
     "name:eng_x_variant":[
         "Lofou"
     ],
+    "name:fra_x_preferred":[
+        "L\u00f3fou"
+    ],
     "name:nld_x_preferred":[
         "Lofou"
     ],
@@ -93,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769721,
+    "wof:lastmodified":1563574451,
     "wof:name":"\u039b\u03cc\u03c6\u03bf\u03c5",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

@@ -32,6 +32,12 @@
     "name:eng_x_preferred":[
         "Prodromos"
     ],
+    "name:eus_x_preferred":[
+        "Prodromos"
+    ],
+    "name:fin_x_preferred":[
+        "Pr\u00f3dromos"
+    ],
     "name:fra_x_preferred":[
         "Pr\u00f3dromos"
     ],
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":101804699,
-    "wof:lastmodified":1561769723,
+    "wof:lastmodified":1563574469,
     "wof:name":"\u03a0\u03c1\u03cc\u03b4\u03c1\u03bf\u03bc\u03bf\u03c2",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

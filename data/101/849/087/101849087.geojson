@@ -30,6 +30,9 @@
     "name:eng_x_preferred":[
         "Treis Elies"
     ],
+    "name:fin_x_preferred":[
+        "Treis Eli\u00e9s"
+    ],
     "name:fra_x_preferred":[
         "Tris Eli\u00e9s"
     ],
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":101849087,
-    "wof:lastmodified":1561769736,
+    "wof:lastmodified":1563574595,
     "wof:name":"\u03a4\u03c1\u03b5\u03af\u03c2 \u0395\u03bb\u03b9\u03ad\u03c2",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

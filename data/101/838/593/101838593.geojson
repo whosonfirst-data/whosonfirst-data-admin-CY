@@ -20,7 +20,8 @@
         "Kouro\u00fa Monast\u00edri"
     ],
     "name:ell_x_variant":[
-        "\u039a\u03bf\u03c5\u03c1\u03bf\u03cd \u039c\u03bf\u03bd\u03b1\u03c3\u03c4\u03ae\u03c1\u03b9"
+        "\u039a\u03bf\u03c5\u03c1\u03bf\u03cd \u039c\u03bf\u03bd\u03b1\u03c3\u03c4\u03ae\u03c1\u03b9",
+        "\u03a4\u03c3\u03bf\u03c5\u03ba\u03bf\u03cd\u03c1\u03bf\u03b2\u03b1"
     ],
     "name:eng_x_preferred":[
         "Kourou Monastiri"
@@ -31,8 +32,14 @@
     "name:pol_x_preferred":[
         "Kuru Monastiri"
     ],
+    "name:tur_x_preferred":[
+        "\u00c7ukurova"
+    ],
     "name:unk_x_variant":[
         "\u00c7ukurova"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0648\u0631\u0648 \u0645\u0648\u0646\u0633\u062a\u06cc\u0631\u06cc"
     ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
     "qs:a1":"*\u039b\u03b5\u03c5\u03ba\u03c9\u03c3\u03af\u03b1",
@@ -89,7 +96,7 @@
         }
     ],
     "wof:id":101838593,
-    "wof:lastmodified":1561769736,
+    "wof:lastmodified":1563574603,
     "wof:name":"\u039a\u03bf\u03c5\u03c1\u03bf\u03cd \u039c\u03bf\u03bd\u03b1\u03c3\u03c4\u03ae\u03c1\u03b9",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

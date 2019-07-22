@@ -16,14 +16,21 @@
     "mps:longitude":33.495742,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "V\u00f3ni"
+    ],
     "name:ell_x_preferred":[
         "V\u00f3ni"
     ],
     "name:ell_x_variant":[
-        "\u0392\u03ce\u03bd\u03b7"
+        "\u0392\u03ce\u03bd\u03b7",
+        "\u0393\u03ba\u03b9\u03bf\u03ba\u03c7\u03ac\u03bd"
     ],
     "name:eng_x_preferred":[
         "Vani"
+    ],
+    "name:eng_x_variant":[
+        "Voni"
     ],
     "name:hye_x_preferred":[
         "\u054e\u0578\u0576\u056b"
@@ -40,6 +47,9 @@
     "name:swe_x_preferred":[
         "V\u00f3ni"
     ],
+    "name:tur_x_preferred":[
+        "G\u00f6khan"
+    ],
     "name:und_x_colloquial":[
         "Goekhan",
         "Gokhan"
@@ -52,6 +62,9 @@
     ],
     "name:unk_x_variant":[
         "G\u00f6khan"
+    ],
+    "name:urd_x_preferred":[
+        "\u0624\u0646\u06cc"
     ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
     "qs:a1":"*\u039b\u03b5\u03c5\u03ba\u03c9\u03c3\u03af\u03b1",
@@ -113,7 +126,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769737,
+    "wof:lastmodified":1563574607,
     "wof:name":"\u0392\u03ce\u03bd\u03b7",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

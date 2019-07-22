@@ -20,7 +20,8 @@
         "Katokopi\u00e1"
     ],
     "name:ell_x_variant":[
-        "\u039a\u03b1\u03c4\u03c9\u03ba\u03bf\u03c0\u03b9\u03ac"
+        "\u039a\u03b1\u03c4\u03c9\u03ba\u03bf\u03c0\u03b9\u03ac",
+        "\u0396\u03bf\u03c5\u03bc\u03c1\u03bf\u03cd\u03c4\u03ba\u03b9\u03bf\u03ca"
     ],
     "name:eng_x_preferred":[
         "Kopia"
@@ -33,6 +34,12 @@
     ],
     "name:fas_x_preferred":[
         "\u06a9\u0627\u062a\u0648\u06a9\u0648\u067e\u06cc\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Katokopi\u00e1"
+    ],
+    "name:ita_x_preferred":[
+        "Katokopia"
     ],
     "name:lit_x_preferred":[
         "Katokopija"
@@ -124,7 +131,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769726,
+    "wof:lastmodified":1563574504,
     "wof:name":"\u039a\u03b1\u03c4\u03c9\u03ba\u03bf\u03c0\u03b9\u03ac",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

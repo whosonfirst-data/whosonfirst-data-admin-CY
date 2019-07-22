@@ -36,11 +36,17 @@
         "Dierona",
         "Diyerona"
     ],
+    "name:fra_x_preferred":[
+        "Dier\u00f3na"
+    ],
     "name:nld_x_preferred":[
         "Dierona"
     ],
     "name:pol_x_preferred":[
         "Dierona"
+    ],
+    "name:pol_x_variant":[
+        "Kato Milos"
     ],
     "name:swe_x_preferred":[
         "Dier\u00f3na"
@@ -100,7 +106,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769735,
+    "wof:lastmodified":1563574595,
     "wof:name":"\u0394\u03b9\u03b5\u03c1\u03ce\u03bd\u03b1",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

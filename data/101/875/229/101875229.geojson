@@ -24,7 +24,8 @@
     ],
     "name:ell_x_variant":[
         "\u039a\u03b9\u03cc\u03c2",
-        "\u0399\u03c3\u03c4\u03b9\u03bd\u03c4\u03b6\u03b9\u03cc\u03bd"
+        "\u0399\u03c3\u03c4\u03b9\u03bd\u03c4\u03b6\u03b9\u03cc\u03bd",
+        "\u039a\u03b9\u03bf\u03c2"
     ],
     "name:eng_x_preferred":[
         "Istinjo"
@@ -53,6 +54,9 @@
     ],
     "name:unk_x_variant":[
         "Tabanl\u0131"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u06cc\u0633\u062a\u0646\u06af\u06cc\u0648\u0646"
     ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
     "qs:a1":"*\u03a0\u03ac\u03c6\u03bf\u03c2",
@@ -98,7 +102,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769714,
+    "wof:lastmodified":1563574399,
     "wof:name":"\u039a\u03b9\u03cc\u03c2",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

@@ -22,6 +22,9 @@
     "name:cat_x_preferred":[
         "Lapatos"
     ],
+    "name:ceb_x_preferred":[
+        "L\u00e1pithos"
+    ],
     "name:deu_x_preferred":[
         "Lapta"
     ],
@@ -29,16 +32,26 @@
         "L\u00e1pithos"
     ],
     "name:ell_x_variant":[
-        "\u039b\u03ac\u03c0\u03b7\u03b8\u03bf\u03c2"
+        "\u039b\u03ac\u03c0\u03b7\u03b8\u03bf\u03c2",
+        "\u039b\u03ac\u03c0\u03c4\u03b1"
     ],
     "name:eng_x_preferred":[
         "Lapta"
     ],
+    "name:eng_x_variant":[
+        "Lapithos"
+    ],
     "name:fas_x_preferred":[
         "\u0644\u0627\u067e\u06cc\u062a\u0648\u0633"
     ],
+    "name:fin_x_preferred":[
+        "L\u00e1pithos"
+    ],
     "name:fra_x_preferred":[
         "Lapithos"
+    ],
+    "name:fra_x_variant":[
+        "L\u00e1pithos"
     ],
     "name:hye_x_preferred":[
         "\u053c\u0561\u057a\u056b\u057f\u0578\u057d"
@@ -151,7 +164,7 @@
         }
     ],
     "wof:id":1125921729,
-    "wof:lastmodified":1561769739,
+    "wof:lastmodified":1563574628,
     "wof:name":"Lapithos",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

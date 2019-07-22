@@ -53,6 +53,9 @@
     "name:unk_x_variant":[
         "G\u00f6k\u00e7ebel"
     ],
+    "name:urd_x_preferred":[
+        "\u0641\u0627\u0644\u0627\u0626\u06cc\u0627"
+    ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
     "qs:a1":"*\u03a0\u03ac\u03c6\u03bf\u03c2",
     "qs:a1_alt":"Pafos",
@@ -101,7 +104,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769734,
+    "wof:lastmodified":1563574582,
     "wof:name":"\u03a6\u03ac\u03bb\u03b5\u03b9\u03b1",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

@@ -19,6 +19,9 @@
     "name:bul_x_preferred":[
         "\u0415\u043f\u0442\u0430\u043a\u043e\u043c\u0438"
     ],
+    "name:ceb_x_preferred":[
+        "Eptak\u00f3mi"
+    ],
     "name:deu_x_preferred":[
         "Eptakomi/Yedikonuk"
     ],
@@ -26,7 +29,8 @@
         "Eptak\u00f3mi"
     ],
     "name:ell_x_variant":[
-        "\u0395\u03c0\u03c4\u03b1\u03ba\u03ce\u03bc\u03b7"
+        "\u0395\u03c0\u03c4\u03b1\u03ba\u03ce\u03bc\u03b7",
+        "\u0393\u03b5\u03bd\u03c4\u03b9\u03ba\u03bf\u03bd\u03bf\u03cd\u03ba"
     ],
     "name:eng_x_preferred":[
         "Yedikonuk"
@@ -56,6 +60,9 @@
     ],
     "name:unk_x_variant":[
         "Yedikonuk"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u06cc\u067e\u062a\u0627\u06a9\u0648\u0645\u06cc"
     ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
     "qs:a1":"*\u0391\u03bc\u03bc\u03cc\u03c7\u03c9\u03c3\u03c4\u03bf\u03c2",
@@ -125,7 +132,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769726,
+    "wof:lastmodified":1563574510,
     "wof:name":"\u0395\u03c0\u03c4\u03b1\u03ba\u03ce\u03bc\u03b7",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

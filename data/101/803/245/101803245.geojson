@@ -19,15 +19,22 @@
     "name:bul_x_preferred":[
         "\u0410\u0444\u0430\u043d\u0438\u044f"
     ],
+    "name:ceb_x_preferred":[
+        "Af\u00e1nteia"
+    ],
     "name:ell_x_preferred":[
         "Af\u00e1nteia"
     ],
     "name:ell_x_variant":[
         "\u0391\u03c6\u03ac\u03bd\u03c4\u03b5\u03b9\u03b1",
-        "\u0391\u03c6\u03ac\u03bd\u03b5\u03b9\u03b1"
+        "\u0391\u03c6\u03ac\u03bd\u03b5\u03b9\u03b1",
+        "\u0393\u03ba\u03b1\u03b6\u03af\u03ba\u03b9\u03bf\u03ca"
     ],
     "name:eng_x_preferred":[
         "Aphania"
+    ],
+    "name:eng_x_variant":[
+        "Afanteia-Ornithi"
     ],
     "name:hye_x_preferred":[
         "\u0531\u0586\u0561\u0576\u056b\u0561"
@@ -44,11 +51,17 @@
     "name:pol_x_preferred":[
         "Afania"
     ],
+    "name:rus_x_preferred":[
+        "\u0410\u0444\u0430\u043d\u0438\u044f"
+    ],
     "name:spa_x_preferred":[
         "Afanteia"
     ],
     "name:swe_x_preferred":[
         "Af\u00e1nteia"
+    ],
+    "name:tur_x_preferred":[
+        "Afanya"
     ],
     "name:unk_x_variant":[
         "Afanya"
@@ -120,7 +133,7 @@
         }
     ],
     "wof:id":101803245,
-    "wof:lastmodified":1561769725,
+    "wof:lastmodified":1563574490,
     "wof:name":"\u0391\u03c6\u03ac\u03bd\u03c4\u03b5\u03b9\u03b1",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

@@ -35,6 +35,9 @@
     "name:fas_x_preferred":[
         "\u067e\u06cc\u0633\u0648\u0631\u06cc"
     ],
+    "name:fin_x_preferred":[
+        "Pisso\u00fari"
+    ],
     "name:fra_x_preferred":[
         "Pisso\u00fari"
     ],
@@ -113,7 +116,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769721,
+    "wof:lastmodified":1563574450,
     "wof:name":"\u03a0\u03b9\u03c3\u03c3\u03bf\u03cd\u03c1\u03b9",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

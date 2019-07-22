@@ -29,14 +29,23 @@
     "name:eng_x_preferred":[
         "Yeri"
     ],
+    "name:eng_x_variant":[
+        "Geri"
+    ],
     "name:fas_x_preferred":[
         "\u062c\u06cc\u0631\u06cc"
+    ],
+    "name:fin_x_preferred":[
+        "G\u00e9ri"
     ],
     "name:fra_x_preferred":[
         "Geri"
     ],
     "name:hye_x_preferred":[
         "\u0533\u0565\u0580\u056b"
+    ],
+    "name:ita_x_preferred":[
+        "Geri"
     ],
     "name:nno_x_preferred":[
         "J\u00e9ri"
@@ -55,6 +64,9 @@
     ],
     "name:urd_x_preferred":[
         "\u06af\u06cc\u0631\u06cc\u060c \u0642\u0628\u0631\u0635"
+    ],
+    "name:urd_x_variant":[
+        "\u06cc\u0631\u06cc"
     ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
     "qs:a1":"*\u039b\u03b5\u03c5\u03ba\u03c9\u03c3\u03af\u03b1",
@@ -94,7 +106,7 @@
         }
     ],
     "wof:id":101760457,
-    "wof:lastmodified":1561769731,
+    "wof:lastmodified":1563574559,
     "wof:name":"\u0393\u03ad\u03c1\u03b9",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",
