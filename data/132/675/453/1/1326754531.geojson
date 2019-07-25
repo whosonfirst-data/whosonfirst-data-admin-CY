@@ -31,6 +31,9 @@
     "name:ell_x_variant":[
         "\u039c\u03ac\u03bd\u03b4\u03c1\u03b5\u03c2"
     ],
+    "name:swe_x_preferred":[
+        "M\u00e1ndres"
+    ],
     "name:und_x_variant":[
         "Hamitk\u00f6y",
         "Mandres Morphou",
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1326754531,
-    "wof:lastmodified":1537619243,
+    "wof:lastmodified":1564096660,
     "wof:name":"Mandres",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

@@ -43,6 +43,9 @@
         "Kato Flasu",
         "Kato Phlasou"
     ],
+    "name:urd_x_preferred":[
+        "\u0641\u0644\u0627\u0633\u0624"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632437
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1209515835,
-    "wof:lastmodified":1537619245,
+    "wof:lastmodified":1564096666,
     "wof:name":"Kato Flasou",
     "wof:parent_id":85632437,
     "wof:placetype":"locality",

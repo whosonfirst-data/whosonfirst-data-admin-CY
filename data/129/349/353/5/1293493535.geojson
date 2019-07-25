@@ -34,6 +34,9 @@
     "name:tur_x_preferred":[
         "Bah\u00e7elivler"
     ],
+    "name:tur_x_variant":[
+        "Beyk\u00f6y"
+    ],
     "name:und_x_variant":[
         "Hirisida",
         "Krisida",
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1293493535,
-    "wof:lastmodified":1537619245,
+    "wof:lastmodified":1564096663,
     "wof:name":"Chrysida",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

@@ -31,6 +31,9 @@
     "name:ell_x_variant":[
         "\u039a\u03b1\u03bb\u03cc \u03a7\u03c9\u03c1\u03b9\u03cc"
     ],
+    "name:swe_x_preferred":[
+        "Kalo Chorio"
+    ],
     "name:und_x_variant":[
         "Kalon Chorion",
         "Kalohorio",
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1226574831,
-    "wof:lastmodified":1537619246,
+    "wof:lastmodified":1564096686,
     "wof:name":"Kalo Chorio",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

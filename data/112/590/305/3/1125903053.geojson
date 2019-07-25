@@ -27,6 +27,9 @@
     "name:unk_x_variant":[
         "Pil\u00e2ni"
     ],
+    "name:vie_x_preferred":[
+        "Philani"
+    ],
     "qs_pg:aaroncc":"CY",
     "qs_pg:gn_country":"CY",
     "qs_pg:gn_fcode":"PPL",
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1125903053,
-    "wof:lastmodified":1509399565,
+    "wof:lastmodified":1564096680,
     "wof:name":"Philani",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

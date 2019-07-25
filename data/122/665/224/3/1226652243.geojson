@@ -38,6 +38,9 @@
         "Apli\u00e7",
         "Ali\u00e7lar"
     ],
+    "name:urd_x_preferred":[
+        "\u0627\u067e\u0644\u06cc\u06a9\u06cc"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1226652243,
-    "wof:lastmodified":1537619249,
+    "wof:lastmodified":1564096686,
     "wof:name":"Apliki",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

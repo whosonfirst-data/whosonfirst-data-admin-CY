@@ -31,6 +31,9 @@
     "name:ell_x_variant":[
         "\u0386\u03b3\u03b9\u03bf\u03c2 \u0393\u03b5\u03ce\u03c1\u03b3\u03b9\u03bf\u03c2"
     ],
+    "name:swe_x_preferred":[
+        "Agios Georgios"
+    ],
     "name:und_x_variant":[
         "Agion Georgoudi",
         "Madenlik\u00f6y",
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1193143287,
-    "wof:lastmodified":1537619247,
+    "wof:lastmodified":1564096667,
     "wof:name":"Agios Georgios",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

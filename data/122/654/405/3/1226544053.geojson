@@ -25,6 +25,9 @@
     "iso:country":"CY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Yal\u0131"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1226544053,
-    "wof:lastmodified":1536999700,
+    "wof:lastmodified":1564096687,
     "wof:name":"Yali",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

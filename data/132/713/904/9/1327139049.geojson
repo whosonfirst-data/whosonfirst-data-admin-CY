@@ -31,6 +31,9 @@
     "name:ell_x_variant":[
         "\u03a4\u03c3\u03b5\u03c1\u03ba\u03ad\u03b6\u03bf\u03b9"
     ],
+    "name:pol_x_preferred":[
+        "Tserkiezi"
+    ],
     "name:und_x_variant":[
         "Cherkes Plantation",
         "Halsu \u00c7erkez \u00c7iftlik",
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1327139049,
-    "wof:lastmodified":1537619247,
+    "wof:lastmodified":1564096660,
     "wof:name":"Tserkezoi",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

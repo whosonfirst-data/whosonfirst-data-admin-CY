@@ -40,6 +40,9 @@
         "Latsi",
         "Lachi"
     ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u062a\u0686\u06cc"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1226440303,
-    "wof:lastmodified":1537619244,
+    "wof:lastmodified":1564096685,
     "wof:name":"Lakki",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

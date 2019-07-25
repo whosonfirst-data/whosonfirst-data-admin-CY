@@ -31,6 +31,9 @@
     "name:ell_x_variant":[
         "\u03a4\u03c1\u03cc\u03bf\u03b4\u03bf\u03c2"
     ],
+    "name:ind_x_preferred":[
+        "Troodos"
+    ],
     "name:und_x_variant":[
         "Camp Troodos",
         "Tr\u00f3\u00f6dhos Resort",
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1310227807,
-    "wof:lastmodified":1537619241,
+    "wof:lastmodified":1564096668,
     "wof:name":"Troodos",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

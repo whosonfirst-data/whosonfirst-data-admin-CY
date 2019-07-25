@@ -40,6 +40,9 @@
         "\u015eillura",
         "Skillouras"
     ],
+    "name:urd_x_preferred":[
+        "\u0633\u06a9\u0627\u06cc\u0644\u0648\u0631\u0627"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1277006203,
-    "wof:lastmodified":1537619241,
+    "wof:lastmodified":1564096665,
     "wof:name":"Skylloura",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

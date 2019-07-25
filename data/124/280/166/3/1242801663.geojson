@@ -31,8 +31,20 @@
     "name:ell_x_variant":[
         "\u03a0\u03bb\u03b1\u03c4\u03ac\u03bd\u03b9\u03b1"
     ],
+    "name:fra_x_preferred":[
+        "Platania"
+    ],
+    "name:nap_x_preferred":[
+        "Platania"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u043b\u0430\u0442\u0430\u043d\u0438\u0458\u0430"
+    ],
     "name:und_x_variant":[
         "Platanya"
+    ],
+    "name:zho_x_preferred":[
+        "\u666e\u62c9\u5854\u5c3c\u4e9a"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":1242801663,
-    "wof:lastmodified":1537619242,
+    "wof:lastmodified":1564096683,
     "wof:name":"Platania",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

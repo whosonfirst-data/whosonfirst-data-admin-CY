@@ -27,6 +27,9 @@
     "name:rus_x_preferred":[
         "\u041a\u0430\u043d\u0442\u0430\u0440\u0430"
     ],
+    "name:swe_x_preferred":[
+        "Kantara"
+    ],
     "name:tur_x_preferred":[
         "Kantara"
     ],
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":1125982691,
-    "wof:lastmodified":1509404868,
+    "wof:lastmodified":1564096681,
     "wof:name":"Kantara",
     "wof:parent_id":-4,
     "wof:placetype":"locality",
