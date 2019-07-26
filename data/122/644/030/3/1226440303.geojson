@@ -34,6 +34,9 @@
     "name:eng_x_preferred":[
         "Latchi"
     ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u0442\u0445\u0438"
+    ],
     "name:und_x_variant":[
         "Latzi",
         "La\u00e7\u00e7i",
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1226440303,
-    "wof:lastmodified":1564096685,
+    "wof:lastmodified":1564100671,
     "wof:name":"Lakki",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

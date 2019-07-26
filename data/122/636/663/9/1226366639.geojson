@@ -25,11 +25,36 @@
     "iso:country":"CY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Limn\u00edtis"
+    ],
+    "name:deu_x_preferred":[
+        "Limnitis/Ye\u015fil\u0131rmak"
+    ],
     "name:ell_x_preferred":[
         "Limn\u00edtis"
     ],
     "name:ell_x_variant":[
-        "\u039b\u03b9\u03bc\u03bd\u03af\u03c4\u03b7\u03c2"
+        "\u039b\u03b9\u03bc\u03bd\u03af\u03c4\u03b7\u03c2",
+        "\u0393\u03b5\u03c3\u03af\u03bb\u03b9\u03c1\u03bc\u03b1\u03ba"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u06cc\u0645\u0646\u06cc\u062a\u06cc\u0633"
+    ],
+    "name:fra_x_preferred":[
+        "Limn\u00edtis"
+    ],
+    "name:pol_x_preferred":[
+        "Limnitis"
+    ],
+    "name:spa_x_preferred":[
+        "Limnitis"
+    ],
+    "name:swe_x_preferred":[
+        "Limn\u00edtis"
+    ],
+    "name:tur_x_preferred":[
+        "Ye\u015fil\u0131rmak"
     ],
     "name:und_x_variant":[
         "Ye\u015fil\u0131rmak",
@@ -77,7 +102,7 @@
         }
     ],
     "wof:id":1226366639,
-    "wof:lastmodified":1564096687,
+    "wof:lastmodified":1564100672,
     "wof:name":"Limnitis",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

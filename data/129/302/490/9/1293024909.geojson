@@ -31,6 +31,12 @@
     "name:ell_x_variant":[
         "\u039a\u03ac\u03c4\u03c9 \u039a\u03bf\u03c5\u03c4\u03c1\u03b1\u03c6\u03ac\u03c2"
     ],
+    "name:pol_x_preferred":[
+        "Kato Kutrafas"
+    ],
+    "name:tur_x_preferred":[
+        "A\u015fa\u011f\u0131 Kurtbo\u011fan"
+    ],
     "name:und_x_variant":[
         "Koutraphas",
         "Kato Koutrapha",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1293024909,
-    "wof:lastmodified":1564096664,
+    "wof:lastmodified":1564100652,
     "wof:name":"Kato Koutrafas",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

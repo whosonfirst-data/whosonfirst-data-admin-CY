@@ -25,11 +25,33 @@
     "iso:country":"CY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Potam\u00f3s tou K\u00e1mpou"
+    ],
     "name:ell_x_preferred":[
         "Potam\u00f3s tou K\u00e1mpou"
     ],
     "name:ell_x_variant":[
-        "\u03a0\u03bf\u03c4\u03b1\u03bc\u03cc\u03c2 \u03c4\u03bf\u03c5 \u039a\u03ac\u03bc\u03c0\u03bf\u03c5"
+        "\u03a0\u03bf\u03c4\u03b1\u03bc\u03cc\u03c2 \u03c4\u03bf\u03c5 \u039a\u03ac\u03bc\u03c0\u03bf\u03c5",
+        "\u0393\u03b5\u03bd\u03c4\u03af\u03bd\u03c4\u03b1\u03bb\u03b3\u03ba\u03b1"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u062a\u0627\u0645\u0648\u0633"
+    ],
+    "name:pol_x_preferred":[
+        "Potamos tu Kambu"
+    ],
+    "name:snd_x_preferred":[
+        "\u067e\u0648\u062a\u0627\u0645\u0648\u0633 \u062a\u0648 \u06aa\u0627\u0645\u067e\u0648"
+    ],
+    "name:spa_x_preferred":[
+        "Potamos tou Kambou"
+    ],
+    "name:swe_x_preferred":[
+        "Potam\u00f3s tou K\u00e1mpou"
+    ],
+    "name:tur_x_preferred":[
+        "Yedidalga"
     ],
     "name:und_x_variant":[
         "Yedidalga",
@@ -77,7 +99,7 @@
         }
     ],
     "wof:id":1343285885,
-    "wof:lastmodified":1564096663,
+    "wof:lastmodified":1564100651,
     "wof:name":"Potamos tou Kampou",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

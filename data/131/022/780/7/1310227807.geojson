@@ -25,6 +25,9 @@
     "iso:country":"CY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Troodos"
+    ],
     "name:ell_x_preferred":[
         "Tr\u00f3odos"
     ],
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1310227807,
-    "wof:lastmodified":1564096668,
+    "wof:lastmodified":1564100656,
     "wof:name":"Troodos",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

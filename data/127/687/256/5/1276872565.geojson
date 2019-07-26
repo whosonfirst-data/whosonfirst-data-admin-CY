@@ -29,7 +29,11 @@
         "Chrysilio\u00fa"
     ],
     "name:ell_x_variant":[
-        "\u03a7\u03c1\u03c5\u03c3\u03b7\u03bb\u03b9\u03bf\u03cd"
+        "\u03a7\u03c1\u03c5\u03c3\u03b7\u03bb\u03b9\u03bf\u03cd",
+        "\u0393\u03b9\u03bf\u03c5\u03b2\u03b1\u03c3\u03af\u03ba"
+    ],
+    "name:pol_x_preferred":[
+        "Chrisiliu"
     ],
     "name:tur_x_preferred":[
         "Yuvac\u0131k"
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":1276872565,
-    "wof:lastmodified":1564096665,
+    "wof:lastmodified":1564100653,
     "wof:name":"Chrysiliou",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

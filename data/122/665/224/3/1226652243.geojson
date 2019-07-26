@@ -25,11 +25,20 @@
     "iso:country":"CY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Apliki"
+    ],
     "name:ell_x_preferred":[
         "Apl\u00edki"
     ],
     "name:ell_x_variant":[
         "\u0391\u03c0\u03bb\u03af\u03ba\u03b9"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u057a\u056c\u056b\u056f\u056b"
+    ],
+    "name:pol_x_preferred":[
+        "Apliki"
     ],
     "name:tur_x_preferred":[
         "Apl\u0131\u00e7"
@@ -78,7 +87,7 @@
         }
     ],
     "wof:id":1226652243,
-    "wof:lastmodified":1564096686,
+    "wof:lastmodified":1564100672,
     "wof:name":"Apliki",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

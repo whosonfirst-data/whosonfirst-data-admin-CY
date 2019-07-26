@@ -25,11 +25,21 @@
     "iso:country":"CY",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "K\u00e1to Fl\u00e1sou"
+    ],
     "name:ell_x_preferred":[
         "K\u00e1to Fl\u00e1sou"
     ],
     "name:ell_x_variant":[
-        "\u039a\u03ac\u03c4\u03c9 \u03a6\u03bb\u03ac\u03c3\u03bf\u03c5"
+        "\u039a\u03ac\u03c4\u03c9 \u03a6\u03bb\u03ac\u03c3\u03bf\u03c5",
+        "\u03a6\u03bb\u03ac\u03c3\u03bf\u03c5"
+    ],
+    "name:pol_x_preferred":[
+        "Kato Flasu"
+    ],
+    "name:swe_x_preferred":[
+        "K\u00e1to Fl\u00e1sou"
     ],
     "name:tur_x_preferred":[
         "Kato Flasou"
@@ -64,7 +74,7 @@
         }
     ],
     "wof:id":1209515835,
-    "wof:lastmodified":1564096666,
+    "wof:lastmodified":1564100655,
     "wof:name":"Kato Flasou",
     "wof:parent_id":85632437,
     "wof:placetype":"locality",
