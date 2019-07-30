@@ -32,6 +32,9 @@
     "name:eng_x_preferred":[
         "Zakaki"
     ],
+    "name:fra_x_preferred":[
+        "Zak\u00e1ki"
+    ],
     "name:und_x_variant":[
         "Zak\u00e1ti",
         "Zakaki"
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1193159913,
-    "wof:lastmodified":1537619241,
+    "wof:lastmodified":1564096667,
     "wof:name":"Zakaki",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

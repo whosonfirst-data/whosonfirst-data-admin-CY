@@ -29,11 +29,21 @@
         "Mosfiler\u00ed"
     ],
     "name:ell_x_variant":[
-        "\u039c\u03bf\u03c3\u03c6\u03b9\u03bb\u03b5\u03c1\u03ae"
+        "\u039c\u03bf\u03c3\u03c6\u03b9\u03bb\u03b5\u03c1\u03ae",
+        "\u039c\u03bf\u03c3\u03c6\u03af\u03bb\u03b9"
+    ],
+    "name:pol_x_preferred":[
+        "Mosfileri"
+    ],
+    "name:spa_x_preferred":[
+        "Mosfileri"
     ],
     "name:und_x_variant":[
         "Mosphili",
         "Mosphileri"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0648\u0633\u0641\u06cc\u0644\u06cc\u0631\u06cc"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -53,7 +63,7 @@
         }
     ],
     "wof:id":1209420977,
-    "wof:lastmodified":1537619243,
+    "wof:lastmodified":1564100655,
     "wof:name":"Mosfileri",
     "wof:parent_id":85632437,
     "wof:placetype":"locality",
