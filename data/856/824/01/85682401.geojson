@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "PA"
+    ],
     "lbl:latitude":34.899229,
     "lbl:longitude":32.525392,
     "mps:latitude":34.899229,
@@ -280,7 +283,7 @@
         "ell",
         "tur"
     ],
-    "wof:lastmodified":1563574388,
+    "wof:lastmodified":1565670989,
     "wof:name":"\u03a0\u03ac\u03c6\u03bf\u03c2",
     "wof:parent_id":85632437,
     "wof:placetype":"region",

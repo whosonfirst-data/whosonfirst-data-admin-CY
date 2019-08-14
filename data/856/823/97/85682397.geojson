@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "NI"
+    ],
     "lbl:latitude":35.074977,
     "lbl:longitude":33.109874,
     "mps:latitude":35.074977,
@@ -292,7 +295,7 @@
         "ell",
         "tur"
     ],
-    "wof:lastmodified":1563574387,
+    "wof:lastmodified":1565670989,
     "wof:name":"\u039b\u03b5\u03c5\u03ba\u03c9\u03c3\u03af\u03b1",
     "wof:parent_id":85632437,
     "wof:placetype":"region",

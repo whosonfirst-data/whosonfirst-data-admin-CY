@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "LA"
+    ],
     "lbl:latitude":34.872192,
     "lbl:longitude":33.461927,
     "mps:latitude":34.872192,
@@ -310,7 +313,7 @@
         "ell",
         "tur"
     ],
-    "wof:lastmodified":1563574387,
+    "wof:lastmodified":1565670989,
     "wof:name":"\u039b\u03ac\u03c1\u03bd\u03b1\u03ba\u03b1",
     "wof:parent_id":85632437,
     "wof:placetype":"region",

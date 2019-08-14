@@ -15,6 +15,9 @@
     "itu:country_code":[
         "357"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CY"
+    ],
     "lbl:latitude":34.881852,
     "lbl:longitude":33.011051,
     "mps:latitude":34.881852,
@@ -1096,10 +1099,6 @@
         }
     ],
     "wof:id":85632437,
-    "wof:lang":[
-        "ell",
-        "tur"
-    ],
     "wof:lang_x_official":[
         "ell",
         "tur"
@@ -1108,7 +1107,7 @@
         "ell",
         "tur"
     ],
-    "wof:lastmodified":1563574385,
+    "wof:lastmodified":1565670988,
     "wof:name":"Cyprus",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

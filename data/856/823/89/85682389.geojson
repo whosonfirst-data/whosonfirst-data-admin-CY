@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "FA"
+    ],
     "lbl:latitude":35.20388,
     "lbl:longitude":33.748205,
     "mps:latitude":35.20388,
@@ -279,7 +282,7 @@
         "ell",
         "tur"
     ],
-    "wof:lastmodified":1563574386,
+    "wof:lastmodified":1565670989,
     "wof:name":"\u0391\u03bc\u03bc\u03cc\u03c7\u03c9\u03c3\u03c4\u03bf\u03c2",
     "wof:parent_id":85632375,
     "wof:placetype":"region",
