@@ -12,10 +12,13 @@
     "iso:country":"CY",
     "lbl:latitude":34.855953,
     "lbl:longitude":32.513964,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":34.855953,
     "mps:longitude":32.513964,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041b\u0435\u0442\u0438\u043c\u0432\u0443"
     ],
@@ -43,9 +46,6 @@
     "name:pol_x_preferred":[
         "Letimwu"
     ],
-    "name:unk_x_variant":[
-        "Letymbou"
-    ],
     "name:urd_x_preferred":[
         "\u0644\u06cc\u062a\u06cc\u0645\u0648\u0648"
     ],
@@ -64,7 +64,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":23,
     "wof:belongsto":[
         102191569,
@@ -76,7 +76,7 @@
         "fct:id":"06ef3848-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":146385,
         "gp:id":841451,
-        "qs:id":1273455,
+        "qs_pg:id":1273455,
         "wd:id":"Q6533895"
     },
     "wof:country":"CY",
@@ -93,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563574475,
+    "wof:lastmodified":1566709983,
     "wof:name":"\u039b\u03b5\u03c4\u03cd\u03bc\u03b2\u03bf\u03c5",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

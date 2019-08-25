@@ -10,12 +10,16 @@
     "geom:latitude":35.21119,
     "geom:longitude":33.800529,
     "iso:country":"CY",
+    "lbl:bbox":"33.780529,35.19119,33.820529,35.23119",
     "lbl:latitude":35.21119,
     "lbl:longitude":33.800529,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":35.21119,
     "mps:longitude":33.800529,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0421\u0430\u043d\u0434\u0430\u043b\u0430\u0440\u0438\u0441"
     ],
@@ -44,10 +48,7 @@
     "name:tur_x_preferred":[
         "Sandallar"
     ],
-    "name:und_x_preferred":[
-        "Sandalaris"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u015eehitler"
     ],
     "name:urd_x_preferred":[
@@ -70,7 +71,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632437,
@@ -83,7 +84,7 @@
         "fct:id":"06ef61e2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":146096,
         "gp:id":841680,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q4817671",
         "wk:page":"Santalaris"
     },
@@ -123,7 +124,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563574442,
+    "wof:lastmodified":1566709976,
     "wof:name":"\u03a3\u03b1\u03bd\u03c4\u03b1\u03bb\u03ac\u03c1\u03b7\u03c2",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

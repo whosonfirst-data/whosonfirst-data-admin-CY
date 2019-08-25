@@ -9,15 +9,18 @@
     "geom:bbox":"32.50417,34.9875,32.50417,34.9875",
     "geom:latitude":34.9875,
     "geom:longitude":32.50417,
-    "gn:gn_country":"CY",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":20,
+    "gn:country":"CY",
+    "gn:fcode":"PPL",
     "gn:population":20,
     "iso:country":"CY",
+    "lbl:bbox":"32.48417,34.9675,32.52417,35.0075",
     "lbl:latitude":34.9875,
     "lbl:longitude":32.50417,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u041c\u0435\u043b\u0430\u0434\u0438\u044f"
@@ -41,7 +44,7 @@
     "name:pol_x_preferred":[
         "Meladia"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mel\u00e2dya"
     ],
     "name:urd_x_preferred":[
@@ -59,7 +62,7 @@
     "qs_pg:qs_id":514277,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":1126021071,
-    "wof:lastmodified":1563574631,
+    "wof:lastmodified":1566710016,
     "wof:name":"Meladhia",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

@@ -11,12 +11,16 @@
     "geom:longitude":33.118115,
     "gn:population":83,
     "iso:country":"CY",
+    "lbl:bbox":"33.098115,34.911435,33.138115,34.951435",
     "lbl:latitude":34.931435,
     "lbl:longitude":33.118115,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mps:latitude":34.931435,
     "mps:longitude":33.118115,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "Apliki"
     ],
@@ -42,7 +46,7 @@
     "name:pol_x_preferred":[
         "Apliki"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Al\u0131\u00e7ler"
     ],
     "name:urd_x_preferred":[
@@ -67,7 +71,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":34.930833,
     "wd:longitude":33.116944,
@@ -82,7 +86,6 @@
         "fct:id":"06ef010c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":146803,
         "gp:id":841135,
-        "qs:id":405457,
         "qs_pg:id":405457,
         "wd:id":"Q591348",
         "wk:page":"Apliki"
@@ -101,7 +104,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563574585,
+    "wof:lastmodified":1566710005,
     "wof:name":"\u0391\u03c0\u03bb\u03af\u03ba\u03b9",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

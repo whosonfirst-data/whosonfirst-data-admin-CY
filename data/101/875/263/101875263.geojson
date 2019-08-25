@@ -13,10 +13,13 @@
     "iso:country":"CY",
     "lbl:latitude":34.818397,
     "lbl:longitude":32.909339,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mps:latitude":34.818397,
     "mps:longitude":32.909339,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0414\u043e\u0440\u043e\u0441"
     ],
@@ -50,9 +53,6 @@
     "name:swe_x_preferred":[
         "Dor\u00f3s"
     ],
-    "name:unk_x_variant":[
-        "Dhoros"
-    ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
     "qs:a1":"*\u039b\u03b5\u03bc\u03b5\u03c3\u03cc\u03c2",
     "qs:a1_alt":"Lemesos",
@@ -69,7 +69,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":34.815833,
     "wd:longitude":32.911667,
@@ -84,7 +84,6 @@
         "fct:id":"06ef153e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":146656,
         "gp:id":841256,
-        "qs:id":1083330,
         "qs_pg:id":1083330,
         "wd:id":"Q5298207",
         "wk:page":"Doros, Cyprus"
@@ -103,7 +102,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563574424,
+    "wof:lastmodified":1566709971,
     "wof:name":"\u0394\u03c9\u03c1\u03cc\u03c2",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

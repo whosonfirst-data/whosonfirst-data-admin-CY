@@ -13,10 +13,13 @@
     "iso:country":"CY",
     "lbl:latitude":34.861249,
     "lbl:longitude":33.316716,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mps:latitude":34.861249,
     "mps:longitude":33.316716,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Kato L\u00e9fkara"
     ],
@@ -47,7 +50,7 @@
     "name:swe_x_preferred":[
         "Kato L\u00e9fkara"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "A\u015fa\u011f\u0131 Lefkara"
     ],
     "name:urd_x_preferred":[
@@ -69,7 +72,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -81,7 +84,6 @@
         "fct:id":"06ef26aa-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":146522,
         "gp:id":841351,
-        "qs:id":405530,
         "qs_pg:id":405530,
         "wd:id":"Q16269991"
     },
@@ -99,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563574423,
+    "wof:lastmodified":1566709971,
     "wof:name":"\u039a\u03ac\u03c4\u03c9 \u039b\u03b5\u03cd\u03ba\u03b1\u03c1\u03b1",
     "wof:parent_id":85682407,
     "wof:placetype":"locality",

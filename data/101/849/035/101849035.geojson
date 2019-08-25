@@ -10,12 +10,16 @@
     "geom:latitude":34.741108,
     "geom:longitude":33.242432,
     "iso:country":"CY",
+    "lbl:bbox":"33.222432,34.721108,33.262432,34.761108",
     "lbl:latitude":34.741108,
     "lbl:longitude":33.242432,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":34.741108,
     "mps:longitude":33.242432,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041f\u0435\u043d\u0434\u0430\u043a\u043e\u043c\u043e"
     ],
@@ -43,7 +47,7 @@
     "name:swe_x_preferred":[
         "Pent\u00e1komo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Be\u015fevler"
     ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
@@ -63,7 +67,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":34.738333,
     "wd:longitude":33.241667,
     "wd:wordcount":24,
@@ -76,7 +80,7 @@
     "wof:concordances":{
         "gn:id":146197,
         "gp:id":841599,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q7165004",
         "wk:page":"Pentakomo"
     },
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":101849035,
-    "wof:lastmodified":1563574599,
+    "wof:lastmodified":1566710008,
     "wof:name":"\u03a0\u03b5\u03bd\u03c4\u03ac\u03ba\u03c9\u03bc\u03bf",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"CY",
     "lbl:latitude":35.315849,
     "lbl:longitude":33.941992,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":35.315849,
     "mps:longitude":33.941992,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041c\u043e\u043d\u0430\u0440\u0433\u0430"
     ],
@@ -55,16 +58,10 @@
         "Daksecit",
         "Deregecit"
     ],
-    "name:und_x_preferred":[
-        "Monarga"
-    ],
     "name:und_x_variant":[
         "Bok\u0327aztepe",
         "Dak\u0327se\u00e7it",
         "Derege\u00e7it"
-    ],
-    "name:unk_x_variant":[
-        "Bo\u011faztepe"
     ],
     "name:urd_x_preferred":[
         "\u0645\u0648\u0646\u0631\u06af\u0627"
@@ -85,7 +82,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632437,
@@ -98,7 +95,6 @@
         "fct:id":"06ef452c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":146293,
         "gp:id":841525,
-        "qs:id":1033969,
         "qs_pg:id":1033969,
         "wd:id":"Q4825760",
         "wk:page":"Monarga"
@@ -139,7 +135,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563574403,
+    "wof:lastmodified":1566709965,
     "wof:name":"\u039c\u03bf\u03bd\u03b1\u03c1\u03b3\u03ac",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

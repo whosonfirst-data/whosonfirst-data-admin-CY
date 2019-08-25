@@ -12,10 +12,13 @@
     "iso:country":"CY",
     "lbl:latitude":35.06573,
     "lbl:longitude":32.878765,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":35.06573,
     "mps:longitude":32.878765,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ell_x_preferred":[
         "\u00c1gios Epif\u00e1nios"
     ],
@@ -38,9 +41,6 @@
     "name:spa_x_preferred":[
         "Agios Epiphanios"
     ],
-    "name:unk_x_variant":[
-        "Agios Epiphanios"
-    ],
     "name:urd_x_preferred":[
         "\u0627\u06af\u06cc\u0648\u0627\u0633 \u0627\u067e\u06cc\u0641\u0627\u0646\u06cc\u0648\u0633"
     ],
@@ -58,7 +58,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632437,
@@ -68,7 +68,7 @@
     "wof:concordances":{
         "gn:id":146728,
         "gp:id":841458,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q4692621"
     },
     "wof:country":"CY",
@@ -82,7 +82,7 @@
         }
     ],
     "wof:id":101876317,
-    "wof:lastmodified":1563574588,
+    "wof:lastmodified":1566710006,
     "wof:name":"\u0386\u03b3\u03b9\u03bf\u03c2 \u0395\u03c0\u03b9\u03c6\u03ac\u03bd\u03b9\u03bf\u03c2",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

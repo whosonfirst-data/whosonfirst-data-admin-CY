@@ -12,10 +12,13 @@
     "iso:country":"CY",
     "lbl:latitude":35.332301,
     "lbl:longitude":33.689349,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":35.332301,
     "mps:longitude":33.689349,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041c\u0435\u043b\u0443\u043d\u0434\u0430"
     ],
@@ -44,7 +47,7 @@
     "name:tur_x_preferred":[
         "Mall\u0131da\u011f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Malounda"
     ],
     "name:urd_x_preferred":[
@@ -65,7 +68,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632437,
@@ -77,7 +80,7 @@
     "wof:concordances":{
         "gn:id":146348,
         "gp:id":841480,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q6813574"
     },
     "wof:country":"CY",
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":101803267,
-    "wof:lastmodified":1563574498,
+    "wof:lastmodified":1566709988,
     "wof:name":"\u039c\u03b5\u03bb\u03bf\u03cd\u03bd\u03c4\u03b1",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

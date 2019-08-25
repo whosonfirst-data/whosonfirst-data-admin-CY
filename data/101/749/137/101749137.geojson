@@ -13,6 +13,8 @@
     "iso:country":"CY",
     "lbl:latitude":35.114984,
     "lbl:longitude":33.949624,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":35.114984,
     "mps:longitude":33.949624,
     "mz:hierarchy_label":1,
@@ -217,15 +219,8 @@
         "Gazimagusa",
         "Magusa"
     ],
-    "name:und_x_preferred":[
-        "Ammochostos",
-        "Gazima\u011fusa"
-    ],
     "name:und_x_variant":[
-        "Magosa",
-        "Ma\u011fusa"
-    ],
-    "name:unk_x_variant":[
+        "Ammochostos",
         "Magosa"
     ],
     "name:urd_x_preferred":[
@@ -352,7 +347,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -368,7 +363,6 @@
         "fct:id":"06ef1a52-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":146617,
         "gp:id":841285,
-        "qs:id":122425,
         "qs_pg:id":122425,
         "wd:id":"Q193190",
         "wk:page":"Famagusta"
@@ -409,7 +403,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563574552,
+    "wof:lastmodified":1566709999,
     "wof:name":"\u0391\u03bc\u03bc\u03cc\u03c7\u03c9\u03c3\u03c4\u03bf\u03c2",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

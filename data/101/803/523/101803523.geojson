@@ -12,10 +12,13 @@
     "iso:country":"CY",
     "lbl:latitude":35.190236,
     "lbl:longitude":33.092772,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":35.190236,
     "mps:longitude":33.092772,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Fylli\u00e1"
     ],
@@ -53,13 +56,8 @@
         "Serhadkoey",
         "Serhadkoy"
     ],
-    "name:und_x_preferred":[
-        "Philia"
-    ],
     "name:und_x_variant":[
-        "Serhadk\u00f6y"
-    ],
-    "name:unk_x_variant":[
+        "Philia",
         "Serhadk\u00f6y"
     ],
     "name:urd_x_preferred":[
@@ -80,7 +78,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632437,
@@ -93,7 +91,7 @@
         "fct:id":"06ef58d2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":146164,
         "gp:id":841626,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q4818103",
         "wk:page":"Fyllia"
     },
@@ -125,7 +123,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563574546,
+    "wof:lastmodified":1566709998,
     "wof:name":"\u03a6\u03c5\u03bb\u03bb\u03b9\u03ac",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

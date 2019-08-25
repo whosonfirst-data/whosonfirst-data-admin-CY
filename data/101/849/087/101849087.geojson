@@ -11,12 +11,16 @@
     "geom:longitude":32.79388,
     "gn:population":68,
     "iso:country":"CY",
+    "lbl:bbox":"32.77388,34.912442,32.81388,34.952442",
     "lbl:latitude":34.932442,
     "lbl:longitude":32.79388,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mps:latitude":34.932442,
     "mps:longitude":32.79388,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0422\u0440\u0438\u0441 \u0415\u043b\u0438\u0435\u0441"
     ],
@@ -42,7 +46,7 @@
     "name:pol_x_preferred":[
         "Tris Elies"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tris Eli\u00e6s"
     ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
@@ -63,7 +67,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":34.931944,
     "wd:longitude":32.793333,
@@ -77,7 +81,6 @@
     "wof:concordances":{
         "gn:id":146020,
         "gp:id":841740,
-        "qs:id":405625,
         "qs_pg:id":405625,
         "wd:id":"Q779408",
         "wk:page":"Treis Elies"
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":101849087,
-    "wof:lastmodified":1563574595,
+    "wof:lastmodified":1566710007,
     "wof:name":"\u03a4\u03c1\u03b5\u03af\u03c2 \u0395\u03bb\u03b9\u03ad\u03c2",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"CY",
     "lbl:latitude":34.839846,
     "lbl:longitude":33.186273,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mps:latitude":34.839846,
     "mps:longitude":33.186273,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0410\u043a\u0430\u043f\u043d\u0443"
     ],
@@ -53,9 +56,6 @@
     "name:pol_x_preferred":[
         "Akapnu"
     ],
-    "name:unk_x_variant":[
-        "Akapnu"
-    ],
     "name:urd_x_preferred":[
         "\u0622\u06a9\u0627\u067e\u0646\u0648"
     ],
@@ -75,7 +75,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":34.837778,
     "wd:longitude":33.186944,
@@ -90,7 +90,6 @@
         "fct:id":"06eefa9a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":146845,
         "gp:id":841104,
-        "qs:id":940288,
         "qs_pg:id":940288,
         "wd:id":"Q4700284",
         "wk:page":"Akapnou"
@@ -109,7 +108,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563574422,
+    "wof:lastmodified":1566709970,
     "wof:name":"\u0391\u03ba\u03b1\u03c0\u03bd\u03bf\u03cd",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

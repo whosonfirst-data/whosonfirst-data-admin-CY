@@ -5,24 +5,27 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000676,
-    "geom:area_square_m":6827646.066393,
+    "geom:area_square_m":6827646.066392,
     "geom:bbox":"33.4173809553,35.2099132312,33.4875572583,35.2451553335",
     "geom:latitude":35.230017,
     "geom:longitude":33.454602,
     "iso:country":"CY",
     "lbl:latitude":35.234066,
     "lbl:longitude":33.45799,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":35.234066,
     "mps:longitude":33.45799,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ell_x_preferred":[
         "N\u00e9o Chori\u00f3"
     ],
     "name:ell_x_variant":[
         "\u039d\u03ad\u03bf \u03a7\u03c9\u03c1\u03b9\u03cc"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Neon Chorion"
     ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
@@ -40,7 +43,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632437,
@@ -52,7 +55,7 @@
     "wof:concordances":{
         "gn:id":146270,
         "gp:id":841543,
-        "qs:id":1273490
+        "qs_pg:id":1273490
     },
     "wof:country":"CY",
     "wof:geomhash":"a606eaa6c36536698bbe50677980d334",
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":101838583,
-    "wof:lastmodified":1501212515,
+    "wof:lastmodified":1566710011,
     "wof:name":"\u039d\u03ad\u03bf \u03a7\u03c9\u03c1\u03b9\u03cc",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

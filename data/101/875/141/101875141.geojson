@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000214,
-    "geom:area_square_m":2168768.340878,
+    "geom:area_square_m":2168768.340876,
     "geom:bbox":"33.481216126,35.0689643837,33.4991273758,35.0870109445",
     "geom:latitude":35.077101,
     "geom:longitude":33.491059,
     "iso:country":"CY",
     "lbl:latitude":35.077044,
     "lbl:longitude":33.491784,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":35.077044,
     "mps:longitude":33.491784,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ell_x_preferred":[
         "Pyr\u00f3gi"
     ],
@@ -30,11 +33,8 @@
         "Gaziler",
         "Piroi"
     ],
-    "name:und_x_preferred":[
+    "name:und_x_variant":[
         "Pyroi"
-    ],
-    "name:unk_x_variant":[
-        "Gaziler"
     ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
     "qs:a1":"*\u039b\u03b5\u03c5\u03ba\u03c9\u03c3\u03af\u03b1",
@@ -50,7 +50,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632437,
@@ -63,7 +63,7 @@
         "fct:id":"06ef611a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":146106,
         "gp:id":841675,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"CY",
     "wof:geomhash":"799ae68e1fdd7dea4b6999a877c3d011",
@@ -93,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1501212505,
+    "wof:lastmodified":1566709971,
     "wof:name":"\u03a0\u03c5\u03c1\u03cc\u03b3\u03b9",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"CY",
     "lbl:latitude":35.206906,
     "lbl:longitude":33.493966,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":35.206906,
     "mps:longitude":33.493966,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ell_x_preferred":[
         "Pala\u00edkythro"
     ],
@@ -41,11 +44,8 @@
     "name:tur_x_preferred":[
         "Bal\u0131kesir"
     ],
-    "name:und_x_preferred":[
+    "name:und_x_variant":[
         "Palekythro"
-    ],
-    "name:unk_x_variant":[
-        "Balikitre"
     ],
     "name:urd_x_preferred":[
         "\u067e\u0627\u0644\u0626\u06cc\u06a9\u06cc\u062a\u06be\u0631\u0648"
@@ -65,7 +65,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632437,
@@ -78,7 +78,7 @@
         "fct:id":"06ef4d24-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":146240,
         "gp:id":841565,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q7126560"
     },
     "wof:country":"CY",
@@ -109,7 +109,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563574534,
+    "wof:lastmodified":1566709996,
     "wof:name":"\u03a0\u03b1\u03bb\u03b1\u03af\u03ba\u03c5\u03b8\u03c1\u03bf",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

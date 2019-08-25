@@ -12,10 +12,13 @@
     "iso:country":"CY",
     "lbl:latitude":35.026289,
     "lbl:longitude":33.950889,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":35.026289,
     "mps:longitude":33.950889,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0421\u043e\u0442\u0438\u0440\u0430"
     ],
@@ -97,7 +100,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":35.026667,
     "wd:longitude":33.950278,
     "wd:wordcount":69,
@@ -112,7 +115,6 @@
         "fct:id":"06ef657a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":146068,
         "gp:id":841700,
-        "qs:id":478022,
         "qs_pg:id":478022,
         "wd:id":"Q1014266",
         "wk:page":"Sotira, Famagusta"
@@ -139,7 +141,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563574625,
+    "wof:lastmodified":1566710014,
     "wof:name":"\u03a3\u03c9\u03c4\u03ae\u03c1\u03b1",
     "wof:parent_id":85682389,
     "wof:placetype":"locality",

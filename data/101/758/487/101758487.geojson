@@ -9,15 +9,18 @@
     "geom:bbox":"33.1637209328,35.3310372836,33.1814830624,35.3458014882",
     "geom:latitude":35.338361,
     "geom:longitude":33.172368,
-    "geonames:id":"146397,146403",
+    "gn:id":"146397,146403",
     "gn:population":5215,
     "iso:country":"CY",
     "lbl:latitude":35.336766,
     "lbl:longitude":33.172503,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":35.336766,
     "mps:longitude":33.172503,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Lapatos"
     ],
@@ -82,7 +85,7 @@
     "name:tur_x_preferred":[
         "Lapta"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gildirin"
     ],
     "name:urd_x_preferred":[
@@ -103,7 +106,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -116,7 +119,7 @@
     "wof:concordances":{
         "gn:id":146403,
         "gp:id":841438,
-        "qs:id":983601,
+        "qs_pg:id":983601,
         "wd:id":"Q1805833",
         "wk:page":"Lapithos"
     },
@@ -153,7 +156,7 @@
         }
     ],
     "wof:id":101758487,
-    "wof:lastmodified":1563574558,
+    "wof:lastmodified":1566709999,
     "wof:name":"\u039b\u03ac\u03c0\u03b7\u03b8\u03bf\u03c2",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"CY",
     "lbl:latitude":34.924076,
     "lbl:longitude":32.578989,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mps:latitude":34.924076,
     "mps:longitude":32.578989,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041a\u0430\u043d\u0430\u0432\u0438\u0443"
     ],
@@ -44,7 +47,7 @@
     "name:swe_x_preferred":[
         "Kannavio\u00fa"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kanavya"
     ],
     "name:urd_x_preferred":[
@@ -67,7 +70,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":21,
     "wof:belongsto":[
@@ -80,7 +83,6 @@
         "fct:id":"06ef21dc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":146557,
         "gp:id":841325,
-        "qs:id":940302,
         "qs_pg:id":940302,
         "wd:id":"Q6364013",
         "wk:page":"Kannaviou"
@@ -99,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563574463,
+    "wof:lastmodified":1566709981,
     "wof:name":"\u039a\u03b1\u03bd\u03bd\u03b1\u03b2\u03b9\u03bf\u03cd",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"CY",
     "lbl:latitude":35.342516,
     "lbl:longitude":33.999155,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":35.342516,
     "mps:longitude":33.999155,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0413\u0430\u0441\u0442\u0440\u0438\u044f"
     ],
@@ -55,12 +58,6 @@
     "name:tur_x_preferred":[
         "Kalecik"
     ],
-    "name:und_x_preferred":[
-        "Gastria"
-    ],
-    "name:unk_x_variant":[
-        "Kalecik"
-    ],
     "name:urd_x_preferred":[
         "\u06af\u0627\u0633\u062a\u0631\u06cc\u0627"
     ],
@@ -81,7 +78,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632437,
@@ -94,7 +91,6 @@
         "fct:id":"06ef1bba-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":146603,
         "gp:id":841292,
-        "qs:id":988633,
         "qs_pg:id":988633,
         "wd:id":"Q1495617",
         "wk:page":"Gastria"
@@ -135,7 +131,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563574521,
+    "wof:lastmodified":1566709993,
     "wof:name":"\u0393\u03b1\u03c3\u03c4\u03c1\u03b9\u03ac",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

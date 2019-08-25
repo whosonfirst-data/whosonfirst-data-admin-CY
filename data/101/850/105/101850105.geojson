@@ -11,12 +11,16 @@
     "geom:longitude":33.348759,
     "gn:population":122,
     "iso:country":"CY",
+    "lbl:bbox":"33.328759,34.991357,33.368759,35.031357",
     "lbl:latitude":35.011357,
     "lbl:longitude":33.348759,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mps:latitude":35.011357,
     "mps:longitude":33.348759,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Kotsiatis"
     ],
@@ -38,7 +42,7 @@
     "name:tur_x_preferred":[
         "Ko\u00e7yata\u011f\u0131"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ko\u00e7\u00e7at"
     ],
     "name:urd_x_preferred":[
@@ -61,7 +65,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":49,
     "wof:belongsto":[
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":146458,
         "gp:id":841493,
-        "qs:id":514346,
+        "qs_pg:id":514346,
         "wd:id":"Q6434250",
         "wk:page":"Kotsiatis"
     },
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":101850105,
-    "wof:lastmodified":1563574429,
+    "wof:lastmodified":1566709972,
     "wof:name":"\u039a\u03bf\u03c4\u03c3\u03b9\u03ac\u03c4\u03b7\u03c2",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"CY",
     "lbl:latitude":35.330358,
     "lbl:longitude":33.928355,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":35.330358,
     "mps:longitude":33.928355,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ell_x_preferred":[
         "\u00c1gios II\u00edas"
     ],
@@ -52,15 +55,9 @@
         "Yarkoey",
         "Yarkoy"
     ],
-    "name:und_x_preferred":[
-        "Beyk\u00f6y"
-    ],
     "name:und_x_variant":[
         "Ayios Elias",
         "Yark\u00f6y"
-    ],
-    "name:unk_x_variant":[
-        "Saint Elias"
     ],
     "name:urd_x_preferred":[
         "\u0628\u0626\u06cc\u06a9\u06cc\u0648\u06cc"
@@ -80,7 +77,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632437,
@@ -93,7 +90,7 @@
         "fct:id":"06ef0b48-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":146731,
         "gp:id":841196,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q4899877"
     },
     "wof:country":"CY",
@@ -132,7 +129,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563574494,
+    "wof:lastmodified":1566709987,
     "wof:name":"\u0386\u03b3\u03b9\u03bf\u03c2 \u0397\u03bb\u03af\u03b1\u03c2",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

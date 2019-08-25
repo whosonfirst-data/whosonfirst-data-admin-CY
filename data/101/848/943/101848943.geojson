@@ -11,12 +11,16 @@
     "geom:longitude":32.678131,
     "gn:population":44,
     "iso:country":"CY",
+    "lbl:bbox":"32.658131,34.730854,32.698131,34.770854",
     "lbl:latitude":34.750854,
     "lbl:longitude":32.678131,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mps:latitude":34.750854,
     "mps:longitude":32.678131,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0410\u0440\u0445\u0438\u043c\u0430\u043d\u0434\u0440\u0438\u0442\u0430"
     ],
@@ -46,7 +50,7 @@
     "name:pol_x_preferred":[
         "Archimandrita"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Yukar\u0131 Arhimandrita"
     ],
     "name:urd_x_preferred":[
@@ -70,7 +74,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":34.750833,
     "wd:longitude":32.6775,
@@ -85,7 +89,6 @@
         "fct:id":"06ef4efa-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":146227,
         "gp:id":841575,
-        "qs:id":405574,
         "qs_pg:id":405574,
         "wd:id":"Q4791988",
         "wk:page":"Archimandrita"
@@ -104,7 +107,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563574586,
+    "wof:lastmodified":1566710005,
     "wof:name":"\u03a0\u03ac\u03bd\u03c9 \u0391\u03c1\u03c7\u03b9\u03bc\u03b1\u03bd\u03b4\u03c1\u03af\u03c4\u03b1",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

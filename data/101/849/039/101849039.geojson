@@ -10,19 +10,23 @@
     "geom:latitude":34.803158,
     "geom:longitude":33.214721,
     "iso:country":"CY",
+    "lbl:bbox":"33.194721,34.783158,33.234721,34.823158",
     "lbl:latitude":34.803158,
     "lbl:longitude":33.214721,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":34.803158,
     "mps:longitude":33.214721,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ell_x_preferred":[
         "V\u00e1sa"
     ],
     "name:ell_x_variant":[
         "\u0392\u03ac\u03c3\u03b1"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vasa Limassol"
     ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
@@ -42,7 +46,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632437,
@@ -52,7 +56,7 @@
     "wof:concordances":{
         "gn:id":146007,
         "gp:id":841758,
-        "qs:id":4
+        "qs_pg:id":4
     },
     "wof:country":"CY",
     "wof:geomhash":"fecc63b83b8b7e0149cac10b5e14007c",
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":101849039,
-    "wof:lastmodified":1544740751,
+    "wof:lastmodified":1566710007,
     "wof:name":"\u0392\u03ac\u03c3\u03b1",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

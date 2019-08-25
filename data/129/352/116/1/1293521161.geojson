@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Nicosia",
     "iso:country":"CY",
+    "lbl:bbox":"33.005,34.69667,33.045,34.73667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ell_x_preferred":[
         "\u0391\u03b3\u03af\u03b1 \u03a6\u03cd\u03bb\u03b1"
     ],
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1293521161,
-    "wof:lastmodified":1537619249,
+    "wof:lastmodified":1566709960,
     "wof:name":"Agia Fylaxis",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

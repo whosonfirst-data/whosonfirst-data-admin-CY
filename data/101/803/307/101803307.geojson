@@ -12,10 +12,13 @@
     "iso:country":"CY",
     "lbl:latitude":35.411124,
     "lbl:longitude":33.998277,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":35.411124,
     "mps:longitude":33.998277,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041a\u043e\u043c\u0438 \u041a\u0435\u043f\u0438\u0440"
     ],
@@ -58,14 +61,8 @@
         "Bueyuekkonuk",
         "Buyukkonuk"
     ],
-    "name:und_x_preferred":[
-        "B\u00fcy\u00fckkonuk"
-    ],
     "name:und_x_variant":[
         "Komi Kebir"
-    ],
-    "name:unk_x_variant":[
-        "B\u00fcy\u00fckkonuk"
     ],
     "name:urd_x_preferred":[
         "\u06a9\u0648\u0645\u06cc \u06a9\u06cc\u0628\u06cc\u0631"
@@ -85,7 +82,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632437,
@@ -98,7 +95,7 @@
         "fct:id":"06ef2f74-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":146449,
         "gp:id":841404,
-        "qs:id":940313,
+        "qs_pg:id":940313,
         "wd:id":"Q4818935",
         "wk:page":"Komi Kebir"
     },
@@ -138,7 +135,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563574476,
+    "wof:lastmodified":1566709984,
     "wof:name":"\u039a\u03ce\u03bc\u03b7",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

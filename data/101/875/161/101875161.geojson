@@ -13,10 +13,13 @@
     "iso:country":"CY",
     "lbl:latitude":34.8112,
     "lbl:longitude":32.570488,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mps:latitude":34.8112,
     "mps:longitude":32.570488,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0415\u043b\u0435\u0434\u0438\u043e"
     ],
@@ -45,9 +48,6 @@
     "name:pol_x_preferred":[
         "Eledio"
     ],
-    "name:unk_x_variant":[
-        "Eledyu"
-    ],
     "name:urd_x_preferred":[
         "\u0627\u06cc\u0644\u06cc\u062f\u06cc\u0648"
     ],
@@ -67,7 +67,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":20,
     "wof:belongsto":[
@@ -80,7 +80,6 @@
         "fct:id":"06ef1746-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":146642,
         "gp:id":841267,
-        "qs:id":1273411,
         "qs_pg:id":1273411,
         "wd:id":"Q5358599",
         "wk:page":"Eledio"
@@ -99,7 +98,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563574397,
+    "wof:lastmodified":1566709964,
     "wof:name":"\u0395\u03bb\u03b5\u03b4\u03b9\u03cc",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

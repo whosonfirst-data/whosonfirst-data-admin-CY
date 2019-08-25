@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Nicosia",
     "iso:country":"CY",
+    "lbl:bbox":"32.65879,34.71535,32.69879,34.75535",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ell_x_preferred":[
         "K\u00e1to Archimandr\u00edta"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1277069397,
-    "wof:lastmodified":1537619246,
+    "wof:lastmodified":1566709960,
     "wof:name":"Kato Archimandrita",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"CY",
     "lbl:latitude":35.174644,
     "lbl:longitude":33.758615,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":35.174644,
     "mps:longitude":33.758615,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ell_x_preferred":[
         "Prasti\u00f3"
     ],
@@ -32,13 +35,8 @@
         "Doertyol",
         "Dortyol"
     ],
-    "name:und_x_preferred":[
-        "Prastio"
-    ],
     "name:und_x_variant":[
-        "D\u00f6rtyol"
-    ],
-    "name:unk_x_variant":[
+        "Prastio",
         "D\u00f6rtyol"
     ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
@@ -58,7 +56,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632437,
@@ -71,7 +69,6 @@
         "fct:id":"06ef5f12-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":146122,
         "gp:id":841663,
-        "qs:id":42560,
         "qs_pg:id":42560
     },
     "wof:country":"CY",
@@ -110,7 +107,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1497294490,
+    "wof:lastmodified":1566709994,
     "wof:name":"\u03a0\u03c1\u03b1\u03c3\u03c4\u03b9\u03cc",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

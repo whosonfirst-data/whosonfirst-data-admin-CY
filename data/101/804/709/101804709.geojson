@@ -12,10 +12,13 @@
     "iso:country":"CY",
     "lbl:latitude":34.89456,
     "lbl:longitude":33.034097,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":34.89456,
     "mps:longitude":33.034097,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0410\u0433\u0438\u043e\u0441 \u0422\u0435\u043e\u0434\u043e\u0440\u043e\u0441"
     ],
@@ -53,9 +56,7 @@
         "Layios Theodoros"
     ],
     "name:und_x_variant":[
-        "\u0141\u00e1yios The\u00f3doros"
-    ],
-    "name:unk_x_variant":[
+        "\u0141\u00e1yios The\u00f3doros",
         "Ayios Theodoros"
     ],
     "name:urd_x_preferred":[
@@ -76,7 +77,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":34.893889,
     "wd:longitude":33.0325,
     "wd:wordcount":20,
@@ -90,7 +91,7 @@
         "fct:id":"06ef1066-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":146699,
         "gp:id":841225,
-        "qs:id":405495,
+        "qs_pg:id":405495,
         "wd:id":"Q4831305",
         "wk:page":"Agios Theodoros, Limassol"
     },
@@ -108,7 +109,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563574450,
+    "wof:lastmodified":1566709978,
     "wof:name":"\u0386\u03b3\u03b9\u03bf\u03c2 \u0398\u03b5\u03cc\u03b4\u03c9\u03c1\u03bf\u03c2",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

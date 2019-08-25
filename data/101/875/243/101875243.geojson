@@ -13,10 +13,13 @@
     "iso:country":"CY",
     "lbl:latitude":34.749284,
     "lbl:longitude":33.212727,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":34.749284,
     "mps:longitude":33.212727,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041c\u043e\u043d\u0430\u0433\u0440\u0443\u043b\u0438"
     ],
@@ -44,7 +47,7 @@
     "name:swe_x_preferred":[
         "Monagro\u00falli"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Monagrulli"
     ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
@@ -61,7 +64,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":34.747222,
     "wd:longitude":33.2125,
@@ -75,7 +78,7 @@
     "wof:concordances":{
         "gn:id":146294,
         "gp:id":841524,
-        "qs:id":405561,
+        "qs_pg:id":405561,
         "wd:id":"Q6897919",
         "wk:page":"Monagroulli"
     },
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":101875243,
-    "wof:lastmodified":1563574402,
+    "wof:lastmodified":1566709965,
     "wof:name":"\u039c\u03bf\u03bd\u03b1\u03b3\u03c1\u03bf\u03cd\u03bb\u03bb\u03b9",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

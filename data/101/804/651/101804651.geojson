@@ -13,10 +13,13 @@
     "iso:country":"CY",
     "lbl:latitude":34.744381,
     "lbl:longitude":33.183684,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":34.744381,
     "mps:longitude":33.183684,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041f\u0438\u0440\u0433\u043e\u0441"
     ],
@@ -47,7 +50,7 @@
     "name:swe_x_preferred":[
         "Pyrgos"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pyrga"
     ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
@@ -67,7 +70,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":34.742778,
     "wd:longitude":33.183333,
@@ -80,7 +83,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":146107,
-        "qs:id":122389,
         "qs_pg:id":122389,
         "wd:id":"Q7263520",
         "wk:page":"Pyrgos, Limassol"
@@ -96,7 +98,7 @@
         }
     ],
     "wof:id":101804651,
-    "wof:lastmodified":1563574456,
+    "wof:lastmodified":1566709979,
     "wof:name":"\u03a0\u03cd\u03c1\u03b3\u03bf\u03c2",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

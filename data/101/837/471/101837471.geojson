@@ -13,10 +13,13 @@
     "iso:country":"CY",
     "lbl:latitude":34.847311,
     "lbl:longitude":32.911455,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mps:latitude":34.847311,
     "mps:longitude":32.911455,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0422\u0440\u0438\u043c\u0438\u043a\u043b\u0438\u043d\u0438"
     ],
@@ -45,7 +48,7 @@
     "name:swe_x_preferred":[
         "Trim\u00edklini"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Trimiklin"
     ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
@@ -66,7 +69,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":34.846944,
     "wd:longitude":32.911667,
@@ -81,7 +84,6 @@
         "fct:id":"06ef6c6e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":146025,
         "gp:id":841736,
-        "qs:id":1349500,
         "qs_pg:id":1349500,
         "wd:id":"Q7842231",
         "wk:page":"Trimiklini"
@@ -100,7 +102,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769737,
+    "wof:lastmodified":1566710011,
     "wof:name":"\u03a4\u03c1\u03b9\u03bc\u03ae\u03ba\u03bb\u03b7\u03bd\u03b7",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

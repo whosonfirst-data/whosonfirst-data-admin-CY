@@ -13,10 +13,13 @@
     "iso:country":"CY",
     "lbl:latitude":34.692616,
     "lbl:longitude":32.961381,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":34.692616,
     "mps:longitude":32.961381,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u06cc\u06cc\u067e\u0633\u0648\u0646\u0627\u0633"
     ],
@@ -80,9 +83,6 @@
     "name:und_x_variant":[
         "\u1e2epsona"
     ],
-    "name:unk_x_variant":[
-        "Ipsonas"
-    ],
     "name:urd_x_preferred":[
         "\u06cc\u067e\u0633\u0648\u0646\u0627\u0633"
     ],
@@ -103,7 +103,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":76,
     "wof:belongsto":[
@@ -116,7 +116,6 @@
         "fct:id":"06ef75a6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":145952,
         "gp:id":841788,
-        "qs:id":122379,
         "qs_pg:id":122379,
         "wd:id":"Q3560553",
         "wk:page":"Ypsonas"
@@ -135,7 +134,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563574566,
+    "wof:lastmodified":1566710001,
     "wof:name":"\u038e\u03c8\u03c9\u03bd\u03b1\u03c2",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

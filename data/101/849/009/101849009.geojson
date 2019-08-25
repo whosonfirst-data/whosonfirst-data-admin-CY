@@ -11,12 +11,16 @@
     "geom:longitude":33.229217,
     "gn:population":89,
     "iso:country":"CY",
+    "lbl:bbox":"33.209217,34.873268,33.249217,34.913268",
     "lbl:latitude":34.893268,
     "lbl:longitude":33.229217,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mps:latitude":34.893268,
     "mps:longitude":33.229217,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0412\u0430\u0432\u0430\u0446\u0438\u043d\u0438\u044f"
     ],
@@ -47,7 +51,7 @@
     "name:pol_x_preferred":[
         "Wawatsinia"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vavatsinya"
     ],
     "name:urd_x_preferred":[
@@ -71,7 +75,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":34.8925,
     "wd:longitude":33.228889,
@@ -86,7 +90,6 @@
         "fct:id":"06ef6fde-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":145997,
         "gp:id":841755,
-        "qs:id":513944,
         "qs_pg:id":513944,
         "wd:id":"Q7917491",
         "wk:page":"Vavatsinia"
@@ -105,7 +108,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563574592,
+    "wof:lastmodified":1566710007,
     "wof:name":"\u0392\u03b1\u03b2\u03b1\u03c4\u03c3\u03b9\u03bd\u03b9\u03ac",
     "wof:parent_id":85682407,
     "wof:placetype":"locality",

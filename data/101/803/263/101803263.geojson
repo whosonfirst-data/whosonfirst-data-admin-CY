@@ -12,10 +12,13 @@
     "iso:country":"CY",
     "lbl:latitude":35.333059,
     "lbl:longitude":33.750898,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":35.333059,
     "mps:longitude":33.750898,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041f\u043b\u0430\u0442\u0430\u043d\u0438"
     ],
@@ -51,14 +54,9 @@
         "Bladan",
         "Cinarli"
     ],
-    "name:und_x_preferred":[
-        "Platani"
-    ],
     "name:und_x_variant":[
         "Bl\u00e2dan",
-        "\u00c7inarli"
-    ],
-    "name:unk_x_variant":[
+        "\u00c7inarli",
         "\u00c7inarl\u0131"
     ],
     "name:urd_x_preferred":[
@@ -79,7 +77,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632437,
@@ -92,7 +90,7 @@
         "fct:id":"06ef5c42-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":146144,
         "gp:id":841643,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q7202159",
         "wk:page":"Platani, Cyprus"
     },
@@ -132,7 +130,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563574537,
+    "wof:lastmodified":1566709996,
     "wof:name":"\u03a0\u03bb\u03b1\u03c4\u03ac\u03bd\u03b9",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

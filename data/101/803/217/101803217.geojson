@@ -12,10 +12,13 @@
     "iso:country":"CY",
     "lbl:latitude":35.156031,
     "lbl:longitude":33.70092,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":35.156031,
     "mps:longitude":33.70092,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0421\u0438\u043d\u0434\u0430"
     ],
@@ -55,14 +58,8 @@
         "Inoenue",
         "Inonu"
     ],
-    "name:und_x_preferred":[
-        "Sinda"
-    ],
     "name:und_x_variant":[
         "\u1e2en\u00f6n\u00fc"
-    ],
-    "name:unk_x_variant":[
-        "\u0130n\u00f6n\u00fc"
     ],
     "name:urd_x_preferred":[
         "\u0633\u06cc\u0646\u062a\u0627\u060c \u0642\u0628\u0631\u0635"
@@ -85,7 +82,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632437,
@@ -98,7 +95,7 @@
         "fct:id":"06ef63e0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":146078,
         "gp:id":841692,
-        "qs:id":1273521,
+        "qs_pg:id":1273521,
         "wd:id":"Q7525086",
         "wk:page":"Sinta, Cyprus"
     },
@@ -138,7 +135,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563574492,
+    "wof:lastmodified":1566709987,
     "wof:name":"\u03a3\u03af\u03bd\u03c4\u03b1",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

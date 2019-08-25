@@ -13,10 +13,13 @@
     "iso:country":"CY",
     "lbl:latitude":34.773856,
     "lbl:longitude":32.427452,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":34.773856,
     "mps:longitude":32.427452,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0641\u0648\u0633"
     ],
@@ -230,15 +233,8 @@
     "name:ukr_x_preferred":[
         "\u041f\u0430\u0444\u043e\u0441"
     ],
-    "name:und_x_preferred":[
-        "Baf",
-        "Pafos"
-    ],
     "name:und_x_variant":[
         "Kasaba"
-    ],
-    "name:unk_x_variant":[
-        "Baf"
     ],
     "name:urd_x_preferred":[
         "\u067e\u0627\u0641\u0648\u0633"
@@ -270,7 +266,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:elevation":72.0,
     "wd:latitude":34.766667,
@@ -305,7 +301,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563574550,
+    "wof:lastmodified":1566709999,
     "wof:name":"\u03a0\u03ac\u03c6\u03bf\u03c2",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

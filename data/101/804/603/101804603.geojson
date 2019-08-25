@@ -12,10 +12,13 @@
     "iso:country":"CY",
     "lbl:latitude":34.98994,
     "lbl:longitude":32.4912,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":34.98994,
     "mps:longitude":32.4912,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041f\u0435\u0440\u0438\u0441\u0442\u0435\u0440\u043e\u043d\u0430"
     ],
@@ -59,7 +62,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":34.990556,
     "wd:longitude":32.489167,
     "wd:wordcount":21,
@@ -73,7 +76,7 @@
         "fct:id":"06ef551c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":146188,
         "gp:id":841608,
-        "qs:id":405582,
+        "qs_pg:id":405582,
         "wd:id":"Q582175",
         "wk:page":"Peristerona, Paphos"
     },
@@ -91,7 +94,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563574457,
+    "wof:lastmodified":1566709980,
     "wof:name":"\u03a0\u03b5\u03c1\u03b9\u03c3\u03c4\u03b5\u03c1\u03ce\u03bd\u03b1",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

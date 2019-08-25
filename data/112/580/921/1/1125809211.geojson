@@ -9,15 +9,18 @@
     "geom:bbox":"32.5875,34.85833,32.5875,34.85833",
     "geom:latitude":34.85833,
     "geom:longitude":32.5875,
-    "gn:gn_country":"CY",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":4,
+    "gn:country":"CY",
+    "gn:fcode":"PPL",
     "gn:population":4,
     "iso:country":"CY",
+    "lbl:bbox":"32.5675,34.83833,32.6075,34.87833",
     "lbl:latitude":34.85833,
     "lbl:longitude":32.5875,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ell_x_preferred":[
         "F\u00e1leia"
@@ -25,7 +28,7 @@
     "name:ell_x_variant":[
         "\u03a6\u03ac\u03bb\u03b5\u03b9\u03b1"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "G\u00f6k\u00e7ebel"
     ],
     "qs_pg:aaroncc":"CY",
@@ -49,7 +52,7 @@
     "qs_pg:woe_adm0":26812346,
     "qs_pg:woe_id":841619,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":26812346,
     "woe:name_adm0":"Cyprus",
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1125809211,
-    "wof:lastmodified":1509393445,
+    "wof:lastmodified":1566710017,
     "wof:name":"Phasli",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"CY",
     "lbl:latitude":34.97547,
     "lbl:longitude":32.487593,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":34.97547,
     "mps:longitude":32.487593,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0422\u0440\u0438\u043c\u0438\u0442\u0443\u0441\u0430"
     ],
@@ -48,9 +51,6 @@
         "Tremetu\u015fa",
         "Uzunme\u015fe"
     ],
-    "name:unk_x_variant":[
-        "Uzunme\u015fe"
-    ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
     "qs:a1":"*\u03a0\u03ac\u03c6\u03bf\u03c2",
     "qs:a1_alt":"Pafos",
@@ -65,7 +65,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":21,
     "wof:belongsto":[
         102191569,
@@ -77,7 +77,7 @@
         "fct:id":"06ef6d0e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":146022,
         "gp:id":841739,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q7842235",
         "wk:page":"Trimithousa"
     },
@@ -95,7 +95,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769714,
+    "wof:lastmodified":1566709965,
     "wof:name":"\u03a4\u03c1\u03b9\u03bc\u03b9\u03b8\u03bf\u03cd\u03c3\u03b1",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

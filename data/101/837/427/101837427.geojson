@@ -13,10 +13,13 @@
     "iso:country":"CY",
     "lbl:latitude":34.981561,
     "lbl:longitude":32.970358,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mps:latitude":34.981561,
     "mps:longitude":32.970358,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ell_x_preferred":[
         "\u0391\u03b3\u03af\u03b1 \u0395\u03b9\u03c1\u03ae\u03bd\u03b7 \u039b\u03b5\u03c5\u03ba\u03c9\u03c3\u03af\u03b1\u03c2"
     ],
@@ -49,7 +52,7 @@
     "name:swe_x_preferred":[
         "Ajia Irini"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ayirini"
     ],
     "name:urd_x_preferred":[
@@ -75,7 +78,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":25,
     "wof:belongsto":[
@@ -88,7 +91,6 @@
         "fct:id":"06ef0814-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":146755,
         "gp:id":841173,
-        "qs:id":405466,
         "qs_pg:id":405466,
         "wd:id":"Q4692498",
         "wk:page":"Agia Eirini, Nicosia"
@@ -107,7 +109,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563574620,
+    "wof:lastmodified":1566710013,
     "wof:name":"\u0391\u03b3\u03af\u03b1 \u0395\u03b9\u03c1\u03ae\u03bd\u03b7",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

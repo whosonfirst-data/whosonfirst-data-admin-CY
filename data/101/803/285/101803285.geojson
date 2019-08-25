@@ -12,10 +12,13 @@
     "iso:country":"CY",
     "lbl:latitude":35.354546,
     "lbl:longitude":33.963441,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":35.354546,
     "mps:longitude":33.963441,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0410\u0432\u0433\u043e\u043b\u0438\u0434\u0430"
     ],
@@ -49,14 +52,8 @@
     "name:und_x_colloquial":[
         "Kurtulus"
     ],
-    "name:und_x_preferred":[
-        "Kurtulu\u015f"
-    ],
     "name:und_x_variant":[
         "Avgalidha"
-    ],
-    "name:unk_x_variant":[
-        "Avgolidha"
     ],
     "name:urd_x_preferred":[
         "\u0622\u0648\u06af\u0648\u0644\u06cc\u062f\u0627"
@@ -76,7 +73,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632437,
@@ -89,7 +86,7 @@
         "fct:id":"06ef06ac-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":146763,
         "gp:id":841166,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q4816906",
         "wk:page":"Avgolida"
     },
@@ -129,7 +126,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563574526,
+    "wof:lastmodified":1566709994,
     "wof:name":"\u0391\u03c5\u03b3\u03bf\u03bb\u03af\u03b4\u03b1",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

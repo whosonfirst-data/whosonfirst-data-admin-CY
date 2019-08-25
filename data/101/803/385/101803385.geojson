@@ -12,10 +12,13 @@
     "iso:country":"CY",
     "lbl:latitude":35.11731,
     "lbl:longitude":32.94892,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":35.11731,
     "mps:longitude":32.94892,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0637\u0627\u0634\u0628\u064a\u0646\u0627\u0631\u060c \u0642\u0628\u0631\u0635"
     ],
@@ -78,16 +81,10 @@
     "name:und_x_colloquial":[
         "Angolaemi"
     ],
-    "name:und_x_preferred":[
-        "Angol\u00e6mi"
-    ],
     "name:und_x_variant":[
-        "Angolemi",
+        "Angol\u00e6mi",
         "Taspinar",
         "Ta\u015fpinar"
-    ],
-    "name:unk_x_variant":[
-        "Ta\u015fp\u0131nar"
     ],
     "name:urd_x_preferred":[
         "\u0627\u0646\u06af\u0648\u0644\u06cc\u0645\u06cc"
@@ -110,7 +107,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632437,
@@ -123,7 +120,7 @@
         "fct:id":"06ef0008-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":146811,
         "gp:id":841130,
-        "qs:id":915584,
+        "qs_pg:id":915584,
         "wd:id":"Q3241528",
         "wk:page":"Angolemi"
     },
@@ -155,7 +152,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563574507,
+    "wof:lastmodified":1566709990,
     "wof:name":"\u0391\u03b3\u03b3\u03bf\u03bb\u03ad\u03bc\u03b9",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

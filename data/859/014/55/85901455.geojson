@@ -13,8 +13,10 @@
     "gn:longitude":32.42451,
     "gn:population":35961,
     "iso:country":"CY",
+    "lbl:bbox":"32.406786,34.766167,32.416786,34.776167",
     "lbl:latitude":34.771167,
     "lbl:longitude":32.411786,
+    "lbl:max_zoom":18.0,
     "mps:latitude":34.755219,
     "mps:longitude":32.405982,
     "mz:hierarchy_label":0,
@@ -242,10 +244,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u0430\u0444\u043e\u0441"
     ],
-    "name:unk_x_variant":[
-        "Baf",
-        "Nea Paphos"
-    ],
     "name:urd_x_preferred":[
         "\u067e\u0627\u0641\u0648\u0633"
     ],
@@ -355,7 +353,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -367,7 +365,6 @@
     "wof:concordances":{
         "gn:id":146214,
         "gp:id":841541,
-        "qs:id":491847,
         "qs_pg:id":491847,
         "wd:id":"Q180918",
         "wk:page":"Paphos"
@@ -387,7 +384,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563574381,
+    "wof:lastmodified":1566709958,
     "wof:name":"Nea Paphos",
     "wof:parent_id":101749143,
     "wof:placetype":"neighbourhood",

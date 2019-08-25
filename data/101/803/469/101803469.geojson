@@ -9,14 +9,17 @@
     "geom:bbox":"32.8856095075,35.058232605,32.8975276019,35.0784253939",
     "geom:latitude":35.067754,
     "geom:longitude":32.890593,
-    "geonames:id":"146518,146218",
+    "gn:id":"146518,146218",
     "iso:country":"CY",
     "lbl:latitude":35.067225,
     "lbl:longitude":32.890187,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":35.067225,
     "mps:longitude":32.890187,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "K\u00e1to Fl\u00e1sou"
     ],
@@ -53,7 +56,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":34,
     "wof:belongsto":[
         102191569,
@@ -62,7 +65,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q5457679"
     },
     "wof:country":"CY",
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":101803469,
-    "wof:lastmodified":1561769728,
+    "wof:lastmodified":1566709995,
     "wof:name":"\u03a6\u03bb\u03ac\u03c3\u03bf\u03c5",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

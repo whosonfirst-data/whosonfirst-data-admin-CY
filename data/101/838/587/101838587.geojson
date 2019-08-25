@@ -12,10 +12,13 @@
     "iso:country":"CY",
     "lbl:latitude":35.236558,
     "lbl:longitude":33.500988,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":35.236558,
     "mps:longitude":33.500988,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ell_x_preferred":[
         "B\u00e9\u00efkio\u00ef"
     ],
@@ -42,14 +45,8 @@
         "Beykoey",
         "Beykoy"
     ],
-    "name:und_x_preferred":[
-        "Bey Keuy"
-    ],
     "name:und_x_variant":[
-        "Beyk\u00f6y"
-    ],
-    "name:unk_x_variant":[
-        "Beyk\u00f6y"
+        "Bey Keuy"
     ],
     "name:urd_x_preferred":[
         "\u0628\u0626\u06cc\u06a9\u06cc\u0648\u06cc"
@@ -69,7 +66,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632437,
@@ -82,7 +79,7 @@
         "fct:id":"06ef12dc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":146679,
         "gp:id":841241,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q4899877",
         "wk:page":"Beikioi"
     },
@@ -114,7 +111,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563574605,
+    "wof:lastmodified":1566710010,
     "wof:name":"\u039c\u03c0\u03ad\u03ca\u03ba\u03ca\u03bf\u03b9",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

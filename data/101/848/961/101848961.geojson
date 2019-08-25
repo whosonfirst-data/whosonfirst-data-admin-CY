@@ -11,12 +11,16 @@
     "geom:longitude":32.588948,
     "gn:population":4,
     "iso:country":"CY",
+    "lbl:bbox":"32.568948,34.839916,32.608948,34.879916",
     "lbl:latitude":34.859916,
     "lbl:longitude":32.588948,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mps:latitude":34.859916,
     "mps:longitude":32.588948,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0424\u0430\u043b\u0438\u044f"
     ],
@@ -50,9 +54,6 @@
     "name:und_x_variant":[
         "G\u00f6k\u00e7ebel"
     ],
-    "name:unk_x_variant":[
-        "G\u00f6k\u00e7ebel"
-    ],
     "name:urd_x_preferred":[
         "\u0641\u0627\u0644\u0627\u0626\u06cc\u0627"
     ],
@@ -73,7 +74,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":80,
     "wof:belongsto":[
@@ -86,7 +87,7 @@
         "fct:id":"06ef5706-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":146174,
         "gp:id":841619,
-        "qs:id":1083340,
+        "qs_pg:id":1083340,
         "wd:id":"Q7180294",
         "wk:page":"Faleia"
     },
@@ -104,7 +105,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563574582,
+    "wof:lastmodified":1566710004,
     "wof:name":"\u03a6\u03ac\u03bb\u03b5\u03b9\u03b1",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

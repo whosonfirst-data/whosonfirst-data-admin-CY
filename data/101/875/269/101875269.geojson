@@ -13,10 +13,13 @@
     "iso:country":"CY",
     "lbl:latitude":34.850937,
     "lbl:longitude":32.887103,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mps:latitude":34.850937,
     "mps:longitude":32.887103,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041a\u0443\u043a\u0430"
     ],
@@ -38,9 +41,6 @@
     "name:pol_x_preferred":[
         "Kuka"
     ],
-    "name:unk_x_variant":[
-        "Kuka"
-    ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
     "qs:a1":"*\u039b\u03b5\u03bc\u03b5\u03c3\u03cc\u03c2",
     "qs:a1_alt":"Lemesos",
@@ -57,7 +57,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":34.850556,
     "wd:longitude":32.886944,
@@ -72,7 +72,6 @@
         "fct:id":"06ef31ae-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":146435,
         "gp:id":841416,
-        "qs:id":184449,
         "qs_pg:id":184449,
         "wd:id":"Q6434528",
         "wk:page":"Kouka, Cyprus"
@@ -91,7 +90,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563574406,
+    "wof:lastmodified":1566709966,
     "wof:name":"\u039a\u03bf\u03c5\u03ba\u03ac",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

@@ -11,12 +11,16 @@
     "geom:longitude":32.60284,
     "gn:population":2,
     "iso:country":"CY",
+    "lbl:bbox":"32.58284,34.713505,32.62284,34.753505",
     "lbl:latitude":34.733505,
     "lbl:longitude":32.60284,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mps:latitude":34.733505,
     "mps:longitude":32.60284,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0421\u0443\u0441\u043a\u0438\u0443"
     ],
@@ -38,7 +42,7 @@
     "name:pol_x_preferred":[
         "Suskiu"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Susuz"
     ],
     "name:urd_x_preferred":[
@@ -61,7 +65,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":81,
     "wof:belongsto":[
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":146067,
         "gp:id":841701,
-        "qs:id":514042,
+        "qs_pg:id":514042,
         "wd:id":"Q7565245",
         "wk:page":"Souskiou"
     },
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":101848933,
-    "wof:lastmodified":1563574584,
+    "wof:lastmodified":1566710005,
     "wof:name":"\u03a3\u03bf\u03c5\u03c3\u03ba\u03b9\u03bf\u03cd",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

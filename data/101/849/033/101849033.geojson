@@ -11,12 +11,16 @@
     "geom:longitude":33.081883,
     "gn:population":360,
     "iso:country":"CY",
+    "lbl:bbox":"33.061883,34.745427,33.101883,34.785427",
     "lbl:latitude":34.765427,
     "lbl:longitude":33.081883,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":34.765427,
     "mps:longitude":33.081883,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0410\u043a\u0440\u0443\u043d\u0434\u0430"
     ],
@@ -59,7 +63,7 @@
     "name:swe_x_preferred":[
         "Akro\u00fanta"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Akrunda"
     ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
@@ -80,7 +84,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":34.768889,
     "wd:longitude":33.079444,
@@ -95,7 +99,6 @@
         "fct:id":"06eefb94-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":146835,
         "gp:id":841109,
-        "qs:id":405445,
         "qs_pg:id":405445,
         "wd:id":"Q4701722",
         "wk:page":"Akrounta"
@@ -114,7 +117,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563574601,
+    "wof:lastmodified":1566710009,
     "wof:name":"\u0391\u03ba\u03c1\u03bf\u03cd\u03bd\u03c4\u03b1",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

@@ -10,12 +10,16 @@
     "geom:latitude":34.942559,
     "geom:longitude":32.40077,
     "iso:country":"CY",
+    "lbl:bbox":"32.38077,34.922559,32.42077,34.962559",
     "lbl:latitude":34.942559,
     "lbl:longitude":32.40077,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":34.942559,
     "mps:longitude":32.40077,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0410\u0440\u043e\u0434\u0435\u0441"
     ],
@@ -61,9 +65,7 @@
     "name:und_x_variant":[
         "A\u015fak\u0327i Arodes",
         "A\u015fak\u0327i Arodez",
-        "A\u015fak\u0327i Kalkanli"
-    ],
-    "name:unk_x_variant":[
+        "A\u015fak\u0327i Kalkanli",
         "Kato Arodesd"
     ],
     "name:urd_x_preferred":[
@@ -86,7 +88,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":451,
     "wof:belongsto":[
         102191569,
@@ -98,7 +100,7 @@
         "fct:id":"06ef2510-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":146530,
         "gp:id":841342,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q4795469",
         "wk:page":"Arodes"
     },
@@ -116,7 +118,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563574438,
+    "wof:lastmodified":1566709975,
     "wof:name":"\u039a\u03ac\u03c4\u03c9 \u0391\u03c1\u03cc\u03b4\u03b5\u03c2",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"CY",
     "lbl:latitude":35.12526,
     "lbl:longitude":33.19194,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":35.12526,
     "mps:longitude":33.19194,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ell_x_preferred":[
         "\u03a0\u03b1\u03bb\u03b1\u03b9\u03bf\u03bc\u03ad\u03c4\u03bf\u03c7\u03bf"
     ],
@@ -49,7 +52,7 @@
     "name:tur_x_preferred":[
         "Pala\u0131ometokho"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Eskimeto\u015f"
     ],
     "name:urd_x_preferred":[
@@ -70,7 +73,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":35.125278,
     "wd:longitude":33.190556,
     "wd:wordcount":85,
@@ -82,7 +85,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":146239,
-        "qs:id":4,
+        "qs_pg:id":4,
         "wd:id":"Q3557700"
     },
     "wof:country":"CY",
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":101803429,
-    "wof:lastmodified":1563574525,
+    "wof:lastmodified":1566709994,
     "wof:name":"\u03a0\u03b1\u03bb\u03b1\u03b9\u03bf\u03bc\u03ad\u03c4\u03bf\u03c7\u03bf",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"CY",
     "lbl:latitude":34.831114,
     "lbl:longitude":32.889315,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mps:latitude":34.831114,
     "mps:longitude":32.889315,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0421\u0438\u043b\u0438\u043a\u0443"
     ],
@@ -62,9 +65,6 @@
     "name:swe_x_preferred":[
         "Sil\u00edkou"
     ],
-    "name:unk_x_variant":[
-        "Siliku"
-    ],
     "name:urd_x_preferred":[
         "\u0633\u06cc\u0644\u06cc\u06a9\u0648"
     ],
@@ -85,7 +85,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":34.832222,
     "wd:longitude":32.888889,
@@ -100,7 +100,6 @@
         "fct:id":"06ef634a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":146082,
         "gp:id":841689,
-        "qs:id":1349483,
         "qs_pg:id":1349483,
         "wd:id":"Q7515072",
         "wk:page":"Silikou"
@@ -119,7 +118,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769722,
+    "wof:lastmodified":1566709982,
     "wof:name":"\u03a3\u03b9\u03bb\u03af\u03ba\u03bf\u03c5",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"CY",
     "lbl:latitude":35.237989,
     "lbl:longitude":33.782856,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":35.237989,
     "mps:longitude":33.782856,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041c\u0438\u043b\u0438\u044f"
     ],
@@ -53,11 +56,8 @@
     "name:tur_x_preferred":[
         "Y\u0131ld\u0131r\u0131m"
     ],
-    "name:und_x_preferred":[
+    "name:und_x_variant":[
         "Milea"
-    ],
-    "name:unk_x_variant":[
-        "Y\u0131ld\u0131r\u0131m"
     ],
     "name:urd_x_preferred":[
         "\u0645\u06cc\u0644\u06cc\u0627\u060c \u0641\u0627\u0645\u0627\u06af\u0648\u0633\u062a\u0627"
@@ -80,7 +80,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632437,
@@ -93,7 +93,7 @@
         "fct:id":"06ef43c4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":146300,
         "gp:id":841518,
-        "qs:id":1273486,
+        "qs_pg:id":1273486,
         "wd:id":"Q6851821",
         "wk:page":"Milia, Famagusta"
     },
@@ -133,7 +133,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563574529,
+    "wof:lastmodified":1566709995,
     "wof:name":"\u039c\u03b7\u03bb\u03b9\u03ac",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

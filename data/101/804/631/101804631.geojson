@@ -13,10 +13,13 @@
     "iso:country":"CY",
     "lbl:latitude":34.797436,
     "lbl:longitude":33.336006,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":34.797436,
     "mps:longitude":33.336006,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0425\u0438\u0440\u043e\u043a\u0438\u0442\u0438\u044f"
     ],
@@ -44,7 +47,7 @@
     "name:nld_x_preferred":[
         "Choirokoitia"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hirokitiya"
     ],
     "name:urd_x_preferred":[
@@ -67,7 +70,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":64,
     "wof:belongsto":[
@@ -80,7 +83,6 @@
         "fct:id":"06ef7826-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":146491,
         "gp:id":841375,
-        "qs:id":1349429,
         "qs_pg:id":1349429,
         "wd:id":"Q5104086"
     },
@@ -98,7 +100,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563574472,
+    "wof:lastmodified":1566709983,
     "wof:name":"\u03a7\u03bf\u03b9\u03c1\u03bf\u03ba\u03bf\u03b9\u03c4\u03af\u03b1",
     "wof:parent_id":85682407,
     "wof:placetype":"locality",

@@ -11,12 +11,16 @@
     "geom:longitude":33.065426,
     "gn:population":169,
     "iso:country":"CY",
+    "lbl:bbox":"33.045426,34.847393,33.085426,34.887393",
     "lbl:latitude":34.867393,
     "lbl:longitude":33.065426,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mps:latitude":34.867393,
     "mps:longitude":33.065426,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0410\u0433\u0438\u043e\u0441 \u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\u043e\u0441"
     ],
@@ -60,9 +64,6 @@
     "name:swe_x_preferred":[
         "\u00c1gios Konstant\u00ednos"
     ],
-    "name:unk_x_variant":[
-        "Saint Konstantinos"
-    ],
     "name:urd_x_preferred":[
         "\u0622\u0626\u06cc\u0648\u0633 \u06a9\u0648\u0646\u0633\u062a\u0627\u0646\u062a\u06cc\u0646\u0648\u0633"
     ],
@@ -84,7 +85,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":34.867222,
     "wd:longitude":33.066111,
@@ -99,7 +100,6 @@
         "fct:id":"06ef0daa-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":146719,
         "gp:id":841208,
-        "qs:id":405485,
         "qs_pg:id":405485,
         "wd:id":"Q4831295"
     },
@@ -117,7 +117,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563574602,
+    "wof:lastmodified":1566710009,
     "wof:name":"\u0386\u03b3\u03b9\u03bf\u03c2 \u039a\u03c9\u03bd\u03c3\u03c4\u03b1\u03bd\u03c4\u03af\u03bd\u03bf\u03c2",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

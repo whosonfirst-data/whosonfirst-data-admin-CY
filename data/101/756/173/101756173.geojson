@@ -12,10 +12,13 @@
     "iso:country":"CY",
     "lbl:latitude":34.816367,
     "lbl:longitude":32.443672,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":34.816367,
     "mps:longitude":32.443672,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0422\u0440\u0435\u043c\u0438\u0442\u0443\u0441\u0430"
     ],
@@ -47,7 +50,7 @@
     "name:swe_x_preferred":[
         "Tremitho\u00fasa"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Trimithusa"
     ],
     "name:urd_x_preferred":[
@@ -68,7 +71,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":28,
     "wof:belongsto":[
         102191569,
@@ -79,7 +82,7 @@
     "wof:concordances":{
         "gn:id":146023,
         "gp:id":841516,
-        "qs:id":6,
+        "qs_pg:id":6,
         "wd:id":"Q7838121",
         "wk:page":"Tremithousa"
     },
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":101756173,
-    "wof:lastmodified":1563574562,
+    "wof:lastmodified":1566710000,
     "wof:name":"\u03a4\u03c1\u03b5\u03bc\u03b9\u03b8\u03bf\u03cd\u03c3\u03b1",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

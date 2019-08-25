@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Nicosia",
     "iso:country":"CY",
+    "lbl:bbox":"32.67073,34.84492,32.71073,34.88492",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Malo\u00fanta"
     ],
@@ -50,7 +54,6 @@
         "Malounta"
     ],
     "name:und_x_variant":[
-        "Malunda",
         "Malounda"
     ],
     "name:urd_x_preferred":[
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1343657125,
-    "wof:lastmodified":1564100650,
+    "wof:lastmodified":1566709957,
     "wof:name":"Malounta",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

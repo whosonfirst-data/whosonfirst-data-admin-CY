@@ -13,10 +13,13 @@
     "iso:country":"CY",
     "lbl:latitude":35.03707,
     "lbl:longitude":33.840227,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":35.03707,
     "mps:longitude":33.840227,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0622\u0648\u0642\u0648\u0631\u0648"
     ],
@@ -68,7 +71,7 @@
     "name:tur_x_preferred":[
         "Avghorou"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Avgoru"
     ],
     "name:urd_x_preferred":[
@@ -91,7 +94,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":35.035556,
     "wd:longitude":33.839167,
@@ -107,7 +110,6 @@
         "fct:id":"06ef06de-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":146761,
         "gp:id":841167,
-        "qs:id":940294,
         "qs_pg:id":940294,
         "wd:id":"Q3560533",
         "wk:page":"Avgorou"
@@ -134,7 +136,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563574508,
+    "wof:lastmodified":1566709990,
     "wof:name":"\u0391\u03c5\u03b3\u03cc\u03c1\u03bf\u03c5",
     "wof:parent_id":85682389,
     "wof:placetype":"locality",

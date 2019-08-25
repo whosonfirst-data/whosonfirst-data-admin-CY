@@ -12,10 +12,13 @@
     "iso:country":"CY",
     "lbl:latitude":35.366418,
     "lbl:longitude":34.027886,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":35.366418,
     "mps:longitude":34.027886,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0410\u0433\u0438\u043e\u0441 \u0422\u0435\u043e\u0434\u043e\u0440\u043e\u0441"
     ],
@@ -69,14 +72,9 @@
         "Bozdak",
         "Cayirova"
     ],
-    "name:und_x_preferred":[
-        "\u00c7ayirova"
-    ],
     "name:und_x_variant":[
+        "\u00c7ayirova",
         "Bozdak\u0327"
-    ],
-    "name:unk_x_variant":[
-        "Otluk"
     ],
     "name:urd_x_preferred":[
         "\u0622\u0626\u06cc\u0648\u0633 \u062a\u06be\u0648\u062f\u0648\u0631\u0648\u0633"
@@ -96,7 +94,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632437,
@@ -109,7 +107,7 @@
         "fct:id":"06ef10d4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":146696,
         "gp:id":841227,
-        "qs:id":966675,
+        "qs_pg:id":966675,
         "wd:id":"Q4831308",
         "wk:page":"Agios Theodoros, Famagusta"
     },
@@ -149,7 +147,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563574496,
+    "wof:lastmodified":1566709988,
     "wof:name":"\u0386\u03b3\u03b9\u03bf\u03c2 \u0398\u03b5\u03cc\u03b4\u03c9\u03c1\u03bf\u03c2",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

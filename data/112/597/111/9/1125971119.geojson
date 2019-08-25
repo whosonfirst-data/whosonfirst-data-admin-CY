@@ -9,15 +9,18 @@
     "geom:bbox":"32.475,35.0,32.475,35.0",
     "geom:latitude":35.0,
     "geom:longitude":32.475,
-    "gn:gn_country":"CY",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":10,
+    "gn:country":"CY",
+    "gn:fcode":"PPL",
     "gn:population":10,
     "iso:country":"CY",
+    "lbl:bbox":"32.455,34.98,32.495,35.02",
     "lbl:latitude":35.0,
     "lbl:longitude":32.475,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0410\u0433\u0438\u043e\u0441 \u0418\u0441\u0438\u0434\u043e\u0440\u043e\u0441"
@@ -44,7 +47,7 @@
     "name:pol_x_preferred":[
         "Ajos Isidoros"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Demirci"
     ],
     "name:urd_x_preferred":[
@@ -67,7 +70,7 @@
     "qs_pg:woe_adm0":26812346,
     "qs_pg:woe_id":841206,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":26812346,
     "woe:name_adm0":"Cyprus",
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1125971119,
-    "wof:lastmodified":1563574636,
+    "wof:lastmodified":1566710017,
     "wof:name":"Ayios Isidhoros",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

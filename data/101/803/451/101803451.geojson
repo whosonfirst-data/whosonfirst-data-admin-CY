@@ -13,10 +13,13 @@
     "iso:country":"CY",
     "lbl:latitude":35.100964,
     "lbl:longitude":33.093876,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":35.100964,
     "mps:longitude":33.093876,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Oro\u00fanta"
     ],
@@ -54,9 +57,6 @@
     "name:tur_x_variant":[
         "Kato Mom"
     ],
-    "name:unk_x_variant":[
-        "Orunda"
-    ],
     "name:urd_x_preferred":[
         "\u0627\u0648\u0631\u0648\u0646\u062a\u0627"
     ],
@@ -77,7 +77,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":19,
     "wof:belongsto":[
@@ -90,7 +90,6 @@
         "fct:id":"06ef4b76-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":146250,
         "gp:id":841559,
-        "qs:id":915600,
         "qs_pg:id":915600,
         "wd:id":"Q7103891",
         "wk:page":"Orounta"
@@ -109,7 +108,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769728,
+    "wof:lastmodified":1566709995,
     "wof:name":"\u039f\u03c1\u03bf\u03cd\u03bd\u03c4\u03b1",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

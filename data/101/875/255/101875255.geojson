@@ -13,10 +13,13 @@
     "iso:country":"CY",
     "lbl:latitude":34.711565,
     "lbl:longitude":32.710433,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mps:latitude":34.711565,
     "mps:longitude":32.710433,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041f\u043b\u0430\u0442\u0430\u043d\u0438\u0441\u0442\u0438\u044f"
     ],
@@ -51,9 +54,7 @@
     ],
     "name:und_x_variant":[
         "Pl\u00e2danisya",
-        "\u00c7amlica"
-    ],
-    "name:unk_x_variant":[
+        "\u00c7amlica",
         "\u00c7aml\u0131ca"
     ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
@@ -72,7 +73,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":34.711667,
     "wd:longitude":32.710556,
@@ -87,7 +88,6 @@
         "fct:id":"06ef5c74-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":146142,
         "gp:id":841645,
-        "qs:id":405606,
         "qs_pg:id":405606,
         "wd:id":"Q280124",
         "wk:page":"Platanisteia"
@@ -106,7 +106,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769718,
+    "wof:lastmodified":1566709971,
     "wof:name":"\u03a0\u03bb\u03b1\u03c4\u03b1\u03bd\u03af\u03c3\u03c4\u03b5\u03b9\u03b1",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

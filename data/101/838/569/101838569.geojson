@@ -12,10 +12,13 @@
     "iso:country":"CY",
     "lbl:latitude":35.471967,
     "lbl:longitude":34.149281,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":35.471967,
     "mps:longitude":34.149281,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0412\u0430\u0441\u0438\u043b\u0438"
     ],
@@ -59,9 +62,6 @@
     "name:tur_x_preferred":[
         "Gelincik"
     ],
-    "name:unk_x_variant":[
-        "Gelincik"
-    ],
     "name:urd_x_preferred":[
         "\u0648\u0627\u0633\u06cc\u0644\u06cc"
     ],
@@ -80,7 +80,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632437,
@@ -91,7 +91,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":146005,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q1183677",
         "wk:page":"Vasili"
     },
@@ -128,7 +128,7 @@
         }
     ],
     "wof:id":101838569,
-    "wof:lastmodified":1563574602,
+    "wof:lastmodified":1566710009,
     "wof:name":"\u0392\u03b1\u03c3\u03af\u03bb\u03b9",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

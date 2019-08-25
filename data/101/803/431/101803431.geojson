@@ -13,10 +13,13 @@
     "iso:country":"CY",
     "lbl:latitude":35.165585,
     "lbl:longitude":33.146668,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":35.165585,
     "mps:longitude":33.146668,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "D\u00e9neia"
     ],
@@ -51,9 +54,6 @@
     "name:swe_x_preferred":[
         "D\u00e9neia"
     ],
-    "name:unk_x_variant":[
-        "Denya"
-    ],
     "name:urd_x_preferred":[
         "\u062f\u06cc\u0646\u0626\u06cc\u0627"
     ],
@@ -74,7 +74,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":259,
     "wof:belongsto":[
@@ -87,7 +87,6 @@
         "fct:id":"06ef1444-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":146662,
         "gp:id":841251,
-        "qs:id":405503,
         "qs_pg:id":405503,
         "wd:id":"Q5256884",
         "wk:page":"Deneia"
@@ -106,7 +105,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769725,
+    "wof:lastmodified":1566709988,
     "wof:name":"\u0394\u03ad\u03bd\u03b5\u03b9\u03b1",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

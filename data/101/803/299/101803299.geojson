@@ -12,10 +12,13 @@
     "iso:country":"CY",
     "lbl:latitude":35.397501,
     "lbl:longitude":34.076799,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":35.397501,
     "mps:longitude":34.076799,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0422\u0430\u0432\u0440\u043e\u0441"
     ],
@@ -55,12 +58,6 @@
     "name:tur_x_preferred":[
         "Pamuklu"
     ],
-    "name:und_x_preferred":[
-        "Tavros"
-    ],
-    "name:unk_x_variant":[
-        "Pamuklu"
-    ],
     "name:urd_x_preferred":[
         "\u062a\u0627\u0648\u0631\u0648\u0633"
     ],
@@ -79,7 +76,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632437,
@@ -92,7 +89,7 @@
         "fct:id":"06ef68fe-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":146044,
         "gp:id":841719,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q7689162",
         "wk:page":"Tavros, Cyprus"
     },
@@ -132,7 +129,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563574538,
+    "wof:lastmodified":1566709996,
     "wof:name":"\u03a4\u03b1\u03cd\u03c1\u03bf\u03c5",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"CY",
     "lbl:latitude":35.0433,
     "lbl:longitude":33.155983,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":35.0433,
     "mps:longitude":33.155983,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Agrokipi\u00e1"
     ],
@@ -44,7 +47,7 @@
     "name:swe_x_preferred":[
         "Agrokipi\u00e1"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "A\u011frocipya"
     ],
     "name:urd_x_preferred":[
@@ -67,7 +70,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":20,
     "wof:belongsto":[
@@ -80,7 +83,6 @@
         "fct:id":"06eef996-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":146853,
         "gp:id":841099,
-        "qs:id":1174917,
         "qs_pg:id":1174917,
         "wd:id":"Q4694248",
         "wk:page":"Agrokipia"
@@ -99,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769728,
+    "wof:lastmodified":1566709994,
     "wof:name":"\u0391\u03b3\u03c1\u03bf\u03ba\u03b7\u03c0\u03b9\u03ac",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

@@ -11,12 +11,16 @@
     "geom:longitude":33.046165,
     "gn:population":157,
     "iso:country":"CY",
+    "lbl:bbox":"33.026165,34.844181,33.066165,34.884181",
     "lbl:latitude":34.864181,
     "lbl:longitude":33.046165,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mps:latitude":34.864181,
     "mps:longitude":33.046165,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0410\u0433\u0438\u043e\u0441 \u041f\u0430\u0432\u043b\u043e\u0441"
     ],
@@ -60,7 +64,7 @@
     "name:swe_x_preferred":[
         "\u00c1gios P\u00e1vlos"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ay Pavlo"
     ],
     "name:urd_x_preferred":[
@@ -84,7 +88,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":34.861667,
     "wd:longitude":33.045556,
@@ -99,7 +103,6 @@
         "fct:id":"06ef0ee0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":146707,
         "gp:id":841218,
-        "qs:id":405489,
         "qs_pg:id":405489,
         "wd:id":"Q4831300",
         "wk:page":"Agios Pavlos, Cyprus"
@@ -118,7 +121,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563574591,
+    "wof:lastmodified":1566710006,
     "wof:name":"\u0386\u03b3\u03b9\u03bf\u03c2 \u03a0\u03ac\u03c5\u03bb\u03bf\u03c2",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

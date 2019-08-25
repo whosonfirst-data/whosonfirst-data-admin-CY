@@ -12,10 +12,13 @@
     "iso:country":"CY",
     "lbl:latitude":35.157656,
     "lbl:longitude":33.583641,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":35.157656,
     "mps:longitude":33.583641,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0410\u0444\u0430\u043d\u0438\u044f"
     ],
@@ -63,9 +66,6 @@
     "name:tur_x_preferred":[
         "Afanya"
     ],
-    "name:unk_x_variant":[
-        "Afanya"
-    ],
     "name:urd_x_preferred":[
         "\u0627\u0641\u0627\u0646\u06cc\u0627"
     ],
@@ -84,7 +84,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632437,
@@ -96,7 +96,7 @@
     "wof:concordances":{
         "gn:id":146807,
         "gp:id":841133,
-        "qs:id":405455,
+        "qs_pg:id":405455,
         "wd:id":"Q4779487",
         "wk:page":"Afania"
     },
@@ -133,7 +133,7 @@
         }
     ],
     "wof:id":101803245,
-    "wof:lastmodified":1563574490,
+    "wof:lastmodified":1566709987,
     "wof:name":"\u0391\u03c6\u03ac\u03bd\u03c4\u03b5\u03b9\u03b1",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

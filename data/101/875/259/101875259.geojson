@@ -13,10 +13,13 @@
     "iso:country":"CY",
     "lbl:latitude":34.717489,
     "lbl:longitude":32.725454,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mps:latitude":34.717489,
     "mps:longitude":32.725454,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0410\u0433\u0438\u043e\u0441 \u0422\u043e\u043c\u0430\u0441"
     ],
@@ -58,9 +61,6 @@
     "name:und_x_variant":[
         "Yalikta\u015f"
     ],
-    "name:unk_x_variant":[
-        "Mersinli"
-    ],
     "name:urd_x_preferred":[
         "\u0622\u0626\u06cc\u0648\u0633 \u062a\u06be\u0648\u0645\u0627\u0633"
     ],
@@ -80,7 +80,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":34.716111,
     "wd:longitude":32.724722,
@@ -95,7 +95,6 @@
         "fct:id":"06ef1138-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":146694,
         "gp:id":841229,
-        "qs:id":1273406,
         "qs_pg:id":1273406,
         "wd:id":"Q4831309"
     },
@@ -113,7 +112,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563574403,
+    "wof:lastmodified":1566709966,
     "wof:name":"\u0386\u03b3\u03b9\u03bf\u03c2 \u0398\u03c9\u03bc\u03ac\u03c2",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

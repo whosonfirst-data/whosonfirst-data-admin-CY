@@ -12,10 +12,13 @@
     "iso:country":"CY",
     "lbl:latitude":34.869848,
     "lbl:longitude":32.833207,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":34.869848,
     "mps:longitude":32.833207,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041c\u0430\u043d\u0434\u0440\u0438\u044f"
     ],
@@ -51,7 +54,7 @@
     "name:swe_x_preferred":[
         "Mandri\u00e1"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mandriya"
     ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
@@ -71,7 +74,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":34.869167,
     "wd:longitude":32.831944,
     "wd:wordcount":23,
@@ -85,7 +88,6 @@
         "fct:id":"06ef3ea6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":146340,
         "gp:id":841488,
-        "qs:id":1083336,
         "qs_pg:id":1083336,
         "wd:id":"Q6748199",
         "wk:page":"Mandria, Limassol"
@@ -104,7 +106,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563574611,
+    "wof:lastmodified":1566710011,
     "wof:name":"\u039c\u03b1\u03bd\u03b4\u03c1\u03b9\u03ac",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"CY",
     "lbl:latitude":35.029394,
     "lbl:longitude":32.368267,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":35.029394,
     "mps:longitude":32.368267,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041d\u0435\u043e \u0425\u043e\u0440\u0438\u043e"
     ],
@@ -48,9 +51,6 @@
     "name:und_x_variant":[
         "Yenik\u00f6y"
     ],
-    "name:unk_x_variant":[
-        "Yenije Keuy"
-    ],
     "name:urd_x_preferred":[
         "\u0646\u06cc\u0648 \u062e\u0648\u0631\u06cc\u0648"
     ],
@@ -69,7 +69,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":141,
     "wof:belongsto":[
         102191569,
@@ -81,7 +81,7 @@
         "fct:id":"06ef486a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":146271,
         "gp:id":841542,
-        "qs:id":1273489,
+        "qs_pg:id":1273489,
         "wd:id":"Q18639579"
     },
     "wof:country":"CY",
@@ -98,7 +98,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563574451,
+    "wof:lastmodified":1566709978,
     "wof:name":"\u039d\u03ad\u03bf \u03a7\u03c9\u03c1\u03b9\u03cc",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

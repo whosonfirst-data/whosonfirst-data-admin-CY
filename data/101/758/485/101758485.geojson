@@ -12,10 +12,13 @@
     "iso:country":"CY",
     "lbl:latitude":35.347471,
     "lbl:longitude":33.216399,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":35.347471,
     "mps:longitude":33.216399,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ell_x_preferred":[
         "Eli\u00e1"
     ],
@@ -32,14 +35,9 @@
         "Elaea",
         "Yesiltepe"
     ],
-    "name:und_x_preferred":[
-        "El\u00e6\u00e1"
-    ],
     "name:und_x_variant":[
+        "El\u00e6\u00e1",
         "Elea",
-        "Ye\u015filtepe"
-    ],
-    "name:unk_x_variant":[
         "Ye\u015filtepe"
     ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
@@ -57,7 +55,7 @@
     "qs:type":"suburbs point-very-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632437,
@@ -70,7 +68,7 @@
         "fct:id":"06ef170a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":146645,
         "gp:id":841266,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"CY",
     "wof:geomhash":"13619d05cad28c503aaec17b66d6eb2c",
@@ -108,7 +106,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1501212532,
+    "wof:lastmodified":1566709999,
     "wof:name":"\u0395\u03bb\u03b9\u03ac",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

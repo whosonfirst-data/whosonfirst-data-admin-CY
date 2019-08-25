@@ -13,10 +13,13 @@
     "iso:country":"CY",
     "lbl:latitude":34.956172,
     "lbl:longitude":33.155593,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":34.956172,
     "mps:longitude":33.155593,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Go\u00farri"
     ],
@@ -47,7 +50,7 @@
     "name:swe_x_preferred":[
         "Go\u00farri"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Yourri"
     ],
     "name:urd_x_preferred":[
@@ -70,7 +73,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":34.957222,
     "wd:longitude":33.156944,
@@ -85,7 +88,6 @@
         "fct:id":"06ef1c82-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":146594,
         "gp:id":841298,
-        "qs:id":894605,
         "qs_pg:id":894605,
         "wd:id":"Q5588469",
         "wk:page":"Gourri"
@@ -104,7 +106,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563574537,
+    "wof:lastmodified":1566709996,
     "wof:name":"\u0393\u03bf\u03cd\u03c1\u03c1\u03b7",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

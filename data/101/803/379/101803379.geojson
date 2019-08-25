@@ -12,10 +12,13 @@
     "iso:country":"CY",
     "lbl:latitude":35.143724,
     "lbl:longitude":32.815196,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":35.143724,
     "mps:longitude":32.815196,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ell_x_preferred":[
         "Karavost\u00e1si"
     ],
@@ -55,9 +58,6 @@
     "name:tur_x_preferred":[
         "Gemikona\u011f\u0131"
     ],
-    "name:unk_x_variant":[
-        "Gemi Konaghi"
-    ],
     "name:urd_x_preferred":[
         "\u0642\u0631\u06c1 \u0648\u0648\u0633\u062a\u0627\u0633\u06cc"
     ],
@@ -78,7 +78,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632437,
@@ -91,7 +91,6 @@
         "fct:id":"06ef2376-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":146543,
         "gp:id":841334,
-        "qs:id":983599,
         "qs_pg:id":983599,
         "wd:id":"Q611054",
         "wk:page":"Karavostasi"
@@ -124,7 +123,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563574502,
+    "wof:lastmodified":1566709989,
     "wof:name":"\u039a\u03b1\u03c1\u03b1\u03b2\u03bf\u03c3\u03c4\u03ac\u03c3\u03b9",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

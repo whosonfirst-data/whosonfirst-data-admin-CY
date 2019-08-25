@@ -12,10 +12,13 @@
     "iso:country":"CY",
     "lbl:latitude":34.972804,
     "lbl:longitude":32.503776,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":34.972804,
     "mps:longitude":32.503776,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0424\u0438\u043b\u0443\u0441\u0430 \u041a\u0435\u043b\u043e\u043a\u0435\u0434\u0430\u0440\u043e\u043d"
     ],
@@ -38,7 +41,7 @@
     "name:pol_x_preferred":[
         "Filusa Kielokiedaron"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Filusa"
     ],
     "name:urd_x_preferred":[
@@ -58,7 +61,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":22,
     "wof:belongsto":[
         102191569,
@@ -69,7 +72,7 @@
     "wof:concordances":{
         "gn:id":146162,
         "gp:id":841628,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q7186299"
     },
     "wof:country":"CY",
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":101875201,
-    "wof:lastmodified":1563574423,
+    "wof:lastmodified":1566709971,
     "wof:name":"\u03a6\u03b9\u03bb\u03bf\u03cd\u03c3\u03b1",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

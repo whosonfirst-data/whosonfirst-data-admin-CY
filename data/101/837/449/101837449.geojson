@@ -5,22 +5,27 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000035,
+    "geom:area_square_m":357955.29734,
     "geom:bbox":"32.5223347495,34.9138326561,32.5345384979,34.919485031",
     "geom:latitude":34.91708,
     "geom:longitude":32.528439,
     "iso:country":"CY",
     "lbl:latitude":34.916602,
     "lbl:longitude":32.528023,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":34.916602,
     "mps:longitude":32.528023,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ell_x_preferred":[
         "Thrini\u00e1"
     ],
     "name:ell_x_variant":[
         "\u0398\u03c1\u03b9\u03bd\u03b9\u03ac"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Drynia"
     ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
@@ -38,7 +43,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632437,
@@ -48,7 +53,7 @@
     "wof:concordances":{
         "gn:id":146655,
         "gp:id":841519,
-        "qs:id":3
+        "qs_pg:id":3
     },
     "wof:country":"CY",
     "wof:geomhash":"7b023abd6cb98c777e925b6b0e9229f7",
@@ -61,7 +66,7 @@
         }
     ],
     "wof:id":101837449,
-    "wof:lastmodified":1501212532,
+    "wof:lastmodified":1566710011,
     "wof:name":"\u0398\u03c1\u03af\u03bd\u03b9\u03b1",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

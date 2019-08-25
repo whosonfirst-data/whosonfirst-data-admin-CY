@@ -13,10 +13,13 @@
     "iso:country":"CY",
     "lbl:latitude":34.672669,
     "lbl:longitude":32.835985,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mps:latitude":34.672669,
     "mps:longitude":32.835985,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041f\u0430\u0440\u0430\u043c\u0430\u043b\u0438"
     ],
@@ -38,7 +41,7 @@
     "name:pol_x_preferred":[
         "Paramali"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u00c7ay\u00f6n\u00fc"
     ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
@@ -58,7 +61,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -72,7 +75,6 @@
     "wof:concordances":{
         "gn:id":146207,
         "gp:id":841591,
-        "qs:id":1085973,
         "qs_pg:id":1085973,
         "wd:id":"Q11811164",
         "wk:page":"Paramali"
@@ -96,7 +98,7 @@
         }
     ],
     "wof:id":101911237,
-    "wof:lastmodified":1563574627,
+    "wof:lastmodified":1566710014,
     "wof:name":"Paramali",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"CY",
     "lbl:latitude":35.116148,
     "lbl:longitude":32.877487,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":35.116148,
     "mps:longitude":32.877487,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
     "qs:a1":"*\u039b\u03b5\u03c5\u03ba\u03c9\u03c3\u03af\u03b1",
     "qs:a1_alt":"Lefkosia",
@@ -30,7 +33,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632437,
@@ -41,7 +44,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":841610,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"CY",
     "wof:geomhash":"4a728a7d02c0ac6d6eaf71f03d2a0435",
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":101875151,
-    "wof:lastmodified":1500025663,
+    "wof:lastmodified":1566709964,
     "wof:name":"\u039a\u03b1\u03bb\u03cc \u03a7\u03c9\u03c1\u03b9\u03cc",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

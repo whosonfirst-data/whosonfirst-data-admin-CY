@@ -13,10 +13,13 @@
     "iso:country":"CY",
     "lbl:latitude":34.846592,
     "lbl:longitude":32.747766,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mps:latitude":34.846592,
     "mps:longitude":32.747766,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041f\u0440\u0435\u0442\u043e\u0440\u0438"
     ],
@@ -41,7 +44,7 @@
     "name:pol_x_preferred":[
         "Praitori"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pr\u00e6tori"
     ],
     "name:urd_x_preferred":[
@@ -61,7 +64,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":31,
     "wof:belongsto":[
@@ -73,7 +76,7 @@
     "wof:concordances":{
         "gn:id":146121,
         "gp:id":841664,
-        "qs:id":1273513,
+        "qs_pg:id":1273513,
         "wd:id":"Q7238116",
         "wk:page":"Praitori"
     },
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":101875175,
-    "wof:lastmodified":1563574410,
+    "wof:lastmodified":1566709967,
     "wof:name":"\u03a0\u03c1\u03b1\u03b9\u03c4\u03ce\u03c1\u03b9",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

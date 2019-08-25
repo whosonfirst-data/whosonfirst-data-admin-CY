@@ -11,12 +11,16 @@
     "geom:longitude":33.111721,
     "gn:population":141,
     "iso:country":"CY",
+    "lbl:bbox":"33.091721,34.859105,33.131721,34.899105",
     "lbl:latitude":34.879105,
     "lbl:longitude":33.111721,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mps:latitude":34.879105,
     "mps:longitude":33.111721,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0421\u0438\u043a\u043e\u043f\u0435\u0442\u0440\u0430"
     ],
@@ -44,9 +48,6 @@
     "name:swe_x_preferred":[
         "Syk\u00f3petra"
     ],
-    "name:unk_x_variant":[
-        "Sikopetra"
-    ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
     "qs:a1":"*\u039b\u03b5\u03bc\u03b5\u03c3\u03cc\u03c2",
     "qs:a1_alt":"Lemesos",
@@ -65,7 +66,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":34.878333,
     "wd:longitude":33.112222,
@@ -80,7 +81,6 @@
         "fct:id":"06ef67fa-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":146051,
         "gp:id":841714,
-        "qs:id":405616,
         "qs_pg:id":405616,
         "wd:id":"Q7660529",
         "wk:page":"Sykopetra"
@@ -99,7 +99,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769735,
+    "wof:lastmodified":1566710007,
     "wof:name":"\u03a3\u03c5\u03ba\u03cc\u03c0\u03b5\u03c4\u03c1\u03b1",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",
