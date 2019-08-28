@@ -13,6 +13,8 @@
     "iso:country":"CY",
     "lbl:latitude":35.336679,
     "lbl:longitude":33.318471,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":35.336679,
     "mps:longitude":33.318471,
     "mz:hierarchy_label":1,
@@ -156,11 +158,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0456\u0440\u0435\u043d\u0456\u044f"
     ],
-    "name:und_x_preferred":[
-        "Girne",
-        "Keryneia"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "K\u00e9rynia"
     ],
     "name:urd_x_preferred":[
@@ -284,7 +282,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -298,7 +296,6 @@
         "fct:id":"06ef3474-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":146412,
         "gp:id":841431,
-        "qs:id":491851,
         "qs_pg:id":491851,
         "wd:id":"Q206760",
         "wk:page":"Kyrenia"
@@ -339,7 +336,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563574551,
+    "wof:lastmodified":1566709999,
     "wof:name":"\u039a\u03b5\u03c1\u03cd\u03bd\u03b5\u03b9\u03b1",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

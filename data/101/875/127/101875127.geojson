@@ -13,10 +13,13 @@
     "iso:country":"CY",
     "lbl:latitude":34.946728,
     "lbl:longitude":33.031481,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mps:latitude":34.946728,
     "mps:longitude":33.031481,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ell_x_preferred":[
         "Alithino\u00fa"
     ],
@@ -41,9 +44,6 @@
     "name:pol_x_preferred":[
         "Alitinu"
     ],
-    "name:unk_x_variant":[
-        "Alitinu"
-    ],
     "name:urd_x_preferred":[
         "\u0627\u0644\u06cc\u062a\u06be\u06cc\u0646\u0624"
     ],
@@ -63,7 +63,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":18,
     "wof:belongsto":[
@@ -76,7 +76,6 @@
         "fct:id":"06eefcca-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":146828,
         "gp:id":841115,
-        "qs:id":940290,
         "qs_pg:id":940290,
         "wd:id":"Q4727371",
         "wk:page":"Alithinou"
@@ -95,7 +94,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769716,
+    "wof:lastmodified":1566709967,
     "wof:name":"\u0391\u03bb\u03b7\u03b8\u03b9\u03bd\u03bf\u03cd",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

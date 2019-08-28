@@ -13,10 +13,13 @@
     "iso:country":"CY",
     "lbl:latitude":34.779572,
     "lbl:longitude":32.570316,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mps:latitude":34.779572,
     "mps:longitude":32.570316,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041d\u0430\u0442\u0430"
     ],
@@ -51,7 +54,7 @@
     "name:swe_x_preferred":[
         "Nata"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ta\u015fl\u0131ca"
     ],
     "name:urd_x_preferred":[
@@ -77,7 +80,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":34.766667,
     "wd:longitude":32.566667,
@@ -92,7 +95,6 @@
         "fct:id":"06ef4838-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":146273,
         "gp:id":841540,
-        "qs:id":313511,
         "qs_pg:id":313511,
         "wd:id":"Q6967909",
         "wk:page":"Nata, Cyprus"
@@ -111,7 +113,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563574463,
+    "wof:lastmodified":1566709981,
     "wof:name":"\u039d\u03b1\u03c4\u03ac",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

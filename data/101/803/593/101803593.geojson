@@ -12,10 +12,13 @@
     "iso:country":"CY",
     "lbl:latitude":35.078629,
     "lbl:longitude":33.585592,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":35.078629,
     "mps:longitude":33.585592,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041c\u0435\u043b\u0443\u0441\u0438\u044f"
     ],
@@ -56,9 +59,6 @@
     "name:tur_x_preferred":[
         "K\u0131r\u0131kkale"
     ],
-    "name:unk_x_variant":[
-        "K\u0131r\u0131kkale"
-    ],
     "name:urd_x_preferred":[
         "\u0645\u06cc\u0644\u0648\u0633\u06cc\u0627"
     ],
@@ -77,7 +77,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632437,
@@ -88,7 +88,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":146312,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q6813570",
         "wk:page":"Melouseia"
     },
@@ -117,7 +117,7 @@
         }
     ],
     "wof:id":101803593,
-    "wof:lastmodified":1563574478,
+    "wof:lastmodified":1566709984,
     "wof:name":"\u039c\u03b5\u03bb\u03bf\u03cd\u03c3\u03b5\u03b9\u03b1",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

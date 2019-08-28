@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Nicosia",
     "iso:country":"CY",
+    "lbl:bbox":"32.71717,35.14787,32.75717,35.18787",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Limn\u00edtis"
     ],
@@ -57,7 +61,6 @@
         "Ye\u015fil\u0131rmak"
     ],
     "name:und_x_variant":[
-        "Ye\u015fil\u0131rmak",
         "Limniti",
         "Limnidi"
     ],
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":1226366639,
-    "wof:lastmodified":1564100672,
+    "wof:lastmodified":1566710021,
     "wof:name":"Limnitis",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

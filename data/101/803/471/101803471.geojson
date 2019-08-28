@@ -13,10 +13,13 @@
     "iso:country":"CY",
     "lbl:latitude":35.000765,
     "lbl:longitude":32.805911,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mps:latitude":35.000765,
     "mps:longitude":32.805911,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Geraki\u00e9s"
     ],
@@ -55,9 +58,6 @@
         "Yeraki\u00e6s",
         "Yeraki\u0153s"
     ],
-    "name:unk_x_variant":[
-        "Yeraki\u00e6s"
-    ],
     "name:urd_x_preferred":[
         "\u06af\u06cc\u0631\u0627\u06a9\u06cc\u0633"
     ],
@@ -78,7 +78,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":23,
     "wof:belongsto":[
@@ -91,7 +91,6 @@
         "fct:id":"06ef73a8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":145968,
         "gp:id":841776,
-        "qs:id":1273541,
         "qs_pg:id":1273541,
         "wd:id":"Q5548853",
         "wk:page":"Gerakies"
@@ -110,7 +109,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769724,
+    "wof:lastmodified":1566709986,
     "wof:name":"\u0393\u03b5\u03c1\u03b1\u03ba\u03b9\u03ad\u03c2",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

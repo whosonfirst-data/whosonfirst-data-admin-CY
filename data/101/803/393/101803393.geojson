@@ -13,10 +13,13 @@
     "iso:country":"CY",
     "lbl:latitude":34.997612,
     "lbl:longitude":33.462803,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":34.997612,
     "mps:longitude":33.462803,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "L\u00fdmpia"
     ],
@@ -44,7 +47,7 @@
     "name:swe_x_preferred":[
         "L\u00fdmpia"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Olympia"
     ],
     "name:urd_x_preferred":[
@@ -65,7 +68,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":35.0,
     "wd:longitude":33.4667,
@@ -79,7 +82,7 @@
     "wof:concordances":{
         "gn:id":146362,
         "gp:id":841467,
-        "qs:id":122406,
+        "qs_pg:id":122406,
         "wd:id":"Q6708289",
         "wk:page":"Lympia"
     },
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":101803393,
-    "wof:lastmodified":1563574518,
+    "wof:lastmodified":1566709992,
     "wof:name":"\u039b\u03cd\u03bc\u03c0\u03b9\u03b1",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

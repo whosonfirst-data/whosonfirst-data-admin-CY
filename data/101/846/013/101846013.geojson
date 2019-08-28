@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00009,
+    "geom:area_square_m":910178.142399,
     "geom:bbox":"32.8795425079,34.7285128165,32.890932688,34.7429177752",
     "geom:latitude":34.736185,
     "geom:longitude":32.885075,
     "iso:country":"CY",
     "lbl:latitude":34.736518,
     "lbl:longitude":32.88404,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":34.736518,
     "mps:longitude":32.88404,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
     "qs:a1":"*\u039b\u03b5\u03bc\u03b5\u03c3\u03cc\u03c2",
     "qs:a1_alt":"Lemesos",
@@ -29,7 +34,7 @@
     "qs:type":"rural point-near-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632437,
@@ -37,10 +42,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "qs:id":2
+        "qs_pg:id":2
     },
     "wof:country":"CY",
-    "wof:geomhash":"ae9639028ee3c14401349254c4b2e3e8",
+    "wof:geomhash":"fb0a95ad6ca67ecf7e55ea352f31bfa1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -50,7 +55,7 @@
         }
     ],
     "wof:id":101846013,
-    "wof:lastmodified":1466626201,
+    "wof:lastmodified":1566710003,
     "wof:name":"\u03a3\u03bf\u03cd\u03bd\u03b9-\u0396\u03b1\u03ba\u03b1\u03ba\u03b9\u03ac",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

@@ -10,19 +10,23 @@
     "geom:latitude":35.293052,
     "geom:longitude":33.256233,
     "iso:country":"CY",
+    "lbl:bbox":"33.236233,35.273052,33.276233,35.313052",
     "lbl:latitude":35.293052,
     "lbl:longitude":33.256233,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":35.293052,
     "mps:longitude":33.256233,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ell_x_preferred":[
         "Ki\u00f3mourtzou"
     ],
     "name:ell_x_variant":[
         "\u039a\u03b9\u03cc\u03bc\u03bf\u03c5\u03c1\u03c4\u03b6\u03bf\u03c5"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "K\u00f6m\u00fcrc\u00fc"
     ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
@@ -42,7 +46,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632437,
@@ -54,7 +58,7 @@
     "wof:concordances":{
         "gn:id":146502,
         "gp:id":841737,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"CY",
     "wof:geomhash":"1cb546a15eeab51816427163467b774e",
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":101850081,
-    "wof:lastmodified":1544741252,
+    "wof:lastmodified":1566709976,
     "wof:name":"\u039a\u03b9\u03bf\u03bc\u03bf\u03c5\u03c1\u03c4\u03b6\u03bf\u03cd",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

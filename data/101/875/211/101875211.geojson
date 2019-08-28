@@ -12,10 +12,13 @@
     "iso:country":"CY",
     "lbl:latitude":34.977782,
     "lbl:longitude":32.441128,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":34.977782,
     "mps:longitude":32.441128,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0425\u043e\u043b\u0438"
     ],
@@ -42,9 +45,6 @@
     "name:pol_x_preferred":[
         "Choli"
     ],
-    "name:unk_x_variant":[
-        "Holi"
-    ],
     "name:urd_x_preferred":[
         "\u062e\u0648\u0644\u06cc"
     ],
@@ -62,7 +62,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":34.979167,
     "wd:longitude":32.445833,
     "wd:wordcount":21,
@@ -76,7 +76,7 @@
         "fct:id":"06ef2b14-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":146488,
         "gp:id":841378,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q389897",
         "wk:page":"Choli, Cyprus"
     },
@@ -94,7 +94,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563574399,
+    "wof:lastmodified":1566709964,
     "wof:name":"\u03a7\u03cc\u03bb\u03b7",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

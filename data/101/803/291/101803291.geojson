@@ -12,10 +12,13 @@
     "iso:country":"CY",
     "lbl:latitude":35.422573,
     "lbl:longitude":33.905032,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":35.422573,
     "mps:longitude":33.905032,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0414\u0430\u0432\u043b\u043e\u0441"
     ],
@@ -50,9 +53,6 @@
     "name:tur_x_preferred":[
         "Kapl\u0131ca"
     ],
-    "name:unk_x_variant":[
-        "Kapl\u0131ca"
-    ],
     "name:urd_x_preferred":[
         "\u062f\u0627\u0648\u0644\u0648\u0633"
     ],
@@ -71,7 +71,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632437,
@@ -82,7 +82,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":146665,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q4817679",
         "wk:page":"Davlos"
     },
@@ -119,7 +119,7 @@
         }
     ],
     "wof:id":101803291,
-    "wof:lastmodified":1563574532,
+    "wof:lastmodified":1566709996,
     "wof:name":"\u0394\u03b1\u03c5\u03bb\u03cc\u03c2",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

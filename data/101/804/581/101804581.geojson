@@ -13,10 +13,13 @@
     "iso:country":"CY",
     "lbl:latitude":34.911388,
     "lbl:longitude":32.426901,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":34.911388,
     "mps:longitude":32.426901,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041a\u0430\u0442\u0438\u043a\u0430\u0441"
     ],
@@ -45,7 +48,7 @@
     "name:swe_x_preferred":[
         "Kathikas"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Katika"
     ],
     "name:urd_x_preferred":[
@@ -68,7 +71,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":510,
     "wof:belongsto":[
@@ -81,7 +84,6 @@
         "fct:id":"06ef2448-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":146534,
         "gp:id":841338,
-        "qs:id":894595,
         "qs_pg:id":894595,
         "wd:id":"Q6376621",
         "wk:page":"Kathikas"
@@ -100,7 +102,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563574459,
+    "wof:lastmodified":1566709980,
     "wof:name":"\u039a\u03ac\u03b8\u03b9\u03ba\u03b1\u03c2",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

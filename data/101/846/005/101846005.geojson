@@ -13,10 +13,13 @@
     "iso:country":"CY",
     "lbl:latitude":35.084579,
     "lbl:longitude":33.431208,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mps:latitude":35.084579,
     "mps:longitude":33.431208,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ell_x_preferred":[
         "\u00c1gios Soz\u00f3menos"
     ],
@@ -53,9 +56,6 @@
     "name:spa_x_preferred":[
         "Agios Sozomenos"
     ],
-    "name:unk_x_variant":[
-        "Saint Sozomenos"
-    ],
     "name:urd_x_preferred":[
         "\u0622\u0626\u06cc\u0648\u0633 \u0633\u0648\u0632\u0648\u0645\u06cc\u0646\u0648\u0633"
     ],
@@ -79,7 +79,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":75,
     "wof:belongsto":[
@@ -92,7 +92,6 @@
         "fct:id":"06ef0fb2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":146702,
         "gp:id":841221,
-        "qs:id":405492,
         "qs_pg:id":405492,
         "wd:id":"Q4692665",
         "wk:page":"Agios Sozomenos"
@@ -111,7 +110,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563574575,
+    "wof:lastmodified":1566710003,
     "wof:name":"\u0386\u03b3\u03b9\u03bf\u03c2 \u03a3\u03c9\u03b6\u03cc\u03bc\u03b5\u03bd\u03bf\u03c2",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

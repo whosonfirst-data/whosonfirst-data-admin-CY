@@ -11,12 +11,16 @@
     "geom:longitude":33.129875,
     "gn:population":174,
     "iso:country":"CY",
+    "lbl:bbox":"33.109875,34.725198,33.149875,34.765198",
     "lbl:latitude":34.745198,
     "lbl:longitude":33.129875,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mps:latitude":34.745198,
     "mps:longitude":33.129875,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0410\u0440\u043c\u0435\u043d\u043e\u0445\u043e\u0440\u0438"
     ],
@@ -56,9 +60,6 @@
     "name:und_x_variant":[
         "Esenk\u00f6y"
     ],
-    "name:unk_x_variant":[
-        "Armenehor"
-    ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
     "qs:a1":"*\u039b\u03b5\u03bc\u03b5\u03c3\u03cc\u03c2",
     "qs:a1_alt":"Lemesos",
@@ -77,7 +78,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":34.744444,
     "wd:longitude":33.129167,
@@ -92,7 +93,6 @@
         "fct:id":"06ef02e2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":146788,
         "gp:id":841146,
-        "qs:id":1273390,
         "qs_pg:id":1273390,
         "wd:id":"Q9159968",
         "wk:page":"Armenochori, Cyprus"
@@ -111,7 +111,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563574596,
+    "wof:lastmodified":1566710007,
     "wof:name":"\u0391\u03c1\u03bc\u03b5\u03bd\u03bf\u03c7\u03ce\u03c1\u03b9",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

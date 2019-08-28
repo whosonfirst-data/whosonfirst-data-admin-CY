@@ -9,14 +9,18 @@
     "geom:bbox":"33.2125,34.99167,33.2125,34.99167",
     "geom:latitude":34.99167,
     "geom:longitude":33.2125,
-    "gn:gn_country":"CY",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"CY",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"CY",
+    "lbl:bbox":"33.1925,34.97167,33.2325,35.01167",
     "lbl:latitude":34.99167,
     "lbl:longitude":33.2125,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0641\u064a\u0644\u0627\u0646\u0649 \u0643\u0648\u064a\u0644\u0627"
@@ -27,7 +31,7 @@
     "name:ell_x_variant":[
         "\u03a6\u03b9\u03bb\u03ac\u03bd\u03b9"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pil\u00e2ni"
     ],
     "name:vie_x_preferred":[
@@ -54,7 +58,7 @@
     "qs_pg:woe_adm0":26812346,
     "qs_pg:woe_id":841624,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":26812346,
     "woe:name_adm0":"Cyprus",
     "woe:name_adm1":"Nicosia District",
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":1125903053,
-    "wof:lastmodified":1564100666,
+    "wof:lastmodified":1566710017,
     "wof:name":"Philani",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

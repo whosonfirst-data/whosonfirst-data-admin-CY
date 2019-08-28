@@ -12,10 +12,13 @@
     "iso:country":"CY",
     "lbl:latitude":35.391835,
     "lbl:longitude":34.015387,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":35.391835,
     "mps:longitude":34.015387,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0410\u0433\u0438\u043e\u0441 \u0415\u0432\u0441\u0442\u0430\u0442\u0438\u043e\u0441"
     ],
@@ -60,14 +63,8 @@
         "Zeybekkoey",
         "Zeybekkoy"
     ],
-    "name:und_x_preferred":[
-        "Ayios Evstathios"
-    ],
     "name:und_x_variant":[
-        "Zeybekk\u00f6y"
-    ],
-    "name:unk_x_variant":[
-        "Zeybekk\u00f6y"
+        "Ayios Evstathios"
     ],
     "name:urd_x_preferred":[
         "\u0622\u0626\u06cc\u0648\u0633 \u0627\u06cc\u0641\u062a\u0627\u062a\u06be\u06cc\u0648\u0633"
@@ -87,7 +84,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632437,
@@ -100,7 +97,7 @@
         "fct:id":"06ef0c4c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":146726,
         "gp:id":841201,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q572577",
         "wk:page":"Agios Efstathios"
     },
@@ -140,7 +137,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563574483,
+    "wof:lastmodified":1566709985,
     "wof:name":"\u0386\u03b3\u03b9\u03bf\u03c2 \u0395\u03c5\u03c3\u03c4\u03ac\u03b8\u03b9\u03bf\u03c2",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

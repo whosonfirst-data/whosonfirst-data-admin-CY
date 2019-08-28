@@ -10,12 +10,16 @@
     "geom:latitude":35.132347,
     "geom:longitude":32.864536,
     "iso:country":"CY",
+    "lbl:bbox":"32.844536,35.112347,32.884536,35.152347",
     "lbl:latitude":35.132347,
     "lbl:longitude":32.864536,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":35.132347,
     "mps:longitude":32.864536,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Peristeron\u00e1ri"
     ],
@@ -55,16 +59,9 @@
         "Narlikoey",
         "Narlikoy"
     ],
-    "name:und_x_preferred":[
-        "Peristeronari"
-    ],
     "name:und_x_variant":[
-        "Cengizk\u00f6y",
         "Gengizk\u00f6y",
         "Narlik\u00f6y"
-    ],
-    "name:unk_x_variant":[
-        "Gengizk\u00f6y"
     ],
     "name:urd_x_preferred":[
         "\u067e\u06cc\u0631\u0633\u062a\u06cc\u0631\u0648\u0646\u0627\u0631\u06cc"
@@ -86,7 +83,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632437,
@@ -99,7 +96,7 @@
         "fct:id":"06ef559e-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":146184,
         "gp:id":841610,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q4809519",
         "wk:page":"Peristeronari"
     },
@@ -131,7 +128,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563574428,
+    "wof:lastmodified":1566709972,
     "wof:name":"\u03a0\u03b5\u03c1\u03b9\u03c3\u03c4\u03b5\u03c1\u03c9\u03bd\u03ac\u03c1\u03b9",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"CY",
     "lbl:latitude":34.986951,
     "lbl:longitude":32.505036,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mps:latitude":34.986951,
     "mps:longitude":32.505036,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041c\u0435\u043b\u0430\u0434\u0438\u044f"
     ],
@@ -39,7 +42,7 @@
     "name:pol_x_preferred":[
         "Meladia"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mel\u00e2dya"
     ],
     "name:urd_x_preferred":[
@@ -59,7 +62,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":20,
     "wof:belongsto":[
@@ -71,7 +74,7 @@
     "wof:concordances":{
         "gn:id":146318,
         "gp:id":841608,
-        "qs:id":514277,
+        "qs_pg:id":514277,
         "wd:id":"Q6810943",
         "wk:page":"Meladeia"
     },
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":101875205,
-    "wof:lastmodified":1563574406,
+    "wof:lastmodified":1566709966,
     "wof:name":"\u039c\u03b5\u03bb\u03ac\u03b4\u03b5\u03b9\u03b1",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

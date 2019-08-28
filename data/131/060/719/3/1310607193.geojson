@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Nicosia",
     "iso:country":"CY",
+    "lbl:bbox":"32.85701,35.09539,32.89701,35.13539",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ell_x_preferred":[
         "Kal\u00f3 Chori\u00f3"
     ],
@@ -49,7 +53,6 @@
         "Kalohoryo",
         "Kalokhorio Lefkas",
         "\u0130yik\u00f6y",
-        "\u00c7aml\u0131k\u00f6y",
         "Kalo Khoria",
         "Kalon Chorion",
         "Kalokhorio"
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1310607193,
-    "wof:lastmodified":1564100657,
+    "wof:lastmodified":1566709962,
     "wof:name":"Kalo Chorio",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"CY",
     "lbl:latitude":34.970269,
     "lbl:longitude":32.99883,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mps:latitude":34.970269,
     "mps:longitude":32.99883,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ell_x_preferred":[
         "\u03a3\u03b1\u03c1\u03ac\u03bd\u03c4\u03b9 \u039a\u03cd\u03c0\u03c1\u03bf\u03c5"
     ],
@@ -34,9 +37,6 @@
         "Saranti"
     ],
     "name:pol_x_preferred":[
-        "Sarandi"
-    ],
-    "name:unk_x_variant":[
         "Sarandi"
     ],
     "name:urd_x_preferred":[
@@ -58,7 +58,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":34.968611,
     "wd:longitude":33.001944,
@@ -73,7 +73,6 @@
         "fct:id":"06ef6278-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":146092,
         "gp:id":841683,
-        "qs:id":901763,
         "qs_pg:id":901763,
         "wd:id":"Q935668",
         "wk:page":"Saranti"
@@ -92,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563574425,
+    "wof:lastmodified":1566709971,
     "wof:name":"\u03a3\u03b1\u03c1\u03ac\u03bd\u03c4\u03b9",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

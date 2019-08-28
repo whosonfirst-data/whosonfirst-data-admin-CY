@@ -5,27 +5,28 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000214,
-    "geom:area_square_m":2168588.473948,
+    "geom:area_square_m":2168588.473947,
     "geom:bbox":"33.4738114419,35.0757695535,33.4917223722,35.093815451",
     "geom:latitude":35.08568,
     "geom:longitude":33.481879,
     "iso:country":"CY",
     "lbl:latitude":35.085737,
     "lbl:longitude":33.481154,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":35.085737,
     "mps:longitude":33.481154,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ell_x_preferred":[
         "Marg\u00f3"
     ],
     "name:ell_x_variant":[
         "\u039c\u03b1\u03c1\u03b3\u03cc"
     ],
-    "name:und_x_preferred":[
-        "Margo"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
+        "Margo",
         "Karg\u0131"
     ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
@@ -42,7 +43,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632437,
@@ -55,7 +56,7 @@
         "fct:id":"06ef3fdc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":146334,
         "gp:id":841494,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"CY",
     "wof:geomhash":"6c13c91cb91425b9e9f6a246a8aa033e",
@@ -85,7 +86,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1501212517,
+    "wof:lastmodified":1566709967,
     "wof:name":"\u039c\u03b1\u03c1\u03b3\u03cc",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

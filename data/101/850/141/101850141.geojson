@@ -10,12 +10,16 @@
     "geom:latitude":35.056308,
     "geom:longitude":33.105823,
     "iso:country":"CY",
+    "lbl:bbox":"33.085823,35.036308,33.125823,35.076308",
     "lbl:latitude":35.056308,
     "lbl:longitude":33.105823,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":35.056308,
     "mps:longitude":33.105823,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ell_x_preferred":[
         "\u00c1gioi Ili\u00f3fotoi"
     ],
@@ -35,9 +39,6 @@
     ],
     "name:nld_x_preferred":[
         "Agioi Iliofotoi"
-    ],
-    "name:unk_x_variant":[
-        "Zeytinlik"
     ],
     "name:urd_x_preferred":[
         "\u0622\u0626\u06cc\u0648\u06cc \u0627\u0644\u06cc\u0648\u0641\u0648\u062a\u0648\u0626\u06cc"
@@ -59,7 +60,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":200,
     "wof:belongsto":[
         102191569,
@@ -71,7 +72,7 @@
         "fct:id":"06ef1778-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":146641,
         "gp:id":841268,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q18712727"
     },
     "wof:country":"CY",
@@ -88,7 +89,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563574444,
+    "wof:lastmodified":1566709976,
     "wof:name":"\u0386\u03b3\u03b9\u03bf\u03b9 \u0397\u03bb\u03b9\u03cc\u03c6\u03c9\u03c4\u03bf\u03b9",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

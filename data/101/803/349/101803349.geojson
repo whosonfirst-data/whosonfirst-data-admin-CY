@@ -12,10 +12,13 @@
     "iso:country":"CY",
     "lbl:latitude":35.298837,
     "lbl:longitude":33.176207,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":35.298837,
     "mps:longitude":33.176207,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0421\u0438\u0441\u043a\u043b\u0438\u043f\u043e\u0441"
     ],
@@ -49,15 +52,6 @@
     "name:und_x_colloquial":[
         "Akcicek"
     ],
-    "name:und_x_preferred":[
-        "Sisklipos"
-    ],
-    "name:und_x_variant":[
-        "Ak\u00e7i\u00e7ek"
-    ],
-    "name:unk_x_variant":[
-        "Ak\u00e7i\u00e7ek"
-    ],
     "name:urd_x_preferred":[
         "\u06a9\u0644\u06cc\u067e\u06cc\u0646\u06cc"
     ],
@@ -79,7 +73,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632437,
@@ -92,7 +86,7 @@
         "fct:id":"06ef6412-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":146077,
         "gp:id":841693,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q9337264",
         "wk:page":"Sysklipos"
     },
@@ -132,7 +126,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563574507,
+    "wof:lastmodified":1566709990,
     "wof:name":"\u03a3\u03cd\u03c3\u03ba\u03bb\u03b7\u03c0\u03bf\u03c2",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

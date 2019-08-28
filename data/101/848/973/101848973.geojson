@@ -10,12 +10,16 @@
     "geom:latitude":34.770973,
     "geom:longitude":32.715381,
     "iso:country":"CY",
+    "lbl:bbox":"32.695381,34.750973,32.735381,34.790973",
     "lbl:latitude":34.770973,
     "lbl:longitude":32.715381,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":34.770973,
     "mps:longitude":32.715381,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041c\u0443\u0441\u0435\u0440\u0435"
     ],
@@ -37,9 +41,6 @@
     "name:pol_x_preferred":[
         "Musere"
     ],
-    "name:unk_x_variant":[
-        "Musere"
-    ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
     "qs:a1":"*\u03a0\u03ac\u03c6\u03bf\u03c2",
     "qs:a1_alt":"Pafos",
@@ -57,7 +58,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":210,
     "wof:belongsto":[
         102191569,
@@ -69,7 +70,7 @@
         "fct:id":"06ef46f8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":146280,
         "gp:id":841534,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q6926115",
         "wk:page":"Mousere"
     },
@@ -87,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561769734,
+    "wof:lastmodified":1566710005,
     "wof:name":"\u039c\u03bf\u03cd\u03c3\u03b5\u03c1\u03b5",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

@@ -10,12 +10,16 @@
     "geom:latitude":35.291226,
     "geom:longitude":33.217385,
     "iso:country":"CY",
+    "lbl:bbox":"33.197385,35.271226,33.237385,35.311226",
     "lbl:latitude":35.291226,
     "lbl:longitude":33.217385,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":35.291226,
     "mps:longitude":33.217385,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041f\u0438\u043b\u0435\u0440\u0438"
     ],
@@ -48,9 +52,6 @@
     "name:tur_x_preferred":[
         "G\u00f6\u00e7eri"
     ],
-    "name:unk_x_variant":[
-        "G\u00f6\u00e7eri"
-    ],
     "name:urd_x_preferred":[
         "\u067e\u06cc\u0644\u06cc\u0631\u06cc"
     ],
@@ -71,7 +72,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632437,
@@ -83,7 +84,7 @@
     "wof:concordances":{
         "gn:id":146151,
         "gp:id":841638,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q4816753",
         "wk:page":"Pileri"
     },
@@ -120,7 +121,7 @@
         }
     ],
     "wof:id":101850079,
-    "wof:lastmodified":1563574431,
+    "wof:lastmodified":1566709973,
     "wof:name":"\u03a0\u03b9\u03bb\u03ad\u03c1\u03b9",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

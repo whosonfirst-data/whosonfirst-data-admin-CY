@@ -11,12 +11,16 @@
     "geom:longitude":33.254879,
     "gn:population":406,
     "iso:country":"CY",
+    "lbl:bbox":"33.234879,34.759961,33.274879,34.799961",
     "lbl:latitude":34.779961,
     "lbl:longitude":33.254879,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":34.779961,
     "mps:longitude":33.254879,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0410\u0441\u0433\u0430\u0442\u0430"
     ],
@@ -47,7 +51,7 @@
     "name:swe_x_preferred":[
         "Asg\u00e1ta"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Azgata"
     ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
@@ -68,7 +72,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":34.778611,
     "wd:longitude":33.254722,
@@ -83,7 +87,6 @@
         "fct:id":"06ef044a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":146780,
         "gp:id":841153,
-        "qs:id":1273392,
         "qs_pg:id":1273392,
         "wd:id":"Q936411",
         "wk:page":"Asgata"
@@ -102,7 +105,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563574593,
+    "wof:lastmodified":1566710007,
     "wof:name":"\u0391\u03c3\u03b3\u03ac\u03c4\u03b1",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

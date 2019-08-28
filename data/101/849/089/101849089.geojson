@@ -11,12 +11,16 @@
     "geom:longitude":33.006567,
     "gn:population":66,
     "iso:country":"CY",
+    "lbl:bbox":"32.986567,34.875325,33.026567,34.915325",
     "lbl:latitude":34.895325,
     "lbl:longitude":33.006567,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mps:latitude":34.895325,
     "mps:longitude":33.006567,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041a\u0430\u0442\u043e \u041c\u0438\u043b\u043e\u0441"
     ],
@@ -42,9 +46,6 @@
     "name:pol_x_preferred":[
         "Kato Milos"
     ],
-    "name:unk_x_variant":[
-        "Mylos"
-    ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
     "qs:a1":"*\u039b\u03b5\u03bc\u03b5\u03c3\u03cc\u03c2",
     "qs:a1_alt":"Lemesos",
@@ -63,7 +64,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":34.895,
     "wd:longitude":33.005556,
@@ -78,7 +79,6 @@
         "fct:id":"06ef26e6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":146520,
         "gp:id":841353,
-        "qs:id":405531,
         "qs_pg:id":405531,
         "wd:id":"Q6377749",
         "wk:page":"Kato Mylos"
@@ -97,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563574594,
+    "wof:lastmodified":1566710007,
     "wof:name":"\u039a\u03ac\u03c4\u03c9 \u039c\u03cd\u03bb\u03bf\u03c2",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

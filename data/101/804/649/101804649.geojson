@@ -13,10 +13,13 @@
     "iso:country":"CY",
     "lbl:latitude":34.742906,
     "lbl:longitude":33.15918,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":34.742906,
     "mps:longitude":33.15918,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041f\u0430\u0440\u0435\u043a\u043b\u0438\u0441\u0438\u044f"
     ],
@@ -52,9 +55,6 @@
     "name:swe_x_preferred":[
         "Parekklisha"
     ],
-    "name:unk_x_variant":[
-        "Parekklisia"
-    ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
     "qs:a1":"*\u039b\u03b5\u03bc\u03b5\u03c3\u03cc\u03c2",
     "qs:a1_alt":"Lemesos",
@@ -72,7 +72,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":34.740556,
     "wd:longitude":33.160833,
@@ -87,7 +87,6 @@
         "fct:id":"06ef5288-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":146204,
         "gp:id":841593,
-        "qs:id":122391,
         "qs_pg:id":122391,
         "wd:id":"Q7136707",
         "wk:page":"Parekklisia"
@@ -106,7 +105,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563574465,
+    "wof:lastmodified":1566709981,
     "wof:name":"\u03a0\u03b1\u03c1\u03b5\u03ba\u03ba\u03bb\u03b7\u03c3\u03b9\u03ac",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"CY",
     "lbl:latitude":35.13573,
     "lbl:longitude":33.13135,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":35.13573,
     "mps:longitude":33.13135,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Ak\u00e1ki"
     ],
@@ -70,9 +73,6 @@
         "Aka\u00e7a",
         "Ak\u00e1cha"
     ],
-    "name:unk_x_variant":[
-        "Akaca"
-    ],
     "name:urd_x_preferred":[
         "\u0627\u06a9\u0627\u06a9\u06cc\u060c \u0642\u0628\u0631\u0635"
     ],
@@ -96,7 +96,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":35.133333,
     "wd:longitude":33.129167,
@@ -111,7 +111,6 @@
         "fct:id":"06eefa36-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":146850,
         "gp:id":841102,
-        "qs:id":255617,
         "qs_pg:id":255617,
         "wd:id":"Q3646772",
         "wk:page":"Akaki, Cyprus"
@@ -130,7 +129,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563574534,
+    "wof:lastmodified":1566709996,
     "wof:name":"\u0391\u03ba\u03ac\u03ba\u03b9",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

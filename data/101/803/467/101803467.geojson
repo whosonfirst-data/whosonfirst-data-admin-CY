@@ -13,10 +13,13 @@
     "iso:country":"CY",
     "lbl:latitude":35.040076,
     "lbl:longitude":32.886067,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":35.040076,
     "mps:longitude":32.886067,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Kor\u00e1kou"
     ],
@@ -48,9 +51,6 @@
     "name:swe_x_preferred":[
         "Kor\u00e1kou"
     ],
-    "name:unk_x_variant":[
-        "Koraku"
-    ],
     "name:urd_x_preferred":[
         "\u0642\u0631\u06c1 \u06a9\u0648"
     ],
@@ -72,7 +72,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":35.040556,
     "wd:longitude":32.886389,
@@ -87,7 +87,6 @@
         "fct:id":"06ef3078-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":146443,
         "gp:id":841409,
-        "qs:id":1273443,
         "qs_pg:id":1273443,
         "wd:id":"Q6431377",
         "wk:page":"Korakou"
@@ -106,7 +105,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563574530,
+    "wof:lastmodified":1566709995,
     "wof:name":"\u039a\u03bf\u03c1\u03ac\u03ba\u03bf\u03c5",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

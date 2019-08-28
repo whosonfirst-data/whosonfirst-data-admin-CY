@@ -5,15 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000217,
+    "geom:area_square_m":2194255.301683,
     "geom:bbox":"32.705853717,35.148307881,32.723966756,35.1662272383",
     "geom:latitude":35.158118,
     "geom:longitude":32.715756,
     "iso:country":"CY",
     "lbl:latitude":35.158813,
     "lbl:longitude":32.715928,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":35.158813,
     "mps:longitude":32.715928,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ell_x_preferred":[
         "Ammadi\u00e9s"
     ],
@@ -40,9 +45,6 @@
         "G\u00fcnebakan",
         "G\u00fcnecakar"
     ],
-    "name:unk_x_variant":[
-        "Amadhi\u00e6s"
-    ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
     "qs:a1":"*\u039b\u03b5\u03c5\u03ba\u03c9\u03c3\u03af\u03b1",
     "qs:a1_alt":"Lefkosia",
@@ -57,7 +59,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632437,
@@ -68,7 +70,7 @@
         "fct:id":"06eefd60-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":146824,
         "gp:id":841118,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"CY",
     "wof:geomhash":"478c0c96dd02620214ca741fb1868373",
@@ -84,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1501212545,
+    "wof:lastmodified":1566709964,
     "wof:name":"\u0391\u03bc\u03bc\u03b1\u03b4\u03b9\u03ad\u03c2",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

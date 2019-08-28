@@ -9,15 +9,18 @@
     "geom:bbox":"32.6,34.73333,32.6,34.73333",
     "geom:latitude":34.73333,
     "geom:longitude":32.6,
-    "gn:gn_country":"CY",
-    "gn:gn_fcode":"PPLQ",
-    "gn:gn_pop":2,
+    "gn:country":"CY",
+    "gn:fcode":"PPLQ",
     "gn:population":2,
     "iso:country":"CY",
+    "lbl:bbox":"32.58,34.71333,32.62,34.75333",
     "lbl:latitude":34.73333,
     "lbl:longitude":32.6,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u0421\u0443\u0441\u043a\u0438\u0443"
@@ -40,7 +43,7 @@
     "name:pol_x_preferred":[
         "Suskiu"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Susuz"
     ],
     "name:urd_x_preferred":[
@@ -67,7 +70,7 @@
     "qs_pg:woe_adm0":26812346,
     "qs_pg:woe_id":841701,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":1126002167,
-    "wof:lastmodified":1563574637,
+    "wof:lastmodified":1566710017,
     "wof:name":"Souskiou",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

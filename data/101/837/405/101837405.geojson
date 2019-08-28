@@ -13,10 +13,13 @@
     "iso:country":"CY",
     "lbl:latitude":35.024375,
     "lbl:longitude":33.42159,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mps:latitude":35.024375,
     "mps:longitude":33.42159,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062f\u0627\u0644\u064a"
     ],
@@ -81,9 +84,6 @@
     "name:tur_x_preferred":[
         "Dal\u0131"
     ],
-    "name:unk_x_variant":[
-        "Idalion"
-    ],
     "name:urd_x_preferred":[
         "\u062f\u0627\u0644\u06cc\u060c \u0642\u0628\u0631\u0635"
     ],
@@ -111,7 +111,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":35.021111,
     "wd:longitude":33.42,
@@ -126,7 +126,6 @@
         "fct:id":"06ef13a4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":146666,
         "gp:id":841248,
-        "qs:id":491838,
         "qs_pg:id":491838,
         "wd:id":"Q2555453",
         "wk:page":"Dali, Cyprus"
@@ -145,7 +144,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563574623,
+    "wof:lastmodified":1566710014,
     "wof:name":"\u0394\u03ac\u03bb\u03b9",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

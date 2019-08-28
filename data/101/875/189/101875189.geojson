@@ -13,10 +13,13 @@
     "iso:country":"CY",
     "lbl:latitude":34.925354,
     "lbl:longitude":32.614722,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mps:latitude":34.925354,
     "mps:longitude":32.614722,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0410\u0441\u043f\u0440\u043e\u0433\u0438\u044f"
     ],
@@ -43,9 +46,6 @@
     "name:pol_x_preferred":[
         "Asproja"
     ],
-    "name:unk_x_variant":[
-        "Asproya"
-    ],
     "name:urd_x_preferred":[
         "\u0627\u0633\u067e\u0631\u0648\u06af\u06cc\u0627"
     ],
@@ -65,7 +65,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":21,
     "wof:belongsto":[
@@ -78,7 +78,6 @@
         "fct:id":"06ef0576-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":146771,
         "gp:id":841159,
-        "qs:id":1273394,
         "qs_pg:id":1273394,
         "wd:id":"Q4808229",
         "wk:page":"Asprogia"
@@ -97,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563574408,
+    "wof:lastmodified":1566709967,
     "wof:name":"\u0391\u03c3\u03c0\u03c1\u03bf\u03b3\u03b9\u03ac",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

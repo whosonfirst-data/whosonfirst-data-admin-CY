@@ -12,10 +12,13 @@
     "iso:country":"CY",
     "lbl:latitude":34.778141,
     "lbl:longitude":32.651931,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":34.778141,
     "mps:longitude":32.651931,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0410\u0433\u0438\u043e\u0441 \u0413\u0435\u043e\u0440\u0433\u0438\u043e\u0441"
     ],
@@ -44,7 +47,7 @@
     "name:swe_x_preferred":[
         "\u00c1gios Ge\u00f3rgios"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ayyorgi"
     ],
     "name:urd_x_preferred":[
@@ -64,7 +67,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":16,
     "wof:belongsto":[
         102191569,
@@ -74,7 +77,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":146690,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q4831312",
         "wk:page":"Agios Georgios, Paphos"
     },
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":101875171,
-    "wof:lastmodified":1563574427,
+    "wof:lastmodified":1566709972,
     "wof:name":"\u0386\u03b3\u03b9\u03bf\u03c2 \u0393\u03b5\u03ce\u03c1\u03b3\u03b9\u03bf\u03c2",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

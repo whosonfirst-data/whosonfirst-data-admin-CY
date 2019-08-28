@@ -13,10 +13,13 @@
     "iso:country":"CY",
     "lbl:latitude":34.676233,
     "lbl:longitude":32.937654,
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mps:latitude":34.676233,
     "mps:longitude":32.937654,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041a\u043e\u043b\u043e\u0441\u0438"
     ],
@@ -53,7 +56,7 @@
     "name:swe_x_preferred":[
         "Kolossi"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Yunus"
     ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
@@ -73,7 +76,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":34.670833,
     "wd:longitude":32.929167,
@@ -87,7 +90,6 @@
     "wof:concordances":{
         "gn:id":146451,
         "gp:id":841402,
-        "qs:id":491836,
         "qs_pg:id":491836,
         "wd:id":"Q3353547",
         "wk:page":"Kolossi"
@@ -103,7 +105,7 @@
         }
     ],
     "wof:id":101804665,
-    "wof:lastmodified":1563574471,
+    "wof:lastmodified":1566709983,
     "wof:name":"\u039a\u03bf\u03bb\u03cc\u03c3\u03c3\u03b9",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

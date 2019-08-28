@@ -9,15 +9,18 @@
     "geom:bbox":"33.2125,34.75,33.2125,34.75",
     "geom:latitude":34.75,
     "geom:longitude":33.2125,
-    "gn:gn_country":"CY",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":492,
+    "gn:country":"CY",
+    "gn:fcode":"PPL",
     "gn:population":492,
     "iso:country":"CY",
+    "lbl:bbox":"33.1925,34.73,33.2325,34.77",
     "lbl:latitude":34.75,
     "lbl:longitude":33.2125,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u041c\u043e\u043d\u0430\u0433\u0440\u0443\u043b\u0438"
@@ -46,7 +49,7 @@
     "name:swe_x_preferred":[
         "Monagro\u00falli"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Monagrulli"
     ],
     "qs_pg:aaroncc":"CY",
@@ -66,7 +69,7 @@
     "qs_pg:woe_adm0":26812346,
     "qs_pg:woe_id":841524,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":26812346,
     "woe:name_adm0":"Cyprus",
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":1125954609,
-    "wof:lastmodified":1563574630,
+    "wof:lastmodified":1566710015,
     "wof:name":"Monagroulli",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

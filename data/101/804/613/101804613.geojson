@@ -12,10 +12,13 @@
     "iso:country":"CY",
     "lbl:latitude":34.966236,
     "lbl:longitude":32.424709,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":34.966236,
     "mps:longitude":32.424709,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0422\u0435\u0440\u0430"
     ],
@@ -48,9 +51,7 @@
         "Cakirlar"
     ],
     "name:und_x_variant":[
-        "\u00c7akirlar"
-    ],
-    "name:unk_x_variant":[
+        "\u00c7akirlar",
         "\u00c7ak\u0131rlar"
     ],
     "name:urd_x_preferred":[
@@ -73,7 +74,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":86,
     "wof:belongsto":[
         102191569,
@@ -85,7 +86,6 @@
         "fct:id":"06ef6994-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":146041,
         "gp:id":841722,
-        "qs:id":988635,
         "qs_pg:id":988635,
         "wd:id":"Q1307574",
         "wk:page":"Terra, Cyprus"
@@ -104,7 +104,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563574465,
+    "wof:lastmodified":1566709981,
     "wof:name":"\u03a4\u03ad\u03c1\u03b1",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

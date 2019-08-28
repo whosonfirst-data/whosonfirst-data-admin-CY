@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000314,
-    "geom:area_square_m":3168451.008983,
+    "geom:area_square_m":3168451.008981,
     "geom:bbox":"33.318300303,35.3270025529,33.3685322825,35.3452835168",
     "geom:latitude":35.334749,
     "geom:longitude":33.344864,
     "iso:country":"CY",
     "lbl:latitude":35.332355,
     "lbl:longitude":33.354947,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":35.332355,
     "mps:longitude":33.354947,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ell_x_preferred":[
         "Kar\u00e1koumi"
     ],
@@ -31,14 +34,9 @@
     "name:und_x_colloquial":[
         "Karokomi Chiftlik"
     ],
-    "name:und_x_preferred":[
-        "Karakoumi"
-    ],
     "name:und_x_variant":[
+        "Karakoumi",
         "Karokomi Chiftl\u00edk"
-    ],
-    "name:unk_x_variant":[
-        "Karskoumi"
     ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
     "qs:a1":"*\u039a\u03b5\u03c1\u03cd\u03bd\u03b5\u03b9\u03b1",
@@ -55,7 +53,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632437,
@@ -68,7 +66,7 @@
         "fct:id":"06ef22e0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":146548,
         "gp:id":841330,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"CY",
     "wof:geomhash":"f23692e6d7c38c1825bfbc98781290b3",
@@ -106,7 +104,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1501212528,
+    "wof:lastmodified":1566710001,
     "wof:name":"\u039a\u03b1\u03c1\u03ac\u03ba\u03bf\u03c5\u03bc\u03b9",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

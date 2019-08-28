@@ -12,10 +12,13 @@
     "iso:country":"CY",
     "lbl:latitude":35.193434,
     "lbl:longitude":33.337045,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":35.193434,
     "mps:longitude":33.337045,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ell_x_preferred":[
         "Ort\u00e1kioi"
     ],
@@ -53,10 +56,8 @@
     "name:tur_x_preferred":[
         "Ortak\u00f6y"
     ],
-    "name:und_x_preferred":[
-        "Orta Keuy"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
+        "Orta Keuy",
         "Ortakoi"
     ],
     "name:urd_x_preferred":[
@@ -80,7 +81,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632437,
@@ -93,7 +94,7 @@
         "fct:id":"06ef4bb2-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":146249,
         "gp:id":841560,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q7104208"
     },
     "wof:country":"CY",
@@ -124,7 +125,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563574567,
+    "wof:lastmodified":1566710001,
     "wof:name":"\u039f\u03c1\u03c4\u03ac\u03ba\u03ca\u03bf\u03b9",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

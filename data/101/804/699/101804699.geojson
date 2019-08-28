@@ -12,10 +12,13 @@
     "iso:country":"CY",
     "lbl:latitude":34.949403,
     "lbl:longitude":32.831058,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":34.949403,
     "mps:longitude":32.831058,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041f\u0440\u043e\u0434\u0440\u043e\u043c\u043e\u0441"
     ],
@@ -50,7 +53,7 @@
     "name:rus_x_preferred":[
         "\u041f\u0440\u043e\u0434\u0440\u043e\u043c\u043e\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Prodromo"
     ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
@@ -68,7 +71,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":34.949722,
     "wd:longitude":32.830556,
     "wd:wordcount":168,
@@ -81,7 +84,7 @@
     "wof:concordances":{
         "gn:id":146119,
         "gp:id":841735,
-        "qs:id":1,
+        "qs_pg:id":1,
         "wd:id":"Q843172"
     },
     "wof:country":"CY",
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":101804699,
-    "wof:lastmodified":1563574469,
+    "wof:lastmodified":1566709982,
     "wof:name":"\u03a0\u03c1\u03cc\u03b4\u03c1\u03bf\u03bc\u03bf\u03c2",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

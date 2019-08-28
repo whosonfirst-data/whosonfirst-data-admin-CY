@@ -12,10 +12,13 @@
     "iso:country":"CY",
     "lbl:latitude":35.04929,
     "lbl:longitude":33.056322,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":35.04929,
     "mps:longitude":33.056322,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0410\u0433\u0438\u044f \u041c\u0430\u0440\u0438\u043d\u0430 \u041a\u0435\u043b\u043e\u043a\u0435\u0434\u0430\u0440\u043e\u043d"
     ],
@@ -41,7 +44,7 @@
     "name:tur_x_preferred":[
         "Agia Marina Kelokedaron"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ayia Marina Xyliatou"
     ],
     "name:urd_x_preferred":[
@@ -62,7 +65,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":29,
     "wof:belongsto":[
         102191569,
@@ -73,7 +76,7 @@
     "wof:concordances":{
         "gn:id":146752,
         "gp:id":841175,
-        "qs:id":8,
+        "qs_pg:id":8,
         "wd:id":"Q4818374"
     },
     "wof:country":"CY",
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":101803447,
-    "wof:lastmodified":1563574486,
+    "wof:lastmodified":1566709986,
     "wof:name":"\u0391\u03b3\u03af\u03b1 \u039c\u03b1\u03c1\u03af\u03bd\u03b1",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

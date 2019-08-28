@@ -12,10 +12,13 @@
     "iso:country":"CY",
     "lbl:latitude":35.490841,
     "lbl:longitude":34.218521,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":35.490841,
     "mps:longitude":34.218521,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0410\u0433\u0438\u043e\u0441 \u0421\u0438\u043c\u0435\u043e\u043d"
     ],
@@ -58,12 +61,6 @@
     "name:tur_x_preferred":[
         "Avtepe"
     ],
-    "name:und_x_preferred":[
-        "Ayios Symeon"
-    ],
-    "name:unk_x_variant":[
-        "Saint Symeon"
-    ],
     "name:urd_x_preferred":[
         "\u0622\u0626\u06cc\u0648\u0633 \u0633\u06cc\u0645\u06cc\u0648\u0646"
     ],
@@ -82,7 +79,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632437,
@@ -95,7 +92,7 @@
         "fct:id":"06ef0fe4-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":146701,
         "gp:id":841222,
-        "qs:id":405493,
+        "qs_pg:id":405493,
         "wd:id":"Q4831303",
         "wk:page":"Agios Symeon"
     },
@@ -135,7 +132,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563574478,
+    "wof:lastmodified":1566709984,
     "wof:name":"\u0386\u03b3\u03b9\u03bf\u03c2 \u03a3\u03c5\u03bc\u03b5\u03ce\u03bd",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

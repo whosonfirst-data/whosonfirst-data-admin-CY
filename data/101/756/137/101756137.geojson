@@ -12,10 +12,13 @@
     "iso:country":"CY",
     "lbl:latitude":35.341249,
     "lbl:longitude":33.20768,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":35.341249,
     "mps:longitude":33.20768,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041c\u043e\u0442\u0438\u0434\u0435\u0441"
     ],
@@ -52,11 +55,8 @@
     "name:tur_x_preferred":[
         "\u0130ncesu"
     ],
-    "name:und_x_preferred":[
+    "name:und_x_variant":[
         "Motidhes"
-    ],
-    "name:unk_x_variant":[
-        "\u0130ncesu"
     ],
     "name:urd_x_preferred":[
         "\u0645\u0648\u062a\u06cc\u062f\u06cc\u0633"
@@ -76,7 +76,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632437,
@@ -89,7 +89,7 @@
         "fct:id":"06ef46c6-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":146282,
         "gp:id":841533,
-        "qs:id":184458,
+        "qs_pg:id":184458,
         "wd:id":"Q3557592",
         "wk:page":"Motides"
     },
@@ -129,7 +129,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563574569,
+    "wof:lastmodified":1566710002,
     "wof:name":"\u039c\u03cc\u03c4\u03b7\u03b4\u03b5\u03c2",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

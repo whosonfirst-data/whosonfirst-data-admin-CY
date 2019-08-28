@@ -12,10 +12,13 @@
     "iso:country":"CY",
     "lbl:latitude":35.17483,
     "lbl:longitude":33.549943,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":35.17483,
     "mps:longitude":33.549943,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "M\u00f3ra"
     ],
@@ -49,15 +52,8 @@
         "Morkoey",
         "Morkoy"
     ],
-    "name:und_x_preferred":[
-        "Mora"
-    ],
     "name:und_x_variant":[
-        "Meri\u00e7",
         "Mork\u00f6y"
-    ],
-    "name:unk_x_variant":[
-        "Meri\u00e7"
     ],
     "name:urd_x_preferred":[
         "\u0645\u0648\u0631\u0627"
@@ -77,7 +73,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632437,
@@ -90,7 +86,7 @@
         "fct:id":"06ef45cc-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":146289,
         "gp:id":841528,
-        "qs:id":184457,
+        "qs_pg:id":184457,
         "wd:id":"Q785372",
         "wk:page":"Mora, Cyprus"
     },
@@ -122,7 +118,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563574528,
+    "wof:lastmodified":1566709994,
     "wof:name":"\u039c\u03bf\u03c1\u03ac",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

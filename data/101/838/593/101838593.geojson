@@ -12,10 +12,13 @@
     "iso:country":"CY",
     "lbl:latitude":35.229226,
     "lbl:longitude":33.555193,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":35.229226,
     "mps:longitude":33.555193,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ell_x_preferred":[
         "Kouro\u00fa Monast\u00edri"
     ],
@@ -33,9 +36,6 @@
         "Kuru Monastiri"
     ],
     "name:tur_x_preferred":[
-        "\u00c7ukurova"
-    ],
-    "name:unk_x_variant":[
         "\u00c7ukurova"
     ],
     "name:urd_x_preferred":[
@@ -56,7 +56,7 @@
     "qs:type":"rural point-multi-in-poly-resolved",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632437,
@@ -68,7 +68,7 @@
     "wof:concordances":{
         "gn:id":146429,
         "gp:id":841614,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q6434716"
     },
     "wof:country":"CY",
@@ -96,7 +96,7 @@
         }
     ],
     "wof:id":101838593,
-    "wof:lastmodified":1563574603,
+    "wof:lastmodified":1566710009,
     "wof:name":"\u039a\u03bf\u03c5\u03c1\u03bf\u03cd \u039c\u03bf\u03bd\u03b1\u03c3\u03c4\u03ae\u03c1\u03b9",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"CY",
     "lbl:latitude":34.91998,
     "lbl:longitude":32.630694,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":34.91998,
     "mps:longitude":32.630694,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041f\u0430\u043d\u0430\u0433\u0438\u044f"
     ],
@@ -62,7 +65,7 @@
     "name:spa_x_preferred":[
         "Pano Panagia"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Yukar\u0131 Panaya"
     ],
     "name:urd_x_preferred":[
@@ -88,7 +91,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:elevation":900.0,
     "wd:latitude":34.916667,
     "wd:longitude":32.633333,
@@ -103,7 +106,6 @@
         "fct:id":"06ef508a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":146219,
         "gp:id":841583,
-        "qs:id":1174947,
         "qs_pg:id":1174947,
         "wd:id":"Q4343821"
     },
@@ -121,7 +123,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563574448,
+    "wof:lastmodified":1566709977,
     "wof:name":"\u03a0\u03ac\u03bd\u03c9 \u03a0\u03b1\u03bd\u03b1\u03b3\u03b9\u03ac",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

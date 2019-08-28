@@ -9,15 +9,18 @@
     "geom:bbox":"32.44583,34.94167,32.44583,34.94167",
     "geom:latitude":34.94167,
     "geom:longitude":32.44583,
-    "gn:gn_country":"CY",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":27,
+    "gn:country":"CY",
+    "gn:fcode":"PPL",
     "gn:population":27,
     "iso:country":"CY",
+    "lbl:bbox":"32.42583,34.92167,32.46583,34.96167",
     "lbl:latitude":34.94167,
     "lbl:longitude":32.44583,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:bul_x_preferred":[
         "\u041f\u0430\u043d\u043e \u0410\u043a\u0443\u0440\u0434\u0430\u043b\u0438\u044f"
@@ -44,7 +47,7 @@
     "name:pol_x_preferred":[
         "Pano Akurdalia"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pano Akurdalya"
     ],
     "name:urd_x_preferred":[
@@ -67,7 +70,7 @@
     "qs_pg:woe_adm0":26812346,
     "qs_pg:woe_id":841573,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "woe:adm0_id":26812346,
     "woe:name_adm0":"Cyprus",
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1125954659,
-    "wof:lastmodified":1563574629,
+    "wof:lastmodified":1566710015,
     "wof:name":"Pano Akourdhalia",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"CY",
     "lbl:latitude":34.810699,
     "lbl:longitude":32.795239,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mps:latitude":34.810699,
     "mps:longitude":32.795239,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041a\u0438\u0441\u0443\u0441\u0430"
     ],
@@ -43,9 +46,6 @@
     "name:pol_x_preferred":[
         "Kisusa"
     ],
-    "name:unk_x_variant":[
-        "Cissusa"
-    ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
     "qs:a1":"*\u039b\u03b5\u03bc\u03b5\u03c3\u03cc\u03c2",
     "qs:a1_alt":"Lemesos",
@@ -62,7 +62,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":34.810556,
     "wd:longitude":32.794722,
@@ -77,7 +77,6 @@
         "fct:id":"06ef2cae-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":146471,
         "gp:id":841389,
-        "qs:id":1033919,
         "qs_pg:id":1033919,
         "wd:id":"Q6417288",
         "wk:page":"Kissousa"
@@ -96,7 +95,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563574420,
+    "wof:lastmodified":1566709970,
     "wof:name":"\u039a\u03b9\u03c3\u03c3\u03bf\u03cd\u03c3\u03b1",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"CY",
     "lbl:latitude":34.807425,
     "lbl:longitude":33.434106,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":34.807425,
     "mps:longitude":33.434106,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0410\u043b\u0430\u043c\u0438\u043d\u043e\u0441"
     ],
@@ -58,9 +61,6 @@
     "name:pol_x_preferred":[
         "Alaminos"
     ],
-    "name:unk_x_variant":[
-        "Alaminyo"
-    ],
     "name:urd_x_preferred":[
         "\u0622\u0644\u0627\u0645\u06cc\u0646\u0648\u0633"
     ],
@@ -82,7 +82,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":34.781111,
     "wd:longitude":32.826111,
@@ -97,7 +97,6 @@
         "fct:id":"06eefbf8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":146833,
         "gp:id":841111,
-        "qs:id":229083,
         "qs_pg:id":229083,
         "wd:id":"Q4705928"
     },
@@ -115,7 +114,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563574466,
+    "wof:lastmodified":1566709982,
     "wof:name":"\u0391\u03bb\u03b1\u03bc\u03b9\u03bd\u03cc\u03c2",
     "wof:parent_id":85682407,
     "wof:placetype":"locality",

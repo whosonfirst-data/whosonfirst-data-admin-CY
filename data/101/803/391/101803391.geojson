@@ -12,10 +12,13 @@
     "iso:country":"CY",
     "lbl:latitude":34.993511,
     "lbl:longitude":33.369266,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":34.993511,
     "mps:longitude":33.369266,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ell_x_preferred":[
         "Ag\u00eda Varv\u00e1ra"
     ],
@@ -50,7 +53,7 @@
     "name:rus_x_preferred":[
         "\u0410\u0439\u0438\u044f-\u0412\u0430\u0440\u0432\u0430\u0440\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ayvaryara"
     ],
     "name:urd_x_preferred":[
@@ -74,7 +77,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":26,
     "wof:belongsto":[
         102191569,
@@ -86,7 +89,7 @@
         "fct:id":"06ef097c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":146744,
         "gp:id":841183,
-        "qs:id":405471,
+        "qs_pg:id":405471,
         "wd:id":"Q1942703",
         "wk:page":"Agia Varvara, Nicosia"
     },
@@ -104,7 +107,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563574479,
+    "wof:lastmodified":1566709984,
     "wof:name":"\u0391\u03b3\u03af\u03b1 \u0392\u03b1\u03c1\u03b2\u03ac\u03c1\u03b1",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"CY",
     "lbl:latitude":35.172067,
     "lbl:longitude":33.834188,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":35.172067,
     "mps:longitude":33.834188,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0421\u0442\u0438\u043b\u0438"
     ],
@@ -48,11 +51,8 @@
     "name:tur_x_preferred":[
         "Mutluyaka"
     ],
-    "name:und_x_preferred":[
+    "name:und_x_variant":[
         "Styllos"
-    ],
-    "name:unk_x_variant":[
-        "Istillos"
     ],
     "name:urd_x_preferred":[
         "\u0633\u062a\u06cc\u0644\u06cc\u0648\u06cc"
@@ -72,7 +72,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632437,
@@ -85,7 +85,7 @@
         "fct:id":"06ef67c8-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":146053,
         "gp:id":841712,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q7629663",
         "wk:page":"Stylloi"
     },
@@ -125,7 +125,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563574514,
+    "wof:lastmodified":1566709992,
     "wof:name":"\u03a3\u03c4\u03cd\u03bb\u03bb\u03bf\u03b9",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

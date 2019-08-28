@@ -12,10 +12,13 @@
     "iso:country":"CY",
     "lbl:latitude":35.32581,
     "lbl:longitude":33.814789,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":35.32581,
     "mps:longitude":33.814789,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0410\u0433\u0438\u043e\u0441 \u042f\u043a\u043e\u0432\u043e\u0441"
     ],
@@ -53,7 +56,7 @@
     "name:tur_x_preferred":[
         "Alt\u0131nova"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Aynakofo"
     ],
     "name:urd_x_preferred":[
@@ -74,7 +77,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632437,
@@ -86,7 +89,7 @@
     "wof:concordances":{
         "gn:id":146725,
         "gp:id":841202,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q4831287",
         "wk:page":"Agios Iakovos"
     },
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":101803269,
-    "wof:lastmodified":1563574500,
+    "wof:lastmodified":1566709989,
     "wof:name":"\u0386\u03b3\u03b9\u03bf\u03c2 \u0399\u03ac\u03ba\u03c9\u03b2\u03bf\u03c2",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

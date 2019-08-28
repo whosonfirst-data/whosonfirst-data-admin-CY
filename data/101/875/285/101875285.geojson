@@ -13,10 +13,13 @@
     "iso:country":"CY",
     "lbl:latitude":34.928479,
     "lbl:longitude":32.994837,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mps:latitude":34.928479,
     "mps:longitude":32.994837,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0410\u0433\u0440\u0438\u0434\u0438\u044f"
     ],
@@ -60,7 +63,7 @@
     "name:swe_x_preferred":[
         "Agr\u00eddia"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "A\u011fritya"
     ],
     "name:urd_x_preferred":[
@@ -82,7 +85,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":34.928611,
     "wd:longitude":32.994444,
@@ -97,7 +100,6 @@
         "fct:id":"06eef964-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":146854,
         "gp:id":841098,
-        "qs:id":1273381,
         "qs_pg:id":1273381,
         "wd:id":"Q4694107",
         "wk:page":"Agridia"
@@ -116,7 +118,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563574419,
+    "wof:lastmodified":1566709970,
     "wof:name":"\u0391\u03b3\u03c1\u03af\u03b4\u03b9\u03b1",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

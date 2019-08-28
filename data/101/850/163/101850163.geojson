@@ -10,12 +10,16 @@
     "geom:latitude":34.956341,
     "geom:longitude":32.529198,
     "iso:country":"CY",
+    "lbl:bbox":"32.509198,34.936341,32.549198,34.976341",
     "lbl:latitude":34.956341,
     "lbl:longitude":32.529198,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":34.956341,
     "mps:longitude":32.529198,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0421\u0430\u0440\u0430\u043c\u0430"
     ],
@@ -43,9 +47,6 @@
     "name:und_x_variant":[
         "Ku\u015fluca"
     ],
-    "name:unk_x_variant":[
-        "Ku\u015fluca"
-    ],
     "name:urd_x_preferred":[
         "\u0633\u0627\u0631\u0627\u0645\u0627"
     ],
@@ -66,7 +67,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":301,
     "wof:belongsto":[
         102191569,
@@ -78,7 +79,7 @@
         "fct:id":"06ef6246-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":146094,
         "gp:id":841682,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q7423027",
         "wk:page":"Sarama, Cyprus"
     },
@@ -96,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563574439,
+    "wof:lastmodified":1566709975,
     "wof:name":"\u03a3\u03b1\u03c1\u03b1\u03bc\u03ac",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

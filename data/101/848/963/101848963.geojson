@@ -11,12 +11,16 @@
     "geom:longitude":32.610172,
     "gn:population":249,
     "iso:country":"CY",
+    "lbl:bbox":"32.590172,34.870919,32.630172,34.910919",
     "lbl:latitude":34.890919,
     "lbl:longitude":32.610172,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":34.890919,
     "mps:longitude":32.610172,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0421\u0442\u0430\u0442\u043e\u0441-\u0410\u0433\u0438\u043e\u0441 \u0424\u043e\u0442\u0438\u043e\u0441"
     ],
@@ -44,7 +48,7 @@
     "name:swe_x_preferred":[
         "Stat\u00f3s-\u00c1gios F\u00f3tios"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Stato-Ayfoti"
     ],
     "name:urd_x_preferred":[
@@ -67,7 +71,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":59,
     "wof:belongsto":[
@@ -79,7 +83,7 @@
     "wof:concordances":{
         "gn:id":16770,
         "gp:id":841705,
-        "qs:id":79520,
+        "qs_pg:id":79520,
         "wd:id":"Q7604465",
         "wk:page":"Statos\u2013Agios Fotios"
     },
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":101848963,
-    "wof:lastmodified":1563574578,
+    "wof:lastmodified":1566710004,
     "wof:name":"\u03a3\u03c4\u03b1\u03c4\u03cc\u03c2-\u02bc\u03b3\u03b9\u03bf\u03c2 \u03a6\u03ce\u03c4\u03b9\u03bf\u03c2",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

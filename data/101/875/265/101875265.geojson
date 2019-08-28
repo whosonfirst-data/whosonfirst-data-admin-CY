@@ -13,10 +13,13 @@
     "iso:country":"CY",
     "lbl:latitude":34.825986,
     "lbl:longitude":32.920902,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mps:latitude":34.825986,
     "mps:longitude":32.920902,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041b\u0430\u043d\u0438\u044f"
     ],
@@ -48,7 +51,7 @@
     "name:swe_x_preferred":[
         "L\u00e1neia"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lanya"
     ],
     "name:urd_x_preferred":[
@@ -70,7 +73,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":34.824444,
     "wd:longitude":32.920833,
@@ -85,7 +88,6 @@
         "fct:id":"06ef3546-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":146406,
         "gp:id":841435,
-        "qs:id":1273450,
         "qs_pg:id":1273450,
         "wd:id":"Q6485486",
         "wk:page":"Laneia"
@@ -104,7 +106,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563574422,
+    "wof:lastmodified":1566709971,
     "wof:name":"\u039b\u03ac\u03bd\u03b5\u03b9\u03b1",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

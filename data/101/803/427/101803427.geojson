@@ -12,10 +12,13 @@
     "iso:country":"CY",
     "lbl:latitude":35.114624,
     "lbl:longitude":33.212328,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":35.114624,
     "mps:longitude":33.212328,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "\u00c1gioi Trimithi\u00e1s"
     ],
@@ -59,9 +62,6 @@
     "name:swe_x_preferred":[
         "\u00c1gioi Trimithi\u00e1s"
     ],
-    "name:unk_x_variant":[
-        "Ayious"
-    ],
     "name:urd_x_preferred":[
         "\u0622\u0626\u06cc\u0648\u06cc \u062a\u0631\u06cc\u0645\u06cc\u062a\u06be\u06cc\u0627\u0633"
     ],
@@ -80,7 +80,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":35.114722,
     "wd:longitude":33.21,
     "wd:wordcount":51,
@@ -94,7 +94,7 @@
         "fct:id":"06ef09ae-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":146742,
         "gp:id":841185,
-        "qs:id":405472,
+        "qs_pg:id":405472,
         "wd:id":"Q9142938",
         "wk:page":"Agioi Trimithias"
     },
@@ -112,7 +112,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563574527,
+    "wof:lastmodified":1566709994,
     "wof:name":"\u0391\u03b3\u03af\u03bf\u03b9 \u03a4\u03c1\u03b9\u03bc\u03b9\u03b8\u03b9\u03ac\u03c2",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

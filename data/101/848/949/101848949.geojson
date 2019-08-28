@@ -11,12 +11,16 @@
     "geom:longitude":32.690415,
     "gn:population":264,
     "iso:country":"CY",
+    "lbl:bbox":"32.670415,34.820725,32.710415,34.860725",
     "lbl:latitude":34.840725,
     "lbl:longitude":32.690415,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":34.840725,
     "mps:longitude":32.690415,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0421\u0430\u043b\u0430\u043c\u0438\u0443"
     ],
@@ -44,9 +48,6 @@
     "name:swe_x_preferred":[
         "Salamio\u00fa"
     ],
-    "name:unk_x_variant":[
-        "Salamiu"
-    ],
     "name:urd_x_preferred":[
         "\u0633\u0627\u0644\u0627\u0645\u06cc\u0648"
     ],
@@ -68,7 +69,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":20,
     "wof:belongsto":[
@@ -81,7 +82,6 @@
         "fct:id":"06ef61b0-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":146100,
         "gp:id":841679,
-        "qs:id":884399,
         "qs_pg:id":884399,
         "wd:id":"Q7403589",
         "wk:page":"Salamiou"
@@ -100,7 +100,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563574581,
+    "wof:lastmodified":1566710004,
     "wof:name":"\u03a3\u03b1\u03bb\u03b1\u03bc\u03b9\u03bf\u03cd",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

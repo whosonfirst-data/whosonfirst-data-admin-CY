@@ -13,10 +13,13 @@
     "iso:country":"CY",
     "lbl:latitude":34.743066,
     "lbl:longitude":33.006561,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":34.743066,
     "mps:longitude":33.006561,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041f\u0430\u043b\u043e\u0434\u0438\u044f"
     ],
@@ -51,7 +54,7 @@
     "name:swe_x_preferred":[
         "Palodeia"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Palodiya"
     ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
@@ -72,7 +75,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":34.742222,
     "wd:longitude":33.007222,
@@ -87,7 +90,6 @@
         "fct:id":"06ef4dce-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":146235,
         "gp:id":841569,
-        "qs:id":1273501,
         "qs_pg:id":1273501,
         "wd:id":"Q7128555",
         "wk:page":"Palodeia"
@@ -106,7 +108,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563574452,
+    "wof:lastmodified":1566709978,
     "wof:name":"\u03a0\u03b1\u03bb\u03cc\u03b4\u03b5\u03b9\u03b1",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

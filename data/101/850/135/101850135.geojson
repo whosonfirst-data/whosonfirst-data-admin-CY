@@ -10,12 +10,16 @@
     "geom:latitude":35.18668,
     "geom:longitude":33.074161,
     "iso:country":"CY",
+    "lbl:bbox":"33.054161,35.16668,33.094161,35.20668",
     "lbl:latitude":35.18668,
     "lbl:longitude":33.074161,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":35.18668,
     "mps:longitude":33.074161,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "M\u00e1sari"
     ],
@@ -48,15 +52,6 @@
     "name:und_x_colloquial":[
         "Sahinler"
     ],
-    "name:und_x_preferred":[
-        "Masari"
-    ],
-    "name:und_x_variant":[
-        "\u015eahinler"
-    ],
-    "name:unk_x_variant":[
-        "Saninler"
-    ],
     "name:urd_x_preferred":[
         "\u0645\u0627\u0633\u0627\u0631\u06cc"
     ],
@@ -77,7 +72,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632437,
@@ -90,7 +85,7 @@
         "fct:id":"06ef40ae-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":146328,
         "gp:id":841498,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q4818086",
         "wk:page":"Masari"
     },
@@ -122,7 +117,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563574427,
+    "wof:lastmodified":1566709972,
     "wof:name":"\u039c\u03ac\u03c3\u03b1\u03c1\u03b7",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

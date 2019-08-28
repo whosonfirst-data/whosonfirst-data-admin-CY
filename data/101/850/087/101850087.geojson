@@ -10,12 +10,16 @@
     "geom:latitude":35.383445,
     "geom:longitude":32.954185,
     "iso:country":"CY",
+    "lbl:bbox":"32.934185,35.363445,32.974185,35.403445",
     "lbl:latitude":35.383445,
     "lbl:longitude":32.954185,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":35.383445,
     "mps:longitude":32.954185,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041b\u0438\u0432\u0435\u0440\u0430"
     ],
@@ -52,14 +56,8 @@
         "Sadrazamkoey",
         "Sadrazamkoy"
     ],
-    "name:und_x_preferred":[
-        "Liveras"
-    ],
     "name:und_x_variant":[
-        "Sadrazamk\u00f6y"
-    ],
-    "name:unk_x_variant":[
-        "Sadrazamk\u00f6y"
+        "Liveras"
     ],
     "name:urd_x_preferred":[
         "\u0644\u06cc\u0648\u06cc\u0631\u0627"
@@ -81,7 +79,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632437,
@@ -94,7 +92,7 @@
         "fct:id":"06ef3a78-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":146369,
         "gp:id":841464,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q6658226",
         "wk:page":"Livera"
     },
@@ -134,7 +132,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563574441,
+    "wof:lastmodified":1566709975,
     "wof:name":"\u039b\u03b9\u03b2\u03b5\u03c1\u03ac",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

@@ -13,10 +13,13 @@
     "iso:country":"CY",
     "lbl:latitude":34.66784,
     "lbl:longitude":32.698891,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":34.66784,
     "mps:longitude":32.698891,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041f\u0438\u0441\u0443\u0440\u0438"
     ],
@@ -59,7 +62,7 @@
     "name:swe_x_preferred":[
         "Pisso\u00fari"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pissuri"
     ],
     "name:urd_x_preferred":[
@@ -82,7 +85,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":34.666667,
     "wd:longitude":32.7,
@@ -97,7 +100,6 @@
         "fct:id":"06ef5b7a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":146150,
         "gp:id":841639,
-        "qs:id":122390,
         "qs_pg:id":122390,
         "wd:id":"Q1985470",
         "wk:page":"Pissouri"
@@ -116,7 +118,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563574450,
+    "wof:lastmodified":1566709978,
     "wof:name":"\u03a0\u03b9\u03c3\u03c3\u03bf\u03cd\u03c1\u03b9",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

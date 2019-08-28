@@ -12,10 +12,13 @@
     "iso:country":"CY",
     "lbl:latitude":35.17353,
     "lbl:longitude":32.913996,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":35.17353,
     "mps:longitude":32.913996,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kaziver\u00e1"
     ],
@@ -56,9 +59,6 @@
     "name:und_x_variant":[
         "Ghaziveran"
     ],
-    "name:unk_x_variant":[
-        "Chaziveran"
-    ],
     "name:urd_x_preferred":[
         "\u0642\u0627\u0636\u06cc\u0648\u06cc\u0631\u0627"
     ],
@@ -77,7 +77,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632437,
@@ -90,7 +90,7 @@
         "fct:id":"06ef1bec-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":146599,
         "gp:id":841294,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q4817733",
         "wk:page":"Kazivera"
     },
@@ -122,7 +122,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563574517,
+    "wof:lastmodified":1566709992,
     "wof:name":"\u039a\u03b1\u03b6\u03b9\u03b2\u03b5\u03c1\u03ac",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

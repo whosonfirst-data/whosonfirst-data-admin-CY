@@ -13,10 +13,13 @@
     "iso:country":"CY",
     "lbl:latitude":34.823766,
     "lbl:longitude":32.583089,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mps:latitude":34.823766,
     "mps:longitude":32.583089,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0410\u043c\u0430\u0440\u0433\u0435\u0442\u0438"
     ],
@@ -51,9 +54,6 @@
     "name:swe_x_preferred":[
         "Amarg\u00e9ti"
     ],
-    "name:unk_x_variant":[
-        "Amarketi"
-    ],
     "name:urd_x_preferred":[
         "\u0627\u0645\u0627\u0631\u06af\u06cc\u062a\u06cc"
     ],
@@ -74,7 +74,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":22,
     "wof:belongsto":[
@@ -87,7 +87,6 @@
         "fct:id":"06eefd9c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":146823,
         "gp:id":841119,
-        "qs:id":966673,
         "qs_pg:id":966673,
         "wd:id":"Q4740228"
     },
@@ -105,7 +104,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563574464,
+    "wof:lastmodified":1566709981,
     "wof:name":"\u0391\u03bc\u03b1\u03c1\u03b3\u03ad\u03c4\u03b7",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

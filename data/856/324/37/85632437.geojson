@@ -20,6 +20,8 @@
     ],
     "lbl:latitude":34.881852,
     "lbl:longitude":33.011051,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":34.881852,
     "mps:longitude":33.011051,
     "mz:hierarchy_label":1,
@@ -867,18 +869,9 @@
     "name:ukr_x_preferred":[
         "\u041a\u0456\u043f\u0440"
     ],
-    "name:und_x_preferred":[
-        "Ciper"
-    ],
     "name:und_x_variant":[
-        "Kibris",
-        "Kipros",
         "Kuzey Kibris",
-        "Kypros",
         "Republika Ciper"
-    ],
-    "name:unk_x_variant":[
-        "Republic of Cyprus"
     ],
     "name:urd_x_preferred":[
         "\u0642\u0628\u0631\u0635"
@@ -1039,7 +1032,7 @@
     "src:geom_alt":[
         "naturalearth"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "statoids:dial":"357",
     "statoids:ds":"CY",
@@ -1083,7 +1076,7 @@
         "marc:id":"cy",
         "ne:adm0_a3":"CYP",
         "nyt:id":"48701351656611389441",
-        "qs:id":514539,
+        "qs_pg:id":514539,
         "uncrt:id":"CY",
         "wd:id":"Q229",
         "wk:page":"Cyprus",
@@ -1107,7 +1100,7 @@
         "ell",
         "tur"
     ],
-    "wof:lastmodified":1565670988,
+    "wof:lastmodified":1566709958,
     "wof:name":"Cyprus",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

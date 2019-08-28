@@ -12,10 +12,13 @@
     "iso:country":"CY",
     "lbl:latitude":35.085879,
     "lbl:longitude":33.609147,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":35.085879,
     "mps:longitude":33.609147,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0422\u0440\u0435\u043c\u0435\u0442\u0443\u0441\u0438\u044f"
     ],
@@ -71,9 +74,6 @@
     "name:tur_x_preferred":[
         "Erdemli"
     ],
-    "name:unk_x_variant":[
-        "Erdemli"
-    ],
     "name:urd_x_preferred":[
         "\u062a\u0631\u06cc\u0645\u06cc\u062a\u0648\u0633\u06cc\u0627"
     ],
@@ -92,7 +92,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632437,
@@ -104,7 +104,7 @@
     "wof:concordances":{
         "gn:id":146029,
         "gp:id":841733,
-        "qs:id":1273535,
+        "qs_pg:id":1273535,
         "wd:id":"Q3557909"
     },
     "wof:country":"CY",
@@ -132,7 +132,7 @@
         }
     ],
     "wof:id":101803595,
-    "wof:lastmodified":1563574481,
+    "wof:lastmodified":1566709985,
     "wof:name":"\u03a4\u03c1\u03b5\u03bc\u03b5\u03c4\u03bf\u03c5\u03c3\u03b9\u03ac",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

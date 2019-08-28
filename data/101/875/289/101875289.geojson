@@ -12,10 +12,13 @@
     "iso:country":"CY",
     "lbl:latitude":34.827297,
     "lbl:longitude":33.19597,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":34.827297,
     "mps:longitude":33.19597,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0412\u0438\u043a\u043b\u0430"
     ],
@@ -51,7 +54,7 @@
     "qs:type":"buffered point disambiguated",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:latitude":34.826944,
     "wd:longitude":33.195556,
     "wd:wordcount":88,
@@ -65,7 +68,7 @@
         "fct:id":"06ef7074-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":145993,
         "gp:id":841758,
-        "qs:id":9,
+        "qs_pg:id":9,
         "wd:id":"Q7929534",
         "wk:page":"Vikla"
     },
@@ -83,7 +86,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563574401,
+    "wof:lastmodified":1566709965,
     "wof:name":"\u0392\u03af\u03ba\u03bb\u03b1",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

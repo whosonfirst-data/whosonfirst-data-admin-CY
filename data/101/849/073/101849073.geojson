@@ -11,12 +11,16 @@
     "geom:longitude":32.826634,
     "gn:population":304,
     "iso:country":"CY",
+    "lbl:bbox":"32.806634,34.760659,32.846634,34.800659",
     "lbl:latitude":34.780659,
     "lbl:longitude":32.826634,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":34.780659,
     "mps:longitude":32.826634,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0410\u0433\u0438\u043e\u0441 \u0410\u043c\u0432\u0440\u043e\u0441\u0438\u043e\u0441"
     ],
@@ -57,9 +61,6 @@
     "name:swe_x_preferred":[
         "\u00c1gios Amvr\u00f3sios"
     ],
-    "name:unk_x_variant":[
-        "Ayios Evrosis"
-    ],
     "name:urd_x_preferred":[
         "\u0622\u0626\u06cc\u0648\u0633 \u0622\u0645\u0648\u0631\u0648\u0633\u06cc\u0648\u0633"
     ],
@@ -81,7 +82,7 @@
         "quattroshapes"
     ],
     "src:geom_via":"quattroshapes",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":34.781111,
     "wd:longitude":32.826111,
@@ -96,7 +97,6 @@
         "fct:id":"06ef0a44-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":146739,
         "gp:id":841189,
-        "qs:id":405474,
         "qs_pg:id":405474,
         "wd:id":"Q611494",
         "wk:page":"Agios Amvrosios, Limassol"
@@ -115,7 +115,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563574595,
+    "wof:lastmodified":1566710007,
     "wof:name":"\u0386\u03b3\u03b9\u03bf\u03c2 \u0391\u03bc\u03b2\u03c1\u03cc\u03c3\u03b9\u03bf\u03c2",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

@@ -5,24 +5,27 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000366,
-    "geom:area_square_m":3696305.224743,
+    "geom:area_square_m":3696305.224742,
     "geom:bbox":"33.2884378872,35.2726640927,33.3302443507,35.2931506849",
     "geom:latitude":35.281482,
     "geom:longitude":33.309925,
     "iso:country":"CY",
     "lbl:latitude":35.278142,
     "lbl:longitude":33.31135,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":35.278142,
     "mps:longitude":33.31135,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ell_x_preferred":[
         "P\u00e1no D\u00edkomo"
     ],
     "name:ell_x_variant":[
         "\u03a0\u03ac\u03bd\u03c9 \u0394\u03af\u03ba\u03c9\u03bc\u03bf"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Upper Dikomo"
     ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
@@ -40,7 +43,7 @@
     "qs:type":"suburbs point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632437,
@@ -52,7 +55,7 @@
     "wof:concordances":{
         "gn:id":146224,
         "gp:id":8893195,
-        "qs:id":9
+        "qs_pg:id":9
     },
     "wof:country":"CY",
     "wof:geomhash":"38eb888178d8f24d719b9d5a5f2baf0f",
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":101758477,
-    "wof:lastmodified":1501212510,
+    "wof:lastmodified":1566709999,
     "wof:name":"\u03a0\u03ac\u03bd\u03c9 \u0394\u03af\u03ba\u03c9\u03bc\u03bf",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

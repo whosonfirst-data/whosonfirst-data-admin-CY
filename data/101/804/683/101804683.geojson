@@ -13,10 +13,13 @@
     "iso:country":"CY",
     "lbl:latitude":34.777527,
     "lbl:longitude":32.792118,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mps:latitude":34.777527,
     "mps:longitude":32.792118,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041f\u0430\u0445\u043d\u0430"
     ],
@@ -53,7 +56,7 @@
     "name:swe_x_preferred":[
         "Pachna"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pahna"
     ],
     "name:urd_x_preferred":[
@@ -76,7 +79,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":745.0,
     "wd:latitude":34.766667,
@@ -92,7 +95,6 @@
         "fct:id":"06ef4c7a-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":146245,
         "gp:id":841562,
-        "qs:id":122403,
         "qs_pg:id":122403,
         "wd:id":"Q3557407",
         "wk:page":"Pachna"
@@ -111,7 +113,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563574468,
+    "wof:lastmodified":1566709982,
     "wof:name":"\u03a0\u03ac\u03c7\u03bd\u03b1",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

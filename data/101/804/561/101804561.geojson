@@ -12,10 +12,13 @@
     "iso:country":"CY",
     "lbl:latitude":34.793715,
     "lbl:longitude":32.524603,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":34.793715,
     "mps:longitude":32.524603,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0415\u043f\u0438\u0441\u043a\u043e\u043f\u0438"
     ],
@@ -59,9 +62,6 @@
     "name:und_x_variant":[
         "Episcop\u00ed"
     ],
-    "name:unk_x_variant":[
-        "Piskobu"
-    ],
     "name:urd_x_preferred":[
         "\u0627\u06cc\u067e\u0633\u06a9\u0648\u067e\u06cc"
     ],
@@ -80,7 +80,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":84,
     "wof:belongsto":[
         102191569,
@@ -92,7 +92,7 @@
         "fct:id":"06ef18ea-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":146632,
         "gp:id":841277,
-        "qs:id":940299,
+        "qs_pg:id":940299,
         "wd:id":"Q5383507",
         "wk:page":"Episkopi, Paphos"
     },
@@ -110,7 +110,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563574449,
+    "wof:lastmodified":1566709977,
     "wof:name":"\u0395\u03c0\u03b9\u03c3\u03ba\u03bf\u03c0\u03ae",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

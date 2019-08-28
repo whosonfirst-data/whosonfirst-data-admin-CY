@@ -13,10 +13,13 @@
     "iso:country":"CY",
     "lbl:latitude":34.892808,
     "lbl:longitude":32.837599,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":34.892808,
     "mps:longitude":32.837599,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0424\u0438\u043d\u0438"
     ],
@@ -57,9 +60,6 @@
     "name:swe_x_preferred":[
         "Foin\u00ed"
     ],
-    "name:unk_x_variant":[
-        "Fini"
-    ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
     "qs:a1":"*\u039b\u03b5\u03bc\u03b5\u03c3\u03cc\u03c2",
     "qs:a1_alt":"Lemesos",
@@ -78,7 +78,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":34.892647,
     "wd:longitude":32.837183,
@@ -93,7 +93,6 @@
         "fct:id":"06ef5972-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":146161,
         "gp:id":841629,
-        "qs:id":405595,
         "qs_pg:id":405595,
         "wd:id":"Q353925",
         "wk:page":"Foini"
@@ -112,7 +111,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563574450,
+    "wof:lastmodified":1566709978,
     "wof:name":"\u03a6\u03bf\u03b9\u03bd\u03af",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

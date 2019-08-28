@@ -9,14 +9,18 @@
     "geom:bbox":"32.60833,34.89167,32.60833,34.89167",
     "geom:latitude":34.89167,
     "geom:longitude":32.60833,
-    "gn:gn_country":"CY",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"CY",
+    "gn:fcode":"PPL",
+    "gn:population":0,
     "iso:country":"CY",
+    "lbl:bbox":"32.58833,34.87167,32.62833,34.91167",
     "lbl:latitude":34.89167,
     "lbl:longitude":32.60833,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ell_x_preferred":[
         "Stat\u00f3s"
@@ -24,7 +28,7 @@
     "name:ell_x_variant":[
         "\u03a3\u03c4\u03b1\u03c4\u03cc\u03c2"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u0130statos"
     ],
     "qs_pg:aaroncc":"CY",
@@ -48,7 +52,7 @@
     "qs_pg:woe_adm0":26812346,
     "qs_pg:woe_id":841705,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":26812346,
     "woe:name_adm0":"Cyprus",
     "woe:name_adm1":"Paphos District",
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1126001689,
-    "wof:lastmodified":1509406189,
+    "wof:lastmodified":1566710017,
     "wof:name":"Statos",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

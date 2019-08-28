@@ -13,10 +13,13 @@
     "iso:country":"CY",
     "lbl:latitude":34.983971,
     "lbl:longitude":32.823859,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":34.983971,
     "mps:longitude":32.823859,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Moutoull\u00e1s"
     ],
@@ -53,7 +56,7 @@
     "name:swe_x_preferred":[
         "Moutoull\u00e1s"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mudulla"
     ],
     "name:urd_x_preferred":[
@@ -76,7 +79,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":800.0,
     "wd:latitude":34.983333,
@@ -92,7 +95,6 @@
         "fct:id":"06ef4798-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":146277,
         "gp:id":841537,
-        "qs:id":313512,
         "qs_pg:id":313512,
         "wd:id":"Q691096",
         "wk:page":"Moutoullas"
@@ -111,7 +113,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563574612,
+    "wof:lastmodified":1566710011,
     "wof:name":"\u039c\u03bf\u03c5\u03c4\u03bf\u03c5\u03bb\u03bb\u03ac\u03c2",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

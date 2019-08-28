@@ -13,10 +13,13 @@
     "iso:country":"CY",
     "lbl:latitude":34.761281,
     "lbl:longitude":32.994792,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":34.761281,
     "mps:longitude":32.994792,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041f\u0430\u0440\u0430\u043c\u0438\u0442\u0430"
     ],
@@ -50,7 +53,7 @@
     "name:swe_x_preferred":[
         "Param\u00fdtha"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Paramitha"
     ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
@@ -70,7 +73,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":34.75,
     "wd:longitude":32.983333,
@@ -85,7 +88,6 @@
         "fct:id":"06ef5256-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":146205,
         "gp:id":841592,
-        "qs:id":1140447,
         "qs_pg:id":1140447,
         "wd:id":"Q7135418",
         "wk:page":"Paramytha"
@@ -104,7 +106,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563574615,
+    "wof:lastmodified":1566710012,
     "wof:name":"\u03a0\u03b1\u03c1\u03b1\u03bc\u03cd\u03b8\u03b1",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

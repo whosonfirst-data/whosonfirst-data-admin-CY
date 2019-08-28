@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Nicosia",
     "iso:country":"CY",
+    "lbl:bbox":"32.64119,35.14988,32.68119,35.18988",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ell_x_preferred":[
         "Chall\u00e9ri"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1226443231,
-    "wof:lastmodified":1537619245,
+    "wof:lastmodified":1566710020,
     "wof:name":"Challeri",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

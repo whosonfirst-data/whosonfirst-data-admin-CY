@@ -13,10 +13,13 @@
     "iso:country":"CY",
     "lbl:latitude":34.756222,
     "lbl:longitude":32.859441,
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mps:latitude":34.756222,
     "mps:longitude":32.859441,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041a\u0438\u0432\u0438\u0434\u0435\u0441"
     ],
@@ -58,7 +61,7 @@
     "name:tur_x_preferred":[
         "Alsand\u0131k"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Yukar\u0131 Alsand\u0131k"
     ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
@@ -76,7 +79,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":34.756389,
     "wd:longitude":32.857778,
@@ -89,7 +92,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":146223,
-        "qs:id":514207,
+        "qs_pg:id":514207,
         "wd:id":"Q6418797",
         "wk:page":"Kivides"
     },
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":101804677,
-    "wof:lastmodified":1563574468,
+    "wof:lastmodified":1566709982,
     "wof:name":"\u03a0\u03ac\u03bd\u03c9 \u039a\u03b9\u03b2\u03af\u03b4\u03b5\u03c2",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

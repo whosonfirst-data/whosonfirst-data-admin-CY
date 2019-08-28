@@ -12,10 +12,13 @@
     "iso:country":"CY",
     "lbl:latitude":35.533585,
     "lbl:longitude":34.191072,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":35.533585,
     "mps:longitude":34.191072,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u042f\u043b\u0443\u0441\u0430"
     ],
@@ -74,11 +77,8 @@
     "name:und_x_colloquial":[
         "Yalusa"
     ],
-    "name:und_x_preferred":[
+    "name:und_x_variant":[
         "Yal\u00fbsa"
-    ],
-    "name:unk_x_variant":[
-        "Maltepe"
     ],
     "name:urd_x_preferred":[
         "\u06cc\u0627\u0644\u0648\u0633\u0627"
@@ -98,7 +98,7 @@
     "qs:type":"rural point-in-poly",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632437,
@@ -111,7 +111,7 @@
         "fct:id":"06ef7510-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":145955,
         "gp:id":841786,
-        "qs:id":1083350,
+        "qs_pg:id":1083350,
         "wd:id":"Q1014262",
         "wk:page":"Gialousa"
     },
@@ -151,7 +151,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563574519,
+    "wof:lastmodified":1566709993,
     "wof:name":"\u0391\u03b9\u03b3\u03b9\u03b1\u03bb\u03bf\u03cd\u03c3\u03b1",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

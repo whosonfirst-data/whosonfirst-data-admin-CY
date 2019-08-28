@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Nicosia",
     "iso:country":"CY",
+    "lbl:bbox":"32.9826,34.63864,33.0226,34.67864",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ell_x_preferred":[
         "\u0396\u03b1\u03ba\u03ac\u03ba\u03b9"
     ],
@@ -36,8 +40,7 @@
         "Zak\u00e1ki"
     ],
     "name:und_x_variant":[
-        "Zak\u00e1ti",
-        "Zakaki"
+        "Zak\u00e1ti"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1193159913,
-    "wof:lastmodified":1564096667,
+    "wof:lastmodified":1566709962,
     "wof:name":"Zakaki",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",
