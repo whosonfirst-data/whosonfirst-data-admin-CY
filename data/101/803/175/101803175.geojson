@@ -109,6 +109,9 @@
         "wk:page":"Liopetri"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"de4d66d00222abf223a264dfedbce0d4",
     "wof:hierarchy":[
         {
@@ -130,7 +133,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709990,
+    "wof:lastmodified":1582314068,
     "wof:name":"\u039b\u03b9\u03bf\u03c0\u03ad\u03c4\u03c1\u03b9",
     "wof:parent_id":85682389,
     "wof:placetype":"locality",

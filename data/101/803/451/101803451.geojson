@@ -95,6 +95,9 @@
         "wk:page":"Orounta"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"93cb73c508c5a87b55eb2cfbc84b5683",
     "wof:hierarchy":[
         {
@@ -108,7 +111,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709995,
+    "wof:lastmodified":1582314069,
     "wof:name":"\u039f\u03c1\u03bf\u03cd\u03bd\u03c4\u03b1",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

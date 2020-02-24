@@ -91,6 +91,9 @@
         "wk:page":"Louvaras"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"71e2a2a608de62a220578298fd7ee042",
     "wof:hierarchy":[
         {
@@ -104,7 +107,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709982,
+    "wof:lastmodified":1582314067,
     "wof:name":"\u039b\u03bf\u03c5\u03b2\u03b1\u03c1\u03ac\u03c2",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

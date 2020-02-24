@@ -95,6 +95,9 @@
         "wk:page":"Argaka"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3d4e273f2372e97884cd67d08b02af4a",
     "wof:hierarchy":[
         {
@@ -108,7 +111,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709984,
+    "wof:lastmodified":1582314068,
     "wof:name":"\u0391\u03c1\u03b3\u03ac\u03ba\u03b1",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

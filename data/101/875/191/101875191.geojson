@@ -87,6 +87,9 @@
         "wk:page":"Psathi, Cyprus"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f1733b3dcd487e97f5df60f275679efa",
     "wof:hierarchy":[
         {
@@ -100,7 +103,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709968,
+    "wof:lastmodified":1582314064,
     "wof:name":"\u03a8\u03ac\u03b8\u03b9",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

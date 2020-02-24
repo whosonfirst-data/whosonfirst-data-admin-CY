@@ -103,6 +103,10 @@
         "wk:page":"Meneou"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"44ec43a093c3f9ea5e76b707e6752284",
     "wof:hierarchy":[
         {
@@ -116,7 +120,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709963,
+    "wof:lastmodified":1582314063,
     "wof:name":"\u039c\u03b5\u03bd\u03b5\u03bf\u03cd",
     "wof:parent_id":85682407,
     "wof:placetype":"locality",

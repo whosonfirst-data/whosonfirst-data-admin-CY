@@ -95,6 +95,9 @@
         "wk:page":"Akapnou"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"704cc50f91fc8b2857cf1637a2995ad0",
     "wof:hierarchy":[
         {
@@ -108,7 +111,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709970,
+    "wof:lastmodified":1582314064,
     "wof:name":"\u0391\u03ba\u03b1\u03c0\u03bd\u03bf\u03cd",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

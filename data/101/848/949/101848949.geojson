@@ -87,6 +87,10 @@
         "wk:page":"Salamiou"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"a3b798fb2779f88e9d1d581e9fc9261b",
     "wof:hierarchy":[
         {
@@ -100,7 +104,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566710004,
+    "wof:lastmodified":1582314071,
     "wof:name":"\u03a3\u03b1\u03bb\u03b1\u03bc\u03b9\u03bf\u03cd",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

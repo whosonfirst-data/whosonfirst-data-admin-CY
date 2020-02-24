@@ -102,6 +102,9 @@
         "wk:page":"Ampelikou"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3294af248717dbdd033bb9d8a201e976",
     "wof:hierarchy":[
         {
@@ -115,7 +118,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709975,
+    "wof:lastmodified":1582314065,
     "wof:name":"\u0391\u03bc\u03c0\u03b5\u03bb\u03b9\u03ba\u03bf\u03cd",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

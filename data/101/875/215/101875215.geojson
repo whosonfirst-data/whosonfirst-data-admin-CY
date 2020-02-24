@@ -85,6 +85,9 @@
         "wk:page":"Chrysochou"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d7f191311bc757ab30e774502a81a73d",
     "wof:hierarchy":[
         {
@@ -98,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709969,
+    "wof:lastmodified":1582314064,
     "wof:name":"\u03a7\u03c1\u03c5\u03c3\u03bf\u03c7\u03bf\u03cd",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

@@ -101,6 +101,9 @@
         "wk:page":"Peristeronari"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2f4da285f9e9fcee6862335247d1fa4f",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709972,
+    "wof:lastmodified":1582314064,
     "wof:name":"\u03a0\u03b5\u03c1\u03b9\u03c3\u03c4\u03b5\u03c1\u03c9\u03bd\u03ac\u03c1\u03b9",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

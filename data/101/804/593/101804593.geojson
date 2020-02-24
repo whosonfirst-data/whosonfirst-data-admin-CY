@@ -85,6 +85,9 @@
         "wk:page":"Pentalia"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c3178774261e1e792d53c9995609bbf6",
     "wof:hierarchy":[
         {
@@ -98,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709977,
+    "wof:lastmodified":1582314066,
     "wof:name":"\u03a0\u03b5\u03bd\u03c4\u03b1\u03bb\u03b9\u03ac",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

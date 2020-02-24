@@ -87,6 +87,10 @@
         "wk:page":"Kinousa"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"9670f4d5a9bc73847ca7752bfe0d9957",
     "wof:hierarchy":[
         {
@@ -100,7 +104,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709972,
+    "wof:lastmodified":1582314065,
     "wof:name":"\u039a\u03c5\u03bd\u03bf\u03cd\u03c3\u03b1",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

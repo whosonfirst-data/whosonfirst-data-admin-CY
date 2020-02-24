@@ -93,6 +93,9 @@
         "wk:page":"Paramytha"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8b4dae72888a6f10ec327273c37c7432",
     "wof:hierarchy":[
         {
@@ -106,7 +109,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566710012,
+    "wof:lastmodified":1582314073,
     "wof:name":"\u03a0\u03b1\u03c1\u03b1\u03bc\u03cd\u03b8\u03b1",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

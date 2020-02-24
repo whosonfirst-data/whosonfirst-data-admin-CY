@@ -85,6 +85,9 @@
         "wk:page":"Mitsero"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8092dbe11cf0182fe17d0fb0690e8b90",
     "wof:hierarchy":[
         {
@@ -98,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709987,
+    "wof:lastmodified":1582314068,
     "wof:name":"\u039c\u03b9\u03c4\u03c3\u03b5\u03c1\u03cc",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

@@ -111,6 +111,9 @@
         "wk:page":"Kakopetria"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"39a18198c22e3b584be961874ae14de0",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566710012,
+    "wof:lastmodified":1582314073,
     "wof:name":"\u039a\u03b1\u03ba\u03bf\u03c0\u03b5\u03c4\u03c1\u03b9\u03ac",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

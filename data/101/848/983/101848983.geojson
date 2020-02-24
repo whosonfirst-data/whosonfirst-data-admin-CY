@@ -88,6 +88,9 @@
         "wk:page":"Lapithiou"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8ad6672ae006a53f45b97cc7b6d025d3",
     "wof:hierarchy":[
         {
@@ -101,7 +104,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566710004,
+    "wof:lastmodified":1582314071,
     "wof:name":"\u039b\u03b1\u03c0\u03b7\u03b8\u03b9\u03bf\u03cd",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

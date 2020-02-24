@@ -93,6 +93,10 @@
         "wk:page":"Dierona"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e39102704097fd13781735608d7aba5e",
     "wof:hierarchy":[
         {
@@ -106,7 +110,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566710007,
+    "wof:lastmodified":1582314072,
     "wof:name":"\u0394\u03b9\u03b5\u03c1\u03ce\u03bd\u03b1",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

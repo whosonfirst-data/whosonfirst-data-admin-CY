@@ -95,6 +95,9 @@
         "wk:page":"Palodeia"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a1d52fb5eb06eca2e09869654b0da6e2",
     "wof:hierarchy":[
         {
@@ -108,7 +111,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709978,
+    "wof:lastmodified":1582314066,
     "wof:name":"\u03a0\u03b1\u03bb\u03cc\u03b4\u03b5\u03b9\u03b1",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

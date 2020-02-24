@@ -83,6 +83,9 @@
         "wk:page":"Kaminaria"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9ce2eb5659c9eb9b51cb82968ec3e7d7",
     "wof:hierarchy":[
         {
@@ -96,7 +99,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709977,
+    "wof:lastmodified":1582314066,
     "wof:name":"\u039a\u03b1\u03bc\u03b9\u03bd\u03ac\u03c1\u03b9\u03b1",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

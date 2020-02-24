@@ -93,6 +93,9 @@
         "wk:page":"Spathariko"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a5a0cc9fed8d970f73830fae32794ee9",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709985,
+    "wof:lastmodified":1582314068,
     "wof:name":"\u03a3\u03c0\u03b1\u03b8\u03b1\u03c1\u03b9\u03ba\u03cc",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

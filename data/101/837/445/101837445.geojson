@@ -91,6 +91,9 @@
         "wk:page":"Marathounta"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ea94235f0b4d8a9a6a0cb564ea4fd6e3",
     "wof:hierarchy":[
         {
@@ -104,7 +107,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566710013,
+    "wof:lastmodified":1582314073,
     "wof:name":"\u039c\u03b1\u03c1\u03b1\u03b8\u03bf\u03cd\u03bd\u03c4\u03b1",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

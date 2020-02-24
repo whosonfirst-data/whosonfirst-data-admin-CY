@@ -120,6 +120,9 @@
         "wk:page":"Episkopi, Limassol"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5c31a188a21072be83bc847b9a04c33d",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566710013,
+    "wof:lastmodified":1582314073,
     "wof:name":"\u0395\u03c0\u03b9\u03c3\u03ba\u03bf\u03c0\u03ae",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

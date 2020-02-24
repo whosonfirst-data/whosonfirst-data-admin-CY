@@ -105,6 +105,9 @@
         "wk:page":"Pissouri"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a6202e4bdc025a8debfcc3ade521f8ac",
     "wof:hierarchy":[
         {
@@ -118,7 +121,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709978,
+    "wof:lastmodified":1582314066,
     "wof:name":"\u03a0\u03b9\u03c3\u03c3\u03bf\u03cd\u03c1\u03b9",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

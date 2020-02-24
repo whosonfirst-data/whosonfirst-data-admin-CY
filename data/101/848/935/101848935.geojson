@@ -99,6 +99,9 @@
         "wk:page":"Agia Varvara, Paphos"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4907ad9b45b17a2d70b4e3aedf58ab88",
     "wof:hierarchy":[
         {
@@ -112,7 +115,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566710004,
+    "wof:lastmodified":1582314071,
     "wof:name":"\u0391\u03b3\u03af\u03b1 \u0392\u03b1\u03c1\u03b2\u03ac\u03c1\u03b1",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

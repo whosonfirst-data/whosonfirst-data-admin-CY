@@ -301,6 +301,9 @@
         "wk:page":"Kyrenia"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4caf659bc2a5183a4830d8c66901e935",
     "wof:hierarchy":[
         {
@@ -336,7 +339,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709999,
+    "wof:lastmodified":1582314070,
     "wof:name":"\u039a\u03b5\u03c1\u03cd\u03bd\u03b5\u03b9\u03b1",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

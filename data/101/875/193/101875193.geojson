@@ -85,6 +85,9 @@
         "wk:page":"Agios Dimitrianos"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b904dc14ba668f5151013dd525efa524",
     "wof:hierarchy":[
         {
@@ -98,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709964,
+    "wof:lastmodified":1582314063,
     "wof:name":"\u0386\u03b3\u03b9\u03bf\u03c2 \u0394\u03b7\u03bc\u03b7\u03c4\u03c1\u03b9\u03b1\u03bd\u03cc\u03c2",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

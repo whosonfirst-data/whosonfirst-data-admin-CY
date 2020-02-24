@@ -113,6 +113,9 @@
         "wk:page":"Ergates"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8d35590148f052cad67954629105c3e2",
     "wof:hierarchy":[
         {
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":101803425,
-    "wof:lastmodified":1566709986,
+    "wof:lastmodified":1582314068,
     "wof:name":"\u0395\u03c1\u03b3\u03ac\u03c4\u03b5\u03c2",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

@@ -120,6 +120,9 @@
         "wk:page":"Dromolaxia"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"aa6828947057fe42a5472cea489eb992",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566710014,
+    "wof:lastmodified":1582314073,
     "wof:name":"\u0394\u03c1\u03bf\u03bc\u03bf\u03bb\u03b1\u03be\u03b9\u03ac",
     "wof:parent_id":85682407,
     "wof:placetype":"locality",

@@ -93,6 +93,9 @@
         "wk:page":"Gourri"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6cecbb34926766bdbc3ab02ab28fdf29",
     "wof:hierarchy":[
         {
@@ -106,7 +109,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709996,
+    "wof:lastmodified":1582314069,
     "wof:name":"\u0393\u03bf\u03cd\u03c1\u03c1\u03b7",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

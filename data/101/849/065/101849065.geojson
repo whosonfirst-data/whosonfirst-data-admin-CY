@@ -100,6 +100,10 @@
         "wk:page":"Alektora"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"9c861b4dfdb640dece2c0a55d4c08f73",
     "wof:hierarchy":[
         {
@@ -113,7 +117,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566710007,
+    "wof:lastmodified":1582314072,
     "wof:name":"\u0391\u03bb\u03ad\u03ba\u03c4\u03bf\u03c1\u03b1",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

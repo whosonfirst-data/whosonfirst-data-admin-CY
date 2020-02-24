@@ -94,6 +94,9 @@
         "wk:page":"Ora, Cyprus"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e25e5b8f953d29d86aaa2bad3fa40220",
     "wof:hierarchy":[
         {
@@ -107,7 +110,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709982,
+    "wof:lastmodified":1582314067,
     "wof:name":"\u039f\u03c1\u03ac",
     "wof:parent_id":85682407,
     "wof:placetype":"locality",

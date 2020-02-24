@@ -92,6 +92,10 @@
         "wk:page":"Kidasi"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"6a7a8617d1d48c130baa5b8a508363d7",
     "wof:hierarchy":[
         {
@@ -105,7 +109,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566710005,
+    "wof:lastmodified":1582314071,
     "wof:name":"\u039a\u03b9\u03b4\u03ac\u03c3\u03b9",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

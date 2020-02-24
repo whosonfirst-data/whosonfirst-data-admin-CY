@@ -102,6 +102,10 @@
         "wk:page":"Vouni"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ec166d72d2a509d60bce75a82dc3f75c",
     "wof:hierarchy":[
         {
@@ -115,7 +119,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566710006,
+    "wof:lastmodified":1582314071,
     "wof:name":"\u0392\u03bf\u03c5\u03bd\u03af",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

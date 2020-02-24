@@ -128,6 +128,9 @@
         "wk:page":"Platres"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fc3c8e451693a0c491ef9f6430e14eb4",
     "wof:hierarchy":[
         {
@@ -141,7 +144,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709981,
+    "wof:lastmodified":1582314067,
     "wof:name":"\u03a0\u03ac\u03bd\u03c9 \u03a0\u03bb\u03ac\u03c4\u03c1\u03b5\u03c2",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

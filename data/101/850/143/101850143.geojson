@@ -121,6 +121,9 @@
         "wk:page":"Kokkina"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a7c6ff09e0fbb165b7d86d3d7b83503d",
     "wof:hierarchy":[
         {
@@ -148,7 +151,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709974,
+    "wof:lastmodified":1582314065,
     "wof:name":"\u039a\u03cc\u03ba\u03ba\u03b9\u03bd\u03b1",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

@@ -97,6 +97,9 @@
         "wk:page":"Asomatos, Kyrenia"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7ef17a65b803ac485a6f47f49bc4acad",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709973,
+    "wof:lastmodified":1582314065,
     "wof:name":"\u0391\u03c3\u03ce\u03bc\u03b1\u03c4\u03bf\u03c2",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

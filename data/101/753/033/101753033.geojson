@@ -142,6 +142,9 @@
         "woe:id":841711
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9f59ccb4ae3a7837a2fdc0d8cf387955",
     "wof:hierarchy":[
         {
@@ -155,7 +158,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709963,
+    "wof:lastmodified":1582314063,
     "wof:name":"\u03a3\u03c4\u03c1\u03cc\u03b2\u03bf\u03bb\u03bf\u03c2",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

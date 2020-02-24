@@ -117,6 +117,9 @@
         "wk:page":"Zygi"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a7eba4c76f8523214dbc2fd0f762c3a4",
     "wof:hierarchy":[
         {
@@ -130,7 +133,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709979,
+    "wof:lastmodified":1582314066,
     "wof:name":"\u0396\u03cd\u03b3\u03b9",
     "wof:parent_id":85682407,
     "wof:placetype":"locality",

@@ -94,6 +94,9 @@
         "wk:page":"Pigenia"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"41017e4823dcb36dbe409c5c9ac42ca0",
     "wof:hierarchy":[
         {
@@ -107,7 +110,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566710003,
+    "wof:lastmodified":1582314070,
     "wof:name":"\u03a0\u03b7\u03b3\u03ad\u03bd\u03b9\u03b1",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

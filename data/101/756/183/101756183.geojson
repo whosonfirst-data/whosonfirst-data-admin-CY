@@ -155,6 +155,9 @@
         "wk:page":"Aradippou"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"bfe035fff677d46ca14b31f8340adaf3",
     "wof:hierarchy":[
         {
@@ -168,7 +171,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566710002,
+    "wof:lastmodified":1582314070,
     "wof:name":"\u0391\u03c1\u03b1\u03b4\u03af\u03c0\u03c0\u03bf\u03c5",
     "wof:parent_id":85682407,
     "wof:placetype":"locality",

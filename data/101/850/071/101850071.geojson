@@ -101,6 +101,9 @@
         "wk:page":"Gerani, Cyprus"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"724448b57753b83119ed5c3652a8a439",
     "wof:hierarchy":[
         {
@@ -136,7 +139,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709973,
+    "wof:lastmodified":1582314065,
     "wof:name":"\u0393\u03b5\u03c1\u03ac\u03bd\u03b9",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

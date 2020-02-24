@@ -89,6 +89,9 @@
         "wk:page":"Klepini"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"087ac0fcb3de89c352f7a5cc56bb709f",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566709990,
+    "wof:lastmodified":1582314068,
     "wof:name":"\u039a\u03bb\u03b5\u03c0\u03af\u03bd\u03b7",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

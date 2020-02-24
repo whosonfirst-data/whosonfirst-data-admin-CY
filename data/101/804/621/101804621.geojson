@@ -88,6 +88,9 @@
         "wk:page":"Pelathousa"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a2b8dc3d5c4b466ca76593efb8544553",
     "wof:hierarchy":[
         {
@@ -101,7 +104,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709978,
+    "wof:lastmodified":1582314066,
     "wof:name":"\u03a0\u03b5\u03bb\u03b1\u03b8\u03bf\u03cd\u03c3\u03b1",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

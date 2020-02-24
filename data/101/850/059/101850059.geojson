@@ -76,6 +76,9 @@
         "wk:page":"Perivolia tou Trikomou"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"441cc4584a1e8c5d0ec2a15650a3a85c",
     "wof:hierarchy":[
         {
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":101850059,
-    "wof:lastmodified":1566709976,
+    "wof:lastmodified":1582314066,
     "wof:name":"\u03a0\u03b5\u03c1\u03b9\u03b2\u03cc\u03bb\u03b9\u03b1",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

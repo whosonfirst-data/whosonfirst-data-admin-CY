@@ -85,6 +85,9 @@
         "wk:page":"Milia, Paphos"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fe3eef7175d42342573a9ad41d842221",
     "wof:hierarchy":[
         {
@@ -98,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709964,
+    "wof:lastmodified":1582314063,
     "wof:name":"\u039c\u03b7\u03bb\u03b9\u03ac",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

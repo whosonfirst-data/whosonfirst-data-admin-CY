@@ -85,6 +85,9 @@
         "wk:page":"Kannavia"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"aede18bba87177e58f6d148e28976009",
     "wof:hierarchy":[
         {
@@ -98,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566710013,
+    "wof:lastmodified":1582314073,
     "wof:name":"\u039a\u03b1\u03bd\u03bd\u03ac\u03b2\u03b9\u03b1",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

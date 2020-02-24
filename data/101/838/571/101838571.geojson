@@ -107,6 +107,9 @@
         "wk:page":"Leonarisso"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e924cd08931dfe8311cdb8e328f9f805",
     "wof:hierarchy":[
         {
@@ -142,7 +145,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566710010,
+    "wof:lastmodified":1582314072,
     "wof:name":"\u039b\u03b5\u03bf\u03bd\u03ac\u03c1\u03b9\u03c3\u03c3\u03bf",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

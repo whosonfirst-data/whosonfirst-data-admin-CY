@@ -91,6 +91,10 @@
         "wk:page":"Margi"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b0886f4f1f5829e70d6b8d456ee04954",
     "wof:hierarchy":[
         {
@@ -104,7 +108,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709975,
+    "wof:lastmodified":1582314065,
     "wof:name":"\u039c\u03b1\u03c1\u03b3\u03af",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

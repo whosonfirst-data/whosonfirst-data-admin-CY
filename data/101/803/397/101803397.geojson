@@ -94,6 +94,9 @@
         "wk:page":"Potamia, Cyprus"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c4109dad119ca48dec954317174be418",
     "wof:hierarchy":[
         {
@@ -107,7 +110,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709986,
+    "wof:lastmodified":1582314068,
     "wof:name":"\u03a0\u03bf\u03c4\u03b1\u03bc\u03b9\u03ac",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

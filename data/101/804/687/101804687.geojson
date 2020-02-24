@@ -108,6 +108,9 @@
         "wk:page":"Agios Mamas"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c7add80e5c4bbcdd7a506b21b126dfac",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709979,
+    "wof:lastmodified":1582314066,
     "wof:name":"\u0386\u03b3\u03b9\u03bf\u03c2 \u039c\u03ac\u03bc\u03b1\u03c2",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

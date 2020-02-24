@@ -91,6 +91,9 @@
         "wk:page":"Mesogi"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ae11f7bdc304c75f242704a19efee146",
     "wof:hierarchy":[
         {
@@ -104,7 +107,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709963,
+    "wof:lastmodified":1582314063,
     "wof:name":"\u039c\u03b5\u03c3\u03cc\u03b3\u03b7",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

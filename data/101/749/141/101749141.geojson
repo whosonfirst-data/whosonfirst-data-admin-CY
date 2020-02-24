@@ -689,6 +689,9 @@
         "wk:page":"Nicosia"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8d868c7caab45c12aba2bee156080428",
     "wof:hierarchy":[
         {
@@ -716,7 +719,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709999,
+    "wof:lastmodified":1582314070,
     "wof:megacity":0,
     "wof:name":"\u039b\u03b5\u03c5\u03ba\u03c9\u03c3\u03af\u03b1",
     "wof:parent_id":-4,

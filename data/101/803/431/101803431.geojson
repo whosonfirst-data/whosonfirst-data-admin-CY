@@ -92,6 +92,9 @@
         "wk:page":"Deneia"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ed0ce0720906f812f6a62023f64e1195",
     "wof:hierarchy":[
         {
@@ -105,7 +108,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709988,
+    "wof:lastmodified":1582314068,
     "wof:name":"\u0394\u03ad\u03bd\u03b5\u03b9\u03b1",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

@@ -88,6 +88,10 @@
         "wk:page":"Trachypedoula"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"c799ad51564019f25ab58ca180de0a76",
     "wof:hierarchy":[
         {
@@ -101,7 +105,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566710004,
+    "wof:lastmodified":1582314071,
     "wof:name":"\u03a4\u03c1\u03b1\u03c7\u03c5\u03c0\u03ad\u03b4\u03bf\u03c5\u03bb\u03b1",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

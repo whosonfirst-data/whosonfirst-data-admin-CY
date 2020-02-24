@@ -1030,6 +1030,7 @@
     "qs:source":"US State Department, with Natural Earth mods",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "naturalearth",
         "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -1084,6 +1085,10 @@
     },
     "wof:country":"CY",
     "wof:country_alpha3":"CYP",
+    "wof:geom_alt":[
+        "naturalearth-display-terrestrial-zoom6",
+        "naturalearth"
+    ],
     "wof:geomhash":"513b91f22a5a88b80103b4a6d5637dd9",
     "wof:hierarchy":[
         {
@@ -1100,7 +1105,7 @@
         "ell",
         "tur"
     ],
-    "wof:lastmodified":1566709958,
+    "wof:lastmodified":1582314062,
     "wof:name":"Cyprus",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

@@ -120,6 +120,9 @@
         "wk:page":"Sotira, Famagusta"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0d39bff50533e68275e880cdcc0b0c3a",
     "wof:hierarchy":[
         {
@@ -141,7 +144,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566710014,
+    "wof:lastmodified":1582314074,
     "wof:name":"\u03a3\u03c9\u03c4\u03ae\u03c1\u03b1",
     "wof:parent_id":85682389,
     "wof:placetype":"locality",

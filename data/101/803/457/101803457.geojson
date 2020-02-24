@@ -116,6 +116,9 @@
         "wk:page":"Akaki, Cyprus"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8f61500f2f37c7abe56bf3cc254b9748",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709996,
+    "wof:lastmodified":1582314069,
     "wof:name":"\u0391\u03ba\u03ac\u03ba\u03b9",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

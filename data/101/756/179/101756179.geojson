@@ -118,6 +118,9 @@
         "wk:page":"Livadia, Larnaca"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c9347caa5d74b793a8c8407616c05642",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566710002,
+    "wof:lastmodified":1582314070,
     "wof:name":"\u039b\u03b9\u03b2\u03ac\u03b4\u03b9\u03b1",
     "wof:parent_id":85682407,
     "wof:placetype":"locality",

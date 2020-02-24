@@ -92,6 +92,9 @@
         "wk:page":"Vroisha"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d614fbc6f60dad29524466b2b7a5652b",
     "wof:hierarchy":[
         {
@@ -105,7 +108,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709974,
+    "wof:lastmodified":1582314065,
     "wof:name":"\u03a6\u03c1\u03bf\u03b4\u03af\u03c3\u03b9\u03b1",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

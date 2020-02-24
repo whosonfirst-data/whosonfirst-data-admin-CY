@@ -110,6 +110,10 @@
         "wk:page":"Avdellero"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2ee76f8f20073f506f0cbffadadb8f1d",
     "wof:hierarchy":[
         {
@@ -123,7 +127,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709977,
+    "wof:lastmodified":1582314066,
     "wof:name":"\u0391\u03b2\u03b4\u03b5\u03bb\u03bb\u03b5\u03c1\u03cc",
     "wof:parent_id":85682407,
     "wof:placetype":"locality",

@@ -81,6 +81,10 @@
         "wk:page":"Arminou"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a6a26211b93483726b47f7039c906da3",
     "wof:hierarchy":[
         {
@@ -94,7 +98,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566710004,
+    "wof:lastmodified":1582314071,
     "wof:name":"\u0391\u03c1\u03bc\u03af\u03bd\u03bf\u03c5",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

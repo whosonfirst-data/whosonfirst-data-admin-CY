@@ -136,6 +136,9 @@
         "wk:page":"Lefkoniko"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f4282880b41bfff983ff272bfc303e09",
     "wof:hierarchy":[
         {
@@ -171,7 +174,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709988,
+    "wof:lastmodified":1582314068,
     "wof:name":"\u039b\u03b5\u03c5\u03ba\u03cc\u03bd\u03bf\u03b9\u03ba\u03bf",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

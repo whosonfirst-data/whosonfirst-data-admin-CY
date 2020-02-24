@@ -102,6 +102,9 @@
         "wk:page":"Tersefanou"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d02affb10f3f2f82a8adefe5ed8db1db",
     "wof:hierarchy":[
         {
@@ -115,7 +118,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709997,
+    "wof:lastmodified":1582314069,
     "wof:name":"\u03a4\u03b5\u03c1\u03c3\u03b5\u03c6\u03ac\u03bd\u03bf\u03c5",
     "wof:parent_id":85682407,
     "wof:placetype":"locality",

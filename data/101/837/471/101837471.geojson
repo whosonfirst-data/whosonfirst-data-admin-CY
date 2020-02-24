@@ -89,6 +89,9 @@
         "wk:page":"Trimiklini"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6d91b195b251a7bc3e0b2562c9ea823c",
     "wof:hierarchy":[
         {
@@ -102,7 +105,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566710011,
+    "wof:lastmodified":1582314073,
     "wof:name":"\u03a4\u03c1\u03b9\u03bc\u03ae\u03ba\u03bb\u03b7\u03bd\u03b7",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

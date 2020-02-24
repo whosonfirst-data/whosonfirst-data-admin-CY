@@ -94,6 +94,9 @@
         "wk:page":"Peristeronopigi"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fa8a8f1c98ce3bcb059e060bc5cfe66a",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566710010,
+    "wof:lastmodified":1582314072,
     "wof:name":"\u03a0\u03b5\u03c1\u03b9\u03c3\u03c4\u03b5\u03c1\u03ce\u03bd\u03b1",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

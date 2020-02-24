@@ -86,6 +86,10 @@
         "wk:page":"Kampi"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f94321de248b32d4a484c5baad05d3d7",
     "wof:hierarchy":[
         {
@@ -99,7 +103,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709963,
+    "wof:lastmodified":1582314063,
     "wof:name":"\u039a\u03b1\u03bc\u03c0\u03af",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

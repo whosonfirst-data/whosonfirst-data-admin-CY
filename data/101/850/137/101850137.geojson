@@ -101,6 +101,9 @@
         "wk:page":"Petra, Cyprus"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4effaba1584e58bf870712cda8ddbe4b",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709975,
+    "wof:lastmodified":1582314065,
     "wof:name":"\u03a0\u03ad\u03c4\u03c1\u03b1",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

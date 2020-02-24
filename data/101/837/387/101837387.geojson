@@ -187,6 +187,9 @@
         "wk:page":"Paralimni"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2db9d61249695e4a2c89be128f946271",
     "wof:hierarchy":[
         {
@@ -208,7 +211,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566710014,
+    "wof:lastmodified":1582314074,
     "wof:name":"\u03a0\u03b1\u03c1\u03b1\u03bb\u03af\u03bc\u03bd\u03b9",
     "wof:parent_id":85682389,
     "wof:placetype":"locality",

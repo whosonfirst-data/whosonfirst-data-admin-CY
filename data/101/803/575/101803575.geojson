@@ -105,6 +105,9 @@
         "wk:page":"Pyrga, Larnaca"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b64b0312ad68b0d44ea26d1ab9f205bd",
     "wof:hierarchy":[
         {
@@ -118,7 +121,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709990,
+    "wof:lastmodified":1582314068,
     "wof:name":"\u03a0\u03c5\u03c1\u03b3\u03ac",
     "wof:parent_id":85682407,
     "wof:placetype":"locality",

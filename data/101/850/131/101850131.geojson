@@ -81,6 +81,9 @@
         "wk:page":"Dyo Potamoi"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c4ed6d95a347bf818cd4e48091fed781",
     "wof:hierarchy":[
         {
@@ -108,7 +111,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709975,
+    "wof:lastmodified":1582314065,
     "wof:name":"\u0394\u03cd\u03bf \u03a0\u03bf\u03c4\u03b1\u03bc\u03bf\u03af",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

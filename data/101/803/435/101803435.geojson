@@ -100,6 +100,9 @@
         "wk:page":"Mammari"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3b8c2598980d72bf2a5a7a33645c36b7",
     "wof:hierarchy":[
         {
@@ -113,7 +116,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709996,
+    "wof:lastmodified":1582314069,
     "wof:name":"\u039c\u03ac\u03bc\u03bc\u03b1\u03c1\u03b7",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

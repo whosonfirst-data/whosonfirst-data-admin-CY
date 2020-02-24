@@ -118,6 +118,9 @@
         "wk:page":"Kornos, Cyprus"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"478745151a65eef309e11b9681254d1b",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709998,
+    "wof:lastmodified":1582314070,
     "wof:name":"\u039a\u03cc\u03c1\u03bd\u03bf\u03c2",
     "wof:parent_id":85682407,
     "wof:placetype":"locality",

@@ -115,6 +115,9 @@
         "wk:page":"Avgorou"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"be360005898a5011a3035a1f6fe5477b",
     "wof:hierarchy":[
         {
@@ -136,7 +139,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709990,
+    "wof:lastmodified":1582314068,
     "wof:name":"\u0391\u03c5\u03b3\u03cc\u03c1\u03bf\u03c5",
     "wof:parent_id":85682389,
     "wof:placetype":"locality",

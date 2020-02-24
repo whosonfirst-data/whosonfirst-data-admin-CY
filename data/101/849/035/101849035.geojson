@@ -85,6 +85,9 @@
         "wk:page":"Pentakomo"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a7ffc4298df05926654765adb0377698",
     "wof:hierarchy":[
         {
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":101849035,
-    "wof:lastmodified":1566710008,
+    "wof:lastmodified":1582314072,
     "wof:name":"\u03a0\u03b5\u03bd\u03c4\u03ac\u03ba\u03c9\u03bc\u03bf",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

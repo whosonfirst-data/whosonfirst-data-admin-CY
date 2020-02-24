@@ -99,6 +99,10 @@
         "wk:page":"Zoopigi"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"46e24ee19649b362032bebbc95dbad1b",
     "wof:hierarchy":[
         {
@@ -112,7 +116,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566710008,
+    "wof:lastmodified":1582314072,
     "wof:name":"\u0396\u03c9\u03bf\u03c0\u03b7\u03b3\u03ae",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

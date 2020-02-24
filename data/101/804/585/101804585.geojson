@@ -103,6 +103,9 @@
         "wk:page":"Kelokedara"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d86ce111f8b90b03c11b1f864a668616",
     "wof:hierarchy":[
         {
@@ -116,7 +119,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709983,
+    "wof:lastmodified":1582314067,
     "wof:name":"\u039a\u03b5\u03bb\u03bf\u03ba\u03ad\u03b4\u03b1\u03c1\u03b1",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

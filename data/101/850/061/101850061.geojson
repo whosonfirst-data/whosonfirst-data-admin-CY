@@ -89,6 +89,9 @@
         "wk:page":"Santalaris"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2d76bf6659847dbba63e75a9f5063727",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709976,
+    "wof:lastmodified":1582314066,
     "wof:name":"\u03a3\u03b1\u03bd\u03c4\u03b1\u03bb\u03ac\u03c1\u03b7\u03c2",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

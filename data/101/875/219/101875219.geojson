@@ -95,6 +95,9 @@
         "wk:page":"Gialia"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"bb002f54b0297a13485affdd5443571f",
     "wof:hierarchy":[
         {
@@ -108,7 +111,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709965,
+    "wof:lastmodified":1582314063,
     "wof:name":"\u0393\u03b9\u03b1\u03bb\u03b9\u03ac",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

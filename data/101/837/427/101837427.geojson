@@ -96,6 +96,9 @@
         "wk:page":"Agia Eirini, Nicosia"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"266d1784331725b6918b53220276a1f9",
     "wof:hierarchy":[
         {
@@ -109,7 +112,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566710013,
+    "wof:lastmodified":1582314073,
     "wof:name":"\u0391\u03b3\u03af\u03b1 \u0395\u03b9\u03c1\u03ae\u03bd\u03b7",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

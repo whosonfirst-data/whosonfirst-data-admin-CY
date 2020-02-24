@@ -96,6 +96,9 @@
         "wk:page":"Malia, Cyprus"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"57da164589f73e312de81b27941a4fa7",
     "wof:hierarchy":[
         {
@@ -109,7 +112,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709965,
+    "wof:lastmodified":1582314063,
     "wof:name":"\u039c\u03b1\u03bb\u03b9\u03ac",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

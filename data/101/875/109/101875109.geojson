@@ -91,6 +91,9 @@
         "wk:page":"Fikardou"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8f162c2f7b94598a2eabf23f1cda41db",
     "wof:hierarchy":[
         {
@@ -104,7 +107,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709968,
+    "wof:lastmodified":1582314064,
     "wof:name":"\u03a6\u03b9\u03ba\u03ac\u03c1\u03b4\u03bf\u03c5",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

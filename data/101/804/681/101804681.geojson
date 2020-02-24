@@ -85,6 +85,9 @@
         "wk:page":"Lofou"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9ea055466e3a4a81cc5753be44acb7eb",
     "wof:hierarchy":[
         {
@@ -98,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709978,
+    "wof:lastmodified":1582314066,
     "wof:name":"\u039b\u03cc\u03c6\u03bf\u03c5",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

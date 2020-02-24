@@ -91,6 +91,9 @@
         "wk:page":"Polemi"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0c746708e01bf0be52c6d359a261ca5c",
     "wof:hierarchy":[
         {
@@ -104,7 +107,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709980,
+    "wof:lastmodified":1582314067,
     "wof:name":"\u03a0\u03bf\u03bb\u03ad\u03bc\u03b9",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

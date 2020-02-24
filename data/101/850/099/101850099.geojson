@@ -87,6 +87,9 @@
         "wk:page":"Orga, Cyprus"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"926a4c1773396f1637dc4d2802a7bbf0",
     "wof:hierarchy":[
         {
@@ -122,7 +125,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709974,
+    "wof:lastmodified":1582314065,
     "wof:name":"\u038c\u03c1\u03b3\u03b1",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

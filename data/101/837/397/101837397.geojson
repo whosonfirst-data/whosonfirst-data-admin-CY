@@ -98,6 +98,9 @@
         "wk:page":"Alampra"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"dd885841c01acbcf90abffee78f51c1f",
     "wof:hierarchy":[
         {
@@ -111,7 +114,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566710011,
+    "wof:lastmodified":1582314073,
     "wof:name":"\u0391\u03bb\u03ac\u03bc\u03c0\u03c1\u03b1",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

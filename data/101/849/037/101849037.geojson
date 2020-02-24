@@ -92,6 +92,10 @@
         "wk:page":"Asgata"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"d577e04191bf8583a1b6693ae9b186ff",
     "wof:hierarchy":[
         {
@@ -105,7 +109,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566710007,
+    "wof:lastmodified":1582314072,
     "wof:name":"\u0391\u03c3\u03b3\u03ac\u03c4\u03b1",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

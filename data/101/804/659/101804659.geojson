@@ -100,6 +100,9 @@
         "wk:page":"Asomatos, Limassol"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"deba54b67573dcba2970c97ebf0d9c12",
     "wof:hierarchy":[
         {
@@ -113,7 +116,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709980,
+    "wof:lastmodified":1582314066,
     "wof:name":"\u0391\u03c3\u03ce\u03bc\u03b1\u03c4\u03bf\u03c2",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

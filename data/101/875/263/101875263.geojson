@@ -89,6 +89,9 @@
         "wk:page":"Doros, Cyprus"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1e023bd5284c1aa84418b8e2ceebcec9",
     "wof:hierarchy":[
         {
@@ -102,7 +105,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709971,
+    "wof:lastmodified":1582314064,
     "wof:name":"\u0394\u03c9\u03c1\u03cc\u03c2",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

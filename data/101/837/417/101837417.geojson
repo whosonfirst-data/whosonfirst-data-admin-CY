@@ -101,6 +101,9 @@
         "wk:page":"Psimolofou"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"703c9b8e2acaa0064887d2099645299f",
     "wof:hierarchy":[
         {
@@ -114,7 +117,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566710013,
+    "wof:lastmodified":1582314073,
     "wof:name":"\u03a8\u03b9\u03bc\u03bf\u03bb\u03cc\u03c6\u03bf\u03c5",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

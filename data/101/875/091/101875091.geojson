@@ -100,6 +100,9 @@
         "wk:page":"Monarga"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"63ac62d6692aa3c2b73f3235d1542788",
     "wof:hierarchy":[
         {
@@ -135,7 +138,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566709965,
+    "wof:lastmodified":1582314063,
     "wof:name":"\u039c\u03bf\u03bd\u03b1\u03c1\u03b3\u03ac",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

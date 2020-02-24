@@ -87,6 +87,9 @@
         "wk:page":"Maronas, Cyprus"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9739003e5bf7601ed97055530653368b",
     "wof:hierarchy":[
         {
@@ -100,7 +103,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566710006,
+    "wof:lastmodified":1582314071,
     "wof:name":"\u039c\u03ac\u03c1\u03c9\u03bd\u03b1\u03c2",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

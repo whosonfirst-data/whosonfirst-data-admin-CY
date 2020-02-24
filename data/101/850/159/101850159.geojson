@@ -94,6 +94,10 @@
         "wk:page":"Makounta"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"bff4d4a9a71ef73137df7b173186a39a",
     "wof:hierarchy":[
         {
@@ -107,7 +111,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709972,
+    "wof:lastmodified":1582314065,
     "wof:name":"\u039c\u03b1\u03ba\u03bf\u03cd\u03bd\u03c4\u03b1",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

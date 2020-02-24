@@ -106,6 +106,9 @@
         "wk:page":"Pelendri"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"25e62fb0abeb2040e5f2c7cc9fe70447",
     "wof:hierarchy":[
         {
@@ -119,7 +122,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709980,
+    "wof:lastmodified":1582314067,
     "wof:name":"\u03a0\u03b5\u03bb\u03ad\u03bd\u03b4\u03c1\u03b9",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

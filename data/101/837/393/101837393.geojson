@@ -103,6 +103,9 @@
         "wk:page":"Vouno"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1465c8bd441cc5b4d3760f6bcc983e3d",
     "wof:hierarchy":[
         {
@@ -138,7 +141,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566710013,
+    "wof:lastmodified":1582314073,
     "wof:name":"\u0392\u03bf\u03c5\u03bd\u03cc",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

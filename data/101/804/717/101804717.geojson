@@ -124,6 +124,9 @@
         "wk:page":"Agros, Cyprus"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"996c0692b624e924e752d768c91ac259",
     "wof:hierarchy":[
         {
@@ -137,7 +140,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709983,
+    "wof:lastmodified":1582314067,
     "wof:name":"\u0391\u03b3\u03c1\u03cc\u03c2",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

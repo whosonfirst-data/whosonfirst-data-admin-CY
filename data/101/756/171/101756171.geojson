@@ -97,6 +97,9 @@
         "wk:page":"Empa, Cyprus"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c9c689cb1a0885da69f58d55fb21697c",
     "wof:hierarchy":[
         {
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":101756171,
-    "wof:lastmodified":1566710003,
+    "wof:lastmodified":1582314070,
     "wof:name":"\u0388\u03bc\u03c0\u03b1",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

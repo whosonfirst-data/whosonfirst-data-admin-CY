@@ -91,6 +91,9 @@
         "wk:page":"Arediou"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b9f4ed18683da9e140591c1fb45b5bcd",
     "wof:hierarchy":[
         {
@@ -104,7 +107,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709988,
+    "wof:lastmodified":1582314068,
     "wof:name":"\u0391\u03c1\u03b5\u03b4\u03b9\u03bf\u03cd",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

@@ -85,6 +85,9 @@
         "wk:page":"Linou"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d8b844cddbd4864c64697b4cff56da5b",
     "wof:hierarchy":[
         {
@@ -98,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566710006,
+    "wof:lastmodified":1582314071,
     "wof:name":"\u039b\u03b7\u03bd\u03bf\u03cd",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

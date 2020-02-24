@@ -95,6 +95,9 @@
         "wk:page":"Timi"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"cf7196049655411f65fdb5c137a5bb3c",
     "wof:hierarchy":[
         {
@@ -108,7 +111,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709978,
+    "wof:lastmodified":1582314066,
     "wof:name":"\u03a4\u03af\u03bc\u03b7",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

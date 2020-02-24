@@ -100,6 +100,9 @@
         "wk:page":"Kampos, Cyprus"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"13458296cefba101e83a69aa750faa6a",
     "wof:hierarchy":[
         {
@@ -113,7 +116,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709993,
+    "wof:lastmodified":1582314069,
     "wof:name":"\u039a\u03ac\u03bc\u03c0\u03bf\u03c2",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

@@ -97,6 +97,10 @@
         "wk:page":"Stavrokonnou"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f3c3c6d227acfd1bb0201e87d36c4767",
     "wof:hierarchy":[
         {
@@ -110,7 +114,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566710005,
+    "wof:lastmodified":1582314071,
     "wof:name":"\u03a3\u03c4\u03b1\u03c5\u03c1\u03bf\u03ba\u03cc\u03bd\u03bd\u03bf\u03c5",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

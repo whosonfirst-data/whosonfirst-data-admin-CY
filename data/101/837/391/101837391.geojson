@@ -164,6 +164,9 @@
         "wk:page":"Ayia Napa"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fc74e5defaca955bd3940e916ce525b0",
     "wof:hierarchy":[
         {
@@ -185,7 +188,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566710011,
+    "wof:lastmodified":1582314073,
     "wof:name":"\u0391\u03b3\u03af\u03b1 \u039d\u03ac\u03c0\u03b1",
     "wof:parent_id":85682389,
     "wof:placetype":"locality",

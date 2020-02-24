@@ -86,6 +86,10 @@
         "wk:page":"Kritou Marottou"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"8b3d31519a0901bc9a0cb6d356c7d794",
     "wof:hierarchy":[
         {
@@ -99,7 +103,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566710003,
+    "wof:lastmodified":1582314070,
     "wof:name":"\u039a\u03c1\u03af\u03c4\u03bf\u03c5 \u039c\u03b1\u03c1\u03cc\u03c4\u03c4\u03bf\u03c5",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

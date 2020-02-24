@@ -80,6 +80,9 @@
         "wk:page":"Klonari"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"40ee1e37377fbc282ea482c3dfb27945",
     "wof:hierarchy":[
         {
@@ -93,7 +96,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709970,
+    "wof:lastmodified":1582314064,
     "wof:name":"\u039a\u03bb\u03c9\u03bd\u03ac\u03c1\u03b9",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

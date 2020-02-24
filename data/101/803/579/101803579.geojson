@@ -127,6 +127,9 @@
         "wk:page":"Kofinou"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e3a7def970ea8f3d65f7b9b0248c14af",
     "wof:hierarchy":[
         {
@@ -140,7 +143,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709998,
+    "wof:lastmodified":1582314070,
     "wof:name":"\u039a\u03bf\u03c6\u03af\u03bd\u03bf\u03c5",
     "wof:parent_id":85682407,
     "wof:placetype":"locality",

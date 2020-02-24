@@ -96,6 +96,10 @@
         "wk:page":"Trapeza, Cyprus"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"dee8127711e250805910945c97031da8",
     "wof:hierarchy":[
         {
@@ -131,7 +135,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709975,
+    "wof:lastmodified":1582314065,
     "wof:name":"\u03a4\u03c1\u03ac\u03c0\u03b5\u03b6\u03b1",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

@@ -125,6 +125,9 @@
         "wk:page":"Achna"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"afe21828e93c0a0a3f8c3d5f45f356fb",
     "wof:hierarchy":[
         {
@@ -157,7 +160,7 @@
         }
     ],
     "wof:id":101850053,
-    "wof:lastmodified":1566709974,
+    "wof:lastmodified":1582314065,
     "wof:name":"\u0386\u03c7\u03bd\u03b1",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

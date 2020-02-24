@@ -100,6 +100,9 @@
         "wk:page":"Astromeritis"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ca1b21fc15e463ccf3656dd5a7e1e370",
     "wof:hierarchy":[
         {
@@ -113,7 +116,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709996,
+    "wof:lastmodified":1582314069,
     "wof:name":"\u0391\u03c3\u03c4\u03c1\u03bf\u03bc\u03b5\u03c1\u03af\u03c4\u03b7\u03c2",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

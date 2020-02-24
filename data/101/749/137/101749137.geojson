@@ -368,6 +368,9 @@
         "wk:page":"Famagusta"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"759471e7fd524d07afe1fc666c63036e",
     "wof:hierarchy":[
         {
@@ -403,7 +406,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709999,
+    "wof:lastmodified":1582314070,
     "wof:name":"\u0391\u03bc\u03bc\u03cc\u03c7\u03c9\u03c3\u03c4\u03bf\u03c2",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

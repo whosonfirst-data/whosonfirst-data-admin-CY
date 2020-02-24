@@ -88,6 +88,9 @@
         "wk:page":"Statos\u2013Agios Fotios"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6e71443f09963a12affd9319fee2a62c",
     "wof:hierarchy":[
         {
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":101848963,
-    "wof:lastmodified":1566710004,
+    "wof:lastmodified":1582314071,
     "wof:name":"\u03a3\u03c4\u03b1\u03c4\u03cc\u03c2-\u02bc\u03b3\u03b9\u03bf\u03c2 \u03a6\u03ce\u03c4\u03b9\u03bf\u03c2",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

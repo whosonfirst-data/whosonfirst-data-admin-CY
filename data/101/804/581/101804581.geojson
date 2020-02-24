@@ -89,6 +89,9 @@
         "wk:page":"Kathikas"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1edae861b79d208a6a7267c00b868906",
     "wof:hierarchy":[
         {
@@ -102,7 +105,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709980,
+    "wof:lastmodified":1582314067,
     "wof:name":"\u039a\u03ac\u03b8\u03b9\u03ba\u03b1\u03c2",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

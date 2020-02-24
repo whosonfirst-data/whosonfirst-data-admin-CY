@@ -91,6 +91,10 @@
         "wk:page":"Apliki"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f1b9172035826fa8ccb4f885d1b95c97",
     "wof:hierarchy":[
         {
@@ -104,7 +108,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566710005,
+    "wof:lastmodified":1582314071,
     "wof:name":"\u0391\u03c0\u03bb\u03af\u03ba\u03b9",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

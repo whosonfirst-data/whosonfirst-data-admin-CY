@@ -89,6 +89,9 @@
         "wk:page":"Ftericha"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"14c4a2ac4a7d7a5653654203c69617f2",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709974,
+    "wof:lastmodified":1582314065,
     "wof:name":"\u03a6\u03c4\u03ad\u03c1\u03b9\u03c7\u03b1",
     "wof:parent_id":-4,
     "wof:placetype":"locality",
