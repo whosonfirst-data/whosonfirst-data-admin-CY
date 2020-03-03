@@ -1030,7 +1030,6 @@
     "qs:source":"US State Department, with Natural Earth mods",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "naturalearth",
         "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -1105,7 +1104,7 @@
         "ell",
         "tur"
     ],
-    "wof:lastmodified":1582314062,
+    "wof:lastmodified":1583200758,
     "wof:name":"Cyprus",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
