@@ -80,6 +80,9 @@
         "wk:page":"Paramali"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"733854b9d0841a6ef33472fecf3da086",
     "wof:hierarchy":[
         {
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":101911237,
-    "wof:lastmodified":1566710014,
+    "wof:lastmodified":1582314074,
     "wof:name":"Paramali",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

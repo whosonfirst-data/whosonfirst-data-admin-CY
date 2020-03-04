@@ -84,6 +84,10 @@
         "wk:page":"Sanida"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"eee584c0cc62eb6975b23a1834e5a9cf",
     "wof:hierarchy":[
         {
@@ -97,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566710006,
+    "wof:lastmodified":1582314071,
     "wof:name":"\u03a3\u03b1\u03bd\u03af\u03b4\u03b1",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

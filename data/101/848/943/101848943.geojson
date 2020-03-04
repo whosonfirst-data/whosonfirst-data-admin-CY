@@ -94,6 +94,10 @@
         "wk:page":"Archimandrita"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"c04b3ac0d46b8e4690fec1f93e741c6c",
     "wof:hierarchy":[
         {
@@ -107,7 +111,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566710005,
+    "wof:lastmodified":1582314071,
     "wof:name":"\u03a0\u03ac\u03bd\u03c9 \u0391\u03c1\u03c7\u03b9\u03bc\u03b1\u03bd\u03b4\u03c1\u03af\u03c4\u03b1",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

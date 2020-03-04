@@ -93,6 +93,9 @@
         "wk:page":"Fasoula, Limassol"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b23d794224ebc6318df152eb697772d7",
     "wof:hierarchy":[
         {
@@ -106,7 +109,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566710008,
+    "wof:lastmodified":1582314072,
     "wof:name":"\u03a6\u03b1\u03c3\u03bf\u03cd\u03bb\u03b1",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

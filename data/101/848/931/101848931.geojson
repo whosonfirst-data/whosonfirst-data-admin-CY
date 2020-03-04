@@ -94,6 +94,10 @@
         "wk:page":"Nikokleia"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"a169fc559bcbd7b12455af0390aed478",
     "wof:hierarchy":[
         {
@@ -107,7 +111,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566710003,
+    "wof:lastmodified":1582314070,
     "wof:name":"\u039d\u03b9\u03ba\u03cc\u03ba\u03bb\u03b5\u03b9\u03b1",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

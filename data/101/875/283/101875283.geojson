@@ -96,6 +96,9 @@
         "wk:page":"Dymes"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d58c868e980a6812bf84ecd4ac324dcb",
     "wof:hierarchy":[
         {
@@ -109,7 +112,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709969,
+    "wof:lastmodified":1582314064,
     "wof:name":"\u0394\u03cd\u03bc\u03b5\u03c2",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

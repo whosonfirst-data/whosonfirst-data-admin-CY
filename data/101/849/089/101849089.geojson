@@ -84,6 +84,10 @@
         "wk:page":"Kato Mylos"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"6c3d06fb55ff44c60925e645d502a743",
     "wof:hierarchy":[
         {
@@ -97,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566710007,
+    "wof:lastmodified":1582314072,
     "wof:name":"\u039a\u03ac\u03c4\u03c9 \u039c\u03cd\u03bb\u03bf\u03c2",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

@@ -100,6 +100,10 @@
         "wk:page":"Odou"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"15d4d3f728a7d21b94487c285d60c23b",
     "wof:hierarchy":[
         {
@@ -113,7 +117,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566710009,
+    "wof:lastmodified":1582314072,
     "wof:name":"\u039f\u03b4\u03bf\u03cd",
     "wof:parent_id":85682407,
     "wof:placetype":"locality",

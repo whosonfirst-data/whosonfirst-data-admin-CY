@@ -105,6 +105,9 @@
         "wk:page":"Silikou"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b214388181b1d2cb21f19d0bfb5cb524",
     "wof:hierarchy":[
         {
@@ -118,7 +121,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709982,
+    "wof:lastmodified":1582314067,
     "wof:name":"\u03a3\u03b9\u03bb\u03af\u03ba\u03bf\u03c5",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

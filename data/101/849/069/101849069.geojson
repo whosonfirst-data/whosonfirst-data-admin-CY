@@ -113,6 +113,10 @@
         "wk:page":"Alassa"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ee34f7927f23d8a0e785d6d9f918ca58",
     "wof:hierarchy":[
         {
@@ -126,7 +130,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566710009,
+    "wof:lastmodified":1582314072,
     "wof:name":"\u0386\u03bb\u03b1\u03c3\u03c3\u03b1",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

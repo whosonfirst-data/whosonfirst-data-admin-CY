@@ -97,6 +97,9 @@
         "wk:page":"Aloda"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6f8c1d423010dbf1ff31653c5b419a04",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709974,
+    "wof:lastmodified":1582314065,
     "wof:name":"\u0391\u03bb\u03cc\u03b4\u03b1",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

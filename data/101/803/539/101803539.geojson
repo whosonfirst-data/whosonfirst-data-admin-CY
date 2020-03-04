@@ -111,6 +111,9 @@
         "wk:page":"Troulloi"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2603eb29b3a69ab0eaa70787efcc8d87",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709991,
+    "wof:lastmodified":1582314069,
     "wof:name":"\u03a4\u03c1\u03bf\u03cd\u03bb\u03bb\u03bf\u03b9",
     "wof:parent_id":85682407,
     "wof:placetype":"locality",

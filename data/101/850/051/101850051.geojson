@@ -85,6 +85,9 @@
         "wk:page":"Kanli"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3d7f333fff77e62e0b334b1f4e9b51ba",
     "wof:hierarchy":[
         {
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":101850051,
-    "wof:lastmodified":1566709976,
+    "wof:lastmodified":1582314066,
     "wof:name":"\u039a\u03b1\u03bd\u03bb\u03af",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

@@ -98,6 +98,9 @@
         "wk:page":"Maratha, Cyprus"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"607efab951b6bd7c5b2741a9eb14d2fd",
     "wof:hierarchy":[
         {
@@ -133,7 +136,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709974,
+    "wof:lastmodified":1582314065,
     "wof:name":"\u039c\u03ac\u03c1\u03b1\u03b8\u03b1",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

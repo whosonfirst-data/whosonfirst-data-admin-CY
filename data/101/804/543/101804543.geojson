@@ -103,6 +103,9 @@
         "wk:page":"Pedoulas"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"86b278eb11101e7ad772f1adb10348c6",
     "wof:hierarchy":[
         {
@@ -116,7 +119,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709980,
+    "wof:lastmodified":1582314067,
     "wof:name":"\u03a0\u03b5\u03b4\u03bf\u03c5\u03bb\u03ac\u03c2",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

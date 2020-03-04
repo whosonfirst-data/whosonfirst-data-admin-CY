@@ -49,6 +49,9 @@
         "qs_pg:id":5
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0230970526a6858c6d86d3083a4305a6",
     "wof:hierarchy":[
         {
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":101850109,
-    "wof:lastmodified":1566709975,
+    "wof:lastmodified":1582314065,
     "wof:name":"\u0386\u03b3\u03b9\u03bf\u03c2 \u0393\u03b5\u03ce\u03c1\u03b3\u03b9\u03bf\u03c2 \u039a\u03b1\u03c5\u03ba\u03ac\u03bb\u03bb\u03bf\u03c5",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

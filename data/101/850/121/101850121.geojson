@@ -98,6 +98,10 @@
         "wk:page":"Oikos, Cyprus"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"f36179cb909c7edc511b641cb5a001b2",
     "wof:hierarchy":[
         {
@@ -111,7 +115,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709974,
+    "wof:lastmodified":1582314065,
     "wof:name":"\u039f\u03af\u03ba\u03bf\u03c2",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

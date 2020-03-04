@@ -95,6 +95,10 @@
         "wk:page":"Vavatsinia"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"38a0f7a37639102e95730d6d78a14dcb",
     "wof:hierarchy":[
         {
@@ -108,7 +112,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566710007,
+    "wof:lastmodified":1582314072,
     "wof:name":"\u0392\u03b1\u03b2\u03b1\u03c4\u03c3\u03b9\u03bd\u03b9\u03ac",
     "wof:parent_id":85682407,
     "wof:placetype":"locality",

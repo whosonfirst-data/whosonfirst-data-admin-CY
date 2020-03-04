@@ -82,6 +82,9 @@
         "wk:page":"Skoulli"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0eef0851b1f721c7dc7183c120624f93",
     "wof:hierarchy":[
         {
@@ -95,7 +98,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709970,
+    "wof:lastmodified":1582314064,
     "wof:name":"\u03a3\u03ba\u03bf\u03cd\u03bb\u03bb\u03b7",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

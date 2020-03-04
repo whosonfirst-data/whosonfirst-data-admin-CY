@@ -90,6 +90,10 @@
         "wk:page":"Limnatis, Limassol"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a739e5aa02c35a8be2b002b78b2dd00b",
     "wof:hierarchy":[
         {
@@ -103,7 +107,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566710006,
+    "wof:lastmodified":1582314071,
     "wof:name":"\u039b\u03b9\u03bc\u03bd\u03ac\u03c4\u03b7\u03c2",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

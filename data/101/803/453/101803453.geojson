@@ -85,6 +85,9 @@
         "wk:page":"Potami"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ea0acde57f8c4a96b6712fb20c2c9818",
     "wof:hierarchy":[
         {
@@ -98,7 +101,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709989,
+    "wof:lastmodified":1582314068,
     "wof:name":"\u03a0\u03bf\u03c4\u03ac\u03bc\u03b9",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

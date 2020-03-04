@@ -78,6 +78,9 @@
         "wk:page":"Lemona, Cyprus"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"43cdbf2553651aa0113bd17b319639ed",
     "wof:hierarchy":[
         {
@@ -91,7 +94,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709968,
+    "wof:lastmodified":1582314064,
     "wof:name":"\u039b\u03b5\u03bc\u03ce\u03bd\u03b1",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

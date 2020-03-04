@@ -94,6 +94,9 @@
         "wk:page":"Choulou"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d60b7e7bcd4c27e096326c00f6a4a6a7",
     "wof:hierarchy":[
         {
@@ -107,7 +110,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709983,
+    "wof:lastmodified":1582314067,
     "wof:name":"\u03a7\u03bf\u03cd\u03bb\u03bf\u03c5",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

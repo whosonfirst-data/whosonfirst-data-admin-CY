@@ -88,6 +88,9 @@
         "wk:page":"Lemithou"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"495576853e074c3d138115bfb129d9eb",
     "wof:hierarchy":[
         {
@@ -101,7 +104,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709981,
+    "wof:lastmodified":1582314067,
     "wof:name":"\u039b\u03b5\u03bc\u03af\u03b8\u03bf\u03c5",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

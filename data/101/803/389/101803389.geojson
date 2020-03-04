@@ -87,6 +87,9 @@
         "wk:page":"Mathiatis"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4203a87900d66759484d02d72eb7fc46",
     "wof:hierarchy":[
         {
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":101803389,
-    "wof:lastmodified":1566709997,
+    "wof:lastmodified":1582314069,
     "wof:name":"\u039c\u03b1\u03b8\u03b9\u03ac\u03c4\u03b7\u03c2",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

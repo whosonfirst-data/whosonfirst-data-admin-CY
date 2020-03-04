@@ -84,6 +84,9 @@
         "wk:page":"Karamoullides"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e1b6a4840d47002dd2388383e9bf8503",
     "wof:hierarchy":[
         {
@@ -97,7 +100,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709970,
+    "wof:lastmodified":1582314064,
     "wof:name":"\u039a\u03b1\u03c1\u03b1\u03bc\u03bf\u03c5\u03bb\u03bb\u03ae\u03b4\u03b5\u03c2",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

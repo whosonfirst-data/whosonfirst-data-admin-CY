@@ -98,6 +98,10 @@
         "wk:page":"Vavla"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"1af524cc7b4375837ea9a1fb66178795",
     "wof:hierarchy":[
         {
@@ -111,7 +115,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566710004,
+    "wof:lastmodified":1582314071,
     "wof:name":"\u0392\u03ac\u03b2\u03bb\u03b1",
     "wof:parent_id":85682407,
     "wof:placetype":"locality",

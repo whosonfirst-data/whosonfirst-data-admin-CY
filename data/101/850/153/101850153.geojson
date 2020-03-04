@@ -105,6 +105,9 @@
         "wk:page":"Arodes"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ed878d10bdec95037e133db1eeeea9fa",
     "wof:hierarchy":[
         {
@@ -118,7 +121,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709975,
+    "wof:lastmodified":1582314065,
     "wof:name":"\u039a\u03ac\u03c4\u03c9 \u0391\u03c1\u03cc\u03b4\u03b5\u03c2",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

@@ -144,6 +144,9 @@
         "wk:page":"Athienou"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"73d1c62be2f012c6e40c92f2874981bf",
     "wof:hierarchy":[
         {
@@ -157,7 +160,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709997,
+    "wof:lastmodified":1582314069,
     "wof:name":"\u0391\u03b8\u03b9\u03ad\u03bd\u03bf\u03c5",
     "wof:parent_id":85682407,
     "wof:placetype":"locality",

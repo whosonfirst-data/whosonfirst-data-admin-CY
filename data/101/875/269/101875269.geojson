@@ -77,6 +77,9 @@
         "wk:page":"Kouka, Cyprus"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a50d617fad85336ab02407175c363822",
     "wof:hierarchy":[
         {
@@ -90,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709966,
+    "wof:lastmodified":1582314063,
     "wof:name":"\u039a\u03bf\u03c5\u03ba\u03ac",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

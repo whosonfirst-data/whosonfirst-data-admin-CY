@@ -97,6 +97,9 @@
         "wk:page":"Livera"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6b4ec74ba6236e939427e6bc7afd28a4",
     "wof:hierarchy":[
         {
@@ -132,7 +135,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709975,
+    "wof:lastmodified":1582314065,
     "wof:name":"\u039b\u03b9\u03b2\u03b5\u03c1\u03ac",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

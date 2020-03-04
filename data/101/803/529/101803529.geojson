@@ -131,6 +131,9 @@
         "wk:page":"Lefka"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1c870b485e0368f05aeee6c20290b85b",
     "wof:hierarchy":[
         {
@@ -158,7 +161,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709990,
+    "wof:lastmodified":1582314068,
     "wof:name":"\u039b\u03b5\u03cd\u03ba\u03b1",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

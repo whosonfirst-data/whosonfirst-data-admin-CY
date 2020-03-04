@@ -102,6 +102,9 @@
         "wk:page":"Politiko"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ba0f21f4207c4e9ba97d6ca34599c0a4",
     "wof:hierarchy":[
         {
@@ -115,7 +118,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566710011,
+    "wof:lastmodified":1582314073,
     "wof:name":"\u03a0\u03bf\u03bb\u03b9\u03c4\u03b9\u03ba\u03cc",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

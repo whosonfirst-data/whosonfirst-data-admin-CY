@@ -135,6 +135,9 @@
         "wk:page":"Trikomo, Cyprus"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"36666c8ede6b1989f3ca002b2dc0f131",
     "wof:hierarchy":[
         {
@@ -170,7 +173,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709989,
+    "wof:lastmodified":1582314068,
     "wof:name":"\u03a4\u03c1\u03af\u03ba\u03c9\u03bc\u03bf",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

@@ -129,6 +129,9 @@
         "wk:page":"Lefkara"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d222450cc78c078ca724efae7a0c3569",
     "wof:hierarchy":[
         {
@@ -142,7 +145,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709998,
+    "wof:lastmodified":1582314070,
     "wof:name":"\u03a0\u03ac\u03bd\u03c9 \u039b\u03b5\u03cd\u03ba\u03b1\u03c1\u03b1",
     "wof:parent_id":85682407,
     "wof:placetype":"locality",

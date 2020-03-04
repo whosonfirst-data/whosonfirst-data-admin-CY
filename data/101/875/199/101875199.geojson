@@ -82,6 +82,9 @@
         "wk:page":"Evretou"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c5f72949c7cadbccc65ae3e6dc5623bd",
     "wof:hierarchy":[
         {
@@ -95,7 +98,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709969,
+    "wof:lastmodified":1582314064,
     "wof:name":"\u0395\u03c5\u03c1\u03ad\u03c4\u03bf\u03c5",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

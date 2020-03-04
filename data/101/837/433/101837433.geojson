@@ -90,6 +90,9 @@
         "wk:page":"Galata, Cyprus"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d0f62248ff90c35e4a89f96ed27585b4",
     "wof:hierarchy":[
         {
@@ -103,7 +106,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566710014,
+    "wof:lastmodified":1582314073,
     "wof:name":"\u0393\u03b1\u03bb\u03ac\u03c4\u03b1",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

@@ -86,6 +86,10 @@
         "wk:page":"Sykopetra"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"747ad459374f2a417e23b21ac2bfd101",
     "wof:hierarchy":[
         {
@@ -99,7 +103,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566710007,
+    "wof:lastmodified":1582314072,
     "wof:name":"\u03a3\u03c5\u03ba\u03cc\u03c0\u03b5\u03c4\u03c1\u03b1",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

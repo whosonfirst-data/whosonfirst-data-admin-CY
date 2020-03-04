@@ -92,6 +92,9 @@
         "wk:page":"Korakou"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"76d4ac71c80c2f8a0365712117373e46",
     "wof:hierarchy":[
         {
@@ -105,7 +108,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709995,
+    "wof:lastmodified":1582314069,
     "wof:name":"\u039a\u03bf\u03c1\u03ac\u03ba\u03bf\u03c5",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

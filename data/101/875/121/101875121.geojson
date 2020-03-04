@@ -93,6 +93,9 @@
         "wk:page":"Lagoudera"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f162d0ca4b8e2cedeb90650fd49b79e8",
     "wof:hierarchy":[
         {
@@ -106,7 +109,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709968,
+    "wof:lastmodified":1582314064,
     "wof:name":"\u039b\u03b1\u03b3\u03bf\u03c5\u03b4\u03b5\u03c1\u03ac",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

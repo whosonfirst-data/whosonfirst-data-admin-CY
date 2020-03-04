@@ -288,6 +288,9 @@
         "wk:page":"Paphos"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0bc3eca648b2c88dd84b897d3b27095f",
     "wof:hierarchy":[
         {
@@ -301,7 +304,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709999,
+    "wof:lastmodified":1582314070,
     "wof:name":"\u03a0\u03ac\u03c6\u03bf\u03c2",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

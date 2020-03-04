@@ -81,6 +81,9 @@
         "wk:page":"Fasli"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"eac250eb05d11776d46fa80e31a07d2e",
     "wof:hierarchy":[
         {
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":101850167,
-    "wof:lastmodified":1566709973,
+    "wof:lastmodified":1582314065,
     "wof:name":"\u03a6\u03ac\u03c3\u03bb\u03b9",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

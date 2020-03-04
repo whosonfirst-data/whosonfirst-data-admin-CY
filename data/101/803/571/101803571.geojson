@@ -100,6 +100,9 @@
         "wk:page":"Mosfiloti"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"10958a99f475967f64ecf4133314e045",
     "wof:hierarchy":[
         {
@@ -113,7 +116,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709997,
+    "wof:lastmodified":1582314069,
     "wof:name":"\u039c\u03bf\u03c3\u03c6\u03b9\u03bb\u03c9\u03c4\u03ae",
     "wof:parent_id":85682407,
     "wof:placetype":"locality",

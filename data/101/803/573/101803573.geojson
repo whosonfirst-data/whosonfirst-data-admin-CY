@@ -101,6 +101,9 @@
         "wk:page":"Psevdas"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2906d130da7719a482745e8b91907d7f",
     "wof:hierarchy":[
         {
@@ -114,7 +117,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709991,
+    "wof:lastmodified":1582314069,
     "wof:name":"\u03a8\u03b5\u03c5\u03b4\u03ac\u03c2",
     "wof:parent_id":85682407,
     "wof:placetype":"locality",

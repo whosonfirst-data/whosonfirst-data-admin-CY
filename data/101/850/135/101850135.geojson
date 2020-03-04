@@ -90,6 +90,9 @@
         "wk:page":"Masari"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c6eda9f6a17d3de4df4b57b25ebab01b",
     "wof:hierarchy":[
         {
@@ -117,7 +120,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709972,
+    "wof:lastmodified":1582314064,
     "wof:name":"\u039c\u03ac\u03c3\u03b1\u03c1\u03b7",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

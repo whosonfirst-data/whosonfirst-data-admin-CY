@@ -89,6 +89,9 @@
         "wd:id":"Q4818374"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"cec30ef281e9b928d0f70f414975aa4d",
     "wof:hierarchy":[
         {
@@ -102,7 +105,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566710004,
+    "wof:lastmodified":1582314071,
     "wof:name":"\u0391\u03b3\u03af\u03b1 \u039c\u03b1\u03c1\u03af\u03bd\u03b1",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

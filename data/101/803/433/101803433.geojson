@@ -108,6 +108,9 @@
         "wk:page":"Kokkinotrimithia"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2548f21920b62ae52828234b213c2351",
     "wof:hierarchy":[
         {
@@ -121,7 +124,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709996,
+    "wof:lastmodified":1582314069,
     "wof:name":"\u039a\u03bf\u03ba\u03ba\u03b9\u03bd\u03bf\u03c4\u03c1\u03b9\u03bc\u03b9\u03b8\u03b9\u03ac",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

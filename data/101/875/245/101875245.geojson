@@ -83,6 +83,9 @@
         "wk:page":"Moni, Cyprus"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"00c5164e38dc8b4d77ad3135521d3004",
     "wof:hierarchy":[
         {
@@ -96,7 +99,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709965,
+    "wof:lastmodified":1582314063,
     "wof:name":"\u039c\u03bf\u03bd\u03ae",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

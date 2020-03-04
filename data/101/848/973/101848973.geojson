@@ -75,6 +75,9 @@
         "wk:page":"Mousere"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2ffa907521c0a1988dbfabde882bb51a",
     "wof:hierarchy":[
         {
@@ -88,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566710005,
+    "wof:lastmodified":1582314071,
     "wof:name":"\u039c\u03bf\u03cd\u03c3\u03b5\u03c1\u03b5",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

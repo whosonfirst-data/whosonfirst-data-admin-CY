@@ -82,6 +82,10 @@
         "wk:page":"Mesana"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"90ff4cfe1e39e986d4a3684292a5160b",
     "wof:hierarchy":[
         {
@@ -95,7 +99,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566710003,
+    "wof:lastmodified":1582314070,
     "wof:name":"\u039c\u03ad\u03c3\u03b1\u03bd\u03b1",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

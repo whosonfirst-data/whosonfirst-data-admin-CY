@@ -102,6 +102,9 @@
         "wk:page":"Tseri"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a45ce0e822c780f533470ff7c2c720a6",
     "wof:hierarchy":[
         {
@@ -115,7 +118,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709993,
+    "wof:lastmodified":1582314069,
     "wof:name":"\u03a4\u03c3\u03ad\u03c1\u03b9",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

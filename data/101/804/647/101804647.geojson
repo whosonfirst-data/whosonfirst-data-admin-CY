@@ -95,6 +95,9 @@
         "wk:page":"Apesia"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"24bcbb22c2e08ad05813b0a5d1e31313",
     "wof:hierarchy":[
         {
@@ -108,7 +111,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709982,
+    "wof:lastmodified":1582314067,
     "wof:name":"\u0391\u03c0\u03b5\u03c3\u03b9\u03ac",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

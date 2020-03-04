@@ -105,6 +105,10 @@
         "wk:page":"Sotira, Limassol"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"8991889375a4de2dd131a3b4fb44debd",
     "wof:hierarchy":[
         {
@@ -118,7 +122,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566710008,
+    "wof:lastmodified":1582314072,
     "wof:name":"\u03a3\u03c9\u03c4\u03ae\u03c1\u03b1",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

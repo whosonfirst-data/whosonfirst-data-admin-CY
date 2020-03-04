@@ -131,6 +131,9 @@
         "wk:page":"Dali, Cyprus"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"16e1607db1250fd5b804a0f1d47c30d9",
     "wof:hierarchy":[
         {
@@ -144,7 +147,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566710014,
+    "wof:lastmodified":1582314073,
     "wof:name":"\u0394\u03ac\u03bb\u03b9",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

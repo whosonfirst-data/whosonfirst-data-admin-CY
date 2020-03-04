@@ -98,6 +98,9 @@
         "wk:page":"Foini"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9256b12e98eee35912342d9e994f3a7d",
     "wof:hierarchy":[
         {
@@ -111,7 +114,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709978,
+    "wof:lastmodified":1582314066,
     "wof:name":"\u03a6\u03bf\u03b9\u03bd\u03af",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

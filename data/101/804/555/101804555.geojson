@@ -102,6 +102,9 @@
         "wk:page":"Mandria, Paphos"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5fd94adf13d493326f4bffd6fd307da0",
     "wof:hierarchy":[
         {
@@ -115,7 +118,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709981,
+    "wof:lastmodified":1582314067,
     "wof:name":"\u039c\u03b1\u03bd\u03b4\u03c1\u03b9\u03ac",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

@@ -81,6 +81,9 @@
         "wk:page":"Alithinou"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c3c81efda1cc00887af72cd5ccc5dd54",
     "wof:hierarchy":[
         {
@@ -94,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709967,
+    "wof:lastmodified":1582314063,
     "wof:name":"\u0391\u03bb\u03b7\u03b8\u03b9\u03bd\u03bf\u03cd",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

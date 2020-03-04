@@ -82,6 +82,9 @@
         "wk:page":"Souskiou"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d0c8a21a2e0e4abe60a5d77f1e8db233",
     "wof:hierarchy":[
         {
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":101848933,
-    "wof:lastmodified":1566710005,
+    "wof:lastmodified":1582314071,
     "wof:name":"\u03a3\u03bf\u03c5\u03c3\u03ba\u03b9\u03bf\u03cd",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

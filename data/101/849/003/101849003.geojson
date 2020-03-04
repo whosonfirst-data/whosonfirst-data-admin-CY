@@ -92,6 +92,10 @@
         "wk:page":"Melini"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"75c96087e5d1e9d38af6057c8b1cf0e8",
     "wof:hierarchy":[
         {
@@ -102,7 +106,7 @@
         }
     ],
     "wof:id":101849003,
-    "wof:lastmodified":1566710008,
+    "wof:lastmodified":1582314072,
     "wof:name":"\u039c\u03b5\u03bb\u03af\u03bd\u03b7",
     "wof:parent_id":85682407,
     "wof:placetype":"locality",

@@ -95,6 +95,9 @@
         "wk:page":"Nikitari"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9508dcc1c7e37050a0fa6fb99f87cca3",
     "wof:hierarchy":[
         {
@@ -108,7 +111,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709993,
+    "wof:lastmodified":1582314069,
     "wof:name":"\u039d\u03b9\u03ba\u03b7\u03c4\u03ac\u03c1\u03b9",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

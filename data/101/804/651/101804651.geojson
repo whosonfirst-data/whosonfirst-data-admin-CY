@@ -88,6 +88,9 @@
         "wk:page":"Pyrgos, Limassol"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"48afe7c1300236626d30d93138df95c2",
     "wof:hierarchy":[
         {
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":101804651,
-    "wof:lastmodified":1566709979,
+    "wof:lastmodified":1582314066,
     "wof:name":"\u03a0\u03cd\u03c1\u03b3\u03bf\u03c2",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

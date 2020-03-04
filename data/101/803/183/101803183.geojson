@@ -95,6 +95,9 @@
         "wk:page":"Makrasyka"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"45aa6731a66f59776f13dd6b270ad58c",
     "wof:hierarchy":[
         {
@@ -130,7 +133,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709997,
+    "wof:lastmodified":1582314069,
     "wof:name":"\u039c\u03b1\u03ba\u03c1\u03ac\u03c3\u03c5\u03ba\u03b1",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

@@ -93,6 +93,10 @@
         "wk:page":"Korfi"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"9df478804281eb68c547a9cefcb48a80",
     "wof:hierarchy":[
         {
@@ -106,7 +110,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566710008,
+    "wof:lastmodified":1582314072,
     "wof:name":"\u039a\u03bf\u03c1\u03c6\u03ae",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

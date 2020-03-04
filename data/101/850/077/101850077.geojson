@@ -96,6 +96,9 @@
         "wk:page":"Krini, Cyprus"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"88696defe1cccb02eca84fe06c3fead8",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709973,
+    "wof:lastmodified":1582314065,
     "wof:name":"\u039a\u03c1\u03b7\u03bd\u03af",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

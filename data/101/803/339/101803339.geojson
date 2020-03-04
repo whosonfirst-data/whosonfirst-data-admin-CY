@@ -134,6 +134,9 @@
         "wk:page":"Rizokarpaso"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2bf8451ccdaec1950fe19335b7b2d0a1",
     "wof:hierarchy":[
         {
@@ -169,7 +172,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709985,
+    "wof:lastmodified":1582314068,
     "wof:name":"\u03a1\u03b9\u03b6\u03bf\u03ba\u03ac\u03c1\u03c0\u03b1\u03c3\u03bf",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

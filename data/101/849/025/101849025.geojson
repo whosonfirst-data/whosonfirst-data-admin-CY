@@ -88,6 +88,10 @@
         "wk:page":"Kapilio"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"1b7bf5b0b621bbe423c48b40909f5efd",
     "wof:hierarchy":[
         {
@@ -101,7 +105,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566710006,
+    "wof:lastmodified":1582314071,
     "wof:name":"\u039a\u03b1\u03c0\u03b7\u03bb\u03b5\u03b9\u03cc",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

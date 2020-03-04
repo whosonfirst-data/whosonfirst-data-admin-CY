@@ -82,6 +82,9 @@
         "wk:page":"Kotsiatis"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"39db33a9b6ab5d62ff22e098533464c6",
     "wof:hierarchy":[
         {
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":101850105,
-    "wof:lastmodified":1566709972,
+    "wof:lastmodified":1582314065,
     "wof:name":"\u039a\u03bf\u03c4\u03c3\u03b9\u03ac\u03c4\u03b7\u03c2",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

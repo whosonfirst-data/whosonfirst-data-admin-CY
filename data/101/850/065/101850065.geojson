@@ -99,6 +99,9 @@
         "wk:page":"Goufes"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"fc7ec55f0a7bbda0f877390fcab98e5e",
     "wof:hierarchy":[
         {
@@ -134,7 +137,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709973,
+    "wof:lastmodified":1582314065,
     "wof:name":"\u0393\u03bf\u03cd\u03c6\u03b5\u03c2",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

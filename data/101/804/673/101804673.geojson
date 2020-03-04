@@ -97,6 +97,9 @@
         "wk:page":"Anogyra"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0d91c3f84ae7ae9db1d72764f9894b44",
     "wof:hierarchy":[
         {
@@ -110,7 +113,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709979,
+    "wof:lastmodified":1582314066,
     "wof:name":"\u0391\u03bd\u03ce\u03b3\u03c5\u03c1\u03b1",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

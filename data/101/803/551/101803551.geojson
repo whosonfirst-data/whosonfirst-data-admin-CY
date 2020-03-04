@@ -96,6 +96,9 @@
         "wk:page":"Mazotos"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"fb31f9d2aba32f71d20fb2b769f9a96e",
     "wof:hierarchy":[
         {
@@ -109,7 +112,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709984,
+    "wof:lastmodified":1582314068,
     "wof:name":"\u039c\u03b1\u03b6\u03c9\u03c4\u03cc\u03c2",
     "wof:parent_id":85682407,
     "wof:placetype":"locality",

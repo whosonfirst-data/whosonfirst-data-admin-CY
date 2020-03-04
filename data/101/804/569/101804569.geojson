@@ -101,6 +101,9 @@
         "wk:page":"Stroumpi"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c947250206b00868d9dc1091bfbc3dc9",
     "wof:hierarchy":[
         {
@@ -114,7 +117,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709977,
+    "wof:lastmodified":1582314066,
     "wof:name":"\u03a3\u03c4\u03c1\u03bf\u03c5\u03bc\u03c0\u03af",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

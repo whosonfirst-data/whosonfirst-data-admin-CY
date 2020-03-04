@@ -89,6 +89,9 @@
         "wk:page":"Mathikoloni"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f20d8a4559ae83157f21978f7b0b0c49",
     "wof:hierarchy":[
         {
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":101849015,
-    "wof:lastmodified":1566710006,
+    "wof:lastmodified":1582314071,
     "wof:name":"\u039c\u03b1\u03b8\u03b9\u03ba\u03bf\u03bb\u03ce\u03bd\u03b7",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

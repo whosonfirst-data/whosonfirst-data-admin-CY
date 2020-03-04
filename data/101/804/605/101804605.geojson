@@ -100,6 +100,9 @@
         "wk:page":"Giolou"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c72bd6c9495dc282b894345137580336",
     "wof:hierarchy":[
         {
@@ -113,7 +116,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709979,
+    "wof:lastmodified":1582314066,
     "wof:name":"\u0393\u03b9\u03cc\u03bb\u03bf\u03c5",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

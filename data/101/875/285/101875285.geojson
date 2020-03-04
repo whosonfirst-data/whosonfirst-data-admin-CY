@@ -105,6 +105,9 @@
         "wk:page":"Agridia"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"92e799f3ec5e05fe1a7a4c9c5690bf93",
     "wof:hierarchy":[
         {
@@ -118,7 +121,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709970,
+    "wof:lastmodified":1582314064,
     "wof:name":"\u0391\u03b3\u03c1\u03af\u03b4\u03b9\u03b1",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

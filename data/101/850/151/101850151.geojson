@@ -83,6 +83,9 @@
         "wk:page":"Kritou Terra"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d83280108f7284bb196489cb05d6c35b",
     "wof:hierarchy":[
         {
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":101850151,
-    "wof:lastmodified":1566709973,
+    "wof:lastmodified":1582314065,
     "wof:name":"\u039a\u03c1\u03af\u03c4\u03bf\u03c5 \u03a4\u03ad\u03c1\u03b1",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

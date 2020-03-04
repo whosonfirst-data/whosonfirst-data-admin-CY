@@ -81,6 +81,9 @@
         "wk:page":"Potamiou"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3788929497d55db5e90d92751a53eaf3",
     "wof:hierarchy":[
         {
@@ -94,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709969,
+    "wof:lastmodified":1582314064,
     "wof:name":"\u03a0\u03bf\u03c4\u03b1\u03bc\u03b9\u03bf\u03cd",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

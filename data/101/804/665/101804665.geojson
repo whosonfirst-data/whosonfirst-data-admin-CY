@@ -95,6 +95,9 @@
         "wk:page":"Kolossi"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5e75abb41bb50e5eb8a0d91df9d99ce1",
     "wof:hierarchy":[
         {
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":101804665,
-    "wof:lastmodified":1566709983,
+    "wof:lastmodified":1582314067,
     "wof:name":"\u039a\u03bf\u03bb\u03cc\u03c3\u03c3\u03b9",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

@@ -112,6 +112,9 @@
         "wk:page":"Agia Anna, Cyprus"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a8310c29a987155117a6089a135d8bb9",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709984,
+    "wof:lastmodified":1582314068,
     "wof:name":"\u0391\u03b3\u03af\u03b1 \u0386\u03bd\u03bd\u03b1",
     "wof:parent_id":85682407,
     "wof:placetype":"locality",

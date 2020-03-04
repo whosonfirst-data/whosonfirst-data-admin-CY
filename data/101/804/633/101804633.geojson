@@ -104,6 +104,9 @@
         "wk:page":"Psematismenos"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0f57d8e937bbc70c45880562ea3f40f2",
     "wof:hierarchy":[
         {
@@ -117,7 +120,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709979,
+    "wof:lastmodified":1582314066,
     "wof:name":"\u03a8\u03b5\u03bc\u03b1\u03c4\u03b9\u03c3\u03bc\u03ad\u03bd\u03bf\u03c2",
     "wof:parent_id":85682407,
     "wof:placetype":"locality",

@@ -96,6 +96,9 @@
         "wk:page":"Alona, Cyprus"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4a08bb7d93de9837d92f66aa3f96c0b1",
     "wof:hierarchy":[
         {
@@ -109,7 +112,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709988,
+    "wof:lastmodified":1582314068,
     "wof:name":"\u0386\u03bb\u03c9\u03bd\u03b1",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

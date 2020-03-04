@@ -374,6 +374,9 @@
         "wk:page":"Larnaca"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0708a2ef188fd6f5a4bc40e9afb7528a",
     "wof:hierarchy":[
         {
@@ -387,7 +390,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709998,
+    "wof:lastmodified":1582314070,
     "wof:name":"\u039b\u03ac\u03c1\u03bd\u03b1\u03ba\u03b1",
     "wof:parent_id":85682407,
     "wof:placetype":"locality",

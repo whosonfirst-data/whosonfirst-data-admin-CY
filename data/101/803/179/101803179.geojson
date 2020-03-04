@@ -122,6 +122,9 @@
         "wk:page":"Acheritou"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d809887504cf2f90c7fb510f93b4e52e",
     "wof:hierarchy":[
         {
@@ -157,7 +160,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709997,
+    "wof:lastmodified":1582314070,
     "wof:name":"\u0391\u03c7\u03b5\u03c1\u03af\u03c4\u03bf\u03c5",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

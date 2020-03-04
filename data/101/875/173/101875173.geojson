@@ -92,6 +92,9 @@
         "wk:page":"Kedares"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3ad4445c12857ce2798ed10ad7389502",
     "wof:hierarchy":[
         {
@@ -105,7 +108,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709967,
+    "wof:lastmodified":1582314063,
     "wof:name":"\u039a\u03ad\u03b4\u03b1\u03c1\u03b5\u03c2",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

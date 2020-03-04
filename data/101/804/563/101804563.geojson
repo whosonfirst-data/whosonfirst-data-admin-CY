@@ -100,6 +100,9 @@
         "wk:page":"Nata, Cyprus"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c10f2dac30e264fe3c4990986688923b",
     "wof:hierarchy":[
         {
@@ -113,7 +116,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709981,
+    "wof:lastmodified":1582314067,
     "wof:name":"\u039d\u03b1\u03c4\u03ac",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

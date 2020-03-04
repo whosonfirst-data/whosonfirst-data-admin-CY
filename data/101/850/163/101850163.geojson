@@ -84,6 +84,9 @@
         "wk:page":"Sarama, Cyprus"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"864e18ea655a81838d3f885cfbcf5ddf",
     "wof:hierarchy":[
         {
@@ -97,7 +100,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709975,
+    "wof:lastmodified":1582314065,
     "wof:name":"\u03a3\u03b1\u03c1\u03b1\u03bc\u03ac",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

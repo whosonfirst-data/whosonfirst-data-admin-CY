@@ -61,6 +61,9 @@
         "qs_pg:id":405504
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6224c39942bebe0c95ed5db795c30364",
     "wof:hierarchy":[
         {
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":101849077,
-    "wof:lastmodified":1566710006,
+    "wof:lastmodified":1582314071,
     "wof:name":"\u0394\u03c9\u03c1\u03ac",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

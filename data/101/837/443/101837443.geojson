@@ -105,6 +105,9 @@
         "wk:page":"Kalopanagiotis"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e52ff1869d90dd95233bf5d703fe99fd",
     "wof:hierarchy":[
         {
@@ -118,7 +121,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566710013,
+    "wof:lastmodified":1582314073,
     "wof:name":"\u039a\u03b1\u03bb\u03bf\u03c0\u03b1\u03bd\u03b1\u03b3\u03b9\u03ce\u03c4\u03b7\u03c2",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

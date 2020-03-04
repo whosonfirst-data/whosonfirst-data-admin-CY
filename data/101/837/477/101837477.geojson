@@ -93,6 +93,9 @@
         "wk:page":"Mandria, Limassol"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"aa6309261f9f81c4b89ca826fe623c18",
     "wof:hierarchy":[
         {
@@ -106,7 +109,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566710011,
+    "wof:lastmodified":1582314073,
     "wof:name":"\u039c\u03b1\u03bd\u03b4\u03c1\u03b9\u03ac",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

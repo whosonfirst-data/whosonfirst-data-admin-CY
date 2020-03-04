@@ -112,6 +112,9 @@
         "wk:page":"Peristerona"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c627df68dc8c8f73e5ffc00853148cdf",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709996,
+    "wof:lastmodified":1582314069,
     "wof:name":"\u03a0\u03b5\u03c1\u03b9\u03c3\u03c4\u03b5\u03c1\u03ce\u03bd\u03b1",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

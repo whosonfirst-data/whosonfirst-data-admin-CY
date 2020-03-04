@@ -78,6 +78,9 @@
         "wk:page":"Potamitissa"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"bbe0e08757ea4ad40591d193027a912f",
     "wof:hierarchy":[
         {
@@ -91,7 +94,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709965,
+    "wof:lastmodified":1582314063,
     "wof:name":"\u03a0\u03bf\u03c4\u03b1\u03bc\u03af\u03c4\u03b9\u03c3\u03c3\u03b1",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

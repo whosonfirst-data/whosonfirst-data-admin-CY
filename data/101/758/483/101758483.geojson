@@ -92,6 +92,9 @@
         "wk:page":"Karmi, Cyprus"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"79ea058e4d7964da309b5fd44d013583",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709999,
+    "wof:lastmodified":1582314070,
     "wof:name":"\u039a\u03ac\u03c1\u03bc\u03b9",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

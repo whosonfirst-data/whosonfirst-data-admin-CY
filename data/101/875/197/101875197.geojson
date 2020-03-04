@@ -105,6 +105,9 @@
         "wk:page":"Fyti"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"9a20d2bf1ed52a877ac474c12be37a85",
     "wof:hierarchy":[
         {
@@ -118,7 +121,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709969,
+    "wof:lastmodified":1582314064,
     "wof:name":"\u03a6\u03cd\u03c4\u03b7",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

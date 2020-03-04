@@ -102,6 +102,10 @@
         "wk:page":"Agios Amvrosios, Limassol"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"65ec17d19b15d4776f78b581415bb118",
     "wof:hierarchy":[
         {
@@ -115,7 +119,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566710007,
+    "wof:lastmodified":1582314072,
     "wof:name":"\u0386\u03b3\u03b9\u03bf\u03c2 \u0391\u03bc\u03b2\u03c1\u03cc\u03c3\u03b9\u03bf\u03c2",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

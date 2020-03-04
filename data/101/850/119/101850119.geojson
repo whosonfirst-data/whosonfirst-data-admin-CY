@@ -92,6 +92,9 @@
         "wk:page":"Mylikouri"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"987b2162f2aa24fc96cf87f4874e31d4",
     "wof:hierarchy":[
         {
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":101850119,
-    "wof:lastmodified":1566709974,
+    "wof:lastmodified":1582314065,
     "wof:name":"\u039c\u03c5\u03bb\u03b9\u03ba\u03bf\u03cd\u03c1\u03b9",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

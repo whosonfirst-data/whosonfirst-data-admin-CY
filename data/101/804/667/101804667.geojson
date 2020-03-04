@@ -116,6 +116,9 @@
         "wk:page":"Kantou, Cyprus"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b4f45e2216a20e47af2954251206b6de",
     "wof:hierarchy":[
         {
@@ -129,7 +132,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709980,
+    "wof:lastmodified":1582314066,
     "wof:name":"\u039a\u03b1\u03bd\u03c4\u03bf\u03cd",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

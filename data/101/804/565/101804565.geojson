@@ -98,6 +98,9 @@
         "wk:page":"Tsada"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b143b99e2ad9220c2a00de0cc40d4842",
     "wof:hierarchy":[
         {
@@ -111,7 +114,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709981,
+    "wof:lastmodified":1582314067,
     "wof:name":"\u03a4\u03c3\u03ac\u03b4\u03b1",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

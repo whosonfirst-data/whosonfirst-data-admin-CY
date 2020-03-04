@@ -127,6 +127,9 @@
         "wk:page":"Xylotympou"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"71597a48991bd655651fdd62d60df491",
     "wof:hierarchy":[
         {
@@ -148,7 +151,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709991,
+    "wof:lastmodified":1582314069,
     "wof:name":"\u039e\u03c5\u03bb\u03bf\u03c4\u03cd\u03bc\u03b2\u03bf\u03c5",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

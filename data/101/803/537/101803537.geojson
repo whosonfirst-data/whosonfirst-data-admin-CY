@@ -107,6 +107,9 @@
         "wk:page":"Kellia, Cyprus"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"14941abb1ceae77b57dba732de036b54",
     "wof:hierarchy":[
         {
@@ -120,7 +123,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709991,
+    "wof:lastmodified":1582314069,
     "wof:name":"\u039a\u03b5\u03bb\u03bb\u03b9\u03ac",
     "wof:parent_id":85682407,
     "wof:placetype":"locality",

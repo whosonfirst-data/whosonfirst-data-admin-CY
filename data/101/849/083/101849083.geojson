@@ -92,6 +92,10 @@
         "wk:page":"Palaiomylos"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"c00eeb10393e366de92ffe81ba8fde8c",
     "wof:hierarchy":[
         {
@@ -105,7 +109,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566710006,
+    "wof:lastmodified":1582314071,
     "wof:name":"\u03a0\u03b1\u03bb\u03b1\u03b9\u03cc\u03bc\u03c5\u03bb\u03bf\u03c2",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

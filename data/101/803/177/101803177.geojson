@@ -110,6 +110,9 @@
         "wk:page":"Frenaros"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"ea106a0d10a621ed1a8a8a0259724c05",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709997,
+    "wof:lastmodified":1582314069,
     "wof:name":"\u03a6\u03c1\u03ad\u03bd\u03b1\u03c1\u03bf\u03c2",
     "wof:parent_id":85682389,
     "wof:placetype":"locality",

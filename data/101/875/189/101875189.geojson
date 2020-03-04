@@ -83,6 +83,9 @@
         "wk:page":"Asprogia"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"351f1fa9d3f603c70020bc4c40efdf4b",
     "wof:hierarchy":[
         {
@@ -96,7 +99,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709967,
+    "wof:lastmodified":1582314063,
     "wof:name":"\u0391\u03c3\u03c0\u03c1\u03bf\u03b3\u03b9\u03ac",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

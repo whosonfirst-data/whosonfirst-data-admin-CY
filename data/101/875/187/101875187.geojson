@@ -89,6 +89,9 @@
         "wk:page":"Mamountali"
     },
     "wof:country":"CY",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e4a31dee12ac76e44690665c1b8f21e8",
     "wof:hierarchy":[
         {
@@ -102,7 +105,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566709967,
+    "wof:lastmodified":1582314063,
     "wof:name":"\u039c\u03b1\u03bc\u03bf\u03cd\u03bd\u03c4\u03b1\u03bb\u03b7",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",
