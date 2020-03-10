@@ -1061,9 +1061,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Cyprus",
-        "digitalenvoy:country_code":[
-            196
-        ],
+        "digitalenvoy:country_code":196,
         "fb:id":"en.cyprus",
         "fifa:id":"CYP",
         "fips:code":"CY",
@@ -1107,7 +1105,7 @@
         "ell",
         "tur"
     ],
-    "wof:lastmodified":1583529115,
+    "wof:lastmodified":1583797320,
     "wof:name":"Cyprus",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
