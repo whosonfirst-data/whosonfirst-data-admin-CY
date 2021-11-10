@@ -937,11 +937,12 @@
         "Kipr"
     ],
     "name:vie_x_preferred":[
-        "C\u1ed9ng h\u00f2a S\u00edp"
+        "\u0110\u1ea3o S\u00edp"
     ],
     "name:vie_x_variant":[
         "S\u00edp",
-        "S\u00edp (Cyprus)"
+        "S\u00edp (Cyprus)",
+        "C\u1ed9ng h\u00f2a S\u00edp"
     ],
     "name:vls_x_preferred":[
         "Cyprus"
@@ -1239,7 +1240,7 @@
         "ell",
         "tur"
     ],
-    "wof:lastmodified":1617827370,
+    "wof:lastmodified":1636494842,
     "wof:name":"Cyprus",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
