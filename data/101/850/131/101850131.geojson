@@ -25,7 +25,8 @@
     ],
     "name:ell_x_variant":[
         "\u0394\u03cd\u03bf \u03a0\u03bf\u03c4\u03b1\u03bc\u03bf\u03af",
-        "\u038a\u03ba\u03b9 \u039d\u03c4\u03ad\u03c1\u03b5"
+        "\u038a\u03ba\u03b9 \u039d\u03c4\u03ad\u03c1\u03b5",
+        "\u0399\u03ba\u03af \u039d\u03c4\u03b5\u03c1\u03ad"
     ],
     "name:eng_x_preferred":[
         "Dyo Potamoi"
@@ -34,11 +35,20 @@
         "Diyobodamo",
         "Ikedere"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u06cc\u0648 \u067e\u0648\u062a\u0627\u0645\u0648\u06cc"
+    ],
+    "name:ita_x_preferred":[
+        "Dyo Potamoi"
+    ],
     "name:nld_x_preferred":[
         "Dyo Potamoi"
     ],
     "name:pol_x_preferred":[
         "Dio Potami"
+    ],
+    "name:tur_x_preferred":[
+        "\u0130kidere"
     ],
     "name:und_x_variant":[
         "Dhyo Potami"
@@ -111,7 +121,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582314065,
+    "wof:lastmodified":1690869103,
     "wof:name":"\u0394\u03cd\u03bf \u03a0\u03bf\u03c4\u03b1\u03bc\u03bf\u03af",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

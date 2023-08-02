@@ -26,6 +26,9 @@
     "name:ceb_x_preferred":[
         "K\u00e1to Ar\u00f3des"
     ],
+    "name:deu_x_preferred":[
+        "Kato Arodes"
+    ],
     "name:ell_x_preferred":[
         "K\u00e1to Ar\u00f3des"
     ],
@@ -44,6 +47,9 @@
     ],
     "name:fin_x_preferred":[
         "P\u00e1no Ar\u00f3des"
+    ],
+    "name:fra_x_preferred":[
+        "K\u00e1to Ar\u00f3des"
     ],
     "name:hye_x_preferred":[
         "\u0531\u0580\u0578\u0564\u0565\u057d"
@@ -121,7 +127,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582314065,
+    "wof:lastmodified":1690869103,
     "wof:name":"\u039a\u03ac\u03c4\u03c9 \u0391\u03c1\u03cc\u03b4\u03b5\u03c2",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

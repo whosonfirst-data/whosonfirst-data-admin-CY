@@ -21,11 +21,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ast_x_preferred":[
+        "Sykopetra"
+    ],
     "name:bul_x_preferred":[
         "\u0421\u0438\u043a\u043e\u043f\u0435\u0442\u0440\u0430"
     ],
     "name:ceb_x_preferred":[
         "Syk\u00f3petra"
+    ],
+    "name:deu_x_preferred":[
+        "Sykopetra"
     ],
     "name:ell_x_preferred":[
         "\u03a3\u03c5\u03ba\u03cc\u03c0\u03b5\u03c4\u03c1\u03b1"
@@ -38,6 +44,9 @@
     ],
     "name:fra_x_preferred":[
         "Syk\u00f3petra"
+    ],
+    "name:hun_x_preferred":[
+        "Szik\u00f3petra"
     ],
     "name:nld_x_preferred":[
         "Sykopetra"
@@ -103,7 +112,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582314072,
+    "wof:lastmodified":1690869219,
     "wof:name":"\u03a3\u03c5\u03ba\u03cc\u03c0\u03b5\u03c4\u03c1\u03b1",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

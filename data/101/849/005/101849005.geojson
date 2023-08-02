@@ -44,6 +44,9 @@
         "Odou",
         "Odu"
     ],
+    "name:fra_x_preferred":[
+        "Odo\u00fa"
+    ],
     "name:hun_x_preferred":[
         "Odou"
     ],
@@ -117,7 +120,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582314072,
+    "wof:lastmodified":1690869227,
     "wof:name":"\u039f\u03b4\u03bf\u03cd",
     "wof:parent_id":85682407,
     "wof:placetype":"locality",

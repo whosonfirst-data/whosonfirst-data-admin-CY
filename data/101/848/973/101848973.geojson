@@ -32,6 +32,9 @@
     "name:eng_x_preferred":[
         "Mousere"
     ],
+    "name:fra_x_preferred":[
+        "Mo\u00fasere"
+    ],
     "name:hye_x_preferred":[
         "\u0544\u0578\u0582\u057d\u0565\u0580\u0565"
     ],
@@ -91,7 +94,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582314071,
+    "wof:lastmodified":1690869213,
     "wof:name":"\u039c\u03bf\u03cd\u03c3\u03b5\u03c1\u03b5",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

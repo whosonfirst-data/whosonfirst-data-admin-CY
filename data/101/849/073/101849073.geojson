@@ -21,6 +21,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ast_x_preferred":[
+        "Ayios Amvrosios"
+    ],
     "name:bul_x_preferred":[
         "\u0410\u0433\u0438\u043e\u0441 \u0410\u043c\u0432\u0440\u043e\u0441\u0438\u043e\u0441"
     ],
@@ -45,6 +48,9 @@
     ],
     "name:fra_x_preferred":[
         "Saint Ambroise de Limassol"
+    ],
+    "name:hun_x_preferred":[
+        "\u00c1jiosz Amvr\u00f3sziosz"
     ],
     "name:hye_x_preferred":[
         "\u0531\u0575\u0578\u057d \u0531\u0574\u057e\u0580\u0578\u057d\u056b\u0578\u057d"
@@ -119,7 +125,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582314072,
+    "wof:lastmodified":1690869222,
     "wof:name":"\u0386\u03b3\u03b9\u03bf\u03c2 \u0391\u03bc\u03b2\u03c1\u03cc\u03c3\u03b9\u03bf\u03c2",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

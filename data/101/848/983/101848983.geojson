@@ -36,6 +36,9 @@
         "Bozalan",
         "Lapithou"
     ],
+    "name:fra_x_preferred":[
+        "Lapithio\u00fa"
+    ],
     "name:hye_x_preferred":[
         "\u053c\u0561\u057a\u056b\u057f\u0578\u0582"
     ],
@@ -104,7 +107,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582314071,
+    "wof:lastmodified":1690869207,
     "wof:name":"\u039b\u03b1\u03c0\u03b7\u03b8\u03b9\u03bf\u03cd",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

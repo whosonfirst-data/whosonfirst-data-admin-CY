@@ -24,6 +24,9 @@
     "name:bul_x_preferred":[
         "\u041c\u0435\u043d\u0435\u0443"
     ],
+    "name:cat_x_preferred":[
+        "Meneu"
+    ],
     "name:ceb_x_preferred":[
         "Meneou"
     ],
@@ -42,6 +45,12 @@
     ],
     "name:fin_x_preferred":[
         "Meneo\u00fa"
+    ],
+    "name:fra_x_preferred":[
+        "Meneo\u00fa"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e0\u05d0\u05d5"
     ],
     "name:hye_x_preferred":[
         "\u0544\u0565\u0576\u0565\u0578\u0582"
@@ -120,7 +129,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582314063,
+    "wof:lastmodified":1690869067,
     "wof:name":"\u039c\u03b5\u03bd\u03b5\u03bf\u03cd",
     "wof:parent_id":85682407,
     "wof:placetype":"locality",

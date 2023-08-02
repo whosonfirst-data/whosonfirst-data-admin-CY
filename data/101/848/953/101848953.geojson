@@ -33,6 +33,9 @@
     "name:eng_x_preferred":[
         "Mesana"
     ],
+    "name:fra_x_preferred":[
+        "M\u00e9sana"
+    ],
     "name:hye_x_preferred":[
         "\u0544\u0565\u057d\u0561\u0576\u0561"
     ],
@@ -99,7 +102,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582314070,
+    "wof:lastmodified":1690869204,
     "wof:name":"\u039c\u03ad\u03c3\u03b1\u03bd\u03b1",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

@@ -64,6 +64,9 @@
     "name:eng_x_variant":[
         "Kyrenia District"
     ],
+    "name:eus_x_preferred":[
+        "Kireniako barrutia"
+    ],
     "name:fas_x_preferred":[
         "\u0646\u0627\u062d\u06cc\u0647 \u06af\u06cc\u0631\u0646\u0647"
     ],
@@ -85,6 +88,9 @@
     "name:hye_x_preferred":[
         "\u053f\u056b\u0580\u0565\u0576\u056b\u0561\u0575\u056b \u0577\u0580\u057b\u0561\u0576"
     ],
+    "name:hyw_x_preferred":[
+        "\u0554\u056b\u0580\u0565\u0576\u056b\u0561"
+    ],
     "name:ind_x_preferred":[
         "Distrik Kyrenia"
     ],
@@ -102,6 +108,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud0a4\ub808\ub2c8\uc544 \uad6c"
+    ],
+    "name:kor_x_variant":[
+        "\ud0a4\ub808\ub2c8\uc544\uad6c"
     ],
     "name:lav_x_preferred":[
         "Kerinijas eparhija"
@@ -268,7 +277,7 @@
         "ell",
         "tur"
     ],
-    "wof:lastmodified":1614893701,
+    "wof:lastmodified":1690869063,
     "wof:name":"\u039a\u03b5\u03c1\u03cd\u03bd\u03b5\u03b9\u03b1",
     "wof:parent_id":85632375,
     "wof:placetype":"region",

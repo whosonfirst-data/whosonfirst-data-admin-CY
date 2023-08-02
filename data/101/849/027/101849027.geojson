@@ -21,11 +21,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ast_x_preferred":[
+        "Armenokhori"
+    ],
     "name:bul_x_preferred":[
         "\u0410\u0440\u043c\u0435\u043d\u043e\u0445\u043e\u0440\u0438"
     ],
     "name:ceb_x_preferred":[
         "Armenokhori"
+    ],
+    "name:deu_x_preferred":[
+        "Armenochori"
     ],
     "name:ell_x_preferred":[
         "\u0391\u03c1\u03bc\u03b5\u03bd\u03bf\u03c7\u03ce\u03c1\u03b9"
@@ -40,6 +46,9 @@
     ],
     "name:fra_x_preferred":[
         "Armenoch\u00f3ri"
+    ],
+    "name:hun_x_preferred":[
+        "Armenoh\u00f3ri"
     ],
     "name:hye_x_preferred":[
         "\u0531\u0580\u0574\u0565\u0576\u0578\u056d\u0578\u0580\u056b"
@@ -115,7 +124,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582314072,
+    "wof:lastmodified":1690869223,
     "wof:name":"\u0391\u03c1\u03bc\u03b5\u03bd\u03bf\u03c7\u03ce\u03c1\u03b9",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

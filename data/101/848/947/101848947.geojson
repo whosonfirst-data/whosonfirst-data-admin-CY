@@ -37,6 +37,9 @@
         "Trachypedoula",
         "Trakhypedoula"
     ],
+    "name:fra_x_preferred":[
+        "Trachyp\u00e9doula"
+    ],
     "name:hye_x_preferred":[
         "\u054f\u0580\u0561\u056d\u056b\u057a\u0565\u0564\u0578\u0582\u056c\u0561"
     ],
@@ -105,7 +108,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582314071,
+    "wof:lastmodified":1690869208,
     "wof:name":"\u03a4\u03c1\u03b1\u03c7\u03c5\u03c0\u03ad\u03b4\u03bf\u03c5\u03bb\u03b1",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

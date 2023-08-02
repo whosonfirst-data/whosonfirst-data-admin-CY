@@ -44,6 +44,9 @@
     "name:fas_x_variant":[
         "\u067e\u062a\u0631\u0627"
     ],
+    "name:ita_x_preferred":[
+        "Petra"
+    ],
     "name:nld_x_preferred":[
         "Petra"
     ],
@@ -131,7 +134,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582314065,
+    "wof:lastmodified":1690869105,
     "wof:name":"\u03a0\u03ad\u03c4\u03c1\u03b1",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

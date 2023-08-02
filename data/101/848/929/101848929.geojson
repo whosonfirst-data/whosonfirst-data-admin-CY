@@ -39,6 +39,9 @@
     "name:eng_x_preferred":[
         "Lempa"
     ],
+    "name:fra_x_preferred":[
+        "L\u00e9mpa"
+    ],
     "name:hye_x_preferred":[
         "\u053c\u0565\u0574\u057a\u0561"
     ],
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":101848929,
-    "wof:lastmodified":1582314071,
+    "wof:lastmodified":1690869212,
     "wof:name":"\u039b\u03ad\u03bc\u03c0\u03b1",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

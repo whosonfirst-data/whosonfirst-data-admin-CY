@@ -28,6 +28,9 @@
     "name:ceb_x_preferred":[
         "Koloni"
     ],
+    "name:deu_x_preferred":[
+        "Koloni"
+    ],
     "name:ell_x_preferred":[
         "\u039a\u03bf\u03bb\u03ce\u03bd\u03b7"
     ],
@@ -36,6 +39,9 @@
     ],
     "name:nld_x_preferred":[
         "Koloni"
+    ],
+    "name:nno_x_preferred":[
+        "Kol\u00f3ni"
     ],
     "name:pol_x_preferred":[
         "Koloni"
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":1125862723,
-    "wof:lastmodified":1566710016,
+    "wof:lastmodified":1690869251,
     "wof:name":"Koloni",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

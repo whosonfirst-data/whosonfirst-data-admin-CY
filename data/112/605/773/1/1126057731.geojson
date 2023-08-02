@@ -28,6 +28,9 @@
     "name:ceb_x_preferred":[
         "S\u00edmou"
     ],
+    "name:deu_x_preferred":[
+        "Simou"
+    ],
     "name:ell_x_preferred":[
         "S\u00edmou"
     ],
@@ -36,6 +39,9 @@
     ],
     "name:eng_x_preferred":[
         "Simou"
+    ],
+    "name:fra_x_preferred":[
+        "S\u00edmou"
     ],
     "name:hye_x_preferred":[
         "\u054d\u056b\u0574\u0578\u0582"
@@ -101,7 +107,7 @@
         }
     ],
     "wof:id":1126057731,
-    "wof:lastmodified":1566710016,
+    "wof:lastmodified":1690869250,
     "wof:name":"Simou",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

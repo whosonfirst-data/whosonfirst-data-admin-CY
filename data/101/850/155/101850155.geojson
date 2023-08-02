@@ -23,6 +23,9 @@
     "name:bul_x_preferred":[
         "\u0410\u043d\u0434\u0440\u043e\u043b\u0438\u043a\u0443"
     ],
+    "name:deu_x_preferred":[
+        "Androlikou"
+    ],
     "name:ell_x_preferred":[
         "Androl\u00edkou"
     ],
@@ -39,8 +42,14 @@
         "Antroliku",
         "Androlykou"
     ],
+    "name:fra_x_preferred":[
+        "Androl\u00fdkou"
+    ],
     "name:hye_x_preferred":[
         "\u0531\u0576\u0564\u0580\u0578\u056c\u056b\u056f\u0578\u0582"
+    ],
+    "name:ita_x_preferred":[
+        "Androlykou"
     ],
     "name:nld_x_preferred":[
         "Androlykou"
@@ -110,7 +119,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582314065,
+    "wof:lastmodified":1690869104,
     "wof:name":"\u0391\u03bd\u03b4\u03c1\u03bf\u03bb\u03af\u03ba\u03bf\u03c5",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

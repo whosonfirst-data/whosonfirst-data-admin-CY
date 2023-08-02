@@ -35,6 +35,9 @@
     "name:eng_x_variant":[
         "Maronas"
     ],
+    "name:fra_x_preferred":[
+        "M\u00e1ronas"
+    ],
     "name:hye_x_preferred":[
         "\u0544\u0561\u0580\u0578\u0576\u0561\u057d"
     ],
@@ -103,7 +106,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582314071,
+    "wof:lastmodified":1690869215,
     "wof:name":"\u039c\u03ac\u03c1\u03c9\u03bd\u03b1\u03c2",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

@@ -31,8 +31,14 @@
     "name:ara_x_preferred":[
         "\u0645\u0646\u0637\u0642\u0629 \u0646\u064a\u0642\u0648\u0633\u064a\u0627"
     ],
+    "name:aze_x_preferred":[
+        "Nikosiya rayonu"
+    ],
     "name:bel_x_preferred":[
         "\u041d\u0456\u043a\u043e\u0441\u0456\u044f"
+    ],
+    "name:bel_x_variant":[
+        "\u041d\u0456\u043a\u0430\u0441\u0456\u044f"
     ],
     "name:bul_x_preferred":[
         "\u041d\u0438\u043a\u043e\u0437\u0438\u044f"
@@ -67,6 +73,9 @@
         "Lefkosia District",
         "Lefkosia"
     ],
+    "name:eus_x_preferred":[
+        "Nikosiako barrutia"
+    ],
     "name:fas_x_preferred":[
         "\u0646\u0627\u062d\u06cc\u0647 \u0646\u06cc\u06a9\u0648\u0632\u06cc\u0627"
     ],
@@ -79,14 +88,23 @@
     "name:fra_x_variant":[
         "district de Nicosie"
     ],
+    "name:frr_x_preferred":[
+        "Nikosia"
+    ],
     "name:heb_x_preferred":[
         "\u05de\u05d7\u05d5\u05d6 \u05e0\u05d9\u05e7\u05d5\u05e1\u05d9\u05d4"
     ],
     "name:hun_x_preferred":[
         "Nikosia ker\u00fclet"
     ],
+    "name:hun_x_variant":[
+        "Nicosia ker\u00fclet"
+    ],
     "name:hye_x_preferred":[
         "\u0546\u056b\u056f\u0578\u057d\u056b\u0561\u0575\u056b \u0577\u0580\u057b\u0561\u0576"
+    ],
+    "name:hyw_x_preferred":[
+        "\u0546\u056b\u056f\u0578\u057d\u056b\u0561"
     ],
     "name:ind_x_preferred":[
         "Distrik Nicosia"
@@ -102,6 +120,12 @@
     ],
     "name:kor_x_preferred":[
         "\ub2c8\ucf54\uc2dc\uc544 \uad6c"
+    ],
+    "name:kor_x_variant":[
+        "\ub2c8\ucf54\uc2dc\uc544\uad6c"
+    ],
+    "name:lav_x_preferred":[
+        "Nikosijas eparhija"
     ],
     "name:lim_x_preferred":[
         "Nicosia"
@@ -159,7 +183,8 @@
     ],
     "name:tur_x_variant":[
         "Lefko\u015fa ili",
-        "Lefko\u015fa \u0130l\u00e7esi"
+        "Lefko\u015fa \u0130l\u00e7esi",
+        "Lefko\u015fa kazas\u0131"
     ],
     "name:ukr_x_preferred":[
         "\u041d\u0456\u043a\u043e\u0441\u0456\u044f"
@@ -294,7 +319,7 @@
         "ell",
         "tur"
     ],
-    "wof:lastmodified":1614893701,
+    "wof:lastmodified":1690869064,
     "wof:name":"\u039b\u03b5\u03c5\u03ba\u03c9\u03c3\u03af\u03b1",
     "wof:parent_id":85632437,
     "wof:placetype":"region",

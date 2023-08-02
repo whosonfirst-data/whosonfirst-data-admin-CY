@@ -25,6 +25,9 @@
     "name:bul_x_preferred":[
         "\u041a\u0430\u0442\u043e \u0410\u043a\u0443\u0440\u0434\u0430\u043b\u0438\u044f"
     ],
+    "name:deu_x_preferred":[
+        "Kato Akourdalia"
+    ],
     "name:ell_x_preferred":[
         "K\u00e1to Akourd\u00e1leia"
     ],
@@ -37,6 +40,9 @@
     ],
     "name:eng_x_variant":[
         "Kato Akourdhalia"
+    ],
+    "name:fra_x_preferred":[
+        "K\u00e1to Akourd\u00e1lia"
     ],
     "name:hye_x_preferred":[
         "\u053f\u0561\u057f\u0578 \u0531\u056f\u0578\u0582\u0580\u0564\u0561\u056c\u056b\u0561"
@@ -100,7 +106,7 @@
         }
     ],
     "wof:id":1125954467,
-    "wof:lastmodified":1566710015,
+    "wof:lastmodified":1690869247,
     "wof:name":"Kato Akourdhalia",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

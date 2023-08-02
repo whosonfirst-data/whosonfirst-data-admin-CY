@@ -40,6 +40,9 @@
         "Nikokleia",
         "Nikolia"
     ],
+    "name:fra_x_preferred":[
+        "Nik\u00f3klia"
+    ],
     "name:hye_x_preferred":[
         "\u0546\u056b\u056f\u0578\u056f\u056c\u056b\u0561"
     ],
@@ -111,7 +114,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582314070,
+    "wof:lastmodified":1690869204,
     "wof:name":"\u039d\u03b9\u03ba\u03cc\u03ba\u03bb\u03b5\u03b9\u03b1",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

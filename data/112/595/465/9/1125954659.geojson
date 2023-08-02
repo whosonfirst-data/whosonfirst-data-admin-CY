@@ -28,6 +28,9 @@
     "name:deu_x_preferred":[
         "Pano Akourdaleia"
     ],
+    "name:deu_x_variant":[
+        "Pano Akourdalia"
+    ],
     "name:ell_x_preferred":[
         "P\u00e1no Akourd\u00e1leia"
     ],
@@ -37,6 +40,9 @@
     ],
     "name:eng_x_preferred":[
         "Pano Akourdaleia"
+    ],
+    "name:fra_x_preferred":[
+        "P\u00e1no Akourd\u00e1lia"
     ],
     "name:hye_x_preferred":[
         "\u054a\u0561\u0576\u0578 \u0531\u056f\u0578\u0582\u0580\u0564\u0561\u056c\u056b\u0561"
@@ -100,7 +106,7 @@
         }
     ],
     "wof:id":1125954659,
-    "wof:lastmodified":1566710015,
+    "wof:lastmodified":1690869248,
     "wof:name":"Pano Akourdhalia",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

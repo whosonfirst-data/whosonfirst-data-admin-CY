@@ -36,6 +36,9 @@
     "name:eng_x_variant":[
         "Choletria"
     ],
+    "name:fra_x_preferred":[
+        "Chol\u00e9tria"
+    ],
     "name:hye_x_preferred":[
         "\u053d\u0578\u056c\u0565\u057f\u0580\u056b\u0561"
     ],
@@ -105,7 +108,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582314071,
+    "wof:lastmodified":1690869206,
     "wof:name":"\u03a7\u03bf\u03bb\u03b5\u03c4\u03c1\u03b9\u03ac",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

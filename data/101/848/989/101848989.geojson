@@ -42,11 +42,20 @@
         "Menogeia",
         "Menoya"
     ],
+    "name:fra_x_preferred":[
+        "Men\u00f3gia"
+    ],
     "name:hun_x_preferred":[
         "Menogeia"
     ],
+    "name:hun_x_variant":[
+        "Men\u00f3gia"
+    ],
     "name:hye_x_preferred":[
         "\u0544\u0565\u0576\u0578\u0563\u056b\u0561"
+    ],
+    "name:ita_x_preferred":[
+        "Menogeia"
     ],
     "name:nld_x_preferred":[
         "Menogeia"
@@ -120,7 +129,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582314071,
+    "wof:lastmodified":1690869213,
     "wof:name":"\u039c\u03b5\u03bd\u03cc\u03b3\u03b5\u03b9\u03b1",
     "wof:parent_id":85682407,
     "wof:placetype":"locality",

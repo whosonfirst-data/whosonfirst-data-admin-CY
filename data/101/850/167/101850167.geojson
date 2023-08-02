@@ -23,6 +23,9 @@
     "name:bul_x_preferred":[
         "\u0424\u0430\u0441\u043b\u0438"
     ],
+    "name:deu_x_preferred":[
+        "Fasli"
+    ],
     "name:ell_x_preferred":[
         "F\u00e1sli"
     ],
@@ -32,6 +35,9 @@
     ],
     "name:eng_x_preferred":[
         "Phasli"
+    ],
+    "name:fra_x_preferred":[
+        "Fasl\u00ed"
     ],
     "name:hye_x_preferred":[
         "\u0556\u0561\u057d\u056c\u056b"
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":101850167,
-    "wof:lastmodified":1582314065,
+    "wof:lastmodified":1690869098,
     "wof:name":"\u03a6\u03ac\u03c3\u03bb\u03b9",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

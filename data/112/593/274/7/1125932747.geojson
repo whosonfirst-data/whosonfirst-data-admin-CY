@@ -46,6 +46,9 @@
     "name:pol_x_preferred":[
         "Praitori"
     ],
+    "name:pus_x_preferred":[
+        "\u067e\u0631\u0627\u064a\u062a\u0648\u0631\u064a"
+    ],
     "name:und_x_variant":[
         "Pr\u00e6tori"
     ],
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":1125932747,
-    "wof:lastmodified":1566710015,
+    "wof:lastmodified":1690869247,
     "wof:name":"Pretori",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

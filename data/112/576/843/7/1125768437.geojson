@@ -22,11 +22,17 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Mathikoloni"
+    ],
     "name:bul_x_preferred":[
         "\u041c\u0430\u0442\u0438\u043a\u043e\u043b\u043e\u043d\u0438"
     ],
     "name:ceb_x_preferred":[
         "Mathikol\u00f3ni"
+    ],
+    "name:deu_x_preferred":[
+        "Mathikoloni"
     ],
     "name:ell_x_preferred":[
         "Mathikol\u00f3ni"
@@ -38,6 +44,9 @@
         "Mathikoloni"
     ],
     "name:fra_x_preferred":[
+        "Mathikol\u00f3ni"
+    ],
+    "name:hun_x_preferred":[
         "Mathikol\u00f3ni"
     ],
     "name:nld_x_preferred":[
@@ -103,7 +112,7 @@
         }
     ],
     "wof:id":1125768437,
-    "wof:lastmodified":1566710018,
+    "wof:lastmodified":1690869256,
     "wof:name":"Mathikoloni",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",
