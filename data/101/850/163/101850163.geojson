@@ -32,6 +32,9 @@
     "name:eng_x_preferred":[
         "Sarama"
     ],
+    "name:fra_x_preferred":[
+        "Saram\u00e1"
+    ],
     "name:hye_x_preferred":[
         "\u054d\u0561\u0580\u0561\u0574\u0561"
     ],
@@ -100,7 +103,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582314065,
+    "wof:lastmodified":1690869104,
     "wof:name":"\u03a3\u03b1\u03c1\u03b1\u03bc\u03ac",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

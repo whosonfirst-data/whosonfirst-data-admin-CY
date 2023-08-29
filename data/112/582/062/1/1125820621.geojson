@@ -34,6 +34,9 @@
     "name:eng_x_preferred":[
         "Nea Dimmata"
     ],
+    "name:fra_x_preferred":[
+        "N\u00e9a D\u00edmmata"
+    ],
     "name:hye_x_preferred":[
         "\u0546\u0575\u0561 \u0534\u056b\u0574\u0561\u057f\u0561"
     ],
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1125820621,
-    "wof:lastmodified":1566710018,
+    "wof:lastmodified":1690869255,
     "wof:name":"Nea Dhimmata",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

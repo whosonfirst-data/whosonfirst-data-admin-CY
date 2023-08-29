@@ -49,6 +49,9 @@
     "name:hun_x_preferred":[
         "Kalavasos"
     ],
+    "name:hun_x_variant":[
+        "Kalavasz\u00f3sz"
+    ],
     "name:hye_x_preferred":[
         "\u053f\u0561\u056c\u0561\u057e\u0561\u057d\u0578\u057d"
     ],
@@ -122,7 +125,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582314071,
+    "wof:lastmodified":1690869206,
     "wof:name":"\u039a\u03b1\u03bb\u03b1\u03b2\u03b1\u03c3\u03cc\u03c2",
     "wof:parent_id":85682407,
     "wof:placetype":"locality",

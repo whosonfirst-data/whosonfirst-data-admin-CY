@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Kellaki"
+    ],
     "name:bul_x_preferred":[
         "\u041a\u0435\u043b\u0430\u043a\u0438"
     ],
@@ -29,6 +32,9 @@
         "Kell\u00e1ki"
     ],
     "name:ces_x_preferred":[
+        "Kellaki"
+    ],
+    "name:deu_x_preferred":[
         "Kellaki"
     ],
     "name:ell_x_preferred":[
@@ -41,6 +47,9 @@
         "Kellaki"
     ],
     "name:fra_x_preferred":[
+        "Kell\u00e1ki"
+    ],
+    "name:hun_x_preferred":[
         "Kell\u00e1ki"
     ],
     "name:hye_x_preferred":[
@@ -110,7 +119,7 @@
         }
     ],
     "wof:id":1125945227,
-    "wof:lastmodified":1566710015,
+    "wof:lastmodified":1690869246,
     "wof:name":"Kellaki",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

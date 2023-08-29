@@ -47,6 +47,9 @@
     "name:fra_x_preferred":[
         "\u00c1gios T\u00fdchonas"
     ],
+    "name:hun_x_preferred":[
+        "\u00c1jiosz T\u00edhonasz"
+    ],
     "name:hye_x_preferred":[
         "\u0531\u0575\u0578\u057d \u054f\u056b\u056d\u0578\u0576\u0561\u057d"
     ],
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":1126009649,
-    "wof:lastmodified":1566710017,
+    "wof:lastmodified":1690869254,
     "wof:name":"Ayios Tykhonas",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

@@ -34,6 +34,9 @@
     "name:eng_x_preferred":[
         "Souskiou"
     ],
+    "name:fra_x_preferred":[
+        "Souskio\u00fa"
+    ],
     "name:hye_x_preferred":[
         "\u054d\u0578\u0582\u057d\u056f\u056b\u0578\u0582"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:pol_x_preferred":[
         "Suskiu"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0443\u0441\u043a\u044c\u044e"
     ],
     "name:und_x_variant":[
         "Susuz"
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":1126002167,
-    "wof:lastmodified":1566710017,
+    "wof:lastmodified":1690869254,
     "wof:name":"Souskiou",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

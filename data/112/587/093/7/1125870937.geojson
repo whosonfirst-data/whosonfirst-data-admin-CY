@@ -34,6 +34,9 @@
     "name:fra_x_preferred":[
         "Sia"
     ],
+    "name:fra_x_variant":[
+        "Si\u00e1"
+    ],
     "name:hye_x_preferred":[
         "\u054d\u056b\u0561"
     ],
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1125870937,
-    "wof:lastmodified":1566710017,
+    "wof:lastmodified":1690869253,
     "wof:name":"Sha",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

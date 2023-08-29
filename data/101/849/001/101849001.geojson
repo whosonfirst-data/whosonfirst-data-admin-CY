@@ -40,8 +40,14 @@
     "name:eng_x_variant":[
         "Lageia"
     ],
+    "name:fra_x_preferred":[
+        "L\u00e1gia"
+    ],
     "name:hun_x_preferred":[
         "Lageia"
+    ],
+    "name:hun_x_variant":[
+        "L\u00e1gia"
     ],
     "name:hye_x_preferred":[
         "\u053c\u0561\u0563\u0565\u056b\u0561"
@@ -113,7 +119,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582314072,
+    "wof:lastmodified":1690869221,
     "wof:name":"\u039b\u03ac\u03b3\u03b5\u03b9\u03b1",
     "wof:parent_id":85682407,
     "wof:placetype":"locality",

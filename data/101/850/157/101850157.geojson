@@ -39,6 +39,9 @@
         "Kinusa",
         "Kynousa"
     ],
+    "name:fra_x_preferred":[
+        "Kino\u00fasa"
+    ],
     "name:hye_x_preferred":[
         "\u053f\u056b\u0576\u0578\u0582\u057d\u0561"
     ],
@@ -104,7 +107,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582314065,
+    "wof:lastmodified":1690869096,
     "wof:name":"\u039a\u03c5\u03bd\u03bf\u03cd\u03c3\u03b1",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

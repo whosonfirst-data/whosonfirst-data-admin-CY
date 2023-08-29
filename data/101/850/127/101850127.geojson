@@ -20,11 +20,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:arz_x_preferred":[
+        "\u0627\u062c\u064a\u0648\u0633 \u062b\u064a\u0648\u062f\u0648\u0631\u0648\u0633 \u0627\u0645\u0648\u062a\u0634\u0648\u0633\u062a\u0648"
+    ],
     "name:bul_x_preferred":[
         "\u0410\u0433\u0438\u043e\u0441 \u0422\u0435\u043e\u0434\u043e\u0440\u043e\u0441"
     ],
     "name:ceb_x_preferred":[
         "\u00c1gios The\u00f3doros"
+    ],
+    "name:dan_x_preferred":[
+        "Agios Theodoros/\u00c7ay\u0131rova"
     ],
     "name:deu_x_preferred":[
         "Ayios Theodoros/\u00c7ay\u0131rova"
@@ -34,7 +40,8 @@
     ],
     "name:ell_x_variant":[
         "\u0386\u03b3\u03b9\u03bf\u03c2 \u0398\u03b5\u03cc\u03b4\u03c9\u03c1\u03bf\u03c2",
-        "\u03a4\u03c3\u03b1\u03b3\u03af\u03c1\u03bf\u03b2\u03b1"
+        "\u03a4\u03c3\u03b1\u03b3\u03af\u03c1\u03bf\u03b2\u03b1",
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u0398\u03b5\u03cc\u03b4\u03c9\u03c1\u03bf\u03c2 \u0391\u03bc\u03bc\u03bf\u03c7\u03ce\u03c3\u03c4\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
         "Agios Theodoros Ammochostou"
@@ -44,6 +51,9 @@
     ],
     "name:hye_x_preferred":[
         "\u0531\u0575\u0578\u057d \u0539\u0565\u0578\u0564\u0578\u0580\u0578\u057d"
+    ],
+    "name:ita_x_preferred":[
+        "Agios Theodoros"
     ],
     "name:nld_x_preferred":[
         "Ayios Theodhoros"
@@ -108,7 +118,7 @@
         }
     ],
     "wof:id":101850127,
-    "wof:lastmodified":1582314065,
+    "wof:lastmodified":1690869102,
     "wof:name":"\u0386\u03b3\u03b9\u03bf\u03c2 \u0398\u03b5\u03cc\u03b4\u03c9\u03c1\u03bf\u03c2",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

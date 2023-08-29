@@ -39,8 +39,14 @@
     "name:fas_x_preferred":[
         "\u0648\u0648\u062a\u0633\u06cc\u0646\u06cc\u0627"
     ],
+    "name:fra_x_preferred":[
+        "Vavatsini\u00e1"
+    ],
     "name:hun_x_preferred":[
         "Vavatsinia"
+    ],
+    "name:hun_x_variant":[
+        "Vavacini\u00e1"
     ],
     "name:hye_x_preferred":[
         "\u054e\u0561\u057e\u0561\u057f\u057d\u056b\u0576\u056b\u0561"
@@ -112,7 +118,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582314072,
+    "wof:lastmodified":1690869220,
     "wof:name":"\u0392\u03b1\u03b2\u03b1\u03c4\u03c3\u03b9\u03bd\u03b9\u03ac",
     "wof:parent_id":85682407,
     "wof:placetype":"locality",

@@ -21,11 +21,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ast_x_preferred":[
+        "Foinikaria"
+    ],
     "name:bul_x_preferred":[
         "\u0424\u0438\u043d\u0438\u043a\u0430\u0440\u0438\u044f"
     ],
     "name:ceb_x_preferred":[
         "Foinik\u00e1ria"
+    ],
+    "name:deu_x_preferred":[
+        "Finikaria"
     ],
     "name:ell_x_preferred":[
         "\u03a6\u03bf\u03b9\u03bd\u03b9\u03ba\u03ac\u03c1\u03b9\u03b1"
@@ -44,6 +50,9 @@
     ],
     "name:fra_x_preferred":[
         "Finik\u00e1ria"
+    ],
+    "name:hun_x_preferred":[
+        "Foinik\u00e1ria"
     ],
     "name:kat_x_preferred":[
         "\u10e4\u10dd\u10d8\u10dc\u10d8\u10d9\u10d0\u10e0\u10d8\u10d0"
@@ -112,7 +121,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582314072,
+    "wof:lastmodified":1690869223,
     "wof:name":"\u03a6\u03bf\u03b9\u03bd\u03b9\u03ba\u03ac\u03c1\u03b9\u03b1",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

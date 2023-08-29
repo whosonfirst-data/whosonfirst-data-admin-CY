@@ -25,6 +25,9 @@
     "name:ceb_x_preferred":[
         "Pach\u00fdammos"
     ],
+    "name:deu_x_preferred":[
+        "Pachyammos"
+    ],
     "name:ell_x_preferred":[
         "Pach\u00fdammos"
     ],
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1125887611,
-    "wof:lastmodified":1566710016,
+    "wof:lastmodified":1690869252,
     "wof:name":"Pakhyammos",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",

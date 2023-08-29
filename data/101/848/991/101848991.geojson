@@ -40,8 +40,14 @@
         "Delikipos",
         "Dilicibo"
     ],
+    "name:fra_x_preferred":[
+        "Del\u00edkipos"
+    ],
     "name:hun_x_preferred":[
         "Delikipos"
+    ],
+    "name:hun_x_variant":[
+        "Del\u00edkiposz"
     ],
     "name:hye_x_preferred":[
         "\u0534\u0565\u056c\u056b\u056f\u056b\u057a\u0578\u057d"
@@ -106,7 +112,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582314071,
+    "wof:lastmodified":1690869205,
     "wof:name":"\u0394\u03b5\u03bb\u03af\u03ba\u03b7\u03c0\u03bf\u03c2",
     "wof:parent_id":85682407,
     "wof:placetype":"locality",

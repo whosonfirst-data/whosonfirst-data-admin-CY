@@ -45,6 +45,9 @@
     "name:abk_x_preferred":[
         "\u049e\u044b\u0431\u0440\u044b\u0441"
     ],
+    "name:abk_x_variant":[
+        "\u041a\u0438\u043f\u0440"
+    ],
     "name:ace_x_preferred":[
         "Siprus"
     ],
@@ -69,8 +72,14 @@
     "name:amh_x_variant":[
         "\u1233\u12ed\u1355\u1228\u1235"
     ],
+    "name:ami_x_preferred":[
+        "Cyprus"
+    ],
     "name:ang_x_preferred":[
         "Cipros"
+    ],
+    "name:anp_x_preferred":[
+        "\u0938\u093e\u092f\u092a\u094d\u0930\u0938"
     ],
     "name:ara_x_preferred":[
         "\u0642\u0628\u0631\u0635"
@@ -95,6 +104,9 @@
     ],
     "name:ava_x_preferred":[
         "\u041a\u0438\u043f\u0440"
+    ],
+    "name:awa_x_preferred":[
+        "\u0938\u093e\u0907\u092a\u094d\u0930\u0938"
     ],
     "name:azb_x_preferred":[
         "\u0642\u06cc\u0628\u0631\u06cc\u0633 \u062c\u0648\u0645\u0647\u0648\u0631\u06cc\u062a\u06cc"
@@ -214,6 +226,9 @@
         "Cyper"
     ],
     "name:cym_x_preferred":[
+        "Cyprus"
+    ],
+    "name:dag_x_preferred":[
         "Cyprus"
     ],
     "name:dan_x_preferred":[
@@ -365,6 +380,12 @@
     "name:got_x_preferred":[
         "\ud800\udf3a\ud800\udf3f\ud800\udf40\ud800\udf42\ud800\udf45\ud800\udf43"
     ],
+    "name:gpe_x_preferred":[
+        "Cyprus"
+    ],
+    "name:grc_x_preferred":[
+        "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2"
+    ],
     "name:grn_x_preferred":[
         "Chipre"
     ],
@@ -478,8 +499,14 @@
     "name:kaz_x_preferred":[
         "\u041a\u0438\u043f\u0440"
     ],
+    "name:kcg_x_preferred":[
+        "Kuburut"
+    ],
     "name:khm_x_preferred":[
         "\u179f\u17c9\u17b8\u1796\u179a\u17cd"
+    ],
+    "name:khm_x_variant":[
+        "\u179f\u17ca\u17b8\u1794"
     ],
     "name:kik_x_preferred":[
         "Kuprosi"
@@ -526,6 +553,9 @@
     "name:lav_x_preferred":[
         "Kipra"
     ],
+    "name:lbe_x_preferred":[
+        "\u041a\u0438\u043f\u0440"
+    ],
     "name:lez_x_preferred":[
         "\u041a\u0438\u043f\u0440"
     ],
@@ -543,6 +573,9 @@
     ],
     "name:lit_x_preferred":[
         "Kipras"
+    ],
+    "name:lld_x_preferred":[
+        "Cipre"
     ],
     "name:lmo_x_preferred":[
         "Cipru"
@@ -601,6 +634,9 @@
     "name:mlt_x_preferred":[
         "\u010aipru"
     ],
+    "name:mni_x_preferred":[
+        "\uabc1\uabe4\uabc4\uabed\uabd4\uabc1"
+    ],
     "name:mon_x_preferred":[
         "\u041a\u0438\u043f\u0440"
     ],
@@ -612,6 +648,9 @@
     ],
     "name:msa_x_variant":[
         "Kibris"
+    ],
+    "name:mwl_x_preferred":[
+        "Xipre"
     ],
     "name:mya_x_preferred":[
         "\u1006\u102d\u102f\u1000\u103a\u1015\u101b\u1015\u103a\u1005\u103a\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
@@ -782,6 +821,9 @@
     "name:sgs_x_preferred":[
         "K\u0117pros"
     ],
+    "name:shn_x_preferred":[
+        "\u1019\u102d\u1030\u1004\u103a\u1038\u101e\u1062\u1086\u1089\u1015\u101b\u1085\u1010\u103a\u1088"
+    ],
     "name:sin_x_preferred":[
         "\u0dc3\u0dba\u0dd2\u0db4\u0dca\u200d\u0dbb\u0dc3\u0dca"
     ],
@@ -800,11 +842,20 @@
     "name:sme_x_preferred":[
         "Kypros"
     ],
+    "name:smj_x_preferred":[
+        "Cypr\u00e5vss\u00e5"
+    ],
+    "name:smn_x_preferred":[
+        "Kypros"
+    ],
     "name:smo_x_preferred":[
         "Kuperu"
     ],
     "name:smo_x_variant":[
         "Cyprus"
+    ],
+    "name:sms_x_preferred":[
+        "Kypros"
     ],
     "name:sna_x_preferred":[
         "Cyprus"
@@ -879,6 +930,12 @@
     "name:tat_x_preferred":[
         "\u041a\u0438\u043f\u0440 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430\u0441\u044b"
     ],
+    "name:tat_x_variant":[
+        "\u041a\u0438\u043f\u0440"
+    ],
+    "name:tay_x_preferred":[
+        "Cyprus"
+    ],
     "name:tel_x_preferred":[
         "\u0c38\u0c48\u0c2a\u0c4d\u0c30\u0c38\u0c4d"
     ],
@@ -900,11 +957,17 @@
     "name:tir_x_preferred":[
         "\u1233\u12ed\u1355\u1228\u1235"
     ],
+    "name:tok_x_preferred":[
+        "ma Kiposi"
+    ],
     "name:ton_x_preferred":[
         "Saipalesi"
     ],
     "name:tpi_x_preferred":[
         "Saipras"
+    ],
+    "name:trv_x_preferred":[
+        "Cyprus"
     ],
     "name:tso_x_preferred":[
         "Cyprus"
@@ -921,6 +984,9 @@
     "name:tur_x_variant":[
         "K\u0131br\u0131s",
         "G\u00fcney K\u0131br\u0131s Rum Kesimi"
+    ],
+    "name:twi_x_preferred":[
+        "Cyprus"
     ],
     "name:udm_x_preferred":[
         "\u041a\u0438\u043f\u0440"
@@ -1240,7 +1306,7 @@
         "naturalearth-display-terrestrial-zoom6",
         "naturalearth"
     ],
-    "wof:geomhash":"47ad695b3b8443302da3aca432fdea93",
+    "wof:geomhash":"10d9afb548420de1bd447c23a75f23ea",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -1256,7 +1322,7 @@
         "ell",
         "tur"
     ],
-    "wof:lastmodified":1684351504,
+    "wof:lastmodified":1690869063,
     "wof:name":"Cyprus",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

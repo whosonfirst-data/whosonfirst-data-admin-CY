@@ -24,6 +24,9 @@
     "name:bul_x_preferred":[
         "\u0414\u0440\u0438\u043c\u0443"
     ],
+    "name:deu_x_preferred":[
+        "Drymou"
+    ],
     "name:ell_x_preferred":[
         "\u0394\u03c1\u03cd\u03bc\u03bf\u03c5"
     ],
@@ -38,8 +41,14 @@
         "Drymo",
         "Drymou"
     ],
+    "name:fra_x_preferred":[
+        "Dr\u00fdmou"
+    ],
     "name:hye_x_preferred":[
         "\u0534\u0580\u0574\u0578\u0582"
+    ],
+    "name:isl_x_preferred":[
+        "Drymou"
     ],
     "name:nld_x_preferred":[
         "Dhrymou"
@@ -108,7 +117,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582314071,
+    "wof:lastmodified":1690869211,
     "wof:name":"\u0394\u03c1\u03cd\u03bc\u03bf\u03c5",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

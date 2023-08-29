@@ -38,6 +38,9 @@
         "Makounta",
         "Yakacik"
     ],
+    "name:fra_x_preferred":[
+        "Mako\u00fanta"
+    ],
     "name:hye_x_preferred":[
         "\u0544\u0561\u056f\u0578\u0582\u0576\u057f\u0561"
     ],
@@ -111,7 +114,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582314065,
+    "wof:lastmodified":1690869096,
     "wof:name":"\u039c\u03b1\u03ba\u03bf\u03cd\u03bd\u03c4\u03b1",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

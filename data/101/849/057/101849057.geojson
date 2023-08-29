@@ -27,6 +27,9 @@
     "name:ceb_x_preferred":[
         "Zoopig\u00ed"
     ],
+    "name:deu_x_preferred":[
+        "Zoopigi"
+    ],
     "name:ell_x_preferred":[
         "\u0396\u03c9\u03bf\u03c0\u03b7\u03b3\u03ae"
     ],
@@ -42,8 +45,14 @@
     "name:fra_x_preferred":[
         "Zoopig\u00ed"
     ],
+    "name:hun_x_preferred":[
+        "Zoopij\u00ed"
+    ],
     "name:hye_x_preferred":[
         "\u0536\u0578\u0583\u056b\u056b"
+    ],
+    "name:ita_x_preferred":[
+        "Zoopigi"
     ],
     "name:nld_x_preferred":[
         "Zoopigi"
@@ -116,7 +125,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582314072,
+    "wof:lastmodified":1690869227,
     "wof:name":"\u0396\u03c9\u03bf\u03c0\u03b7\u03b3\u03ae",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

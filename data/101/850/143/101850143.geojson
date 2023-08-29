@@ -45,11 +45,17 @@
     "name:ind_x_preferred":[
         "Eksklave Kokkina"
     ],
+    "name:ind_x_variant":[
+        "Kokkina"
+    ],
     "name:ita_x_preferred":[
         "Kokkina"
     ],
     "name:jpn_x_preferred":[
         "\u30b3\u30ad\u30ca"
+    ],
+    "name:lav_x_preferred":[
+        "Ko\u010dina"
     ],
     "name:lit_x_preferred":[
         "Kokina"
@@ -151,7 +157,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582314065,
+    "wof:lastmodified":1690869102,
     "wof:name":"\u039a\u03cc\u03ba\u03ba\u03b9\u03bd\u03b1",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

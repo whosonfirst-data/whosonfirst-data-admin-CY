@@ -20,6 +20,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:arz_x_preferred":[
+        "\u0627\u0633\u0648\u0645\u0627\u062a\u0648\u0633 \u0643\u064a\u0631\u064a\u0646\u064a\u0627\u0633"
+    ],
     "name:bul_x_preferred":[
         "\u0410\u0441\u043e\u043c\u0430\u0442\u043e\u0441"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:hye_x_preferred":[
         "\u0531\u057d\u0578\u0574\u0561\u057f\u0578\u057d"
+    ],
+    "name:ita_x_preferred":[
+        "Asomatos"
     ],
     "name:nld_x_preferred":[
         "Asomatos"
@@ -135,7 +141,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582314065,
+    "wof:lastmodified":1690869099,
     "wof:name":"\u0391\u03c3\u03ce\u03bc\u03b1\u03c4\u03bf\u03c2",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

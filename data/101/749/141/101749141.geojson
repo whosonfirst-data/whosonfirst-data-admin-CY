@@ -26,6 +26,9 @@
     "name:afr_x_preferred":[
         "Nicosia"
     ],
+    "name:aka_x_preferred":[
+        "Nicosia"
+    ],
     "name:amh_x_preferred":[
         "\u120c\u134d\u12ae\u12da\u12eb"
     ],
@@ -34,6 +37,9 @@
     ],
     "name:arg_x_preferred":[
         "Nicosia"
+    ],
+    "name:ary_x_preferred":[
+        "\u0646\u064a\u0642\u0648\u0633\u064a\u0627"
     ],
     "name:arz_x_preferred":[
         "\u0646\u064a\u0643\u0648\u0633\u064a\u0627"
@@ -52,6 +58,9 @@
     ],
     "name:bak_x_preferred":[
         "\u041d\u0438\u043a\u043e\u0441\u0438\u044f"
+    ],
+    "name:ban_x_preferred":[
+        "Nikosia"
     ],
     "name:bar_x_preferred":[
         "Nikosia"
@@ -95,6 +104,12 @@
     "name:che_x_preferred":[
         "\u041d\u0438\u043a\u043e\u0441\u0438\u0439"
     ],
+    "name:chu_x_preferred":[
+        "\u041b\u0454\u0475\u043a\u0461\u0441\u0457\ua657"
+    ],
+    "name:chv_x_preferred":[
+        "\u0418\u043a\u043e\u0441\u0438\u044f"
+    ],
     "name:ckb_x_preferred":[
         "\u0646\u06cc\u06a9\u06c6\u0633\u06cc\u0627"
     ],
@@ -112,6 +127,9 @@
     ],
     "name:deu_x_preferred":[
         "Nikosia"
+    ],
+    "name:diq_x_preferred":[
+        "Lefko\u015fa"
     ],
     "name:dsb_x_preferred":[
         "Nikosia"
@@ -179,6 +197,9 @@
     "name:glv_x_preferred":[
         "Lefkosia"
     ],
+    "name:grn_x_preferred":[
+        "Nik\u00f3sia"
+    ],
     "name:gsw_x_preferred":[
         "Nikosia"
     ],
@@ -190,6 +211,9 @@
     ],
     "name:hat_x_preferred":[
         "Nikozi"
+    ],
+    "name:hau_x_preferred":[
+        "Nicosia"
     ],
     "name:hbs_x_preferred":[
         "Nikozija"
@@ -419,6 +443,9 @@
     "name:ron_x_preferred":[
         "Nicosia"
     ],
+    "name:rue_x_preferred":[
+        "\u041d\u0456\u043a\u043e\u0437\u0456\u044f"
+    ],
     "name:rup_x_preferred":[
         "Lefcosia"
     ],
@@ -450,6 +477,12 @@
         "Nikozija"
     ],
     "name:sme_x_preferred":[
+        "Nikosia"
+    ],
+    "name:smn_x_preferred":[
+        "Nikosia"
+    ],
+    "name:sms_x_preferred":[
         "Nikosia"
     ],
     "name:sna_x_preferred":[
@@ -503,6 +536,9 @@
     "name:tha_x_preferred":[
         "\u0e19\u0e34\u0e42\u0e04\u0e40\u0e0b\u0e35\u0e22"
     ],
+    "name:tuk_x_preferred":[
+        "Lefko\u015fa"
+    ],
     "name:tur_x_preferred":[
         "Lefko\u015fa"
     ],
@@ -523,6 +559,9 @@
     ],
     "name:uzb_x_preferred":[
         "Nikosiya"
+    ],
+    "name:vec_x_preferred":[
+        "Nicoxia"
     ],
     "name:vep_x_preferred":[
         "Nikosii"
@@ -675,8 +714,8 @@
         102191569,
         85632437,
         85682397,
-        85632375,
-        85681187
+        85681187,
+        85632375
     ],
     "wof:breaches":[],
     "wof:capital_of":[
@@ -721,7 +760,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1614893702,
+    "wof:lastmodified":1690869190,
     "wof:megacity":0,
     "wof:name":"\u039b\u03b5\u03c5\u03ba\u03c9\u03c3\u03af\u03b1",
     "wof:parent_id":-4,

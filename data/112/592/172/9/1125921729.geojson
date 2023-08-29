@@ -22,6 +22,15 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0644\u0627\u0628\u062b\u0648\u0633"
+    ],
+    "name:arz_x_preferred":[
+        "\u0644\u0627\u0628\u062b\u0648\u0633"
+    ],
+    "name:ast_x_preferred":[
+        "Lapithos"
+    ],
     "name:cat_x_preferred":[
         "Lapatos"
     ],
@@ -91,6 +100,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0644\u0627\u067e\u06cc\u0679\u06c1\u0648\u0633"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u76ae\u6258\u65af"
     ],
     "qs_pg:aaroncc":"CY",
     "qs_pg:gn_country":"CY",
@@ -167,7 +179,7 @@
         }
     ],
     "wof:id":1125921729,
-    "wof:lastmodified":1566710015,
+    "wof:lastmodified":1690869247,
     "wof:name":"Lapithos",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

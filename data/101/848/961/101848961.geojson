@@ -24,6 +24,9 @@
     "name:bul_x_preferred":[
         "\u0424\u0430\u043b\u0438\u044f"
     ],
+    "name:deu_x_preferred":[
+        "Falia"
+    ],
     "name:ell_x_preferred":[
         "F\u00e1leia"
     ],
@@ -37,6 +40,9 @@
     "name:eng_x_variant":[
         "Faleia",
         "Falya"
+    ],
+    "name:fra_x_preferred":[
+        "F\u00e1lia"
     ],
     "name:hye_x_preferred":[
         "\u0556\u0561\u056c\u0565\u0575\u0561"
@@ -108,7 +114,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582314071,
+    "wof:lastmodified":1690869210,
     "wof:name":"\u03a6\u03ac\u03bb\u03b5\u03b9\u03b1",
     "wof:parent_id":85682401,
     "wof:placetype":"locality",

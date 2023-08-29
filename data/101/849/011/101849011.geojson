@@ -26,6 +26,9 @@
     "name:ceb_x_preferred":[
         "Faso\u00fala"
     ],
+    "name:deu_x_preferred":[
+        "Fasoula"
+    ],
     "name:ell_x_preferred":[
         "\u03a6\u03b1\u03c3\u03bf\u03cd\u03bb\u03b1"
     ],
@@ -45,6 +48,9 @@
     "name:fra_x_preferred":[
         "Faso\u00fala"
     ],
+    "name:hun_x_preferred":[
+        "Fasz\u00fala"
+    ],
     "name:hye_x_preferred":[
         "\u0556\u0561\u057d\u0578\u0582\u056c\u0561"
     ],
@@ -56,6 +62,9 @@
     ],
     "name:swe_x_preferred":[
         "Faso\u00fala"
+    ],
+    "name:zho_x_preferred":[
+        "\u6cd5\u8607\u62c9"
     ],
     "qs:a0":"\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
     "qs:a1":"*\u039b\u03b5\u03bc\u03b5\u03c3\u03cc\u03c2",
@@ -109,7 +118,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582314072,
+    "wof:lastmodified":1690869223,
     "wof:name":"\u03a6\u03b1\u03c3\u03bf\u03cd\u03bb\u03b1",
     "wof:parent_id":85682411,
     "wof:placetype":"locality",

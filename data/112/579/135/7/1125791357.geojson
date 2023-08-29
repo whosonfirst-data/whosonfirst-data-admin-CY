@@ -37,6 +37,9 @@
     "name:fin_x_preferred":[
         "L\u00fdmpia"
     ],
+    "name:fra_x_preferred":[
+        "L\u00fdmpia"
+    ],
     "name:nld_x_preferred":[
         "Lympia"
     ],
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":1125791357,
-    "wof:lastmodified":1566710019,
+    "wof:lastmodified":1690869257,
     "wof:name":"Lymbia",
     "wof:parent_id":85682397,
     "wof:placetype":"locality",
