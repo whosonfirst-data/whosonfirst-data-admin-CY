@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.138045,
-    "geom:area_square_m":1399825266.411489,
+    "geom:area_square_m":1399825257.494423,
     "geom:bbox":"32.268993,34.657521,32.795974,35.175709",
     "geom:latitude":34.908071,
     "geom:longitude":32.529373,
@@ -66,7 +66,7 @@
         "\u03a0\u03ac\u03c6\u03bf\u03c2"
     ],
     "name:eng_x_preferred":[
-        "Paphos District"
+        "Paphos"
     ],
     "name:eng_x_variant":[
         "Pafos District",
@@ -295,7 +295,7 @@
         "wd:id":"Q59133"
     },
     "wof:country":"CY",
-    "wof:geomhash":"7f63d1f2f90a559f2cb9d1e1b6f65746",
+    "wof:geomhash":"bb2423eed48a6f84cd2d4a4579b8a2b1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -312,8 +312,8 @@
         "ell",
         "tur"
     ],
-    "wof:lastmodified":1690869065,
-    "wof:name":"\u03a0\u03ac\u03c6\u03bf\u03c2",
+    "wof:lastmodified":1694493173,
+    "wof:name":"Paphos",
     "wof:parent_id":85632437,
     "wof:placetype":"region",
     "wof:placetype_local":"district",
