@@ -40,8 +40,7 @@
     ],
     "name:eng_x_variant":[
         "Lemesos District",
-        "Lemesos",
-        "Limassol"
+        "Lemesos"
     ],
     "name:fra_x_preferred":[
         "Limassol"
@@ -175,7 +174,7 @@
         "ell",
         "tur"
     ],
-    "wof:lastmodified":1694493174,
+    "wof:lastmodified":1694639832,
     "wof:name":"Limassol",
     "wof:parent_id":85632437,
     "wof:placetype":"region",

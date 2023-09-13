@@ -58,13 +58,15 @@
     "name:ell_x_preferred":[
         "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u039b\u03ac\u03c1\u03bd\u03b1\u03ba\u03b1\u03c2"
     ],
+    "name:ell_x_variant":[
+        "\u039b\u03ac\u03c1\u03bd\u03b1\u03ba\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Larnaca"
     ],
     "name:eng_x_variant":[
         "Larnaka District",
-        "Larnaka",
-        "Larnaca"
+        "Larnaka"
     ],
     "name:eus_x_preferred":[
         "Larnakako barrutia"
@@ -327,7 +329,7 @@
         "ell",
         "tur"
     ],
-    "wof:lastmodified":1694493173,
+    "wof:lastmodified":1694639832,
     "wof:name":"Larnaca",
     "wof:parent_id":85632437,
     "wof:placetype":"region",

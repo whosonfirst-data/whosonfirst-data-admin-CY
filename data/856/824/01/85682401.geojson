@@ -70,8 +70,7 @@
     ],
     "name:eng_x_variant":[
         "Pafos District",
-        "Pafos",
-        "Paphos"
+        "Pafos"
     ],
     "name:eus_x_preferred":[
         "Pafosko barrutia"
@@ -312,7 +311,7 @@
         "ell",
         "tur"
     ],
-    "wof:lastmodified":1694493173,
+    "wof:lastmodified":1694639832,
     "wof:name":"Paphos",
     "wof:parent_id":85632437,
     "wof:placetype":"region",
