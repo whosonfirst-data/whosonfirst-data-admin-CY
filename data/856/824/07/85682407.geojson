@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.110441,
-    "geom:area_square_m":1119851832.059926,
+    "geom:area_square_m":1119851953.467553,
     "geom:bbox":"33.127323,34.715061,33.902248,35.117187",
     "geom:latitude":34.912361,
     "geom:longitude":33.488184,
@@ -58,13 +58,15 @@
     "name:ell_x_preferred":[
         "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u039b\u03ac\u03c1\u03bd\u03b1\u03ba\u03b1\u03c2"
     ],
+    "name:ell_x_variant":[
+        "\u039b\u03ac\u03c1\u03bd\u03b1\u03ba\u03b1"
+    ],
     "name:eng_x_preferred":[
-        "Larnaca District"
+        "Larnaca"
     ],
     "name:eng_x_variant":[
         "Larnaka District",
-        "Larnaka",
-        "Larnaca"
+        "Larnaka"
     ],
     "name:eus_x_preferred":[
         "Larnakako barrutia"
@@ -310,7 +312,7 @@
         "wd:id":"Q59153"
     },
     "wof:country":"CY",
-    "wof:geomhash":"4a6520f980329573cce59fe89a2fede2",
+    "wof:geomhash":"226b8ac36abea1d37b0b2858cc3639d2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -327,8 +329,8 @@
         "ell",
         "tur"
     ],
-    "wof:lastmodified":1690869065,
-    "wof:name":"\u039b\u03ac\u03c1\u03bd\u03b1\u03ba\u03b1",
+    "wof:lastmodified":1694639832,
+    "wof:name":"Larnaca",
     "wof:parent_id":85632437,
     "wof:placetype":"region",
     "wof:placetype_local":"district",

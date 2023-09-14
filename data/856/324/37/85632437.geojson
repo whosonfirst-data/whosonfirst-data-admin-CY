@@ -29,6 +29,9 @@
     "itu:country_code":[
         "357"
     ],
+    "label:eng_x_preferred_placetype":[
+        "country"
+    ],
     "label:eng_x_preferred_shortcode":[
         "CY"
     ],
@@ -1306,7 +1309,7 @@
         "naturalearth-display-terrestrial-zoom6",
         "naturalearth"
     ],
-    "wof:geomhash":"10d9afb548420de1bd447c23a75f23ea",
+    "wof:geomhash":"47ad695b3b8443302da3aca432fdea93",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -1322,7 +1325,7 @@
         "ell",
         "tur"
     ],
-    "wof:lastmodified":1690869063,
+    "wof:lastmodified":1694492264,
     "wof:name":"Cyprus",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
