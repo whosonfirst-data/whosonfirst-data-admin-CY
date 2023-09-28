@@ -153,9 +153,15 @@
         "gn:id":146383,
         "gp:id":12577965,
         "hasc:id":"CY.LI",
+        "iso:code":"CY-02",
         "iso:id":"CY-02",
+        "qs:local_id":"5",
         "unlc:id":"CY-02"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"CY",
     "wof:geomhash":"8a980aba0f553fca742163d96bad3eaf",
     "wof:hierarchy":[
@@ -174,7 +180,7 @@
         "ell",
         "tur"
     ],
-    "wof:lastmodified":1694639832,
+    "wof:lastmodified":1695884504,
     "wof:name":"Limassol",
     "wof:parent_id":85632437,
     "wof:placetype":"region",

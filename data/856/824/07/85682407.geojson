@@ -307,10 +307,16 @@
         "gn:id":146398,
         "gp:id":12577964,
         "hasc:id":"CY.LA",
+        "iso:code":"CY-03",
         "iso:id":"CY-03",
+        "qs:local_id":"4",
         "unlc:id":"CY-03",
         "wd:id":"Q59153"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"CY",
     "wof:geomhash":"226b8ac36abea1d37b0b2858cc3639d2",
     "wof:hierarchy":[
@@ -329,7 +335,7 @@
         "ell",
         "tur"
     ],
-    "wof:lastmodified":1694639832,
+    "wof:lastmodified":1695884504,
     "wof:name":"Larnaca",
     "wof:parent_id":85632437,
     "wof:placetype":"region",
