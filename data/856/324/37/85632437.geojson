@@ -1290,6 +1290,7 @@
         "hasc:id":"CY",
         "icao:code":"5B",
         "ioc:id":"CYP",
+        "iso:code":"CY",
         "itu:id":"CYP",
         "loc:id":"n79055857",
         "m49:code":"196",
@@ -1303,6 +1304,7 @@
         "wk:page":"Cyprus",
         "wmo:id":"CY"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CY",
     "wof:country_alpha3":"CYP",
     "wof:geom_alt":[
@@ -1325,7 +1327,7 @@
         "ell",
         "tur"
     ],
-    "wof:lastmodified":1694492264,
+    "wof:lastmodified":1695881376,
     "wof:name":"Cyprus",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
