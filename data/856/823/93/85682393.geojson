@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.063812,
-    "geom:area_square_m":643922599.948197,
+    "geom:area_square_m":643922447.887214,
     "geom:bbox":"32.919444,35.233631,33.671512,35.403824",
     "geom:latitude":35.30623,
     "geom:longitude":33.237075,
@@ -248,12 +248,18 @@
         "fips:code":"CY02",
         "gp:id":12577969,
         "hasc:id":"CY.KY",
+        "iso:code":"CY-06",
         "iso:id":"CY-06",
+        "qs:local_id":"2",
         "unlc:id":"CY-06",
         "wd:id":"Q59146"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"CY",
-    "wof:geomhash":"f75772e1538eab029aaedeba31f0f3c7",
+    "wof:geomhash":"7b775cdeefbf0ca393c9934fabfa126d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -277,7 +283,7 @@
         "ell",
         "tur"
     ],
-    "wof:lastmodified":1690869063,
+    "wof:lastmodified":1695884503,
     "wof:name":"\u039a\u03b5\u03c1\u03cd\u03bd\u03b5\u03b9\u03b1",
     "wof:parent_id":85632375,
     "wof:placetype":"region",

@@ -289,10 +289,16 @@
         "gn:id":146213,
         "gp:id":12577966,
         "hasc:id":"CY.PA",
+        "iso:code":"CY-05",
         "iso:id":"CY-05",
+        "qs:local_id":"6",
         "unlc:id":"CY-05",
         "wd:id":"Q59133"
     },
+    "wof:concordances_official":"qs:local_id",
+    "wof:concordances_official_alt":[
+        "iso:code"
+    ],
     "wof:country":"CY",
     "wof:geomhash":"bb2423eed48a6f84cd2d4a4579b8a2b1",
     "wof:hierarchy":[
@@ -311,7 +317,7 @@
         "ell",
         "tur"
     ],
-    "wof:lastmodified":1694639832,
+    "wof:lastmodified":1695884504,
     "wof:name":"Paphos",
     "wof:parent_id":85632437,
     "wof:placetype":"region",
